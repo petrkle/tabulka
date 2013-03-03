@@ -1,0 +1,220 @@
+<prvky>
+<prvek>
+	<protcislo>4</protcislo>
+	<cnazev>Beryllium</cnazev>
+	<znacka>Be</znacka>
+	<lnazev>Beryllium</lnazev>
+	<athmot>9.012182</athmot>
+	<oxid>2</oxid>
+	<pe>1.5</pe>
+	<hustota>1.828</hustota>
+	<si>1</si>
+	<ni>3</ni>
+	<tt>1278</tt>
+	<tv>2970</tv>
+	<obev>1828</obev>
+	<tvrdost>5.0-5,5</tvrdost>
+	<ennazev>Beryllium</ennazev>
+	<denazev>Beryllium</denazev>
+	<frnazev>Béryllium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>1.825</tkapacita>
+	<tvodivost>200</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>83</protcislo>
+	<cnazev>Bismut</cnazev>
+	<znacka>Bi</znacka>
+	<lnazev>Bismuthum</lnazev>
+	<athmot>208.98037</athmot>
+	<oxid>3,5</oxid>
+	<pe>1.9</pe>
+	<hustota>9.81</hustota>
+	<si>1</si>
+	<ni>18</ni>
+	<tt>271.44</tt>
+	<tv>1560</tv>
+	<obev>1450</obev>
+	<tvrdost>2.5</tvrdost>
+	<ennazev>Bismuth</ennazev>
+	<denazev>Bismut</denazev>
+	<frnazev>Bismuth</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;3&lt;/sup&gt;</elconf>
+	<tkapacita>0.122</tkapacita>
+	<tvodivost>7.87</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>50</protcislo>
+	<cnazev>Cín</cnazev>
+	<znacka>Sn</znacka>
+	<lnazev>Stannum</lnazev>
+	<athmot>118.710</athmot>
+	<oxid>2,4</oxid>
+	<pe>1.8</pe>
+	<hustota>7.29</hustota>
+	<si>10</si>
+	<ni>18</ni>
+	<tt>231.97</tt>
+	<tv>2270</tv>
+	<obev>starověk</obev>
+	<tvrdost>1.8</tvrdost>
+	<ennazev>Tin</ennazev>
+	<denazev>Zinn</denazev>
+	<frnazev>Étain</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.228</tkapacita>
+	<tvodivost>66.6</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>31</protcislo>
+	<cnazev>Gallium</cnazev>
+	<znacka>Ga</znacka>
+	<lnazev>Gallium</lnazev>
+	<athmot>69.723</athmot>
+	<oxid>3</oxid>
+	<pe>1.6</pe>
+	<hustota>5.93</hustota>
+	<si>2</si>
+	<ni>11</ni>
+	<tt>29.78</tt>
+	<tv>2403</tv>
+	<obev>1875</obev>
+	<tvrdost>1.5</tvrdost>
+	<ennazev>Gallium</ennazev>
+	<denazev>Gallium</denazev>
+	<frnazev>Gallium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.371</tkapacita>
+	<tvodivost>40.6</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>13</protcislo>
+	<cnazev>Hliník</cnazev>
+	<znacka>Al</znacka>
+	<lnazev>Aluminium</lnazev>
+	<athmot>26.981539</athmot>
+	<oxid>3</oxid>
+	<pe>1.5</pe>
+	<hustota>2.6989</hustota>
+	<si>1</si>
+	<ni>7</ni>
+	<tt>660.37</tt>
+	<tv>2467</tv>
+	<obev>1825</obev>
+	<tvrdost>2.9</tvrdost>
+	<ennazev>Aluminum</ennazev>
+	<denazev>Aluminium</denazev>
+	<frnazev>Aluminium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.9</tkapacita>
+	<tvodivost>237</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>12</protcislo>
+	<cnazev>Hořčík</cnazev>
+	<znacka>Mg</znacka>
+	<lnazev>Magnesium</lnazev>
+	<athmot>24.3050</athmot>
+	<oxid>2</oxid>
+	<pe>1.2</pe>
+	<hustota>1.735</hustota>
+	<si>3</si>
+	<ni>5</ni>
+	<tt>648.8</tt>
+	<tv>1090</tv>
+	<obev>1808</obev>
+	<tvrdost>2.25</tvrdost>
+	<ennazev>Magnesium</ennazev>
+	<denazev>Magnesium</denazev>
+	<frnazev>Magnésium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>1.02</tkapacita>
+	<tvodivost>156</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>49</protcislo>
+	<cnazev>Indium</cnazev>
+	<znacka>In</znacka>
+	<lnazev>Indium</lnazev>
+	<athmot>114.82</athmot>
+	<oxid>1,3</oxid>
+	<pe>1.7</pe>
+	<hustota>7.31</hustota>
+	<si>2</si>
+	<ni>32</ni>
+	<tt>156.63</tt>
+	<tv>2080</tv>
+	<obev>1863</obev>
+	<tvrdost>1.2</tvrdost>
+	<ennazev>Indium</ennazev>
+	<denazev>Indium</denazev>
+	<frnazev>Indium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.233</tkapacita>
+	<tvodivost>81.6</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>82</protcislo>
+	<cnazev>Olovo</cnazev>
+	<znacka>Pb</znacka>
+	<lnazev>Plumbum</lnazev>
+	<athmot>207.2</athmot>
+	<oxid>2,4</oxid>
+	<pe>1.8</pe>
+	<hustota>11.35</hustota>
+	<si>4</si>
+	<ni>24</ni>
+	<tt>323.50</tt>
+	<tv>1740</tv>
+	<obev>starověk</obev>
+	<tvrdost>1.5</tvrdost>
+	<ennazev>Lead</ennazev>
+	<denazev>Blei</denazev>
+	<frnazev>Plomb</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.129</tkapacita>
+	<tvodivost>35.3</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>84</protcislo>
+	<cnazev>Polonium</cnazev>
+	<znacka>Po</znacka>
+	<lnazev>Polonium</lnazev>
+	<athmot>208.9824</athmot>
+	<oxid>2,4,6</oxid>
+	<pe>2.0</pe>
+	<hustota>9.3</hustota>
+	<si>0</si>
+	<ni>33</ni>
+	<tt>254</tt>
+	<tv>962</tv>
+	<obev>1898</obev>
+	<ennazev>Polonium</ennazev>
+	<denazev>Polonium</denazev>
+	<frnazev>Polonium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;4&lt;/sup&gt;</elconf>
+	<tvodivost>20</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>81</protcislo>
+	<cnazev>Thallium</cnazev>
+	<znacka>Tl</znacka>
+	<lnazev>Thallium</lnazev>
+	<athmot>204.3833</athmot>
+	<oxid>1,3</oxid>
+	<pe>1.8</pe>
+	<hustota>11.85</hustota>
+	<si>2</si>
+	<ni>26</ni>
+	<tt>303.5</tt>
+	<tv>1457</tv>
+	<obev>1861</obev>
+	<tvrdost>1.2</tvrdost>
+	<ennazev>Thallium</ennazev>
+	<denazev>Thallium</denazev>
+	<frnazev>Thallium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.129</tkapacita>
+	<tvodivost>46.1</tvodivost>
+</prvek>
+</prvky>

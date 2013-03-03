@@ -1,0 +1,153 @@
+<prvky>
+<prvek>
+	<protcislo>51</protcislo>
+	<cnazev>Antimon</cnazev>
+	<znacka>Sb</znacka>
+	<lnazev>Stibium</lnazev>
+	<athmot>121.75</athmot>
+	<oxid>-3,3,5</oxid>
+	<pe>1.9</pe>
+	<hustota>7.29</hustota>
+	<si>2</si>
+	<ni>27</ni>
+	<tt>630.74</tt>
+	<tv>1750</tv>
+	<obev>1450</obev>
+	<tvrdost>3-3.5</tvrdost>
+	<ennazev>Antimony</ennazev>
+	<denazev>Antimon</denazev>
+	<frnazev>Antimoine</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;3&lt;/sup&gt;</elconf>
+	<tkapacita>0.207</tkapacita>
+	<tvodivost>24.3</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>33</protcislo>
+	<cnazev>Arsen</cnazev>
+	<znacka>As</znacka>
+	<lnazev>Arsenicum</lnazev>
+	<athmot>74.92159</athmot>
+	<oxid>-3,3,5</oxid>
+	<pe>2.0</pe>
+	<hustota>4.7</hustota>
+	<si>1</si>
+	<ni>13</ni>
+	<tt>817</tt>
+	<tv>613</tv>
+	<obev>1250</obev>
+	<tvrdost>3.5</tvrdost>
+	<ennazev>Arsenic</ennazev>
+	<denazev>Arsen</denazev>
+	<frnazev>Arsenic</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;3&lt;/sup&gt;</elconf>
+	<tkapacita>0.33</tkapacita>
+	<tvodivost>50</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>85</protcislo>
+	<cnazev>Astat</cnazev>
+	<znacka>At</znacka>
+	<lnazev>Astatum</lnazev>
+	<athmot>209.9871</athmot>
+	<oxid>-1,1,3,5,7</oxid>
+	<pe>2.2</pe>
+	<si>0</si>
+	<ni>21</ni>
+	<tt>302</tt>
+	<tv>330</tv>
+	<obev>1940</obev>
+	<ennazev>Astatine</ennazev>
+	<denazev>Astat</denazev>
+	<frnazev>Astate</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;5&lt;/sup&gt;</elconf>
+	<tvodivost>1.7</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>5</protcislo>
+	<cnazev>Bor</cnazev>
+	<znacka>B</znacka>
+	<lnazev>Borum</lnazev>
+	<athmot>10.811</athmot>
+	<oxid>3</oxid>
+	<pe>2.0</pe>
+	<hustota>2.34</hustota>
+	<si>2</si>
+	<ni>4</ni>
+	<tt>2300</tt>
+	<tv>2550</tv>
+	<obev>1808</obev>
+	<tvrdost>9.3</tvrdost>
+	<ennazev>Boron</ennazev>
+	<denazev>Bor</denazev>
+	<frnazev>Bore</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>1.026</tkapacita>
+	<tvodivost>27</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>32</protcislo>
+	<cnazev>Germanium</cnazev>
+	<znacka>Ge</znacka>
+	<lnazev>Germanium</lnazev>
+	<athmot>72.61</athmot>
+	<oxid>2,4</oxid>
+	<pe>1.8</pe>
+	<hustota>5.32</hustota>
+	<si>2</si>
+	<ni>11</ni>
+	<tt>937.4</tt>
+	<tv>2830</tv>
+	<obev>1885</obev>
+	<tvrdost>6.25</tvrdost>
+	<ennazev>Germanium</ennazev>
+	<denazev>Germanium</denazev>
+	<frnazev>Germanium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.32</tkapacita>
+	<tvodivost>59.9</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>14</protcislo>
+	<cnazev>Křemík</cnazev>
+	<znacka>Si</znacka>
+	<lnazev>Silicium</lnazev>
+	<athmot>28.0855</athmot>
+	<oxid>-4,4</oxid>
+	<pe>1.8</pe>
+	<hustota>2.332</hustota>
+	<si>3</si>
+	<ni>5</ni>
+	<tt>1410</tt>
+	<tv>2355</tv>
+	<obev>1824</obev>
+	<tvrdost>7.0</tvrdost>
+	<ennazev>Silicon</ennazev>
+	<denazev>Silicium</denazev>
+	<frnazev>Silicium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.70</tkapacita>
+	<tvodivost>148</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>52</protcislo>
+	<cnazev>Tellur</cnazev>
+	<znacka>Te</znacka>
+	<lnazev>Tellurium</lnazev>
+	<athmot>127.60</athmot>
+	<oxid>-2,2,4,6</oxid>
+	<pe>2.1</pe>
+	<hustota>6.25</hustota>
+	<si>8</si>
+	<ni>22</ni>
+	<tt>449.5</tt>
+	<tv>1100</tv>
+	<obev>1782</obev>
+	<tvrdost>2.3</tvrdost>
+	<ennazev>Tellurium</ennazev>
+	<denazev>Tellur</denazev>
+	<frnazev>Tellure</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;4&lt;/sup&gt;</elconf>
+	<tkapacita>0.202</tkapacita>
+	<tvodivost>2.35</tvodivost>
+</prvek>
+</prvky>

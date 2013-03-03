@@ -1,0 +1,150 @@
+<prvky>
+<prvek>
+	<protcislo>7</protcislo>
+	<cnazev>Dusík</cnazev>
+	<znacka>N</znacka>
+	<lnazev>Nitrogenium</lnazev>
+	<athmot>14.00674</athmot>
+	<oxid>-3,1,2,3,4,5</oxid>
+	<pe>3.0</pe>
+	<hustota>0.0012506</hustota>
+	<si>2</si>
+	<ni>4</ni>
+	<tt>-209.79</tt>
+	<tv>-195.802</tv>
+	<obev>1772</obev>
+	<ennazev>Nitrogen</ennazev>
+	<denazev>Stickstoff</denazev>
+	<frnazev>Azote</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;3&lt;/sup&gt;</elconf>
+	<tkapacita>1.042</tkapacita>
+	<tvodivost>0.02598</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>15</protcislo>
+	<cnazev>Fosfor</cnazev>
+	<znacka>P</znacka>
+	<lnazev>Phosphorus</lnazev>
+	<athmot>30.973762</athmot>
+	<oxid>-3,3,5</oxid>
+	<pe>2.1</pe>
+	<hustota>1.83</hustota>
+	<si>1</si>
+	<ni>6</ni>
+	<tt>44.1</tt>
+	<tv>280</tv>
+	<obev>1669</obev>
+	<ennazev>Phosphorus</ennazev>
+	<denazev>Phosphor</denazev>
+	<frnazev>Phosphore</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;3&lt;/sup&gt;</elconf>
+	<tkapacita>0.769</tkapacita>
+	<tvodivost>0.235</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>8</protcislo>
+	<cnazev>Kyslík</cnazev>
+	<znacka>O</znacka>
+	<lnazev>Oxygenium</lnazev>
+	<athmot>15.9994</athmot>
+	<oxid>-2,-1,2</oxid>
+	<pe>3.5</pe>
+	<hustota>0.001429</hustota>
+	<si>3</si>
+	<ni>5</ni>
+	<tt>-218.79</tt>
+	<tv>-182.962</tv>
+	<obev>1774</obev>
+	<ennazev>Oxygen</ennazev>
+	<denazev>Sauerstoff</denazev>
+	<frnazev>Oxygéne</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;4&lt;/sup&gt;</elconf>
+	<tkapacita>0.92</tkapacita>
+	<tvodivost>0.2674</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>34</protcislo>
+	<cnazev>Selen</cnazev>
+	<znacka>Se</znacka>
+	<lnazev>Selenium</lnazev>
+	<athmot>78.96</athmot>
+	<oxid>-2,2,4,6</oxid>
+	<pe>2.4</pe>
+	<hustota>4.80</hustota>
+	<si>6</si>
+	<ni>14</ni>
+	<tt>217</tt>
+	<tv>685</tv>
+	<obev>1817</obev>
+	<tvrdost>2.0</tvrdost>
+	<ennazev>Selenium</ennazev>
+	<denazev>Selen</denazev>
+	<frnazev>Sélénium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;4&lt;/sup&gt;</elconf>
+	<tkapacita>0.32</tkapacita>
+	<tvodivost>2.04</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>16</protcislo>
+	<cnazev>Síra</cnazev>
+	<znacka>S</znacka>
+	<lnazev>Sulphur</lnazev>
+	<athmot>32.066</athmot>
+	<oxid>-2,2,4,6</oxid>
+	<pe>2.5</pe>
+	<hustota>2.07</hustota>
+	<si>4</si>
+	<ni>6</ni>
+	<tt>112.8</tt>
+	<tv>444.674</tv>
+	<tvrdost>2.0</tvrdost>
+	<ennazev>Sulfur</ennazev>
+	<denazev>Schwefel</denazev>
+	<frnazev>Soufre</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;4&lt;/sup&gt;</elconf>
+	<tkapacita>0.71</tkapacita>
+	<tvodivost>0.269</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>6</protcislo>
+	<cnazev>Uhlík</cnazev>
+	<znacka>C</znacka>
+	<lnazev>Carboneum</lnazev>
+	<athmot>12.011</athmot>
+	<oxid>-4,2,4</oxid>
+	<pe>2.5</pe>
+	<hustota>3.515</hustota>
+	<si>2</si>
+	<ni>5</ni>
+	<tt>3550</tt>
+	<tv>4827</tv>
+	<tvrdost>10</tvrdost>
+	<ennazev>Carbon</ennazev>
+	<denazev>Kohlenstoff</denazev>
+	<frnazev>Carbone</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.709</tkapacita>
+	<tvodivost>155</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>1</protcislo>
+	<cnazev>Vodík</cnazev>
+	<znacka>H</znacka>
+	<lnazev>Hydrogenium</lnazev>
+	<athmot>1.00794</athmot>
+	<oxid>-1,1</oxid>
+	<pe>2.1</pe>
+	<hustota>0.00008988</hustota>
+	<si>2</si>
+	<ni>1</ni>
+	<tt>-259.34</tt>
+	<tv>-252.87</tv>
+	<obev>1766</obev>
+	<ennazev>Hydrogen</ennazev>
+	<denazev>Wasserstoff</denazev>
+	<frnazev>Hydrogéne</frnazev>
+	<elconf>1s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>14.304</tkapacita>
+	<tvodivost>0.1815</tvodivost>
+</prvek>
+</prvky>

@@ -1,0 +1,38 @@
+[% INCLUDE header.html %]
+
+<ul id="prvky">
+	<li><a href="[% cur %].html#[% prvek.lnazev FILTER lower %]" class="skupina back [% cur %]">[% cur_l %]</a></li>
+</ul>
+
+<h2>[% prvek.cnazev %]</h2>
+
+<table id="atom" cellspacing="0" cellpadding="0">
+	<tr><th>Značka</th><td>[% prvek.znacka %]</td></tr> 
+	<tr><th>Protonové číslo</th><td>[% prvek.protcislo %]</td></tr> 
+	<tr><th>Relativní atomová hmotnost</th><td>[% prvek.athmot %]</td></tr> 
+[% IF prvek.pe -%]
+	<tr><th>Paulingova elektronegativita</th><td>[% prvek.pe %]</td></tr>
+[% END -%]
+	<tr><th>Oxidační čísla</th><td>[% prvek.oxid %]</td></tr> 
+[% IF prvek.hustota -%]
+	<tr><th>Hustota [g/cm<sup>3]</sup></th><td>[% prvek.hustota %]</td></tr> 
+[% END -%]
+[% IF prvek.tt -%]
+	<tr><th>Teplota tání °C</th><td>[% prvek.tt %]</td></tr>
+[% END -%]
+[% IF prvek.tv -%]
+	<tr><th>Teplota varu °C</th><td>[% prvek.tv %]</td></tr>
+[% END -%]
+	<tr><th>Elektronová konfigurace</th><td>[% prvek.elconf %]</td></tr>
+[% IF prvek.obev -%]
+	<tr><th>Rok objevu</th><td>[% prvek.obev %]</td></tr>
+[% END -%]
+	<tr><th>Počet stabilních izotopů</th><td>[% prvek.si %]</td></tr>
+	<tr><th>Počet nestabilních izotopů</th><td>[% prvek.ni %]</td></tr>
+	<tr><th>Latinský název</th><td>[% prvek.lnazev %]</td></tr> 
+	<tr><th>Anglický název</th><td>[% prvek.ennazev %]</td></tr> 
+	<tr><th>Německý název</th><td>[% prvek.denazev %]</td></tr> 
+	<tr><th>Francouzský název</th><td>[% prvek.frnazev %]</td></tr> 
+</table>
+
+[% INCLUDE footer.html -%]

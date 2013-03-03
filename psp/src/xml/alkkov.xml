@@ -1,0 +1,131 @@
+<prvky>
+<prvek>
+	<protcislo>55</protcislo>
+	<cnazev>Cesium</cnazev>
+	<znacka>Cs</znacka>
+	<lnazev>Caesium</lnazev>
+	<athmot>132.90543</athmot>
+	<oxid>1</oxid>
+	<pe>0.7</pe>
+	<hustota>1.873</hustota>
+	<si>2</si>
+	<ni>19</ni>
+	<tt>28.40</tt>
+	<tv>700</tv>
+	<obev>1860</obev>
+	<tvrdost>0.2</tvrdost>
+	<ennazev>Cesium</ennazev>
+	<denazev>Caesium</denazev>
+	<frnazev>Césium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 6s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.24</tkapacita>
+	<tvodivost>35.9</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>19</protcislo>
+	<cnazev>Draslík</cnazev>
+	<znacka>K</znacka>
+	<lnazev>Kalium</lnazev>
+	<athmot>39.0983</athmot>
+	<oxid>1</oxid>
+	<pe>0.9</pe>
+	<hustota>0.862</hustota>
+	<si>3</si>
+	<ni>8</ni>
+	<tt>93.65</tt>
+	<tv>760</tv>
+	<obev>1807</obev>
+	<tvrdost>0.5</tvrdost>
+	<ennazev>Potassium</ennazev>
+	<denazev>Kalium</denazev>
+	<frnazev>Potassium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 4s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.757</tkapacita>
+	<tvodivost>102.5</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>87</protcislo>
+	<cnazev>Francium</cnazev>
+	<znacka>Fr</znacka>
+	<lnazev>Francium</lnazev>
+	<athmot>223.019</athmot>
+	<oxid>1</oxid>
+	<pe>0.7</pe>
+	<si>0</si>
+	<ni>21</ni>
+	<tt>27</tt>
+	<tv>677</tv>
+	<obev>1939</obev>
+	<ennazev>Francium</ennazev>
+	<denazev>Francium</denazev>
+	<frnazev>Francium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 7s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tvodivost>15</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>3</protcislo>
+	<cnazev>Lithium</cnazev>
+	<znacka>Li</znacka>
+	<lnazev>Lithium</lnazev>
+	<athmot>6.941</athmot>
+	<oxid>1</oxid>
+	<pe>1.0</pe>
+	<hustota>0.534</hustota>
+	<si>2</si>
+	<ni>2</ni>
+	<tt>180.54</tt>
+	<tv>1347</tv>
+	<obev>1870</obev>
+	<tvrdost>0.6</tvrdost>
+	<ennazev>Lithium</ennazev>
+	<denazev>Lithium</denazev>
+	<frnazev>Lithium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>3.582</tkapacita>
+	<tvodivost>84.7</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>37</protcislo>
+	<cnazev>Rubidium</cnazev>
+	<znacka>Rb</znacka>
+	<lnazev>Rubidium</lnazev>
+	<athmot>85.4678</athmot>
+	<oxid>1</oxid>
+	<pe>0.8</pe>
+	<hustota>1.532</hustota>
+	<si>2</si>
+	<ni>19</ni>
+	<tt>38.89</tt>
+	<tv>688</tv>
+	<obev>1861</obev>
+	<tvrdost>0.3</tvrdost>
+	<ennazev>Rubidium</ennazev>
+	<denazev>Rubidium</denazev>
+	<frnazev>Rubidium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.363</tkapacita>
+	<tvodivost>58.2</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>11</protcislo>
+	<cnazev>Sodík</cnazev>
+	<znacka>Na</znacka>
+	<lnazev>Natrium</lnazev>
+	<athmot>22.98768</athmot>
+	<oxid>1</oxid>
+	<pe>0.9</pe>
+	<hustota>0.9725</hustota>
+	<si>1</si>
+	<ni>6</ni>
+	<tt>98.81</tt>
+	<tv>882.9</tv>
+	<obev>1807</obev>
+	<tvrdost>0.4</tvrdost>
+	<ennazev>Sodium</ennazev>
+	<denazev>Natrium</denazev>
+	<frnazev>Sodium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>1.23</tkapacita>
+	<tvodivost>141</tvodivost>
+</prvek>
+</prvky>

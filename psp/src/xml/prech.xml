@@ -1,0 +1,762 @@
+<prvky>
+<prvek>
+	<protcislo>89</protcislo>
+	<cnazev>Aktinium</cnazev>
+	<znacka>Ac</znacka>
+	<lnazev>Actinium</lnazev>
+	<athmot>227.0278</athmot>
+	<oxid>3</oxid>
+	<pe>1.1</pe>
+	<hustota>10.07</hustota>
+	<si>0</si>
+	<ni>11</ni>
+	<tt>1050</tt>
+	<tv>3200</tv>
+	<obev>1899</obev>
+	<ennazev>Actinium</ennazev>
+	<denazev>Actinium</denazev>
+	<frnazev>Actinium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 6d&lt;sup&gt;1&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.12</tkapacita>
+	<tvodivost>12</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>24</protcislo>
+	<cnazev>Chrom</cnazev>
+	<znacka>Cr</znacka>
+	<lnazev>Chromium</lnazev>
+	<athmot>51.9961</athmot>
+	<oxid>2,3,4,5,6</oxid>
+	<pe>1.6</pe>
+	<hustota>7.19</hustota>
+	<si>4</si>
+	<ni>5</ni>
+	<tt>1857</tt>
+	<tv>2672</tv>
+	<obev>1797</obev>
+	<tvrdost>9.0</tvrdost>
+	<ennazev>Chromium</ennazev>
+	<denazev>Chrom</denazev>
+	<frnazev>Chrome</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;5&lt;/sup&gt; 4s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.449</tkapacita>
+	<tvodivost>93.7</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>72</protcislo>
+	<cnazev>Hafnium</cnazev>
+	<znacka>Hf</znacka>
+	<lnazev>Hafnium</lnazev>
+	<athmot>178.49</athmot>
+	<oxid>4</oxid>
+	<pe>1.3</pe>
+	<hustota>13.3</hustota>
+	<si>6</si>
+	<ni>15</ni>
+	<tt>2227</tt>
+	<tv>4600</tv>
+	<obev>1864</obev>
+	<tvrdost>5.5</tvrdost>
+	<ennazev>Hafnium</ennazev>
+	<denazev>Hafnium</denazev>
+	<frnazev>Hafnium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;2&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.14</tkapacita>
+	<tvodivost>23</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>77</protcislo>
+	<cnazev>Iridium</cnazev>
+	<znacka>Ir</znacka>
+	<lnazev>Iridium</lnazev>
+	<athmot>192.22</athmot>
+	<oxid>2,3,4,6</oxid>
+	<pe>2.2</pe>
+	<hustota>22.5</hustota>
+	<si>2</si>
+	<ni>23</ni>
+	<tt>2447</tt>
+	<tv>4500</tv>
+	<obev>1803</obev>
+	<tvrdost>6.5</tvrdost>
+	<ennazev>Iridium</ennazev>
+	<denazev>Iridium</denazev>
+	<frnazev>Iridium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;7&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.13</tkapacita>
+	<tvodivost>147</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>48</protcislo>
+	<cnazev>Kadmium</cnazev>
+	<znacka>Cd</znacka>
+	<lnazev>Cadmium</lnazev>
+	<athmot>112.411</athmot>
+	<oxid>2</oxid>
+	<pe>1.7</pe>
+	<hustota>8.65</hustota>
+	<si>5</si>
+	<ni>14</ni>
+	<tt>321.108</tt>
+	<tv>765</tv>
+	<obev>1817</obev>
+	<tvrdost>2.0</tvrdost>
+	<ennazev>Cadmium</ennazev>
+	<denazev>Cadmium</denazev>
+	<frnazev>Cadmium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.233</tkapacita>
+	<tvodivost>96.8</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>27</protcislo>
+	<cnazev>Kobalt</cnazev>
+	<znacka>Co</znacka>
+	<lnazev>Cobaltum</lnazev>
+	<athmot>58.93320</athmot>
+	<oxid>2,3</oxid>
+	<pe>1.8</pe>
+	<hustota>8.9</hustota>
+	<si>1</si>
+	<ni>13</ni>
+	<tt>1494</tt>
+	<tv>2900</tv>
+	<obev>1735</obev>
+	<tvrdost>5.5</tvrdost>
+	<ennazev>Cobalt</ennazev>
+	<denazev>Cobalt</denazev>
+	<frnazev>Cobalt</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;7&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.421</tkapacita>
+	<tvodivost>100</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>104</protcislo>
+	<cnazev>Kurčatovium</cnazev>
+	<znacka>Ku</znacka>
+	<lnazev>Kurcharovium</lnazev>
+	<athmot>261.1087</athmot>
+	<oxid>4</oxid>
+	<si>0</si>
+	<ni>6</ni>
+	<obev>1964</obev>
+	<ennazev>Rutherfordium</ennazev>
+	<denazev>Rutherfordium</denazev>
+	<frnazev>Rutherfordium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;2&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+</prvek>
+<prvek>
+	<protcislo>57</protcislo>
+	<cnazev>Lanthan</cnazev>
+	<znacka>La</znacka>
+	<lnazev>Lanthanium</lnazev>
+	<athmot>138.9055</athmot>
+	<oxid>3</oxid>
+	<pe>1.1</pe>
+	<hustota>6.166</hustota>
+	<si>2</si>
+	<ni>16</ni>
+	<tt>921</tt>
+	<tv>3457</tv>
+	<obev>1839</obev>
+	<tvrdost>2.5</tvrdost>
+	<ennazev>Lanthanum</ennazev>
+	<denazev>Lanthan</denazev>
+	<frnazev>Lanthane</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 5d&lt;sup&gt;1&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.19</tkapacita>
+	<tvodivost>13.5</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>25</protcislo>
+	<cnazev>Mangan</cnazev>
+	<znacka>Mn</znacka>
+	<lnazev>Manganum</lnazev>
+	<athmot>54.93805</athmot>
+	<oxid>2,3,4,6,7</oxid>
+	<pe>1.5</pe>
+	<hustota>7.44</hustota>
+	<si>1</si>
+	<ni>10</ni>
+	<tt>1244</tt>
+	<tv>2100</tv>
+	<obev>1774</obev>
+	<tvrdost>5.0</tvrdost>
+	<ennazev>Manganese</ennazev>
+	<denazev>Mangan</denazev>
+	<frnazev>Manganése</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;5&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.48</tkapacita>
+	<tvodivost>7.82</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>42</protcislo>
+	<cnazev>Molybden</cnazev>
+	<znacka>Mo</znacka>
+	<lnazev>Molybdaneum</lnazev>
+	<athmot>95.94</athmot>
+	<oxid>2,3,4,5,6</oxid>
+	<pe>1.8</pe>
+	<hustota>10.22</hustota>
+	<si>7</si>
+	<ni>13</ni>
+	<tt>2617</tt>
+	<tv>4650</tv>
+	<obev>1785</obev>
+	<tvrdost>5.5</tvrdost>
+	<ennazev>Molybdenum</ennazev>
+	<denazev>Molybdän</denazev>
+	<frnazev>Molybdéne</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;5&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.25</tkapacita>
+	<tvodivost>138</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>29</protcislo>
+	<cnazev>Měď</cnazev>
+	<znacka>Cu</znacka>
+	<lnazev>Cuprum</lnazev>
+	<athmot>63.546</athmot>
+	<oxid>1,2,3</oxid>
+	<pe>1.9</pe>
+	<hustota>8.96</hustota>
+	<si>2</si>
+	<ni>9</ni>
+	<tt>1084.5</tt>
+	<tv>2567</tv>
+	<obev>starověk</obev>
+	<tvrdost>3.0</tvrdost>
+	<ennazev>Copper</ennazev>
+	<denazev>Kupfer</denazev>
+	<frnazev>Cuivre</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.385</tkapacita>
+	<tvodivost>401</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>28</protcislo>
+	<cnazev>Nikl</cnazev>
+	<znacka>Ni</znacka>
+	<lnazev>Niccolum</lnazev>
+	<athmot>58.69</athmot>
+	<oxid>2,3</oxid>
+	<pe>1.8</pe>
+	<hustota>8.908</hustota>
+	<si>5</si>
+	<ni>7</ni>
+	<tt>1455</tt>
+	<tv>2732</tv>
+	<obev>1751</obev>
+	<tvrdost>4.0</tvrdost>
+	<ennazev>Nickel</ennazev>
+	<denazev>Nickel</denazev>
+	<frnazev>Nickel</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;8&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.444</tkapacita>
+	<tvodivost>90.7</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>41</protcislo>
+	<cnazev>Niob</cnazev>
+	<znacka>Nb</znacka>
+	<lnazev>Niobium</lnazev>
+	<athmot>92.90638</athmot>
+	<oxid>3,5</oxid>
+	<pe>1.6</pe>
+	<hustota>8.57</hustota>
+	<si>1</si>
+	<ni>21</ni>
+	<tt>2468</tt>
+	<tv>4742</tv>
+	<obev>1801</obev>
+	<tvrdost>6.0</tvrdost>
+	<ennazev>Niobium</ennazev>
+	<denazev>Niob</denazev>
+	<frnazev>Niobium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;4&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.265</tkapacita>
+	<tvodivost>53.7</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>76</protcislo>
+	<cnazev>Osmium</cnazev>
+	<znacka>Os</znacka>
+	<lnazev>Osmium</lnazev>
+	<athmot>190.2</athmot>
+	<oxid>2,3,4,6,8</oxid>
+	<pe>2.2</pe>
+	<hustota>22.6</hustota>
+	<si>7</si>
+	<ni>12</ni>
+	<tt>3045</tt>
+	<tv>5000</tv>
+	<obev>1803</obev>
+	<tvrdost>8.0</tvrdost>
+	<ennazev>Osmium</ennazev>
+	<denazev>Osmium</denazev>
+	<frnazev>Osmium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;6&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.13</tkapacita>
+	<tvodivost>87.6</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>46</protcislo>
+	<cnazev>Palladium</cnazev>
+	<znacka>Pd</znacka>
+	<lnazev>Palladium</lnazev>
+	<athmot>106.42</athmot>
+	<oxid>2,4</oxid>
+	<pe>2.2</pe>
+	<hustota>12.02</hustota>
+	<si>6</si>
+	<ni>15</ni>
+	<tt>1554</tt>
+	<tv>3980</tv>
+	<obev>1803</obev>
+	<tvrdost>4.8</tvrdost>
+	<ennazev>Palladium</ennazev>
+	<denazev>Palladium</denazev>
+	<frnazev>Palladium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;0&lt;/sup&gt;</elconf>
+	<tkapacita>0.244</tkapacita>
+	<tvodivost>71.8</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>78</protcislo>
+	<cnazev>Platina</cnazev>
+	<znacka>Pt</znacka>
+	<lnazev>Platinium</lnazev>
+	<athmot>195.08</athmot>
+	<oxid>2,4,6</oxid>
+	<pe>2.2</pe>
+	<hustota>21.45</hustota>
+	<si>6</si>
+	<ni>28</ni>
+	<tt>1772</tt>
+	<tv>3827</tv>
+	<obev>1735</obev>
+	<tvrdost>4.3</tvrdost>
+	<ennazev>Platinum</ennazev>
+	<denazev>Platin</denazev>
+	<frnazev>Platine</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;9&lt;/sup&gt; 6s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.13</tkapacita>
+	<tvodivost>71.6</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>75</protcislo>
+	<cnazev>Rhenium</cnazev>
+	<znacka>Re</znacka>
+	<lnazev>Rhenium</lnazev>
+	<athmot>186.207</athmot>
+	<oxid>2,3,4,6,7</oxid>
+	<pe>1.9</pe>
+	<hustota>21.03</hustota>
+	<si>2</si>
+	<ni>20</ni>
+	<tt>3180</tt>
+	<tv>5630</tv>
+	<obev>1925</obev>
+	<tvrdost>7.0</tvrdost>
+	<ennazev>Rhenium</ennazev>
+	<denazev>Rhenium</denazev>
+	<frnazev>Rhénium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;5&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.137</tkapacita>
+	<tvodivost>47.9</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>45</protcislo>
+	<cnazev>Rhodium</cnazev>
+	<znacka>Rh</znacka>
+	<lnazev>Rhodium</lnazev>
+	<athmot>102.90550</athmot>
+	<oxid>2,3,4,5</oxid>
+	<pe>2.2</pe>
+	<hustota>12.45</hustota>
+	<si>1</si>
+	<ni>19</ni>
+	<tt>1963</tt>
+	<tv>3800</tv>
+	<obev>1803</obev>
+	<tvrdost>6.0</tvrdost>
+	<ennazev>Rhodium</ennazev>
+	<denazev>Rhodium</denazev>
+	<frnazev>Rhodium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;8&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.242</tkapacita>
+	<tvodivost>150</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>80</protcislo>
+	<cnazev>Rtuť</cnazev>
+	<znacka>Hg</znacka>
+	<lnazev>Hydrargyum</lnazev>
+	<athmot>200.59</athmot>
+	<oxid>1,2</oxid>
+	<pe>1.9</pe>
+	<hustota>13.546</hustota>
+	<si>7</si>
+	<ni>19</ni>
+	<tt>-38.862</tt>
+	<tv>356.66</tv>
+	<obev>starověk</obev>
+	<tvrdost>1.5</tvrdost>
+	<ennazev>Mercury</ennazev>
+	<denazev>Quecksilber</denazev>
+	<frnazev>Mercure</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.140</tkapacita>
+	<tvodivost>8.34</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>44</protcislo>
+	<cnazev>Ruthenium</cnazev>
+	<znacka>Ru</znacka>
+	<lnazev>Ruthenium</lnazev>
+	<athmot>101.07</athmot>
+	<oxid>2,3,4,6,8</oxid>
+	<pe>2.2</pe>
+	<hustota>12.41</hustota>
+	<si>7</si>
+	<ni>9</ni>
+	<tt>2300</tt>
+	<tv>4000</tv>
+	<obev>1843</obev>
+	<tvrdost>6.5</tvrdost>
+	<ennazev>Ruthenium</ennazev>
+	<denazev>Ruthenium</denazev>
+	<frnazev>Ruthénium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;7&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.238</tkapacita>
+	<tvodivost>117</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>21</protcislo>
+	<cnazev>Skandium</cnazev>
+	<znacka>Sc</znacka>
+	<lnazev>Scandium</lnazev>
+	<athmot>44.955910</athmot>
+	<oxid>3</oxid>
+	<pe>1.3</pe>
+	<hustota>2.989</hustota>
+	<si>1</si>
+	<ni>14</ni>
+	<tt>1541</tt>
+	<tv>2750</tv>
+	<obev>1876</obev>
+	<ennazev>Scandium</ennazev>
+	<denazev>Scandium</denazev>
+	<frnazev>Scandium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;1&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.568</tkapacita>
+	<tvodivost>15.8</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>47</protcislo>
+	<cnazev>Stříbro</cnazev>
+	<znacka>Ag</znacka>
+	<lnazev>Argentum</lnazev>
+	<athmot>107.8682</athmot>
+	<oxid>1,2,3</oxid>
+	<pe>1.9</pe>
+	<hustota>10.49</hustota>
+	<si>2</si>
+	<ni>25</ni>
+	<tt>961.93</tt>
+	<tv>2212</tv>
+	<obev>starověk</obev>
+	<tvrdost>2.7</tvrdost>
+	<ennazev>Silver</ennazev>
+	<denazev>Silber</denazev>
+	<frnazev>Argent</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.232</tkapacita>
+	<tvodivost>429</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>73</protcislo>
+	<cnazev>Tantal</cnazev>
+	<znacka>Ta</znacka>
+	<lnazev>Tantalum</lnazev>
+	<athmot>180.9479</athmot>
+	<oxid>5</oxid>
+	<pe>1.5</pe>
+	<hustota>16.654</hustota>
+	<si>2</si>
+	<ni>18</ni>
+	<tt>2996</tt>
+	<tv>5660</tv>
+	<obev>1802</obev>
+	<tvrdost>6.5</tvrdost>
+	<ennazev>Tantalum</ennazev>
+	<denazev>Tantal</denazev>
+	<frnazev>Tantale</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;3&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.14</tkapacita>
+	<tvodivost>57.5</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>43</protcislo>
+	<cnazev>Technecium</cnazev>
+	<znacka>Tc</znacka>
+	<lnazev>Tecnetium</lnazev>
+	<athmot>98.9063</athmot>
+	<oxid>2,4,7</oxid>
+	<pe>1.9</pe>
+	<hustota>11.56</hustota>
+	<si>0</si>
+	<ni>22</ni>
+	<tt>2150</tt>
+	<tv>4880</tv>
+	<obev>1937</obev>
+	<ennazev>Technetium</ennazev>
+	<denazev>Technetium</denazev>
+	<frnazev>Technétium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;5&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.24</tkapacita>
+	<tvodivost>50.6</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>22</protcislo>
+	<cnazev>Titan</cnazev>
+	<znacka>Ti</znacka>
+	<lnazev>Titanium</lnazev>
+	<athmot>47.88</athmot>
+	<oxid>2,3,4</oxid>
+	<pe>1.5</pe>
+	<hustota>4.507</hustota>
+	<si>5</si>
+	<ni>4</ni>
+	<tt>1660</tt>
+	<tv>3287</tv>
+	<obev>1790</obev>
+	<tvrdost>6.0</tvrdost>
+	<ennazev>Titanium</ennazev>
+	<denazev>Titan</denazev>
+	<frnazev>Titane</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;2&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.523</tkapacita>
+	<tvodivost>21.9</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>109</protcislo>
+	<cnazev>Unnilennium</cnazev>
+	<znacka>Une</znacka>
+	<lnazev>Unnilennium</lnazev>
+	<athmot>266</athmot>
+	<si>0</si>
+	<ni>1</ni>
+	<ennazev>Meitnerium</ennazev>
+	<denazev>Meitnerium</denazev>
+	<frnazev>Meitnerium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;7&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+</prvek>
+<prvek>
+	<protcislo>106</protcislo>
+	<cnazev>Unnilhexium</cnazev>
+	<znacka>Unh</znacka>
+	<lnazev>Unnilhexium</lnazev>
+	<athmot>263.9182</athmot>
+	<oxid>6</oxid>
+	<si>0</si>
+	<ni>4</ni>
+	<ennazev>Seaborgium</ennazev>
+	<denazev>Seaborgium</denazev>
+	<frnazev>Seaborgium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;4&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+</prvek>
+<prvek>
+	<protcislo>108</protcislo>
+	<cnazev>Unniloctium</cnazev>
+	<znacka>Uno</znacka>
+	<lnazev>Unniloctium</lnazev>
+	<athmot>265</athmot>
+	<si>0</si>
+	<ni>2</ni>
+	<ennazev>Hassium</ennazev>
+	<denazev>Hassium</denazev>
+	<frnazev>Hassium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;6&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+</prvek>
+<prvek>
+	<protcislo>105</protcislo>
+	<cnazev>Unnilpentium</cnazev>
+	<znacka>Unp</znacka>
+	<lnazev>Unnilpentium</lnazev>
+	<athmot>262.1138</athmot>
+	<oxid>5</oxid>
+	<si>0</si>
+	<ni>5</ni>
+	<ennazev>Dubnium</ennazev>
+	<denazev>Dubnium</denazev>
+	<frnazev>Dubnium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;3&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+</prvek>
+<prvek>
+	<protcislo>107</protcislo>
+	<cnazev>Unnilseptium</cnazev>
+	<znacka>Uns</znacka>
+	<lnazev>Unnilseptium</lnazev>
+	<athmot>262.1229</athmot>
+	<oxid>7</oxid>
+	<si>0</si>
+	<ni>3</ni>
+	<ennazev>Bohrium</ennazev>
+	<denazev>Bohrium</denazev>
+	<frnazev>Bohrium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;5&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+</prvek>
+<prvek>
+	<protcislo>23</protcislo>
+	<cnazev>Vanad</cnazev>
+	<znacka>V</znacka>
+	<lnazev>Vanadium</lnazev>
+	<athmot>50.9415</athmot>
+	<oxid>2,3,4,5</oxid>
+	<pe>1.6</pe>
+	<hustota>6.11</hustota>
+	<si>2</si>
+	<ni>5</ni>
+	<tt>1900</tt>
+	<tv>3380</tv>
+	<obev>1801</obev>
+	<tvrdost>6-7</tvrdost>
+	<ennazev>Vanadium</ennazev>
+	<denazev>Vanadium</denazev>
+	<frnazev>Vanadium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;3&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.489</tkapacita>
+	<tvodivost>30.7</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>74</protcislo>
+	<cnazev>Wolfram</cnazev>
+	<znacka>W</znacka>
+	<lnazev>Wolframium</lnazev>
+	<athmot>183.85</athmot>
+	<oxid>2,3,4,5,6</oxid>
+	<pe>1.9</pe>
+	<hustota>19.3</hustota>
+	<si>5</si>
+	<ni>16</ni>
+	<tt>3387</tt>
+	<tv>5660</tv>
+	<obev>1758</obev>
+	<tvrdost>7.5</tvrdost>
+	<ennazev>Tungsten</ennazev>
+	<denazev>Wolfram</denazev>
+	<frnazev>Tungsténe</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;4&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.13</tkapacita>
+	<tvodivost>174</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>39</protcislo>
+	<cnazev>Yttrium</cnazev>
+	<znacka>Y</znacka>
+	<lnazev>Yttrium</lnazev>
+	<athmot>88.90585</athmot>
+	<oxid>3</oxid>
+	<pe>1.2</pe>
+	<hustota>4.472</hustota>
+	<si>1</si>
+	<ni>20</ni>
+	<tt>1522</tt>
+	<tv>3200</tv>
+	<obev>1794</obev>
+	<ennazev>Yttrium</ennazev>
+	<denazev>Yttrium</denazev>
+	<frnazev>Yttrium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;1&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.3</tkapacita>
+	<tvodivost>17.2</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>30</protcislo>
+	<cnazev>Zinek</cnazev>
+	<znacka>Zn</znacka>
+	<lnazev>Zincum</lnazev>
+	<athmot>65.39</athmot>
+	<oxid>2</oxid>
+	<pe>1.6</pe>
+	<hustota>7.14</hustota>
+	<si>5</si>
+	<ni>10</ni>
+	<tt>419.58</tt>
+	<tv>907</tv>
+	<obev>1530</obev>
+	<tvrdost>2.5</tvrdost>
+	<ennazev>Zinc</ennazev>
+	<denazev>Zink</denazev>
+	<frnazev>Zinc</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.388</tkapacita>
+	<tvodivost>116</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>40</protcislo>
+	<cnazev>Zirkonium</cnazev>
+	<znacka>Zr</znacka>
+	<lnazev>Zirkonium</lnazev>
+	<athmot>91.244</athmot>
+	<oxid>4</oxid>
+	<pe>1.4</pe>
+	<hustota>6.506</hustota>
+	<si>5</si>
+	<ni>16</ni>
+	<tt>1852</tt>
+	<tv>3800</tv>
+	<obev>1789</obev>
+	<tvrdost>5.0</tvrdost>
+	<ennazev>Zirconium</ennazev>
+	<denazev>Zirkonium</denazev>
+	<frnazev>Zirconium</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;2&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.278</tkapacita>
+	<tvodivost>22.7</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>79</protcislo>
+	<cnazev>Zlato</cnazev>
+	<znacka>Au</znacka>
+	<lnazev>Aurum</lnazev>
+	<athmot>196.96654</athmot>
+	<oxid>1,3</oxid>
+	<pe>2.4</pe>
+	<hustota>19.32</hustota>
+	<si>1</si>
+	<ni>20</ni>
+	<tt>1064.43</tt>
+	<tv>2966</tv>
+	<obev>starověk</obev>
+	<tvrdost>2.5</tvrdost>
+	<ennazev>Gold</ennazev>
+	<denazev>Gold</denazev>
+	<frnazev>Or</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;1&lt;/sup&gt;</elconf>
+	<tkapacita>0.128</tkapacita>
+	<tvodivost>317</tvodivost>
+</prvek>
+<prvek>
+	<protcislo>26</protcislo>
+	<cnazev>Železo</cnazev>
+	<znacka>Fe</znacka>
+	<lnazev>Ferrum</lnazev>
+	<athmot>55.847</athmot>
+	<oxid>2,3,6</oxid>
+	<pe>1.8</pe>
+	<hustota>7.874</hustota>
+	<si>4</si>
+	<ni>6</ni>
+	<tt>1535</tt>
+	<tv>2750</tv>
+	<tvrdost>4.0</tvrdost>
+	<ennazev>Iron</ennazev>
+	<denazev>Eisen</denazev>
+	<frnazev>Fer</frnazev>
+	<elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;6&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+	<tkapacita>0.449</tkapacita>
+	<tvodivost>80.2</tvodivost>
+</prvek>
+</prvky>
