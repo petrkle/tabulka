@@ -1,6 +1,7 @@
 body{font-family:sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
 h1{font-size:1.2em;font-weight:bold;padding:15px;letter-spacing:-1px;background:#fd3;border-bottom:1px #999 solid;margin:0;}
 h2{font-size:1em;font-weight:bold;padding:15px;letter-spacing:-1px;background:#eee;border-bottom:1px #999 solid;margin:0;}
+h3{font-weight:bold;padding:15px;letter-spacing:-1px;margin:0;text-align:center;}
 a{color:#000;font-weight:bold;text-decoration:none;}
 a:link{color:#000;text-decoration:none;}
 a:visited{color:#000;text-decoration:none;}
@@ -27,5 +28,5 @@ a:visited{color:#000;text-decoration:none;}
 .prech{background-color:#fc3;}
 .vprech{background-color:#0cf;}
 .vzacne{background-color:#f69;}
-.about{margin:10px;padding:10px;}
+.about{margin:10px;padding:10px;;text-align:center;}
 .about a{text-decoration:underline;color:#00f;}

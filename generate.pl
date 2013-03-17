@@ -11,6 +11,8 @@ my $xml = new XML::Simple;
 
 my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
 
+my $manifest = $xml->XMLin("AndroidManifest.xml");
+
 my $title = "Periodická soustva prvků";
 my $OUT = "assets/www";
 
@@ -63,6 +65,7 @@ $t->process('index.html',
 
 $t->process('about.html',
 	{	'title' => $title,
+		'version' => $manifest->{'android:versionName'},
 	},
 	"$OUT/about.html",
 	{ binmode => ':utf8' }) or die $t->error;

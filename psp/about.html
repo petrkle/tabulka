@@ -1,5 +1,12 @@
 [% INCLUDE header.html %]
+[% USE date %]
 
-<div class="about">Zdrojové kódy Chemické tabulky najdete na adrese <a href="https://github.com/petrkle/tabulka" target="_blank">github.com/petrkle/tabulka</a></div>
+<h3>Chemická tabulka [% version %]</h3>
+
+<div class="about">Vytvořeno [% date.format(mytime, ' %d. %m. %Y').replace(' 0', ' ') %]</div>
+
+<div class="about"><a href="mailto:petr@kle.cz">petr@kle.cz</a></div>
+
+<div class="about">Zdrojový kód: <a href="https://github.com/petrkle/tabulka" target="_blank">github.com/petrkle/tabulka</a></div>
 
 [% INCLUDE footer.html -%]
