@@ -9,13 +9,13 @@ use File::Copy;
 
 my $xml = new XML::Simple;
 
-my $skupiny = $xml->XMLin("src/xml/skupiny.xml");
+my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
 
 my $title = "Periodická soustva prvků";
-my $OUT = "../assets/www";
+my $OUT = "assets/www";
 
 my $t = Template->new({
-		INCLUDE_PATH => 'src',
+		INCLUDE_PATH => 'psp',
 		ENCODING => 'utf8',
 });
 
@@ -23,7 +23,7 @@ my @prvky;
 
 for my $skup (@{$skupiny->{skupina}}){
 
-	my $data = $xml->XMLin("src/xml/$skup->{'zkratka'}.xml");
+	my $data = $xml->XMLin("psp/xml/$skup->{'zkratka'}.xml");
 
 	$t->process('skupina.html',
 		{ 'prvky' => $data,
@@ -67,8 +67,8 @@ $t->process('about.html',
 	"$OUT/about.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-copy("src/t.css","$OUT/t.css");
-copy("src/img/right.png","$OUT/right.png");
-copy("src/img/down.png","$OUT/down.png");
-copy("src/img/left.png","$OUT/left.png");
-copy("src/img/home.png","$OUT/home.png");
+copy("psp/t.css","$OUT/t.css");
+copy("psp/img/right.png","$OUT/right.png");
+copy("psp/img/down.png","$OUT/down.png");
+copy("psp/img/left.png","$OUT/left.png");
+copy("psp/img/home.png","$OUT/home.png");

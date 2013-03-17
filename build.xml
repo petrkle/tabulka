@@ -64,18 +64,14 @@
 
 	<target name="generate-html">
 	<echo>Generating html</echo>
-		<exec executable="perl" dir="psp">
+		<exec executable="perl" dir=".">
 			<arg value="generate.pl"/>
 	 </exec>
 	</target>
 
 	<target name="remove-html">
 	<echo>Removing html</echo>
-		<delete>
-		    <fileset dir="assets/www" includes="*.html"/>
-		    <fileset dir="assets/www" includes="*.css"/>
-		    <fileset dir="assets/www" includes="*.png"/>
-	  </delete>
+		<delete dir="assets" />
 	</target>
 
     <!--
