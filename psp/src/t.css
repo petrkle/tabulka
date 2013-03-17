@@ -27,3 +27,5 @@ a:visited{color:#000;text-decoration:none;}
 .prech{background-color:#fc3;}
 .vprech{background-color:#0cf;}
 .vzacne{background-color:#f69;}
+.about{margin:10px;padding:10px;}
+.about a{text-decoration:underline;color:#00f;}

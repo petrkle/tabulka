@@ -61,6 +61,12 @@ $t->process('index.html',
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
+$t->process('about.html',
+	{	'title' => $title,
+	},
+	"$OUT/about.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
 copy("src/t.css","$OUT/t.css");
 copy("src/img/right.png","$OUT/right.png");
 copy("src/img/down.png","$OUT/down.png");
