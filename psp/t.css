@@ -16,7 +16,7 @@ a:visited{color:#000;text-decoration:none;}
 .open{background:#eee url("down.png") no-repeat 95% 50%;}
 .back{background:#eee url("left.png") no-repeat 95% 50%;}
 .prvek{display:block;background:#fff;padding:0;margin:0;border-bottom:1px #999 solid;}
-#atom {width: 100%;}
+#atom{width: 100%;}
 #atom th{padding:10px 1em 10px 15px;border-right:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;}
 #atom td{padding:10px 1em 10px 15px;border-bottom:1px solid #aaa;}
 .alkkov{background-color:#693;}
@@ -29,4 +29,11 @@ a:visited{color:#000;text-decoration:none;}
 .vprech{background-color:#0cf;}
 .vzacne{background-color:#f69;}
 .about{margin:10px;padding:10px;;text-align:center;}
-.about a{text-decoration:underline;color:#00f;}
+.about a,#atom th a,#mohs td a{text-decoration:underline;color:#00f;}
+#mohs{width:100%;}
+#mohs th{padding:10px 1em 10px 15px;border-top:1px solid #aaa;text-align:center;}
+#mohs td{padding:10px 1em 10px 15px;}
+.pravyokraj{border-right:0;}
+.vnitrnibunka{border-bottom:1px solid #aaa;border-right:1px solid #aaa;}
+.pravyokraj{border-bottom:1px solid #aaa;}
+p{padding:15px;margin:0;}

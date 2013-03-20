@@ -18,14 +18,17 @@
 	<tr><th>Hustota [g/cm<sup>3]</sup></th><td>[% prvek.hustota %]</td></tr> 
 [% END -%]
 [% IF prvek.tt -%]
-	<tr><th>Teplota tání °C</th><td>[% prvek.tt %]</td></tr>
+	<tr><th>Teplota tání [°C]</th><td>[% prvek.tt %]</td></tr>
 [% END -%]
 [% IF prvek.tv -%]
-	<tr><th>Teplota varu °C</th><td>[% prvek.tv %]</td></tr>
+	<tr><th>Teplota varu [°C]</th><td>[% prvek.tv %]</td></tr>
 [% END -%]
 	<tr><th>Elektronová konfigurace</th><td>[% prvek.elconf %]</td></tr>
 [% IF prvek.obev -%]
 	<tr><th>Rok objevu</th><td>[% prvek.obev %]</td></tr>
+[% END -%]
+[% IF prvek.tvrdost -%]
+	<tr><th>Tvrdost [<a href="mohs.html">Mohsova stupnice</a>]</th><td>[% prvek.tvrdost %]</td></tr>
 [% END -%]
 	<tr><th>Počet stabilních izotopů</th><td>[% prvek.si %]</td></tr>
 	<tr><th>Počet nestabilních izotopů</th><td>[% prvek.ni %]</td></tr>

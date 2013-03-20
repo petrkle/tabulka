@@ -70,6 +70,12 @@ $t->process('about.html',
 	"$OUT/about.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
+$t->process('mohs.html',
+	{	'title' => $title,
+	},
+	"$OUT/mohs.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
 copy("psp/t.css","$OUT/t.css");
 copy("psp/img/right.png","$OUT/right.png");
 copy("psp/img/down.png","$OUT/down.png");
