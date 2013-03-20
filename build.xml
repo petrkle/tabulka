@@ -64,7 +64,7 @@
 
 	<target name="generate-html">
 	<echo>Generating html</echo>
-		<exec executable="perl" dir=".">
+		<exec executable="perl" dir="." failonerror="true">
 			<arg value="generate.pl"/>
 	 </exec>
 	</target>
