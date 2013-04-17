@@ -11,6 +11,8 @@ my $xml = new XML::Simple;
 
 my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
 
+my $skupenstvi = $xml->XMLin("psp/xml/skupenstvi.xml");
+
 my $manifest = $xml->XMLin("AndroidManifest.xml");
 
 my $title = "Periodická soustva prvků";
@@ -40,6 +42,7 @@ for my $skup (@{$skupiny->{skupina}}){
 	for my $prvek (@{$data->{prvek}}){
 	 $t->process('prvek.html',
 		 { 'prvek' => $prvek,
+			 'skupenstvi' => $skupenstvi->{'skupenstvi'},
 			 'cur' => $skup->{'zkratka'},
 			 'cur_l' => $skup->{'nazev'},
 			 title => $title
