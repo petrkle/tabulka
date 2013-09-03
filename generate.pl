@@ -102,5 +102,5 @@ $t->process('mohs.html',
 copy("psp/t.css","$OUT/t.css");
 copy("psp/img/right.png","$OUT/right.png");
 copy("psp/img/down.png","$OUT/down.png");
-copy("psp/img/left.png","$OUT/left.png");
-copy("psp/img/home.png","$OUT/home.png");
+copy("psp/img/tabulka.png","$OUT/tabulka.png");
+copy("psp/img/tabulka-back.png","$OUT/tabulka-back.png");
