@@ -1,90 +1,90 @@
 [% INCLUDE header.html %]
 
 <ul id="prvky">
-	<li><a href="[% cur %].html#[% prvek.lnazev FILTER lower %]" class="skupina back [% cur %]">[% cur_l %]</a></li>
+	<li><a href="[% cur %].html#[% cur FILTER lower %]" class="skupina back [% cur %]">[% cur_l %]</a></li>
 </ul>
 
 <h2>[% prvek.cnazev %]</h2>
 
 <table id="atom" cellspacing="0" cellpadding="0">
-	<tr><th>Značka</th><td>[% prvek.znacka %]</td></tr> 
-	<tr><th>Protonové číslo</th><td>[% prvek.protcislo %]</td></tr> 
-	<tr><th>Perioda</th><td>[% prvek.perioda %]</td></tr> 
-	<tr><th>Skupina</th><td>[% prvek.skupina %]</td></tr> 
-	<tr><th>Relativní atomová hmotnost</th><td>[% prvek.athmot %]</td></tr> 
+	<tr><th>Značka</th><td><div>[% prvek.znacka %]</div></td></tr> 
+	<tr><th>Protonové číslo</th><td><div>[% prvek.protcislo %]</div></td></tr> 
+	<tr><th>Perioda</th><td><a href="p[% prvek.perioda %].html#[% prvek.perioda %]">[% prvek.perioda %]</a></td></tr> 
+	<tr><th>Skupina</th><td><div>[% prvek.skupina %]</div></td></tr> 
+	<tr><th>Relativní atomová hmotnost</th><td><div>[% prvek.athmot %]</div></td></tr> 
 [% IF prvek.pe -%]
-	<tr><th>Paulingova elektronegativita</th><td>[% prvek.pe %]</td></tr>
+	<tr><th>Paulingova elektronegativita</th><td><div>[% prvek.pe %]</div></td></tr>
 [% END -%]
-	<tr><th>Oxidační čísla</th><td>[% prvek.oxid %]</td></tr> 
+	<tr><th>Oxidační čísla</th><td><div>[% prvek.oxid %]</div></td></tr> 
 [% IF prvek.hustota -%]
-	<tr><th>Elektronová konfigurace</th><td>[% prvek.elconf %]</td></tr>
-	<tr><th>Hustota [g/cm<sup>3</sup>]</th><td>[% prvek.hustota %]</td></tr> 
+	<tr><th>Elektronová konfigurace</th><td><div>[% prvek.elconf %]</div></td></tr>
+	<tr><th>Hustota [g/cm<sup>3</sup>]</th><td><div>[% prvek.hustota %]</div></td></tr> 
 [% END -%]
 [% skup = prvek.skupenstvi -%]
-	<tr><th>Skupenství</th><td>[% skupenstvi.$skup.nazev %]</td></tr> 
+	<tr><th>Skupenství</th><td><div>[% skupenstvi.$skup.nazev %]</div></td></tr> 
 [% IF prvek.tt -%]
-	<tr><th>Teplota tání [°C]</th><td>[% prvek.tt %]</td></tr>
+	<tr><th>Teplota tání [°C]</th><td><div>[% prvek.tt %]</div></td></tr>
 [% END -%]
 [% IF prvek.tv -%]
-	<tr><th>Teplota varu [°C]</th><td>[% prvek.tv %]</td></tr>
+	<tr><th>Teplota varu [°C]</th><td><div>[% prvek.tv %]</div></td></tr>
 [% END -%]
 [% IF prvek.kritickateplota -%]
-	<tr><th>Kritická teplota [°C]</th><td>[% prvek.kritickateplota %]</td></tr>
+	<tr><th>Kritická teplota [°C]</th><td><div>[% prvek.kritickateplota %]</div></td></tr>
 [% END -%]
 [% IF prvek.kritickatlak -%]
-	<tr><th>Kritický tlak [MPa]</th><td>[% prvek.kritickatlak %]</td></tr>
+	<tr><th>Kritický tlak [MPa]</th><td><div>[% prvek.kritickatlak %]</div></td></tr>
 [% END -%]
 [% IF prvek.atomovypolomer -%]
-	<tr><th>Atomový poloměr [pm]</th><td>[% prvek.atomovypolomer %]</td></tr>
+	<tr><th>Atomový poloměr [pm]</th><td><div>[% prvek.atomovypolomer %]</div></td></tr>
 [% END -%]
 [% IF prvek.kovalentnipolomer -%]
-	<tr><th>Kovalentní poloměr [pm]</th><td>[% prvek.kovalentnipolomer %]</td></tr>
+	<tr><th>Kovalentní poloměr [pm]</th><td><div>[% prvek.kovalentnipolomer %]</div></td></tr>
 [% END -%]
 [% IF prvek.tvodivost -%]
-	<tr><th>Tepelná vodivost [W m<sup>-1</sup> K<sup>-1</sup>]</th><td>[% prvek.tvodivost %]</td></tr>
+	<tr><th>Tepelná vodivost [W m<sup>-1</sup> K<sup>-1</sup>]</th><td><div>[% prvek.tvodivost %]</div></td></tr>
 [% END -%]
 [% IF prvek.slucovaciteplo -%]
-	<tr><th>Slučovací teplo [kJ mol<sup>-1</sup>]</th><td>[% prvek.slucovaciteplo %]</td></tr>
+	<tr><th>Slučovací teplo [kJ mol<sup>-1</sup>]</th><td><div>[% prvek.slucovaciteplo %]</div></td></tr>
 [% END -%]
 [% IF prvek.obev -%]
-	<tr><th>Rok objevu</th><td>[% prvek.obev %]</td></tr>
+	<tr><th>Rok objevu</th><td><div>[% prvek.obev %]</div></td></tr>
 [% END -%]
 [% IF prvek.tvrdost -%]
-	<tr><th>Tvrdost [<a href="mohs.html">Mohsova stupnice</a>]</th><td>[% prvek.tvrdost %]</td></tr>
+	<tr><th>Tvrdost [<a href="mohs.html">Mohsova stupnice</a>]</th><td><div>[% prvek.tvrdost %]</div></td></tr>
 [% END -%]
 [% IF prvek.tvrdostvickers -%]
-	<tr><th>Tvrdost podle Vickerse [MPa]</th><td>[% prvek.tvrdostvickers %]</td></tr>
+	<tr><th>Tvrdost podle Vickerse [MPa]</th><td><div>[% prvek.tvrdostvickers %]</div></td></tr>
 [% END -%]
 [% IF prvek.tvrdostbrinell -%]
-	<tr><th>Tvrdost podle Brinella [MPa]</th><td>[% prvek.tvrdostbrinell %]</td></tr>
+	<tr><th>Tvrdost podle Brinella [MPa]</th><td><div>[% prvek.tvrdostbrinell %]</div></td></tr>
 [% END -%]
 [% IF prvek.modulpruznostitah -%]
-	<tr><th>Modul pružnosti v tahu [GPa]</th><td>[% prvek.modulpruznostitah %]</td></tr>
+	<tr><th>Modul pružnosti v tahu [GPa]</th><td><div>[% prvek.modulpruznostitah %]</div></td></tr>
 [% END -%]
 [% IF prvek.elektrickavodivost -%]
-	<tr><th>Elektrická vodivost [S m<sup>-1</sup>]</th><td>[% prvek.elektrickavodivost %]</td></tr>
+	<tr><th>Elektrická vodivost [S m<sup>-1</sup>]</th><td><div>[% prvek.elektrickavodivost %]</div></td></tr>
 [% END -%]
 [% IF prvek.mernyelodpor -%]
-	<tr><th>Měrný elektrický odpor [10<sup>-6</sup> Ω.m]</th><td>[% prvek.mernyelodpor %]</td></tr>
+	<tr><th>Měrný elektrický odpor [10<sup>-6</sup> Ω.m]</th><td><div>[% prvek.mernyelodpor %]</div></td></tr>
 [% END -%]
 [% IF prvek.modulpruznostismyk -%]
-	<tr><th>Modul pružnosti ve smyku [GPa]</th><td>[% prvek.modulpruznostismyk %]</td></tr>
+	<tr><th>Modul pružnosti ve smyku [GPa]</th><td><div>[% prvek.modulpruznostismyk %]</div></td></tr>
 [% END -%]
 [% IF prvek.ionizacnipotencial1 -%]
-	<tr><th>1. ionizační potenciál [eV]</th><td>[% prvek.ionizacnipotencial1 %]</td></tr>
+	<tr><th>1. ionizační potenciál [eV]</th><td><div>[% prvek.ionizacnipotencial1 %]</div></td></tr>
 [% END -%]
 [% IF prvek.ionizacnipotencial2 -%]
-	<tr><th>2. ionizační potenciál [eV]</th><td>[% prvek.ionizacnipotencial2 %]</td></tr>
+	<tr><th>2. ionizační potenciál [eV]</th><td><div>[% prvek.ionizacnipotencial2 %]</div></td></tr>
 [% END -%]
 [% IF prvek.ionizacnipotencial3 -%]
-	<tr><th>3. ionizační potenciál [eV]</th><td>[% prvek.ionizacnipotencial3 %]</td></tr>
+	<tr><th>3. ionizační potenciál [eV]</th><td><div>[% prvek.ionizacnipotencial3 %]</div></td></tr>
 [% END -%]
-	<tr><th>Počet stabilních izotopů</th><td>[% prvek.si %]</td></tr>
-	<tr><th>Počet nestabilních izotopů</th><td>[% prvek.ni %]</td></tr>
-	<tr><th>Latinský název</th><td>[% prvek.lnazev %]</td></tr> 
-	<tr><th>Anglický název</th><td>[% prvek.ennazev %]</td></tr> 
-	<tr><th>Německý název</th><td>[% prvek.denazev %]</td></tr> 
-	<tr><th>Francouzský název</th><td>[% prvek.frnazev %]</td></tr> 
+	<tr><th>Počet stabilních izotopů</th><td><div>[% prvek.si %]</div></td></tr>
+	<tr><th>Počet nestabilních izotopů</th><td><div>[% prvek.ni %]</div></td></tr>
+	<tr><th>Latinský název</th><td><div>[% prvek.lnazev %]</div></td></tr> 
+	<tr><th>Anglický název</th><td><div>[% prvek.ennazev %]</div></td></tr> 
+	<tr><th>Německý název</th><td><div>[% prvek.denazev %]</div></td></tr> 
+	<tr><th>Francouzský název</th><td><div>[% prvek.frnazev %]</div></td></tr> 
 </table>
 
 [% INCLUDE footer.html -%]

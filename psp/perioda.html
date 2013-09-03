@@ -1,0 +1,18 @@
+[% INCLUDE header.html %]
+
+<ul id="prvky">
+[% FOREACH per IN periody %]
+	[% IF perioda == per.cislo %]
+		<li><a name="[% per.cislo %]"></a><a href="p.html" class="skupina open">[% per.cislo %].perioda</a></li>
+		[% FOREACH foo IN prvky %]
+		[% IF foo.perioda == perioda %]
+		<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek"><span id="nazevprvku">[% foo.cnazev %]</span><span id="znackaprvku">[% foo.znacka %]</span></a></li>
+		[% END %]
+		[% END %]
+	[% ELSE %]
+		<li><a href="p[% per.cislo %].html" class="skupina closed">[% per.cislo %]. perioda</a></li>
+	[% END %]
+[% END %]
+</ul>
+
+[% INCLUDE footer.html -%]

@@ -11,6 +11,8 @@ my $xml = new XML::Simple;
 
 my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
 
+my $periody = $xml->XMLin("psp/xml/periody.xml");
+
 my $skupenstvi = $xml->XMLin("psp/xml/skupenstvi.xml");
 
 my $manifest = $xml->XMLin("AndroidManifest.xml");
@@ -64,6 +66,24 @@ $t->process('index.html',
 		'nohomelink' => 'true'
 	},
 	"$OUT/index.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
+for my $perioda (@{$periody->{perioda}}){
+	$t->process('perioda.html',
+		{ 'prvky' => [@sorted],
+			'periody' => $periody->{perioda},
+			'perioda' => $perioda->{'cislo'},
+			'title' => $title
+		},
+		"$OUT/p$perioda->{'cislo'}.html",
+		{ binmode => ':utf8' }) or die $t->error;
+}
+
+$t->process('perioda.html',
+	{ 'periody' => $periody->{perioda},
+		'title' => $title
+	},
+	"$OUT/p.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
 $t->process('about.html',
