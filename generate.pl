@@ -86,6 +86,13 @@ $t->process('perioda.html',
 	"$OUT/p.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
+$t->process('skupina.html',
+	{	'title' => $title,
+		'skupiny' => $skupiny->{skupina}
+	},
+	"$OUT/s.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
 $t->process('about.html',
 	{	'title' => $title,
 		'version' => $manifest->{'android:versionName'},

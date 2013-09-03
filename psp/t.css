@@ -10,8 +10,8 @@ a:visited{color:#000;text-decoration:none;}
 h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;}
 #prvky{margin:0;padding:0;}
 #prvky li{list-style:none;margin:0;padding:0;}
-#znackaprvku{display:block;float:right;text-align:center;width:3em;background:#ddd;line-height:60px;}
-#nazevprvku{padding:15px;line-height:60px;}
+.znackaprvku{display:block;float:right;text-align:center;width:3em;background:#ddd;line-height:60px;}
+.nazevprvku{padding:15px;line-height:60px;}
 .skupina{display:block;padding:15px;border-bottom:1px #999 solid;}
 .closed{background:#fff url("right.png") no-repeat 100% 50%;}
 .open{background:#eee url("down.png") no-repeat 100% 50%;}
@@ -22,15 +22,6 @@ h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;}
 #atom td{padding:0;border-bottom:1px solid #aaa;}
 #atom td div{padding:10px 1em 10px 15px;}
 #atom td a {display:block;padding:10px 45px 10px 15px;font-weight:normal;background:#fff url("right.png") no-repeat 100% 50%;}
-.alkkov{background-color:#693;}
-.haloge{background-color:#f96;}
-.kalkze{background-color:#9c9;}
-.kovy{background-color:#999;}
-.nekovy{background-color:#f33;}
-.poloko{background-color:#c63;}
-.prech{background-color:#fc3;}
-.vprech{background-color:#0cf;}
-.vzacne{background-color:#f69;}
 .about{margin:10px;padding:10px;;text-align:center;}
 .about a,#atom th a,#mohs td a{text-decoration:underline;color:#00f;}
 .about a.button-link{padding:15px 40px;}
