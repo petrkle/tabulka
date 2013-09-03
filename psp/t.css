@@ -18,9 +18,9 @@ h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;white-sp
 .prvek{display:block;background:#fff;padding:0;margin:0;border-bottom:1px #999 solid;}
 .tablelink{display:block;width:100%;height:100%;border:solid 1px #f00;}
 #atom{width: 100%;}
-#atom th{padding:10px 1em 10px 15px;border-right:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;}
+#atom th{padding:20px 1em 20px 15px;border-right:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;}
 #atom td{padding:0;border-bottom:1px solid #aaa;}
-#atom td div{padding:10px 1em 10px 15px;}
+#atom td div{padding:20px 1em 20px 15px;}
 #atom td a {display:block;padding:10px 45px 10px 15px;font-weight:normal;background:#fff url("right.png") no-repeat 100% 50%;}
 #atom th a,#mohs td a{text-decoration:underline;color:#00f;}
 #mohs{width:100%;}

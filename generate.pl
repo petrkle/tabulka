@@ -17,7 +17,9 @@ my $skupenstvi = $xml->XMLin("psp/xml/skupenstvi.xml");
 
 my $manifest = $xml->XMLin("AndroidManifest.xml");
 
-my $title = "Chemická tabulka";
+my $strings = $xml->XMLin("res/values/strings.xml");
+
+my $appname = $strings->{'string'}->{'app_name'}->{'content'};
 my $OUT = "assets/www";
 
 my $t = Template->new({
@@ -35,7 +37,7 @@ for my $skup (@{$skupiny->{skupina}}){
 		{ 'prvky' => $data,
 			'cur' => $skup->{'zkratka'},
 			'cur_l' => $skup->{'nazev'},
-			'title' => $title,
+			'title' => $appname,
 			'skupiny' => $skupiny->{skupina}
 		},
 		"$OUT/$skup->{'zkratka'}.html",
@@ -47,7 +49,7 @@ for my $skup (@{$skupiny->{skupina}}){
 			 'skupenstvi' => $skupenstvi->{'skupenstvi'},
 			 'cur' => $skup->{'zkratka'},
 			 'cur_l' => $skup->{'nazev'},
-			 title => $title
+			 title => $appname
 		 },
 		 "$OUT/".lc($prvek->{'lnazev'}).".html",
 		 { binmode => ':utf8' }) or die $t->error;
@@ -57,23 +59,47 @@ for my $skup (@{$skupiny->{skupina}}){
 
 }
 
-my @sorted = sort {$a->{cnazev} cmp $b->{cnazev}} @prvky;
+my @sortedbyname = sort {$a->{cnazev} cmp $b->{cnazev}} @prvky;
+my @sortedbyprotcislo = sort {$a->{protcislo} <=> $b->{protcislo}} @prvky;
+my @sortedbyln = sort {$a->{lnazev} cmp $b->{lnazev}} @prvky;
+my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @prvky;
 
 
 $t->process('index.html',
-	{ 'prvky' => [@sorted],
-		'title' => $title,
+	{ 'prvky' => [@sortedbyname],
+		'title' => $appname,
 		'nohomelink' => 'true'
 	},
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
+$t->process('index-pc.html',
+	{ 'prvky' => [@sortedbyprotcislo],
+		'title' => $appname,
+	},
+	"$OUT/index-pc.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
+$t->process('index-ln.html',
+	{ 'prvky' => [@sortedbyln],
+		'title' => $appname,
+	},
+	"$OUT/index-ln.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
+$t->process('index-zn.html',
+	{ 'prvky' => [@sortedbyzn],
+		'title' => $appname,
+	},
+	"$OUT/index-zn.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
 for my $perioda (@{$periody->{perioda}}){
 	$t->process('perioda.html',
-		{ 'prvky' => [@sorted],
+		{ 'prvky' => [@sortedbyname],
 			'periody' => $periody->{perioda},
 			'perioda' => $perioda->{'cislo'},
-			'title' => $title
+			'title' => $appname
 		},
 		"$OUT/p$perioda->{'cislo'}.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -81,27 +107,27 @@ for my $perioda (@{$periody->{perioda}}){
 
 $t->process('perioda.html',
 	{ 'periody' => $periody->{perioda},
-		'title' => $title
+		'title' => $appname
 	},
 	"$OUT/p.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
 $t->process('skupina.html',
-	{	'title' => $title,
+	{	'title' => $appname,
 		'skupiny' => $skupiny->{skupina}
 	},
 	"$OUT/s.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
 $t->process('about.html',
-	{	'title' => $title,
+	{	'title' => $appname,
 		'version' => $manifest->{'android:versionName'},
 	},
 	"$OUT/about.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
 $t->process('mohs.html',
-	{	'title' => $title,
+	{	'title' => $appname,
 	},
 	"$OUT/mohs.html",
 	{ binmode => ':utf8' }) or die $t->error;
