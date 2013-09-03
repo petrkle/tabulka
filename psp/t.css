@@ -7,7 +7,7 @@ a:link{color:#000;text-decoration:none;}
 a:visited{color:#000;text-decoration:none;}
 #home{color:#000;}
 #home h1{background:#fd3 url("tabulka-back.png") no-repeat 0 50%;padding-left:60px;}
-h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;}
+h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;white-space:nowrap;overflow:hidden;}
 #prvky{margin:0;padding:0;}
 #prvky li{list-style:none;margin:0;padding:0;}
 .znackaprvku{display:block;float:right;text-align:center;width:3em;background:#ddd;line-height:60px;}
@@ -22,10 +22,7 @@ h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;}
 #atom td{padding:0;border-bottom:1px solid #aaa;}
 #atom td div{padding:10px 1em 10px 15px;}
 #atom td a {display:block;padding:10px 45px 10px 15px;font-weight:normal;background:#fff url("right.png") no-repeat 100% 50%;}
-.about{margin:10px;padding:10px;;text-align:center;}
-.about a,#atom th a,#mohs td a{text-decoration:underline;color:#00f;}
-.about a.button-link{padding:15px 40px;}
-a.button-link{padding:15px;background:#fd3;color:#000;font-weight:bold;text-decoration:none;box-shadow:inset 0 1px 0 rgba(255,255,255,0.4),0 1px 1px rgba(0,0,0,0.2);}
+#atom th a,#mohs td a{text-decoration:underline;color:#00f;}
 #mohs{width:100%;}
 #mohs th{padding:10px 1em 10px 15px;border-top:1px solid #aaa;text-align:center;}
 #mohs td{padding:10px 1em 10px 15px;}

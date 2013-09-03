@@ -1,14 +1,28 @@
 [% INCLUDE header.html %]
 [% USE date %]
 
-<h3>Chemická tabulka [% version %]</h3>
+<table id="mohs" cellspacing="0" cellpadding="0">
+	
+<tr>
+		<td class="vnitrnibunka">Verze</td>
+		<td class="pravyokraj">[% version %]</td>
+</tr>
 
-<div class="about">Vytvořeno [% date.format(mytime, ' %d. %m. %Y').replace(' 0', ' ') %]</div>
+<tr>
+		<td class="vnitrnibunka">Vytvořeno</td>
+		<td class="pravyokraj">[% date.format(mytime, ' %d. %m. %Y').replace(' 0', ' ') %]</td>
+</tr>
 
-<div class="about"><a href="mailto:petr@kle.cz">petr@kle.cz</a></div>
+<tr>
+		<td class="vnitrnibunka">Autor</td>
+		<td class="pravyokraj"><a href="mailto:petr@kle.cz">petr@kle.cz</a></td>
+</tr>
 
-<div class="about">Zdrojový kód: <a href="https://github.com/petrkle/tabulka" target="_blank">github.com/petrkle/tabulka</a></div>
+<tr>
+		<td class="vnitrnibunka">Zdrojový kód</td>
+		<td class="pravyokraj"><a href="https://github.com/petrkle/tabulka" target="_blank">github.com/petrkle/tabulka</a></td>
+</tr>
 
-<div class="about"><a href="index.html" class="button-link">OK</a></div>
+</table>
 
 [% INCLUDE footer.html -%]

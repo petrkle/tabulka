@@ -17,7 +17,7 @@ my $skupenstvi = $xml->XMLin("psp/xml/skupenstvi.xml");
 
 my $manifest = $xml->XMLin("AndroidManifest.xml");
 
-my $title = "Periodická soustva prvků";
+my $title = "Chemická tabulka";
 my $OUT = "assets/www";
 
 my $t = Template->new({
