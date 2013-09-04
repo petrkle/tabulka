@@ -4,7 +4,7 @@
 
 <ul id="prvky">
 [% FOREACH foo IN prvky %]
-<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.lnazev %]"><span class="nazevprvku">[% foo.lnazev %]</span><span class="znackaprvku">[% foo.znackaprvku %]</span></a></li>
+<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.lnazev %]"><span class="nazevprvku">[% foo.lnazev %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
 [% END %]
 </ul>
 
