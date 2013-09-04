@@ -5,3 +5,7 @@ http://kle.cz/tabulka/android
 <a href="http://kle.cz/tabulka/android">
 	<img src="http://kle.cz/tabulka/android.png">
 </a>
+
+<a href="http://kle.cz/tabulka/android">
+	<img src="http://kle.cz/tabulka/devices.png">
+</a>
