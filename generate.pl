@@ -63,6 +63,7 @@ my @sortedbyname = sort {$a->{cnazev} cmp $b->{cnazev}} @prvky;
 my @sortedbyprotcislo = sort {$a->{protcislo} <=> $b->{protcislo}} @prvky;
 my @sortedbyln = sort {$a->{lnazev} cmp $b->{lnazev}} @prvky;
 my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @prvky;
+my @sortedbyah = sort {$a->{athmot} =~ s/,/./r <=> $b->{athmot} =~ s/,/./r} @prvky;
 
 
 $t->process('index.html',
@@ -92,6 +93,13 @@ $t->process('index-zn.html',
 		'title' => $appname,
 	},
 	"$OUT/index-zn.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
+$t->process('index-ah.html',
+	{ 'prvky' => [@sortedbyah],
+		'title' => $appname,
+	},
+	"$OUT/index-ah.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
 for my $perioda (@{$periody->{perioda}}){
