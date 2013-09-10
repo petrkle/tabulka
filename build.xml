@@ -60,6 +60,7 @@
 
 	<target name="-pre-clean">
     <ant target="remove-html" />
+    <ant target="remove-locales" />
 	</target>
 
 	<target name="generate-html">
@@ -72,6 +73,11 @@
 	<target name="remove-html">
 	<echo>Removing html</echo>
 		<delete dir="assets" />
+	</target>
+
+	<target name="remove-locales">
+	<echo>Removing locales</echo>
+		<delete dir="locale" />
 	</target>
 
     <!--
