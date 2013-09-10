@@ -2,7 +2,7 @@
 <prvky>
   <prvek>
     <protcislo>51</protcislo>
-    <cnazev>Antimon</cnazev>
+    <name_cs_CZ>Antimon</name_cs_CZ>
     <znacka>Sb</znacka>
     <lnazev>Stibium</lnazev>
     <athmot>121,75</athmot>
@@ -15,8 +15,8 @@
     <tv>1750</tv>
     <obev>1450</obev>
     <tvrdost>3-3,5</tvrdost>
-    <ennazev>Antimony</ennazev>
-    <denazev>Antimon</denazev>
+    <name_en_US>Antimony</name_en_US>
+    <name_de>Antimon</name_de>
     <frnazev>Antimoine</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;3&lt;/sup&gt;</elconf>
     <tkapacita>0,207</tkapacita>
@@ -32,11 +32,11 @@
     <tvrdostbrinell>294</tvrdostbrinell>
     <perioda>5</perioda>
     <skupina>V.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>33</protcislo>
-    <cnazev>Arsen</cnazev>
+    <name_cs_CZ>Arsen</name_cs_CZ>
     <znacka>As</znacka>
     <lnazev>Arsenicum</lnazev>
     <athmot>74,92159</athmot>
@@ -49,8 +49,8 @@
     <tv>613</tv>
     <obev>1250</obev>
     <tvrdost>3,5</tvrdost>
-    <ennazev>Arsenic</ennazev>
-    <denazev>Arsen</denazev>
+    <name_en_US>Arsenic</name_en_US>
+    <name_de>Arsen</name_de>
     <frnazev>Arsenic</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;3&lt;/sup&gt;</elconf>
     <tkapacita>0,33</tkapacita>
@@ -65,11 +65,11 @@
     <tvrdostbrinell>1440</tvrdostbrinell>
     <perioda>4</perioda>
     <skupina>V.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>85</protcislo>
-    <cnazev>Astat</cnazev>
+    <name_cs_CZ>Astat</name_cs_CZ>
     <znacka>At</znacka>
     <lnazev>Astatum</lnazev>
     <athmot>209,9871</athmot>
@@ -80,8 +80,8 @@
     <tt>302</tt>
     <tv>330</tv>
     <obev>1940</obev>
-    <ennazev>Astatine</ennazev>
-    <denazev>Astat</denazev>
+    <name_en_US>Astatine</name_en_US>
+    <name_de>Astat</name_de>
     <frnazev>Astate</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;5&lt;/sup&gt;</elconf>
     <tvodivost>1,7</tvodivost>
@@ -89,11 +89,11 @@
     <ionizacnipotencial1>9,5</ionizacnipotencial1>
     <perioda>6</perioda>
     <skupina>VII.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>5</protcislo>
-    <cnazev>Bor</cnazev>
+    <name_cs_CZ>Bor</name_cs_CZ>
     <znacka>B</znacka>
     <lnazev>Borum</lnazev>
     <athmot>10,811</athmot>
@@ -106,8 +106,8 @@
     <tv>2550</tv>
     <obev>1808</obev>
     <tvrdost>9,3</tvrdost>
-    <ennazev>Boron</ennazev>
-    <denazev>Bor</denazev>
+    <name_en_US>Boron</name_en_US>
+    <name_de>Bor</name_de>
     <frnazev>Bore</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>1,026</tkapacita>
@@ -121,11 +121,11 @@
     <tvrdostvickers>4,9.10&lt;sup&gt;4&lt;/sup&gt;</tvrdostvickers>
     <perioda>2</perioda>
     <skupina>III.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>32</protcislo>
-    <cnazev>Germanium</cnazev>
+    <name_cs_CZ>Germanium</name_cs_CZ>
     <znacka>Ge</znacka>
     <lnazev>Germanium</lnazev>
     <athmot>72,61</athmot>
@@ -138,8 +138,8 @@
     <tv>2830</tv>
     <obev>1885</obev>
     <tvrdost>6,25</tvrdost>
-    <ennazev>Germanium</ennazev>
-    <denazev>Germanium</denazev>
+    <name_en_US>Germanium</name_en_US>
+    <name_de>Germanium</name_de>
     <frnazev>Germanium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,32</tkapacita>
@@ -150,11 +150,11 @@
     <elektrickavodivost>2.10&lt;sup&gt;3&lt;/sup&gt;</elektrickavodivost>
     <perioda>4</perioda>
     <skupina>IV.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>14</protcislo>
-    <cnazev>Křemík</cnazev>
+    <name_cs_CZ>Křemík</name_cs_CZ>
     <znacka>Si</znacka>
     <lnazev>Silicium</lnazev>
     <athmot>28,0855</athmot>
@@ -167,8 +167,8 @@
     <tv>2355</tv>
     <obev>1824</obev>
     <tvrdost>7,0</tvrdost>
-    <ennazev>Silicon</ennazev>
-    <denazev>Silicium</denazev>
+    <name_en_US>Silicon</name_en_US>
+    <name_de>Silicium</name_de>
     <frnazev>Silicium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,70</tkapacita>
@@ -182,11 +182,11 @@
     <elektrickavodivost>4.10&lt;sup&gt;2&lt;/sup&gt;</elektrickavodivost>
     <perioda>3</perioda>
     <skupina>IV.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>52</protcislo>
-    <cnazev>Tellur</cnazev>
+    <name_cs_CZ>Tellur</name_cs_CZ>
     <znacka>Te</znacka>
     <lnazev>Tellurium</lnazev>
     <athmot>127,60</athmot>
@@ -199,8 +199,8 @@
     <tv>1100</tv>
     <obev>1782</obev>
     <tvrdost>2,3</tvrdost>
-    <ennazev>Tellurium</ennazev>
-    <denazev>Tellur</denazev>
+    <name_en_US>Tellurium</name_en_US>
+    <name_de>Tellur</name_de>
     <frnazev>Tellure</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;4&lt;/sup&gt;</elconf>
     <tkapacita>0,202</tkapacita>
@@ -216,6 +216,6 @@
     <tvrdostbrinell>180</tvrdostbrinell>
     <perioda>5</perioda>
     <skupina>VI.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
 </prvky>

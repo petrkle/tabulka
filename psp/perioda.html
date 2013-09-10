@@ -1,10 +1,7 @@
-[% USE Filter.MinifyHTML( comments => 1) -%]
-[% FILTER minify_html -%]
-[% IF perioda %]
-[% title = "${perioda}. perioda" %]
-[% titlelink="p.html" %]
-[% END %]
-
+[% IF perioda -%]
+[% title = "${perioda}. " _ l('period') -%]
+[% titlelink="p.html" -%]
+[% END -%]
 [% INCLUDE header.html %]
 
 <ul id="prvky">
@@ -13,17 +10,16 @@
 	[% IF perioda == per.cislo %]
 		[% FOREACH foo IN prvky %]
 		[% IF foo.perioda == perioda %]
-		<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% foo.cnazev %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
+		<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
 		[% END %]
 		[% END %]
 	[% END %]
 [% END %]
 [% ELSE %]
 [% FOREACH per IN periody %]
-	<li><a href="p[% per.cislo %].html" class="radek closed">[% per.cislo %]. perioda</a></li>
+	<li><a href="p[% per.cislo %].html" class="radek closed">[% per.cislo %]. [% l('period') %]</a></li>
 [% END %]
 [% END %]
 </ul>
 
 [% INCLUDE footer.html -%]
-[% END -%]

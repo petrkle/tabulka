@@ -2,7 +2,7 @@
 <prvky>
   <prvek>
     <protcislo>35</protcislo>
-    <cnazev>Brom</cnazev>
+    <name_cs_CZ>Brom</name_cs_CZ>
     <znacka>Br</znacka>
     <lnazev>Bromum</lnazev>
     <athmot>79,904</athmot>
@@ -14,8 +14,8 @@
     <tt>-7,25</tt>
     <tv>58,78</tv>
     <obev>1826</obev>
-    <ennazev>Bromine</ennazev>
-    <denazev>Brom</denazev>
+    <name_en_US>Bromine</name_en_US>
+    <name_de>Brom</name_de>
     <frnazev>Brome</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;5&lt;/sup&gt;</elconf>
     <tkapacita>0,226</tkapacita>
@@ -30,11 +30,11 @@
     <elektrickavodivost>1.10&lt;sup&gt;-10&lt;/sup&gt;</elektrickavodivost>
     <perioda>4</perioda>
     <skupina>VII.A</skupina>
-    <skupenstvi>l</skupenstvi>
+    <state>l</state>
   </prvek>
   <prvek>
     <protcislo>17</protcislo>
-    <cnazev>Chlor</cnazev>
+    <name_cs_CZ>Chlor</name_cs_CZ>
     <znacka>Cl</znacka>
     <lnazev>Chlorum</lnazev>
     <athmot>35,4527</athmot>
@@ -46,8 +46,8 @@
     <tt>-100,98</tt>
     <tv>-34,6</tv>
     <obev>1774</obev>
-    <ennazev>Chlorine</ennazev>
-    <denazev>Chlor</denazev>
+    <name_en_US>Chlorine</name_en_US>
+    <name_de>Chlor</name_de>
     <frnazev>Chlore</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;5&lt;/sup&gt;</elconf>
     <tkapacita>0,48</tkapacita>
@@ -61,11 +61,11 @@
     <ionizacnipotencial3>39,611</ionizacnipotencial3>
     <perioda>3</perioda>
     <skupina>VII.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>9</protcislo>
-    <cnazev>Fluor</cnazev>
+    <name_cs_CZ>Fluor</name_cs_CZ>
     <znacka>F</znacka>
     <lnazev>Fluorum</lnazev>
     <athmot>18,9984032</athmot>
@@ -77,8 +77,8 @@
     <tt>-219,62</tt>
     <tv>-188,14</tv>
     <obev>1886</obev>
-    <ennazev>Fluorine</ennazev>
-    <denazev>Fluor</denazev>
+    <name_en_US>Fluorine</name_en_US>
+    <name_de>Fluor</name_de>
     <frnazev>Fluor</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;5&lt;/sup&gt;</elconf>
     <tkapacita>0,824</tkapacita>
@@ -92,11 +92,11 @@
     <ionizacnipotencial3>62,707</ionizacnipotencial3>
     <perioda>2</perioda>
     <skupina>VII.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>53</protcislo>
-    <cnazev>Jod</cnazev>
+    <name_cs_CZ>Jod</name_cs_CZ>
     <znacka>I</znacka>
     <lnazev>Iodium</lnazev>
     <athmot>126,90447</athmot>
@@ -108,8 +108,8 @@
     <tt>113,5</tt>
     <tv>184,35</tv>
     <obev>1811</obev>
-    <ennazev>Iodine</ennazev>
-    <denazev>Iod</denazev>
+    <name_en_US>Iodine</name_en_US>
+    <name_de>Iod</name_de>
     <frnazev>Iode</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;5&lt;/sup&gt;</elconf>
     <tkapacita>0,145</tkapacita>
@@ -124,6 +124,6 @@
     <elektrickavodivost>1.10&lt;sup&gt;-7&lt;/sup&gt;</elektrickavodivost>
     <perioda>5</perioda>
     <skupina>VII.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
 </prvky>

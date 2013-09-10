@@ -1,27 +1,25 @@
-[% USE Filter.MinifyHTML( comments => 1) -%]
-[% FILTER minify_html -%]
 [% INCLUDE header.html %]
 [% USE date %]
 
 <table id="mohs" cellspacing="0" cellpadding="0">
 	
 <tr>
-		<td class="vnitrnibunka">Verze</td>
+		<td class="vnitrnibunka">[% l('Version') %]</td>
 		<td class="pravyokraj">[% version %]</td>
 </tr>
 
 <tr>
-		<td class="vnitrnibunka">Vytvořeno</td>
+		<td class="vnitrnibunka">[% l('Created') %]</td>
 		<td class="pravyokraj">[% date.format(mytime, ' %d. %m. %Y').replace(' 0', ' ') %]</td>
 </tr>
 
 <tr>
 		<td class="vnitrnibunka">Google Play</td>
-		<td class="pravyokraj"><a href="market://details?id=cz.kle.tabulka">Napsat recenzi</a></td>
+		<td class="pravyokraj"><a href="market://details?id=cz.kle.tabulka">[% l('Write review') %]</a></td>
 </tr>
 
 <tr>
-		<td class="vnitrnibunka">Autor</td>
+		<td class="vnitrnibunka">[% l('Author') %]</td>
 		<td class="pravyokraj"><a href="mailto:petr@kle.cz">petr@kle.cz</a></td>
 </tr>
 
@@ -34,4 +32,3 @@
 <p style="text-align:center"><a href="index.html"><img src="../z.png" /></a></p>
 
 [% INCLUDE footer.html -%]
-[% END -%]

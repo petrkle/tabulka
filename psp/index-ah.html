@@ -1,9 +1,8 @@
-[% title = "Atomová hmotnost" -%]
 [% INCLUDE header.html %]
 
 <ul id="prvky">
 [% FOREACH foo IN prvky %]
-<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.protcislo %]"><span class="nazevprvku">[% foo.cnazev %]</span><span class="ahprvku">[% foo.athmot %]</span></a></li>
+<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.protcislo %]"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="ahprvku">[% foo.athmot %]</span></a></li>
 [% END %]
 </ul>
 

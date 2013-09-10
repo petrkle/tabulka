@@ -2,7 +2,7 @@
 <prvky>
   <prvek>
     <protcislo>7</protcislo>
-    <cnazev>Dusík</cnazev>
+    <name_cs_CZ>Dusík</name_cs_CZ>
     <znacka>N</znacka>
     <lnazev>Nitrogenium</lnazev>
     <athmot>14,00674</athmot>
@@ -14,8 +14,8 @@
     <tt>-209,79</tt>
     <tv>-195,802</tv>
     <obev>1772</obev>
-    <ennazev>Nitrogen</ennazev>
-    <denazev>Stickstoff</denazev>
+    <name_en_US>Nitrogen</name_en_US>
+    <name_de>Stickstoff</name_de>
     <frnazev>Azote</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;3&lt;/sup&gt;</elconf>
     <tkapacita>1,042</tkapacita>
@@ -29,11 +29,11 @@
     <ionizacnipotencial3>47,448</ionizacnipotencial3>
     <perioda>2</perioda>
     <skupina>V.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>15</protcislo>
-    <cnazev>Fosfor</cnazev>
+    <name_cs_CZ>Fosfor</name_cs_CZ>
     <znacka>P</znacka>
     <lnazev>Phosphorus</lnazev>
     <athmot>30,973762</athmot>
@@ -45,8 +45,8 @@
     <tt>44,1</tt>
     <tv>280</tv>
     <obev>1669</obev>
-    <ennazev>Phosphorus</ennazev>
-    <denazev>Phosphor</denazev>
+    <name_en_US>Phosphorus</name_en_US>
+    <name_de>Phosphor</name_de>
     <frnazev>Phosphore</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;3&lt;/sup&gt;</elconf>
     <tkapacita>0,769</tkapacita>
@@ -59,11 +59,11 @@
     <elektrickavodivost>1.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <perioda>3</perioda>
     <skupina>V.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>8</protcislo>
-    <cnazev>Kyslík</cnazev>
+    <name_cs_CZ>Kyslík</name_cs_CZ>
     <znacka>O</znacka>
     <lnazev>Oxygenium</lnazev>
     <athmot>15,9994</athmot>
@@ -75,8 +75,8 @@
     <tt>-218,79</tt>
     <tv>-182,962</tv>
     <obev>1774</obev>
-    <ennazev>Oxygen</ennazev>
-    <denazev>Sauerstoff</denazev>
+    <name_en_US>Oxygen</name_en_US>
+    <name_de>Sauerstoff</name_de>
     <frnazev>Oxygéne</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;4&lt;/sup&gt;</elconf>
     <tkapacita>0,92</tkapacita>
@@ -90,11 +90,11 @@
     <ionizacnipotencial3>54,934</ionizacnipotencial3>
     <perioda>2</perioda>
     <skupina>VI.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>34</protcislo>
-    <cnazev>Selen</cnazev>
+    <name_cs_CZ>Selen</name_cs_CZ>
     <znacka>Se</znacka>
     <lnazev>Selenium</lnazev>
     <athmot>78,96</athmot>
@@ -107,8 +107,8 @@
     <tv>685</tv>
     <obev>1817</obev>
     <tvrdost>2,0</tvrdost>
-    <ennazev>Selenium</ennazev>
-    <denazev>Selen</denazev>
+    <name_en_US>Selenium</name_en_US>
+    <name_de>Selen</name_de>
     <frnazev>Sélénium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;4&lt;/sup&gt;</elconf>
     <tkapacita>0,32</tkapacita>
@@ -124,11 +124,11 @@
     <tvrdostbrinell>736</tvrdostbrinell>
     <perioda>4</perioda>
     <skupina>VI.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>16</protcislo>
-    <cnazev>Síra</cnazev>
+    <name_cs_CZ>Síra</name_cs_CZ>
     <znacka>S</znacka>
     <lnazev>Sulphur</lnazev>
     <athmot>32,066</athmot>
@@ -140,8 +140,8 @@
     <tt>112,8</tt>
     <tv>444,674</tv>
     <tvrdost>2,0</tvrdost>
-    <ennazev>Sulfur</ennazev>
-    <denazev>Schwefel</denazev>
+    <name_en_US>Sulfur</name_en_US>
+    <name_de>Schwefel</name_de>
     <frnazev>Soufre</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;4&lt;/sup&gt;</elconf>
     <tkapacita>0,71</tkapacita>
@@ -156,11 +156,11 @@
     <elektrickavodivost>5.10&lt;sup&gt;-14&lt;/sup&gt;</elektrickavodivost>
     <perioda>3</perioda>
     <skupina>VI.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>6</protcislo>
-    <cnazev>Uhlík</cnazev>
+    <name_cs_CZ>Uhlík</name_cs_CZ>
     <znacka>C</znacka>
     <lnazev>Carboneum</lnazev>
     <athmot>12,011</athmot>
@@ -172,8 +172,8 @@
     <tt>3550</tt>
     <tv>4827</tv>
     <tvrdost>10</tvrdost>
-    <ennazev>Carbon</ennazev>
-    <denazev>Kohlenstoff</denazev>
+    <name_en_US>Carbon</name_en_US>
+    <name_de>Kohlenstoff</name_de>
     <frnazev>Carbone</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,709</tkapacita>
@@ -186,11 +186,11 @@
     <elektrickavodivost>1.10&lt;sup&gt;5&lt;/sup&gt;</elektrickavodivost>
     <perioda>2</perioda>
     <skupina>IV.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>1</protcislo>
-    <cnazev>Vodík</cnazev>
+    <name_cs_CZ>Vodík</name_cs_CZ>
     <znacka>H</znacka>
     <lnazev>Hydrogenium</lnazev>
     <athmot>1,00794</athmot>
@@ -202,8 +202,8 @@
     <tt>-259,34</tt>
     <tv>-252,87</tv>
     <obev>1766</obev>
-    <ennazev>Hydrogen</ennazev>
-    <denazev>Wasserstoff</denazev>
+    <name_en_US>Hydrogen</name_en_US>
+    <name_de>Wasserstoff</name_de>
     <frnazev>Hydrogéne</frnazev>
     <elconf>1s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>14,304</tkapacita>
@@ -214,6 +214,6 @@
     <kovalentnipolomer>37</kovalentnipolomer>
     <perioda>1</perioda>
     <skupina>I.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
 </prvky>

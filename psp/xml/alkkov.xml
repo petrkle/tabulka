@@ -2,7 +2,7 @@
 <prvky>
   <prvek>
     <protcislo>55</protcislo>
-    <cnazev>Cesium</cnazev>
+    <name_cs_CZ>Cesium</name_cs_CZ>
     <znacka>Cs</znacka>
     <lnazev>Caesium</lnazev>
     <athmot>132,90543</athmot>
@@ -15,8 +15,8 @@
     <tv>700</tv>
     <obev>1860</obev>
     <tvrdost>0,2</tvrdost>
-    <ennazev>Cesium</ennazev>
-    <denazev>Caesium</denazev>
+    <name_en_US>Cesium</name_en_US>
+    <name_de>Caesium</name_de>
     <frnazev>Césium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 6s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>0,24</tkapacita>
@@ -31,11 +31,11 @@
     <elektrickavodivost>5,3.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <perioda>6</perioda>
     <skupina>I.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>19</protcislo>
-    <cnazev>Draslík</cnazev>
+    <name_cs_CZ>Draslík</name_cs_CZ>
     <znacka>K</znacka>
     <lnazev>Kalium</lnazev>
     <athmot>39,0983</athmot>
@@ -48,8 +48,8 @@
     <tv>760</tv>
     <obev>1807</obev>
     <tvrdost>0,5</tvrdost>
-    <ennazev>Potassium</ennazev>
-    <denazev>Kalium</denazev>
+    <name_en_US>Potassium</name_en_US>
+    <name_de>Kalium</name_de>
     <frnazev>Potassium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 4s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>0,757</tkapacita>
@@ -65,11 +65,11 @@
     <tvrdostbrinell>0,363</tvrdostbrinell>
     <perioda>4</perioda>
     <skupina>I.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>87</protcislo>
-    <cnazev>Francium</cnazev>
+    <name_cs_CZ>Francium</name_cs_CZ>
     <znacka>Fr</znacka>
     <lnazev>Francium</lnazev>
     <athmot>223,019</athmot>
@@ -80,18 +80,18 @@
     <tt>27</tt>
     <tv>677</tv>
     <obev>1939</obev>
-    <ennazev>Francium</ennazev>
-    <denazev>Francium</denazev>
+    <name_en_US>Francium</name_en_US>
+    <name_de>Francium</name_de>
     <frnazev>Francium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 7s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tvodivost>15</tvodivost>
     <perioda>7</perioda>
     <skupina>I.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>3</protcislo>
-    <cnazev>Lithium</cnazev>
+    <name_cs_CZ>Lithium</name_cs_CZ>
     <znacka>Li</znacka>
     <lnazev>Lithium</lnazev>
     <athmot>6,941</athmot>
@@ -104,8 +104,8 @@
     <tv>1347</tv>
     <obev>1870</obev>
     <tvrdost>0,6</tvrdost>
-    <ennazev>Lithium</ennazev>
-    <denazev>Lithium</denazev>
+    <name_en_US>Lithium</name_en_US>
+    <name_de>Lithium</name_de>
     <frnazev>Lithium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>3,582</tkapacita>
@@ -119,11 +119,11 @@
     <elektrickavodivost>1,17.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <perioda>2</perioda>
     <skupina>I.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>37</protcislo>
-    <cnazev>Rubidium</cnazev>
+    <name_cs_CZ>Rubidium</name_cs_CZ>
     <znacka>Rb</znacka>
     <lnazev>Rubidium</lnazev>
     <athmot>85,4678</athmot>
@@ -136,8 +136,8 @@
     <tv>688</tv>
     <obev>1861</obev>
     <tvrdost>0,3</tvrdost>
-    <ennazev>Rubidium</ennazev>
-    <denazev>Rubidium</denazev>
+    <name_en_US>Rubidium</name_en_US>
+    <name_de>Rubidium</name_de>
     <frnazev>Rubidium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>0,363</tkapacita>
@@ -154,11 +154,11 @@
     <tvrdostbrinell>0,216</tvrdostbrinell>
     <perioda>5</perioda>
     <skupina>I.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>11</protcislo>
-    <cnazev>Sodík</cnazev>
+    <name_cs_CZ>Sodík</name_cs_CZ>
     <znacka>Na</znacka>
     <lnazev>Natrium</lnazev>
     <athmot>22,98768</athmot>
@@ -171,8 +171,8 @@
     <tv>882,9</tv>
     <obev>1807</obev>
     <tvrdost>0,4</tvrdost>
-    <ennazev>Sodium</ennazev>
-    <denazev>Natrium</denazev>
+    <name_en_US>Sodium</name_en_US>
+    <name_de>Natrium</name_de>
     <frnazev>Sodium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>1,23</tkapacita>
@@ -190,6 +190,6 @@
     <tvrdostbrinell>0,69</tvrdostbrinell>
     <perioda>3</perioda>
     <skupina>I.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
 </prvky>

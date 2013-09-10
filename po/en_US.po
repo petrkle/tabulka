@@ -1,5 +1,5 @@
-# Periodic table.
-# Copyright (C) 2013 Petr Kletečka
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -18,19 +18,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Chemická tabulka"
+msgstr "Periodic Table"
 
 msgid "Settings"
-msgstr "Nastavení"
+msgstr "Settings"
 
 msgid "About"
-msgstr "O programu"
+msgstr "About"
 
 msgid "English"
-msgstr "Angličtina"
+msgstr "English"
 
 msgid "Czech"
-msgstr "Čeština"
+msgstr "Czech"
 
 msgid "Default language"
-msgstr "Výchozí jazyk"
+msgstr "Default language"
+
+msgid "State"
+msgstr "State"
+
+msgid "Solid"
+msgstr "Solid"
+
+msgid "Liquid"
+msgstr "Liquid"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Symbol"
+msgstr "Symbol"
+
+msgid "Atomic number"
+msgstr "Atomic number"
+
+msgid "Period"
+msgstr "Period"
+
+msgid "Element category"
+msgstr "Element category"
+
+msgid "Relative atomic mass"
+msgstr "Relative atomic mass"

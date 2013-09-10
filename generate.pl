@@ -9,14 +9,17 @@ use XML::Simple;
 use File::Copy;
 use File::Basename;
 use Locale::TextDomain ( 'ptable' ,  './locale/' );
-use POSIX qw (setlocale LC_ALL);
+use POSIX qw (setlocale LC_ALL LC_COLLATE);
+use locale;
 use Locale::Messages qw (nl_putenv);
 use Encode;
 Locale::Messages->select_package ('gettext_pp');
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
-    return decode('UTF-8', __(shift));
+	return decode('UTF-8', __(shift));
 };
+
+system("cd po && make");
 
 my @langs = get_langs();
 
@@ -28,13 +31,11 @@ my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
 
 my $periody = $xml->XMLin("psp/xml/periody.xml");
 
-my $skupenstvi = $xml->XMLin("psp/xml/skupenstvi.xml");
+my $state = $xml->XMLin("psp/xml/state.xml");
 
 my $manifest = $xml->XMLin("AndroidManifest.xml");
 
-my $strings = $xml->XMLin("res/values/strings.xml");
-
-#my $appname = $strings->{'string'}{'content'};
+my $appname = 'Periodic Table';
 
 my $OUT = "assets/www";
 
@@ -44,12 +45,13 @@ my $t = Template->new({
 });
 
 foreach my $lang (@langs){
-	nl_putenv("LANGUAGE=$lang");
-	nl_putenv("LANG=$lang");
-	setlocale(LC_ALL, $lang);
-	mkdir("$OUT/$lang");
 
-	my $appname = 'Periodic Table';
+	nl_putenv("LANGUAGE=$lang.UTF-8");
+	nl_putenv("LANG=$lang.UTF-8");
+	nl_putenv("LC_COLLATE=$lang");
+	setlocale(LC_ALL, $lang.".UTF-8");
+	setlocale(LC_COLLATE, $lang.".UTF-8");
+	mkdir("$OUT/$lang");
 
 	my @prvky;
 
@@ -62,6 +64,7 @@ foreach my $lang (@langs){
 				'cur' => $druh->{'zkratka'},
 				'cur_l' => $druh->{'nazev'},
 				'title' => $appname,
+		  	'elementname' => "name_$lang",
 				'druhy' => $druhy->{druh}
 			},
 			"$OUT/$lang/$druh->{'zkratka'}.html",
@@ -70,7 +73,8 @@ foreach my $lang (@langs){
 		for my $prvek (@{$data->{prvek}}){
 		 $t->process('prvek.html',
 			 { 'prvek' => $prvek,
-				 'skupenstvi' => $skupenstvi->{'skupenstvi'},
+				 'elementname' => "name_$lang",
+				 'state' => $state->{'state'},
 				 'cur' => $druh->{'zkratka'},
 				 'cur_l' => $druh->{'nazev'},
 				 title => $appname
@@ -83,8 +87,7 @@ foreach my $lang (@langs){
 
 	}
 
-
-	my @sortedbyname = sort {$a->{cnazev} cmp $b->{cnazev}} @prvky;
+	my @sortedbyname = sort {$a->{"name_$lang"} cmp $b->{"name_$lang"}} @prvky;
 	my @sortedbyprotcislo = sort {$a->{protcislo} <=> $b->{protcislo}} @prvky;
 	my @sortedbyln = sort {$a->{lnazev} cmp $b->{lnazev}} @prvky;
 	my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @prvky;
@@ -97,6 +100,7 @@ foreach my $lang (@langs){
 				'cur' => $skupina->{'zkratka'},
 				'cur_l' => $skupina->{'nazev'},
 				'title' => $appname,
+		  	'elementname' => "name_$lang",
 				'skupiny' => $skupiny->{skupina}
 			},
 			"$OUT/$lang/$skupina->{'zkratka'}.html",
@@ -106,6 +110,7 @@ foreach my $lang (@langs){
 	$t->process('index-name.html',
 		{ 'prvky' => [@sortedbyname],
 			'title' => $appname,
+		  'elementname' => "name_$lang",
 			'nohomelink' => 'true'
 		},
 		"$OUT/$lang/index.html",
@@ -113,28 +118,32 @@ foreach my $lang (@langs){
 
 	$t->process('index-pc.html',
 		{ 'prvky' => [@sortedbyprotcislo],
-			'title' => $appname,
+			'title' => 'Atomic number',
+		  'elementname' => "name_$lang",
 		},
 		"$OUT/$lang/index-pc.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-ln.html',
 		{ 'prvky' => [@sortedbyln],
-			'title' => $appname,
+			'title' => 'Latin name',
+		  'elementname' => "name_$lang",
 		},
 		"$OUT/$lang/index-ln.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-zn.html',
 		{ 'prvky' => [@sortedbyzn],
-			'title' => $appname,
+			'title' => 'Symbol',
+		  'elementname' => "name_$lang",
 		},
 		"$OUT/$lang/index-zn.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-ah.html',
 		{ 'prvky' => [@sortedbyah],
-			'title' => $appname,
+			'title' => 'Atomic mass',
+		  'elementname' => "name_$lang",
 		},
 		"$OUT/$lang/index-ah.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -152,6 +161,7 @@ foreach my $lang (@langs){
 			{ 'prvky' => [@sortedbyname],
 				'periody' => $periody->{perioda},
 				'perioda' => $perioda->{'cislo'},
+		  	'elementname' => "name_$lang",
 				'title' => $appname
 			},
 			"$OUT/$lang/p$perioda->{'cislo'}.html",
@@ -160,13 +170,15 @@ foreach my $lang (@langs){
 
 	$t->process('perioda.html',
 		{ 'periody' => $periody->{perioda},
-			'title' => $appname
+			'title' => 'Period',
+		  'elementname' => "name_$lang",
 		},
 		"$OUT/$lang/p.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('druh.html',
 		{	'title' => $appname,
+		  'elementname' => "name_$lang",
 			'druhy' => $druhy->{druh}
 		},
 		"$OUT/$lang/d.html",

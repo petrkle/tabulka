@@ -2,7 +2,7 @@
 <prvky>
   <prvek>
     <protcislo>18</protcislo>
-    <cnazev>Argon</cnazev>
+    <name_cs_CZ>Argon</name_cs_CZ>
     <znacka>Ar</znacka>
     <lnazev>Argon</lnazev>
     <athmot>39,948</athmot>
@@ -12,8 +12,8 @@
     <tt>-189,4</tt>
     <tv>-185,87</tv>
     <obev>1894</obev>
-    <ennazev>Argon</ennazev>
-    <denazev>Argon</denazev>
+    <name_en_US>Argon</name_en_US>
+    <name_de>Argon</name_de>
     <frnazev>Argon</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt;</elconf>
     <tkapacita>0,52</tkapacita>
@@ -27,11 +27,11 @@
     <ionizacnipotencial3>40,74</ionizacnipotencial3>
     <perioda>3</perioda>
     <skupina>VIII.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>2</protcislo>
-    <cnazev>Helium</cnazev>
+    <name_cs_CZ>Helium</name_cs_CZ>
     <znacka>He</znacka>
     <lnazev>Helium</lnazev>
     <athmot>4,002602</athmot>
@@ -41,8 +41,8 @@
     <tt>-272,12</tt>
     <tv>-266,934</tv>
     <obev>1868</obev>
-    <ennazev>Helium</ennazev>
-    <denazev>Helium</denazev>
+    <name_en_US>Helium</name_en_US>
+    <name_de>Helium</name_de>
     <frnazev>Hélium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>5,193</tkapacita>
@@ -53,11 +53,11 @@
     <kovalentnipolomer>32</kovalentnipolomer>
     <perioda>1</perioda>
     <skupina>VIII.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>36</protcislo>
-    <cnazev>Krypton</cnazev>
+    <name_cs_CZ>Krypton</name_cs_CZ>
     <znacka>Kr</znacka>
     <lnazev>Krypton</lnazev>
     <athmot>83,8</athmot>
@@ -68,8 +68,8 @@
     <tt>-157,10</tt>
     <tv>-152,30</tv>
     <obev>1898</obev>
-    <ennazev>Krypton</ennazev>
-    <denazev>Krypton</denazev>
+    <name_en_US>Krypton</name_en_US>
+    <name_de>Krypton</name_de>
     <frnazev>Krypton</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt;</elconf>
     <tkapacita>0,248</tkapacita>
@@ -83,11 +83,11 @@
     <ionizacnipotencial3>36,95</ionizacnipotencial3>
     <perioda>4</perioda>
     <skupina>VIII.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>10</protcislo>
-    <cnazev>Neon</cnazev>
+    <name_cs_CZ>Neon</name_cs_CZ>
     <znacka>Ne</znacka>
     <lnazev>Neon</lnazev>
     <athmot>20,1797</athmot>
@@ -97,8 +97,8 @@
     <tt>-248,67</tt>
     <tv>-246,048</tv>
     <obev>1898</obev>
-    <ennazev>Neon</ennazev>
-    <denazev>Neon</denazev>
+    <name_en_US>Neon</name_en_US>
+    <name_de>Neon</name_de>
     <frnazev>Néon</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt;</elconf>
     <tkapacita>1,03</tkapacita>
@@ -112,11 +112,11 @@
     <ionizacnipotencial3>63,45</ionizacnipotencial3>
     <perioda>2</perioda>
     <skupina>VIII.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>86</protcislo>
-    <cnazev>Radon</cnazev>
+    <name_cs_CZ>Radon</name_cs_CZ>
     <znacka>Rn</znacka>
     <lnazev>Radon</lnazev>
     <athmot>222,0176</athmot>
@@ -127,8 +127,8 @@
     <tt>-71</tt>
     <tv>-61,8</tv>
     <obev>1900</obev>
-    <ennazev>Radon</ennazev>
-    <denazev>Radon</denazev>
+    <name_en_US>Radon</name_en_US>
+    <name_de>Radon</name_de>
     <frnazev>Radon</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt;</elconf>
     <tkapacita>0,094</tkapacita>
@@ -140,11 +140,11 @@
     <ionizacnipotencial1>10,7485</ionizacnipotencial1>
     <perioda>6</perioda>
     <skupina>VIII.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
   <prvek>
     <protcislo>54</protcislo>
-    <cnazev>Xenon</cnazev>
+    <name_cs_CZ>Xenon</name_cs_CZ>
     <znacka>Xe</znacka>
     <lnazev>Xenon</lnazev>
     <athmot>131,29</athmot>
@@ -155,8 +155,8 @@
     <tt>-111,82</tt>
     <tv>-108,12</tv>
     <obev>1898</obev>
-    <ennazev>Xenon</ennazev>
-    <denazev>Xenon</denazev>
+    <name_en_US>Xenon</name_en_US>
+    <name_de>Xenon</name_de>
     <frnazev>Xénon</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt;</elconf>
     <tkapacita>0,158</tkapacita>
@@ -170,6 +170,6 @@
     <ionizacnipotencial3>32,1</ionizacnipotencial3>
     <perioda>5</perioda>
     <skupina>VIII.A</skupina>
-    <skupenstvi>g</skupenstvi>
+    <state>g</state>
   </prvek>
 </prvky>

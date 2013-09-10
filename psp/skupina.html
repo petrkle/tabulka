@@ -1,17 +1,14 @@
-[% USE Filter.MinifyHTML( comments => 1) -%]
-[% FILTER minify_html -%]
-[% IF cur_l %]
-[% title = "${cur_l} skupina" %]
-[% titlelink="s.html" %]
-[% END %]
-
+[% IF cur_l -%]
+[% title = "${cur_l} " _ l('group') -%]
+[% titlelink="s.html" -%]
+[% END -%]
 [% INCLUDE header.html %]
 
 <ul id="prvky">
 [% IF cur_l %]
 [% FOREACH prvek IN prvky %]
 	[% IF cur_l == prvek.skupina %]
-	<li><a name="[% prvek.lnazev FILTER lower %]"></a><a href="[% prvek.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% prvek.cnazev %]</span><span class="znackaprvku">[% prvek.znacka %]</span></a></li>
+	<li><a name="[% prvek.lnazev FILTER lower %]"></a><a href="[% prvek.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% prvek.${elementname} %]</span><span class="znackaprvku">[% prvek.znacka %]</span></a></li>
 	[% END %]
 [% END %]
 [% ELSE %]
@@ -22,4 +19,3 @@
 </ul>
 
 [% INCLUDE footer.html -%]
-[% END -%]

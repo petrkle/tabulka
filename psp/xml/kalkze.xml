@@ -2,7 +2,7 @@
 <prvky>
   <prvek>
     <protcislo>56</protcislo>
-    <cnazev>Baryum</cnazev>
+    <name_cs_CZ>Baryum</name_cs_CZ>
     <znacka>Ba</znacka>
     <lnazev>Baryum</lnazev>
     <athmot>137,327</athmot>
@@ -15,8 +15,8 @@
     <tv>1640</tv>
     <obev>1808</obev>
     <tvrdost>1,25</tvrdost>
-    <ennazev>Barium</ennazev>
-    <denazev>Barium</denazev>
+    <name_en_US>Barium</name_en_US>
+    <name_de>Barium</name_de>
     <frnazev>Baryum</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,204</tkapacita>
@@ -28,11 +28,11 @@
     <elektrickavodivost>2,8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <perioda>6</perioda>
     <skupina>II.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>88</protcislo>
-    <cnazev>Radium</cnazev>
+    <name_cs_CZ>Radium</name_cs_CZ>
     <znacka>Ra</znacka>
     <lnazev>Radium</lnazev>
     <athmot>226,0254</athmot>
@@ -44,8 +44,8 @@
     <tt>700</tt>
     <tv>1140</tv>
     <obev>1898</obev>
-    <ennazev>Radium</ennazev>
-    <denazev>Radium</denazev>
+    <name_en_US>Radium</name_en_US>
+    <name_de>Radium</name_de>
     <frnazev>Radium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,094</tkapacita>
@@ -55,11 +55,11 @@
     <elektrickavodivost>10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <perioda>7</perioda>
     <skupina>II.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>38</protcislo>
-    <cnazev>Stroncium</cnazev>
+    <name_cs_CZ>Stroncium</name_cs_CZ>
     <znacka>Sr</znacka>
     <lnazev>Strontium</lnazev>
     <athmot>87,62</athmot>
@@ -72,8 +72,8 @@
     <tv>1384</tv>
     <obev>1790</obev>
     <tvrdost>1,8</tvrdost>
-    <ennazev>Strontium</ennazev>
-    <denazev>Strontium</denazev>
+    <name_en_US>Strontium</name_en_US>
+    <name_de>Strontium</name_de>
     <frnazev>Strontium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,3</tkapacita>
@@ -86,11 +86,11 @@
     <elektrickavodivost>2.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <perioda>5</perioda>
     <skupina>II.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>20</protcislo>
-    <cnazev>Vápník</cnazev>
+    <name_cs_CZ>Vápník</name_cs_CZ>
     <znacka>Ca</znacka>
     <lnazev>Calcium</lnazev>
     <athmot>40,078</athmot>
@@ -103,8 +103,8 @@
     <tv>1484</tv>
     <obev>1808</obev>
     <tvrdost>1,5-2</tvrdost>
-    <ennazev>Calcium</ennazev>
-    <denazev>Calcium</denazev>
+    <name_en_US>Calcium</name_en_US>
+    <name_de>Calcium</name_de>
     <frnazev>Calcium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,647</tkapacita>
@@ -118,6 +118,6 @@
     <tvrdostbrinell>167</tvrdostbrinell>
     <perioda>4</perioda>
     <skupina>II.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
 </prvky>

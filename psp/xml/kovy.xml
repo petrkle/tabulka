@@ -2,7 +2,7 @@
 <prvky>
   <prvek>
     <protcislo>4</protcislo>
-    <cnazev>Beryllium</cnazev>
+    <name_cs_CZ>Beryllium</name_cs_CZ>
     <znacka>Be</znacka>
     <lnazev>Beryllium</lnazev>
     <athmot>9,012182</athmot>
@@ -15,8 +15,8 @@
     <tv>2970</tv>
     <obev>1828</obev>
     <tvrdost>5,0-5,5</tvrdost>
-    <ennazev>Beryllium</ennazev>
-    <denazev>Beryllium</denazev>
+    <name_en_US>Beryllium</name_en_US>
+    <name_de>Beryllium</name_de>
     <frnazev>Béryllium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>1,825</tkapacita>
@@ -33,11 +33,11 @@
     <tvrdostbrinell>600</tvrdostbrinell>
     <perioda>2</perioda>
     <skupina>II.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>83</protcislo>
-    <cnazev>Bismut</cnazev>
+    <name_cs_CZ>Bismut</name_cs_CZ>
     <znacka>Bi</znacka>
     <lnazev>Bismuthum</lnazev>
     <athmot>208,98037</athmot>
@@ -50,8 +50,8 @@
     <tv>1560</tv>
     <obev>1450</obev>
     <tvrdost>2,5</tvrdost>
-    <ennazev>Bismuth</ennazev>
-    <denazev>Bismut</denazev>
+    <name_en_US>Bismuth</name_en_US>
+    <name_de>Bismut</name_de>
     <frnazev>Bismuth</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;3&lt;/sup&gt;</elconf>
     <tkapacita>0,122</tkapacita>
@@ -67,11 +67,11 @@
     <tvrdostbrinell>94,2</tvrdostbrinell>
     <perioda>6</perioda>
     <skupina>V.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>50</protcislo>
-    <cnazev>Cín</cnazev>
+    <name_cs_CZ>Cín</name_cs_CZ>
     <znacka>Sn</znacka>
     <lnazev>Stannum</lnazev>
     <athmot>118,710</athmot>
@@ -84,8 +84,8 @@
     <tv>2270</tv>
     <obev>starověk</obev>
     <tvrdost>1,8</tvrdost>
-    <ennazev>Tin</ennazev>
-    <denazev>Zinn</denazev>
+    <name_en_US>Tin</name_en_US>
+    <name_de>Zinn</name_de>
     <frnazev>Étain</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,228</tkapacita>
@@ -101,11 +101,11 @@
     <mernyelodpor>0,126</mernyelodpor>
     <perioda>5</perioda>
     <skupina>IV.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>31</protcislo>
-    <cnazev>Gallium</cnazev>
+    <name_cs_CZ>Gallium</name_cs_CZ>
     <znacka>Ga</znacka>
     <lnazev>Gallium</lnazev>
     <athmot>69,723</athmot>
@@ -118,8 +118,8 @@
     <tv>2403</tv>
     <obev>1875</obev>
     <tvrdost>1,5</tvrdost>
-    <ennazev>Gallium</ennazev>
-    <denazev>Gallium</denazev>
+    <name_en_US>Gallium</name_en_US>
+    <name_de>Gallium</name_de>
     <frnazev>Gallium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>0,371</tkapacita>
@@ -131,11 +131,11 @@
     <tvrdostbrinell>60</tvrdostbrinell>
     <perioda>4</perioda>
     <skupina>III.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>13</protcislo>
-    <cnazev>Hliník</cnazev>
+    <name_cs_CZ>Hliník</name_cs_CZ>
     <znacka>Al</znacka>
     <lnazev>Aluminium</lnazev>
     <athmot>26,981539</athmot>
@@ -148,8 +148,8 @@
     <tv>2467</tv>
     <obev>1825</obev>
     <tvrdost>2,9</tvrdost>
-    <ennazev>Aluminum</ennazev>
-    <denazev>Aluminium</denazev>
+    <name_en_US>Aluminum</name_en_US>
+    <name_de>Aluminium</name_de>
     <frnazev>Aluminium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>0,9</tkapacita>
@@ -167,11 +167,11 @@
     <tvrdostbrinell>245</tvrdostbrinell>
     <perioda>3</perioda>
     <skupina>III.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>12</protcislo>
-    <cnazev>Hořčík</cnazev>
+    <name_cs_CZ>Hořčík</name_cs_CZ>
     <znacka>Mg</znacka>
     <lnazev>Magnesium</lnazev>
     <athmot>24,3050</athmot>
@@ -184,8 +184,8 @@
     <tv>1090</tv>
     <obev>1808</obev>
     <tvrdost>2,25</tvrdost>
-    <ennazev>Magnesium</ennazev>
-    <denazev>Magnesium</denazev>
+    <name_en_US>Magnesium</name_en_US>
+    <name_de>Magnesium</name_de>
     <frnazev>Magnésium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>1,02</tkapacita>
@@ -201,11 +201,11 @@
     <tvrdostbrinell>260</tvrdostbrinell>
     <perioda>3</perioda>
     <skupina>II.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>49</protcislo>
-    <cnazev>Indium</cnazev>
+    <name_cs_CZ>Indium</name_cs_CZ>
     <znacka>In</znacka>
     <lnazev>Indium</lnazev>
     <athmot>114,82</athmot>
@@ -218,8 +218,8 @@
     <tv>2080</tv>
     <obev>1863</obev>
     <tvrdost>1,2</tvrdost>
-    <ennazev>Indium</ennazev>
-    <denazev>Indium</denazev>
+    <name_en_US>Indium</name_en_US>
+    <name_de>Indium</name_de>
     <frnazev>Indium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>0,233</tkapacita>
@@ -233,11 +233,11 @@
     <elektrickavodivost>3,4.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <perioda>5</perioda>
     <skupina>III.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>82</protcislo>
-    <cnazev>Olovo</cnazev>
+    <name_cs_CZ>Olovo</name_cs_CZ>
     <znacka>Pb</znacka>
     <lnazev>Plumbum</lnazev>
     <athmot>207,2</athmot>
@@ -250,8 +250,8 @@
     <tv>1740</tv>
     <obev>starověk</obev>
     <tvrdost>1,5</tvrdost>
-    <ennazev>Lead</ennazev>
-    <denazev>Blei</denazev>
+    <name_en_US>Lead</name_en_US>
+    <name_de>Blei</name_de>
     <frnazev>Plomb</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tkapacita>0,129</tkapacita>
@@ -268,11 +268,11 @@
     <tvrdostbrinell>38,3</tvrdostbrinell>
     <perioda>6</perioda>
     <skupina>IV.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>84</protcislo>
-    <cnazev>Polonium</cnazev>
+    <name_cs_CZ>Polonium</name_cs_CZ>
     <znacka>Po</znacka>
     <lnazev>Polonium</lnazev>
     <athmot>208,9824</athmot>
@@ -284,8 +284,8 @@
     <tt>254</tt>
     <tv>962</tv>
     <obev>1898</obev>
-    <ennazev>Polonium</ennazev>
-    <denazev>Polonium</denazev>
+    <name_en_US>Polonium</name_en_US>
+    <name_de>Polonium</name_de>
     <frnazev>Polonium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;4&lt;/sup&gt;</elconf>
     <tvodivost>20</tvodivost>
@@ -293,11 +293,11 @@
     <ionizacnipotencial1>8,4167</ionizacnipotencial1>
     <perioda>6</perioda>
     <skupina>VI.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
   <prvek>
     <protcislo>81</protcislo>
-    <cnazev>Thallium</cnazev>
+    <name_cs_CZ>Thallium</name_cs_CZ>
     <znacka>Tl</znacka>
     <lnazev>Thallium</lnazev>
     <athmot>204,3833</athmot>
@@ -310,8 +310,8 @@
     <tv>1457</tv>
     <obev>1861</obev>
     <tvrdost>1,2</tvrdost>
-    <ennazev>Thallium</ennazev>
-    <denazev>Thallium</denazev>
+    <name_en_US>Thallium</name_en_US>
+    <name_de>Thallium</name_de>
     <frnazev>Thallium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tkapacita>0,129</tkapacita>
@@ -324,6 +324,6 @@
     <elektrickavodivost>5,6.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <perioda>6</perioda>
     <skupina>III.A</skupina>
-    <skupenstvi>s</skupenstvi>
+    <state>s</state>
   </prvek>
 </prvky>

@@ -1,14 +1,9 @@
-[% USE Filter.MinifyHTML( comments => 1) -%]
-[% FILTER minify_html -%]
-[% title = "Chemická značka" %]
-
 [% INCLUDE header.html %]
 
 <ul id="prvky">
 [% FOREACH foo IN prvky %]
-<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.znacka %]"><span class="nazevprvku">[% foo.cnazev %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
+<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.znacka %]"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
 [% END %]
 </ul>
 
 [% INCLUDE footer.html -%]
-[% END -%]
