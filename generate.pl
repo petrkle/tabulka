@@ -104,7 +104,7 @@ $t->process('index-ah.html',
 
 $t->process('menu.html',
 	{
-		'title' => $appname,
+		'title' => 'Menu',
 		'nomenulink' => 'true'
 	},
 	"$OUT/menu.html",
@@ -150,7 +150,4 @@ $t->process('mohs.html',
 
 copy("psp/t.css","$OUT/t.css");
 copy("psp/img/right.png","$OUT/right.png");
-copy("psp/img/down.png","$OUT/down.png");
-copy("psp/img/tabulka.png","$OUT/tabulka.png");
-copy("psp/img/tabulka-back.png","$OUT/tabulka-back.png");
 copy("psp/roboto-regular.ttf","$OUT/roboto-regular.ttf");

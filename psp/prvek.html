@@ -1,6 +1,7 @@
-[% INCLUDE header.html %]
+[% title = prvek.cnazev %]
+[% titlelink="index.html#${prvek.protcislo}" %]
 
-<h2>[% prvek.cnazev %]</h2>
+[% INCLUDE header.html %]
 
 <table id="atom" cellspacing="0" cellpadding="0">
 	<tr><th>Značka</th><td><a href="index-zn.html#[% prvek.znacka %]">[% prvek.znacka %]</a></td></tr> 

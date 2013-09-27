@@ -1,8 +1,9 @@
-[% INCLUDE header.html %]
-
 [% IF cur_l %]
-<a href="s.html"><h2>[% cur_l %]</h2></a>
+[% title = "${cur_l}" %]
+[% titlelink="s.html" %]
 [% END %]
+
+[% INCLUDE header.html %]
 
 <ul id="prvky">
 [% IF cur %]
@@ -15,7 +16,7 @@
 [% END %]
 [% ELSE %]
 [% FOREACH skupina IN skupiny %]
-	<li><a href="[% skupina.zkratka %].html" class="skupina closed">[% skupina.nazev %]</a></li>
+	<li><a href="[% skupina.zkratka %].html" class="skupina closed">[% skupina.nazev %]</a> </li>
 [% END %]
 [% END %]
 </ul>

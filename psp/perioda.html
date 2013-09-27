@@ -1,8 +1,9 @@
-[% INCLUDE header.html %]
-
 [% IF perioda %]
-<a href="p.html"><h2>[% perioda %]. perioda</h2></a>
+[% title = "${perioda}. perioda" %]
+[% titlelink="p.html" %]
 [% END %]
+
+[% INCLUDE header.html %]
 
 <ul id="prvky">
 [% IF perioda %]
