@@ -8,4 +8,10 @@
 	<link rel="stylesheet" type="text/css" href="t.css" />
 </head>
 <body>
-[% IF !nohomelink -%]<a href="index.html" id="home">[%- END %]<h1>[% title %]</h1>[% IF !nohomelink -%]</a>[%- END %]
+
+<table id="hlavicka" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td id="nadpis">[% IF !nohomelink -%]<a href="index.html">[% ELSE %]<span id="likea">[%- END %][% title %][% IF !nohomelink -%]</a>[% ELSE %]<span>[%- END %]</td>
+		[% IF !nomenulink -%]<td id="menu"><a href="menu.html" id="hamburger">≡</a></td>[%- END %]
+	</tr>
+</table>

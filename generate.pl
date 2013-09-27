@@ -102,6 +102,14 @@ $t->process('index-ah.html',
 	"$OUT/index-ah.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
+$t->process('menu.html',
+	{
+		'title' => $appname,
+		'nomenulink' => 'true'
+	},
+	"$OUT/menu.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
 for my $perioda (@{$periody->{perioda}}){
 	$t->process('perioda.html',
 		{ 'prvky' => [@sortedbyname],
@@ -145,3 +153,4 @@ copy("psp/img/right.png","$OUT/right.png");
 copy("psp/img/down.png","$OUT/down.png");
 copy("psp/img/tabulka.png","$OUT/tabulka.png");
 copy("psp/img/tabulka-back.png","$OUT/tabulka-back.png");
+copy("psp/roboto-regular.ttf","$OUT/roboto-regular.ttf");
