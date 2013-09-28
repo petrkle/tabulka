@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skupiny>
+
+	<skupina>
+		<nazev>I.A</nazev>
+		<zkratka>ia</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>II.A</nazev>
+		<zkratka>iia</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>III.A</nazev>
+		<zkratka>iiia</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>IV.A</nazev>
+		<zkratka>iva</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>V.A</nazev>
+		<zkratka>va</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>VI.A</nazev>
+		<zkratka>via</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>VII.A</nazev>
+		<zkratka>viia</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>VIII.A</nazev>
+		<zkratka>viiia</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>I.B</nazev>
+		<zkratka>ib</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>II.B</nazev>
+		<zkratka>iib</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>III.B</nazev>
+		<zkratka>iiib</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>IV.B</nazev>
+		<zkratka>ivb</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>V.B</nazev>
+		<zkratka>vb</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>VI.B</nazev>
+		<zkratka>vib</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>VII.B</nazev>
+		<zkratka>viib</zkratka>
+	</skupina>
+
+	<skupina>
+		<nazev>VIII.B</nazev>
+		<zkratka>viiib</zkratka>
+	</skupina>
+
+</skupiny>

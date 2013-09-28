@@ -9,7 +9,7 @@
 	<tr><th>Perioda</th><td><a href="p[% prvek.perioda %].html">[% prvek.perioda %]</a></td></tr> 
 	<tr><th>Druh</th><td><a href="[% cur %].html">[% cur_l %]</a></td></tr> 
 	<tr><th>Relativní atomová hmotnost</th><td><a href="index-ah.html#[% prvek.protcislo %]">[% prvek.athmot %]</a></td></tr> 
-	<tr><th>Skupina</th><td><div>[% prvek.skupina %]</div></td></tr> 
+	<tr><th>Skupina</th><td><a href="[% prvek.skupina FILTER remove ('\.') FILTER lower %].html">[% prvek.skupina %]</a></td></tr> 
 [% IF prvek.pe -%]
 	<tr><th>Paulingova elektronegativita</th><td><div>[% prvek.pe %]</div></td></tr>
 [% END -%]

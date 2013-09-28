@@ -11,6 +11,8 @@ my $xml = new XML::Simple;
 
 my $druhy = $xml->XMLin("psp/xml/druhy.xml");
 
+my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
+
 my $periody = $xml->XMLin("psp/xml/periody.xml");
 
 my $skupenstvi = $xml->XMLin("psp/xml/skupenstvi.xml");
@@ -60,12 +62,25 @@ for my $druh (@{$druhy->{druh}}){
 
 }
 
+
 my @sortedbyname = sort {$a->{cnazev} cmp $b->{cnazev}} @prvky;
 my @sortedbyprotcislo = sort {$a->{protcislo} <=> $b->{protcislo}} @prvky;
 my @sortedbyln = sort {$a->{lnazev} cmp $b->{lnazev}} @prvky;
 my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @prvky;
 my @sortedbyah = sort {$a->{athmot} =~ s/,/./r <=> $b->{athmot} =~ s/,/./r} @prvky;
 
+for my $skupina (@{$skupiny->{skupina}}){
+
+	$t->process('skupina.html',
+		{ 'prvky' => [@sortedbyname],
+			'cur' => $skupina->{'zkratka'},
+			'cur_l' => $skupina->{'nazev'},
+			'title' => $appname,
+			'skupiny' => $skupiny->{skupina}
+		},
+		"$OUT/$skupina->{'zkratka'}.html",
+		{ binmode => ':utf8' }) or die $t->error;
+}
 
 $t->process('index.html',
 	{ 'prvky' => [@sortedbyname],
@@ -134,6 +149,13 @@ $t->process('druh.html',
 		'druhy' => $druhy->{druh}
 	},
 	"$OUT/d.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
+$t->process('skupina.html',
+	{	'title' => $appname,
+		'skupiny' => $skupiny->{skupina}
+	},
+	"$OUT/s.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
 $t->process('about.html',
