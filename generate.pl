@@ -173,4 +173,5 @@ $t->process('mohs.html',
 
 copy("psp/t.css","$OUT/t.css");
 copy("psp/img/right.png","$OUT/right.png");
+copy("psp/img/z.png","$OUT/z.png");
 copy("psp/roboto-regular.ttf","$OUT/roboto-regular.ttf");

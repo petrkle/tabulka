@@ -12,6 +12,6 @@
 <table id="hlavicka" border="0" cellspacing="0" cellpadding="0">
 	<tr>
 		<td id="nadpis">[% IF !nohomelink -%]<a href="[%IF titlelink%][% titlelink %][% ELSE %]index.html[% END %]">[% ELSE %]<span id="likea">[%- END %][% title %][% IF !nohomelink -%]</a>[% ELSE %]<span>[%- END %]</td>
-		[% IF !nomenulink -%]<td id="menu"><a href="menu.html" id="hamburger">≡</a></td>[%- END %]
+		<td id="menu">[% IF !nomenulink -%]<a href="menu.html" id="hamburger">≡</a>[% ELSE %]&nbsp;[%- END %]</td>
 	</tr>
 </table>
