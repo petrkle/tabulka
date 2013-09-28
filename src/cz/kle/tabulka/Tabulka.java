@@ -19,10 +19,7 @@
 
 package cz.kle.tabulka;
 
-import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import org.apache.cordova.*;
 
 public class Tabulka extends DroidGap
@@ -31,24 +28,9 @@ public class Tabulka extends DroidGap
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        super.loadUrl("file:///android_asset/www/index.html");
+        // Set by <content src="index.html" /> in config.xml
+        super.loadUrl(Config.getStartUrl());
+        //super.loadUrl("file:///android_asset/www/index.html")
     }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu, menu);
-        return true;
-    }   
-
-		@Override
-		public boolean onOptionsItemSelected(MenuItem item) {
-				// Handle item selection
-				switch (item.getItemId()) {
-				case R.id.help:
-        		super.loadUrl("file:///android_asset/www/about.html");
-						return true;
-				default:
-						return super.onOptionsItemSelected(item);
-				}
-		}
 }
+

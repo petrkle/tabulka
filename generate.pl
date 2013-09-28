@@ -19,7 +19,8 @@ my $manifest = $xml->XMLin("AndroidManifest.xml");
 
 my $strings = $xml->XMLin("res/values/strings.xml");
 
-my $appname = $strings->{'string'}->{'app_name'}->{'content'};
+my $appname = $strings->{'string'}{'content'};
+
 my $OUT = "assets/www";
 
 my $t = Template->new({
