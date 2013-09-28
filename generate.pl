@@ -9,7 +9,7 @@ use File::Copy;
 
 my $xml = new XML::Simple;
 
-my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
+my $druhy = $xml->XMLin("psp/xml/druhy.xml");
 
 my $periody = $xml->XMLin("psp/xml/periody.xml");
 
@@ -30,26 +30,26 @@ my $t = Template->new({
 
 my @prvky;
 
-for my $skup (@{$skupiny->{skupina}}){
+for my $druh (@{$druhy->{druh}}){
 
-	my $data = $xml->XMLin("psp/xml/$skup->{'zkratka'}.xml");
+	my $data = $xml->XMLin("psp/xml/$druh->{'zkratka'}.xml");
 
-	$t->process('skupina.html',
+	$t->process('druh.html',
 		{ 'prvky' => $data,
-			'cur' => $skup->{'zkratka'},
-			'cur_l' => $skup->{'nazev'},
+			'cur' => $druh->{'zkratka'},
+			'cur_l' => $druh->{'nazev'},
 			'title' => $appname,
-			'skupiny' => $skupiny->{skupina}
+			'druhy' => $druhy->{druh}
 		},
-		"$OUT/$skup->{'zkratka'}.html",
+		"$OUT/$druh->{'zkratka'}.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	for my $prvek (@{$data->{prvek}}){
 	 $t->process('prvek.html',
 		 { 'prvek' => $prvek,
 			 'skupenstvi' => $skupenstvi->{'skupenstvi'},
-			 'cur' => $skup->{'zkratka'},
-			 'cur_l' => $skup->{'nazev'},
+			 'cur' => $druh->{'zkratka'},
+			 'cur_l' => $druh->{'nazev'},
 			 title => $appname
 		 },
 		 "$OUT/".lc($prvek->{'lnazev'}).".html",
@@ -129,11 +129,11 @@ $t->process('perioda.html',
 	"$OUT/p.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-$t->process('skupina.html',
+$t->process('druh.html',
 	{	'title' => $appname,
-		'skupiny' => $skupiny->{skupina}
+		'druhy' => $druhy->{druh}
 	},
-	"$OUT/s.html",
+	"$OUT/d.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
 $t->process('about.html',

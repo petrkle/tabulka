@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<skupiny>
-	<skupina>
+<druhy>
+	<druh>
 		<zkratka>alkkov</zkratka>
 		<nazev>Alkalické kovy</nazev>
-	</skupina>
+	</druh>
 	
-	<skupina>
+	<druh>
 		<zkratka>haloge</zkratka>
 		<nazev>Halogeny</nazev>
-	</skupina>
+	</druh>
 	
-	<skupina>
+	<druh>
 		<zkratka>kovy</zkratka>
 		<nazev>Kovy</nazev>
-	</skupina>
+	</druh>
 	
-	<skupina>
+	<druh>
 		<zkratka>kalkze</zkratka>
 		<nazev>Kovy alkalických zemin</nazev>
-	</skupina>
+	</druh>
 	
-	<skupina>
+	<druh>
 		<zkratka>nekovy</zkratka>
 		<nazev>Nekovy</nazev>
-	</skupina>
+	</druh>
 	
-	<skupina>
+	<druh>
 		<zkratka>poloko</zkratka>
 		<nazev>Polokovy</nazev>
-	</skupina>
+	</druh>
 	
-	<skupina>
+	<druh>
 		<zkratka>prech</zkratka>
 		<nazev>Přechodné prvky</nazev>
-	</skupina>
+	</druh>
 
-	<skupina>
+	<druh>
 		<zkratka>vprech</zkratka>
 		<nazev>Vnitřně přechodné prvky</nazev>
-	</skupina>
+	</druh>
 	
-	<skupina>
+	<druh>
 		<zkratka>vzacne</zkratka>
 		<nazev>Vzácné plyny</nazev>
-	</skupina>
-</skupiny>
+	</druh>
+</druhy>

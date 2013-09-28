@@ -1,22 +1,22 @@
 [% IF cur_l %]
 [% title = "${cur_l}" %]
-[% titlelink="s.html" %]
+[% titlelink="d.html" %]
 [% END %]
 
 [% INCLUDE header.html %]
 
 <ul id="prvky">
 [% IF cur %]
-[% FOREACH skupina IN skupiny %]
-	[% IF cur == skupina.zkratka %]
+[% FOREACH druh IN druhy %]
+	[% IF cur == druh.zkratka %]
 	[% FOREACH foo IN prvky.prvek %]
 	<li><a name="[% foo.lnazev FILTER lower %]"></a><a href="[% foo.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% foo.cnazev %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
 	[% END %]
 	[% END %]
 [% END %]
 [% ELSE %]
-[% FOREACH skupina IN skupiny %]
-	<li><a href="[% skupina.zkratka %].html" class="skupina closed">[% skupina.nazev %]</a> </li>
+[% FOREACH druh IN druhy %]
+	<li><a href="[% druh.zkratka %].html" class="druh closed">[% druh.nazev %]</a> </li>
 [% END %]
 [% END %]
 </ul>
