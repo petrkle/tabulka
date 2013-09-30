@@ -1,3 +1,5 @@
+[% USE Filter.MinifyHTML( comments => 1) -%]
+[% FILTER minify_html -%]
 [% IF cur_l %]
 [% title = "${cur_l}" %]
 [% titlelink="d.html" %]
@@ -22,3 +24,4 @@
 </ul>
 
 [% INCLUDE footer.html -%]
+[% END -%]

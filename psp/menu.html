@@ -1,3 +1,5 @@
+[% USE Filter.MinifyHTML( comments => 1) -%]
+[% FILTER minify_html -%]
 [% INCLUDE header.html %]
 
 <ul id="prvky">
@@ -15,3 +17,4 @@
 	<li><a href="about.html" class="radek about">O programu</a></li>
 </ul>
 [% INCLUDE footer.html -%]
+[% END -%]

@@ -1,3 +1,5 @@
+[% USE Filter.MinifyHTML( comments => 1) -%]
+[% FILTER minify_html -%]
 [% title = prvek.cnazev %]
 [% titlelink="index.html#${prvek.protcislo}" %]
 
@@ -86,3 +88,4 @@
 </table>
 
 [% INCLUDE footer.html -%]
+[% END -%]

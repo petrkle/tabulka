@@ -1,5 +1,6 @@
+[% USE Filter.MinifyHTML( comments => 1) -%]
+[% FILTER minify_html -%]
 [% title = "Protonové číslo" %]
-
 [% INCLUDE header.html %]
 
 <ul id="prvky">
@@ -9,3 +10,4 @@
 </ul>
 
 [% INCLUDE footer.html -%]
+[% END -%]

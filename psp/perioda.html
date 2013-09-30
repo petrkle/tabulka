@@ -1,3 +1,5 @@
+[% USE Filter.MinifyHTML( comments => 1) -%]
+[% FILTER minify_html -%]
 [% IF perioda %]
 [% title = "${perioda}. perioda" %]
 [% titlelink="p.html" %]
@@ -24,3 +26,4 @@
 </ul>
 
 [% INCLUDE footer.html -%]
+[% END -%]
