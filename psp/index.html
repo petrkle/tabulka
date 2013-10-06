@@ -1,12 +1,31 @@
-[% USE Filter.MinifyHTML( comments => 1) -%]
-[% FILTER minify_html -%]
-[% INCLUDE header.html %]
+<html>
+<head>
+<title>Language redirect</title>
+</head>
+<body>
+<script type="text/javascript">
+var language = window.navigator.userLanguage || window.navigator.language;
 
-<ul id="prvky">
-[% FOREACH foo IN prvky %]
-<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.protcislo %]"><span class="nazevprvku">[% foo.cnazev %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
-[% END %]
-</ul>
+if (localStorage.getItem('lang') != null) {
+	language = localStorage.getItem('lang');
+}
 
-[% INCLUDE footer.html -%]
-[% END -%]
+switch (language) {
+  case 'cs':
+		redir(language);
+    break;
+  case 'cs-CZ':
+		redir('cs');
+    break;
+  default:
+		redir('en');
+    break;
+}
+
+function redir(lang){
+	window.location = lang + "/index.html";
+}
+
+</script>
+</body>
+</html>

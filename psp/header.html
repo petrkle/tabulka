@@ -1,17 +1,17 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" /> 
-	<title>[% title %]</title>
+	<title>[% l(title) %]</title>
 	<meta name="description" content="[% title %]" /> 
 	<meta name="keywords" content="[% title %]" /> 
 	<meta name="viewport" content="width=device-width">
-	<link rel="stylesheet" type="text/css" href="t.css" />
+	<link rel="stylesheet" type="text/css" href="../t.css" />
 </head>
 <body>
 
 <table id="hlavicka" border="0" cellspacing="0" cellpadding="0">
 	<tr>
-		<td id="nadpis">[% IF !nohomelink -%]<a href="[%IF titlelink%][% titlelink %][% ELSE %]index.html[% END %]">[% ELSE %]<span id="likea">[%- END %][% title %][% IF !nohomelink -%]</a>[% ELSE %]<span>[%- END %]</td>
+		<td id="nadpis">[% IF !nohomelink -%]<a href="[%IF titlelink%][% titlelink %][% ELSE %]index.html[% END %]">[% ELSE %]<span id="likea">[%- END %][% l(title) %][% IF !nohomelink -%]</a>[% ELSE %]<span>[%- END %]</td>
 		<td id="menu">[% IF !nomenulink -%]<a href="menu.html" id="hamburger">≡</a>[% ELSE %]&nbsp;[%- END %]</td>
 	</tr>
 </table>

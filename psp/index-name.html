@@ -1,0 +1,12 @@
+[% USE Filter.MinifyHTML( comments => 1) -%]
+[% FILTER minify_html -%]
+[% INCLUDE header.html %]
+
+<ul id="prvky">
+[% FOREACH foo IN prvky %]
+<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.protcislo %]"><span class="nazevprvku">[% foo.cnazev %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
+[% END %]
+</ul>
+
+[% INCLUDE footer.html -%]
+[% END -%]
