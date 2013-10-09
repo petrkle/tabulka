@@ -151,3 +151,45 @@ msgstr "Autor"
 
 msgid "Write review"
 msgstr "Napsat recenzi"
+
+msgid "Noble gases"
+msgstr "Vzácné plyny"
+
+msgid "Inner transition elements"
+msgstr "Vnitřně přechodné prvky"
+
+msgid "Transition elements"
+msgstr "Přechodné prvky"
+
+msgid "Metalloids"
+msgstr "Polokovy"
+
+msgid "Nonmetals"
+msgstr "Nekovy"
+
+msgid "Alkaline earth metals"
+msgstr "Kovy alkalických zemin"
+
+msgid "Metals"
+msgstr "Kovy"
+
+msgid "Halogens"
+msgstr "Halogeny"
+
+msgid "Alkali metals"
+msgstr "Alkalické kovy"
+
+msgid "1.st ionization energy"
+msgstr "1. ionizační potenciál"
+
+msgid "2.nd ionization energy"
+msgstr "2. ionizační potenciál"
+
+msgid "3.rd ionization energy"
+msgstr "3. ionizační potenciál"
+
+msgid "Stable isotopes"
+msgstr "Počet stabilních izotopů"
+
+msgid "Unstable isotopes"
+msgstr "Počet nestabilních izotopů"

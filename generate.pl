@@ -35,7 +35,9 @@ my $state = $xml->XMLin("psp/xml/state.xml");
 
 my $manifest = $xml->XMLin("AndroidManifest.xml");
 
-my $appname = 'Periodic Table';
+my $strings = $xml->XMLin("res/values/strings.xml");
+
+my $appname = $strings->{'string'}{'content'};
 
 my $OUT = "assets/www";
 
@@ -53,6 +55,7 @@ foreach my $lang (@langs){
 	setlocale(LC_COLLATE, $lang.".UTF-8");
 	mkdir("$OUT/$lang");
 
+	my $locappname = __($appname);
 	my @prvky;
 
 	for my $druh (@{$druhy->{druh}}){
@@ -63,7 +66,7 @@ foreach my $lang (@langs){
 			{ 'prvky' => $data,
 				'cur' => $druh->{'zkratka'},
 				'cur_l' => $druh->{'nazev'},
-				'title' => $appname,
+				'title' => $locappname,
 		  	'elementname' => "name_$lang",
 				'druhy' => $druhy->{druh}
 			},
@@ -77,7 +80,7 @@ foreach my $lang (@langs){
 				 'state' => $state->{'state'},
 				 'cur' => $druh->{'zkratka'},
 				 'cur_l' => $druh->{'nazev'},
-				 title => $appname
+				 title => $locappname
 			 },
 			 "$OUT/$lang/".lc($prvek->{'lnazev'}).".html",
 			 { binmode => ':utf8' }) or die $t->error;
@@ -99,7 +102,7 @@ foreach my $lang (@langs){
 			{ 'prvky' => [@sortedbyname],
 				'cur' => $skupina->{'zkratka'},
 				'cur_l' => $skupina->{'nazev'},
-				'title' => $appname,
+				'title' => $locappname,
 		  	'elementname' => "name_$lang",
 				'skupiny' => $skupiny->{skupina}
 			},
@@ -109,7 +112,7 @@ foreach my $lang (@langs){
 
 	$t->process('index-name.html',
 		{ 'prvky' => [@sortedbyname],
-			'title' => $appname,
+			'title' => $locappname,
 		  'elementname' => "name_$lang",
 			'nohomelink' => 'true'
 		},
@@ -162,7 +165,7 @@ foreach my $lang (@langs){
 				'periody' => $periody->{perioda},
 				'perioda' => $perioda->{'cislo'},
 		  	'elementname' => "name_$lang",
-				'title' => $appname
+				'title' => $locappname
 			},
 			"$OUT/$lang/p$perioda->{'cislo'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
@@ -177,7 +180,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('druh.html',
-		{	'title' => $appname,
+		{	'title' => $locappname,
 		  'elementname' => "name_$lang",
 			'druhy' => $druhy->{druh}
 		},
@@ -185,27 +188,27 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('skupina.html',
-		{	'title' => $appname,
+		{	'title' => $locappname,
 			'skupiny' => $skupiny->{skupina}
 		},
 		"$OUT/$lang/s.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('about.html',
-		{	'title' => $appname,
+		{	'title' => $locappname,
 			'version' => $manifest->{'android:versionName'},
 		},
 		"$OUT/$lang/about.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('mohs.html',
-		{	'title' => $appname,
+		{	'title' => $locappname,
 		},
 		"$OUT/$lang/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('settings.html',
-		{	'title' => $appname,
+		{	'title' => $locappname,
 		},
 		"$OUT/$lang/settings.html",
 		{ binmode => ':utf8' }) or die $t->error;

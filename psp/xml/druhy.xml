@@ -2,46 +2,46 @@
 <druhy>
 	<druh>
 		<zkratka>alkkov</zkratka>
-		<nazev>Alkalické kovy</nazev>
+		<nazev>Alkali metals</nazev>
 	</druh>
 	
 	<druh>
 		<zkratka>haloge</zkratka>
-		<nazev>Halogeny</nazev>
+		<nazev>Halogens</nazev>
 	</druh>
 	
 	<druh>
 		<zkratka>kovy</zkratka>
-		<nazev>Kovy</nazev>
+		<nazev>Metals</nazev>
 	</druh>
 	
 	<druh>
 		<zkratka>kalkze</zkratka>
-		<nazev>Kovy alkalických zemin</nazev>
+		<nazev>Alkaline earth metals</nazev>
 	</druh>
 	
 	<druh>
 		<zkratka>nekovy</zkratka>
-		<nazev>Nekovy</nazev>
+		<nazev>Nonmetals</nazev>
 	</druh>
 	
 	<druh>
 		<zkratka>poloko</zkratka>
-		<nazev>Polokovy</nazev>
+		<nazev>Metalloids</nazev>
 	</druh>
 	
 	<druh>
 		<zkratka>prech</zkratka>
-		<nazev>Přechodné prvky</nazev>
+		<nazev>Transition elements</nazev>
 	</druh>
 
 	<druh>
 		<zkratka>vprech</zkratka>
-		<nazev>Vnitřně přechodné prvky</nazev>
+		<nazev>Inner transition elements</nazev>
 	</druh>
 	
 	<druh>
 		<zkratka>vzacne</zkratka>
-		<nazev>Vzácné plyny</nazev>
+		<nazev>Noble gases</nazev>
 	</druh>
 </druhy>

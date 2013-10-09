@@ -6,7 +6,7 @@
 	<tr><th>[% l('Symbol') %]</th><td><a href="index-zn.html#[% prvek.znacka %]">[% prvek.znacka %]</a></td></tr> 
 	<tr><th>[% l('Atomic number') %]</th><td><a href="index-pc.html#[% prvek.protcislo %]">[% prvek.protcislo %]</a></td></tr> 
 	<tr><th>[% l('Period') %]</th><td><a href="p[% prvek.perioda %].html">[% prvek.perioda %]</a></td></tr> 
-	<tr><th>[% l('Element category') %]</th><td><a href="[% cur %].html">[% cur_l %]</a></td></tr> 
+	<tr><th>[% l('Element category') %]</th><td><a href="[% cur %].html">[% l(cur_l) %]</a></td></tr> 
 	<tr><th>[% l('Relative atomic mass') %]</th><td><a href="index-ah.html#[% prvek.protcislo %]">[% prvek.athmot %]</a></td></tr> 
 	<tr><th>[% l('Group') %]</th><td><a href="[% prvek.skupina FILTER remove ('\.') FILTER lower %].html">[% prvek.skupina %]</a></td></tr> 
 [% IF prvek.pe -%]
@@ -65,20 +65,17 @@
 	<tr><th>[% l('Shear modulus') %] [GPa]</th><td><div>[% prvek.modulpruznostismyk %]</div></td></tr>
 [% END -%]
 [% IF prvek.ionizacnipotencial1 -%]
-	<tr><th>[% l('1. ionizační potenciál') %] [eV]</th><td><div>[% prvek.ionizacnipotencial1 %]</div></td></tr>
+	<tr><th>[% l('1.st ionization energy') %] [eV]</th><td><div>[% prvek.ionizacnipotencial1 %]</div></td></tr>
 [% END -%]
 [% IF prvek.ionizacnipotencial2 -%]
-	<tr><th>[% l('2. ionizační potenciál') %] [eV]</th><td><div>[% prvek.ionizacnipotencial2 %]</div></td></tr>
+	<tr><th>[% l('2.nd ionization energy') %] [eV]</th><td><div>[% prvek.ionizacnipotencial2 %]</div></td></tr>
 [% END -%]
 [% IF prvek.ionizacnipotencial3 -%]
-	<tr><th>[% l('3. ionizační potenciál') %] [eV]</th><td><div>[% prvek.ionizacnipotencial3 %]</div></td></tr>
+	<tr><th>[% l('3.rd ionization energy') %] [eV]</th><td><div>[% prvek.ionizacnipotencial3 %]</div></td></tr>
 [% END -%]
-	<tr><th>[% l('Počet stabilních izotopů') %]</th><td><div>[% prvek.si %]</div></td></tr>
-	<tr><th>[% l('Počet nestabilních izotopů') %]</th><td><div>[% prvek.ni %]</div></td></tr>
-	<tr><th>[% l('Latinský název') %]</th><td><a href="index-ln.html#[% prvek.lnazev %]">[% prvek.lnazev %]</a></td></tr> 
-	<tr><th>[% l('Anglický název') %]</th><td><div>[% prvek.ennazev %]</div></td></tr> 
-	<tr><th>[% l('Německý název') %]</th><td><div>[% prvek.denazev %]</div></td></tr> 
-	<tr><th>[% l('Francouzský název') %]</th><td><div>[% prvek.frnazev %]</div></td></tr> 
+	<tr><th>[% l('Stable isotopes') %]</th><td><div>[% prvek.si %]</div></td></tr>
+	<tr><th>[% l('Unstable isotopes') %]</th><td><div>[% prvek.ni %]</div></td></tr>
+	<tr><th>[% l('Latin name') %]</th><td><a href="index-ln.html#[% prvek.lnazev %]">[% prvek.lnazev %]</a></td></tr> 
 </table>
 
 [% INCLUDE footer.html -%]

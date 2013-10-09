@@ -55,12 +55,19 @@
     />
 
 	<target name="-pre-build">
+    <ant target="generate-locales" />
     <ant target="generate-html" />
 	</target>
 
 	<target name="-pre-clean">
     <ant target="remove-html" />
     <ant target="remove-locales" />
+	</target>
+
+	<target name="generate-locales">
+	<echo>Generating locales</echo>
+		<exec executable="make" dir="po" failonerror="true">
+	 </exec>
 	</target>
 
 	<target name="generate-html">
