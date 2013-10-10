@@ -4,13 +4,13 @@
 [% END -%]
 [% INCLUDE header.html %]
 
-<ul id="prvky">
+<ul id="elements">
 [% IF period %]
 [% FOREACH per IN periods %]
 	[% IF period == per.number %]
-		[% FOREACH foo IN prvky %]
+		[% FOREACH foo IN elements %]
 		[% IF foo.period == period %]
-		<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
+		<li><a href="[% foo.lnazev FILTER lower %].html" class="element"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
 		[% END %]
 		[% END %]
 	[% END %]

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>35</protcislo>
     <name_cs_CZ>Brom</name_cs_CZ>
     <znacka>Br</znacka>
@@ -31,8 +31,8 @@
     <period>4</period>
     <skupina>VII.A</skupina>
     <state>l</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>17</protcislo>
     <name_cs_CZ>Chlor</name_cs_CZ>
     <znacka>Cl</znacka>
@@ -62,8 +62,8 @@
     <period>3</period>
     <skupina>VII.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>9</protcislo>
     <name_cs_CZ>Fluor</name_cs_CZ>
     <znacka>F</znacka>
@@ -93,8 +93,8 @@
     <period>2</period>
     <skupina>VII.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>53</protcislo>
     <name_cs_CZ>Jod</name_cs_CZ>
     <znacka>I</znacka>
@@ -125,5 +125,5 @@
     <period>5</period>
     <skupina>VII.A</skupina>
     <state>s</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>

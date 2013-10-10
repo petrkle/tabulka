@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>4</protcislo>
     <name_cs_CZ>Beryllium</name_cs_CZ>
     <znacka>Be</znacka>
@@ -34,8 +34,8 @@
     <period>2</period>
     <skupina>II.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>83</protcislo>
     <name_cs_CZ>Bismut</name_cs_CZ>
     <znacka>Bi</znacka>
@@ -68,8 +68,8 @@
     <period>6</period>
     <skupina>V.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>50</protcislo>
     <name_cs_CZ>Cín</name_cs_CZ>
     <znacka>Sn</znacka>
@@ -102,8 +102,8 @@
     <period>5</period>
     <skupina>IV.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>31</protcislo>
     <name_cs_CZ>Gallium</name_cs_CZ>
     <znacka>Ga</znacka>
@@ -132,8 +132,8 @@
     <period>4</period>
     <skupina>III.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>13</protcislo>
     <name_cs_CZ>Hliník</name_cs_CZ>
     <znacka>Al</znacka>
@@ -168,8 +168,8 @@
     <period>3</period>
     <skupina>III.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>12</protcislo>
     <name_cs_CZ>Hořčík</name_cs_CZ>
     <znacka>Mg</znacka>
@@ -202,8 +202,8 @@
     <period>3</period>
     <skupina>II.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>49</protcislo>
     <name_cs_CZ>Indium</name_cs_CZ>
     <znacka>In</znacka>
@@ -234,8 +234,8 @@
     <period>5</period>
     <skupina>III.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>82</protcislo>
     <name_cs_CZ>Olovo</name_cs_CZ>
     <znacka>Pb</znacka>
@@ -269,8 +269,8 @@
     <period>6</period>
     <skupina>IV.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>84</protcislo>
     <name_cs_CZ>Polonium</name_cs_CZ>
     <znacka>Po</znacka>
@@ -294,8 +294,8 @@
     <period>6</period>
     <skupina>VI.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>81</protcislo>
     <name_cs_CZ>Thallium</name_cs_CZ>
     <znacka>Tl</znacka>
@@ -325,5 +325,5 @@
     <period>6</period>
     <skupina>III.A</skupina>
     <state>s</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>

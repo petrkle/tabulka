@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>18</protcislo>
     <name_cs_CZ>Argon</name_cs_CZ>
     <znacka>Ar</znacka>
@@ -28,8 +28,8 @@
     <period>3</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>2</protcislo>
     <name_cs_CZ>Helium</name_cs_CZ>
     <znacka>He</znacka>
@@ -54,8 +54,8 @@
     <period>1</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>36</protcislo>
     <name_cs_CZ>Krypton</name_cs_CZ>
     <znacka>Kr</znacka>
@@ -84,8 +84,8 @@
     <period>4</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>10</protcislo>
     <name_cs_CZ>Neon</name_cs_CZ>
     <znacka>Ne</znacka>
@@ -113,8 +113,8 @@
     <period>2</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>86</protcislo>
     <name_cs_CZ>Radon</name_cs_CZ>
     <znacka>Rn</znacka>
@@ -141,8 +141,8 @@
     <period>6</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>54</protcislo>
     <name_cs_CZ>Xenon</name_cs_CZ>
     <znacka>Xe</znacka>
@@ -171,5 +171,5 @@
     <period>5</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>

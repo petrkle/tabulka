@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>56</protcislo>
     <name_cs_CZ>Baryum</name_cs_CZ>
     <znacka>Ba</znacka>
@@ -29,8 +29,8 @@
     <period>6</period>
     <skupina>II.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>88</protcislo>
     <name_cs_CZ>Radium</name_cs_CZ>
     <znacka>Ra</znacka>
@@ -56,8 +56,8 @@
     <period>7</period>
     <skupina>II.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>38</protcislo>
     <name_cs_CZ>Stroncium</name_cs_CZ>
     <znacka>Sr</znacka>
@@ -87,8 +87,8 @@
     <period>5</period>
     <skupina>II.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>20</protcislo>
     <name_cs_CZ>Vápník</name_cs_CZ>
     <znacka>Ca</znacka>
@@ -119,5 +119,5 @@
     <period>4</period>
     <skupina>II.A</skupina>
     <state>s</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>7</protcislo>
     <name_cs_CZ>Dusík</name_cs_CZ>
     <znacka>N</znacka>
@@ -30,8 +30,8 @@
     <period>2</period>
     <skupina>V.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>15</protcislo>
     <name_cs_CZ>Fosfor</name_cs_CZ>
     <znacka>P</znacka>
@@ -60,8 +60,8 @@
     <period>3</period>
     <skupina>V.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>8</protcislo>
     <name_cs_CZ>Kyslík</name_cs_CZ>
     <znacka>O</znacka>
@@ -91,8 +91,8 @@
     <period>2</period>
     <skupina>VI.A</skupina>
     <state>g</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>34</protcislo>
     <name_cs_CZ>Selen</name_cs_CZ>
     <znacka>Se</znacka>
@@ -125,8 +125,8 @@
     <period>4</period>
     <skupina>VI.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>16</protcislo>
     <name_cs_CZ>Síra</name_cs_CZ>
     <znacka>S</znacka>
@@ -157,8 +157,8 @@
     <period>3</period>
     <skupina>VI.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>6</protcislo>
     <name_cs_CZ>Uhlík</name_cs_CZ>
     <znacka>C</znacka>
@@ -187,8 +187,8 @@
     <period>2</period>
     <skupina>IV.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>1</protcislo>
     <name_cs_CZ>Vodík</name_cs_CZ>
     <znacka>H</znacka>
@@ -215,5 +215,5 @@
     <period>1</period>
     <skupina>I.A</skupina>
     <state>g</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>

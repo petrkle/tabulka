@@ -1,14 +1,14 @@
 [% IF cur_l -%]
 [% title = "${cur_l} " _ l('group') -%]
-[% titlelink="s.html" -%]
+[% titlelink="group.html" -%]
 [% END -%]
 [% INCLUDE header.html %]
 
-<ul id="prvky">
+<ul id="elements">
 [% IF cur_l %]
-[% FOREACH prvek IN prvky %]
-	[% IF cur_l == prvek.skupina %]
-	<li><a name="[% prvek.lnazev FILTER lower %]"></a><a href="[% prvek.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% prvek.${elementname} %]</span><span class="znackaprvku">[% prvek.znacka %]</span></a></li>
+[% FOREACH element IN elements %]
+	[% IF cur_l == element.skupina %]
+	<li><a name="[% element.lnazev FILTER lower %]"></a><a href="[% element.lnazev FILTER lower %].html" class="element"><span class="nazevprvku">[% element.${elementname} %]</span><span class="znackaprvku">[% element.znacka %]</span></a></li>
 	[% END %]
 [% END %]
 [% ELSE %]

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>55</protcislo>
     <name_cs_CZ>Cesium</name_cs_CZ>
     <znacka>Cs</znacka>
@@ -32,8 +32,8 @@
     <period>6</period>
     <skupina>I.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>19</protcislo>
     <name_cs_CZ>Draslík</name_cs_CZ>
     <znacka>K</znacka>
@@ -66,8 +66,8 @@
     <period>4</period>
     <skupina>I.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>87</protcislo>
     <name_cs_CZ>Francium</name_cs_CZ>
     <znacka>Fr</znacka>
@@ -88,8 +88,8 @@
     <period>7</period>
     <skupina>I.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>3</protcislo>
     <name_cs_CZ>Lithium</name_cs_CZ>
     <znacka>Li</znacka>
@@ -120,8 +120,8 @@
     <period>2</period>
     <skupina>I.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>37</protcislo>
     <name_cs_CZ>Rubidium</name_cs_CZ>
     <znacka>Rb</znacka>
@@ -155,8 +155,8 @@
     <period>5</period>
     <skupina>I.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>11</protcislo>
     <name_cs_CZ>Sodík</name_cs_CZ>
     <znacka>Na</znacka>
@@ -191,5 +191,5 @@
     <period>3</period>
     <skupina>I.A</skupina>
     <state>s</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>

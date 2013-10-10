@@ -1,8 +1,8 @@
 [% INCLUDE header.html %]
 
-<ul id="prvky">
-[% FOREACH foo IN prvky %]
-<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek" name="[% foo.protcislo %]"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.protcislo %]</span></a></li>
+<ul id="elements">
+[% FOREACH foo IN elements %]
+<li><a href="[% foo.lnazev FILTER lower %].html" class="element" name="[% foo.protcislo %]"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.protcislo %]</span></a></li>
 [% END %]
 </ul>
 

@@ -56,14 +56,14 @@ foreach my $lang (@langs){
 	mkdir("$OUT/$lang");
 
 	my $locappname = __($appname);
-	my @prvky;
+	my @elements;
 
 	for my $category (@{$categories->{category}}){
 
 		my $data = $xml->XMLin("psp/xml/$category->{'filename'}.xml");
 
 		$t->process('category.html',
-			{ 'prvky' => $data,
+			{ 'elements' => $data,
 				'cur' => $category->{'filename'},
 				'cur_l' => $category->{'fullname'},
 				'title' => $locappname,
@@ -73,33 +73,33 @@ foreach my $lang (@langs){
 			"$OUT/$lang/$category->{'filename'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
 
-		for my $prvek (@{$data->{prvek}}){
-		 $t->process('prvek.html',
-			 { 'prvek' => $prvek,
+		for my $element (@{$data->{element}}){
+		 $t->process('element.html',
+			 { 'element' => $element,
 				 'elementname' => "name_$lang",
 				 'state' => $state->{'state'},
 				 'cur' => $category->{'filename'},
 				 'cur_l' => $category->{'fullname'},
 				 title => $locappname
 			 },
-			 "$OUT/$lang/".lc($prvek->{'lnazev'}).".html",
+			 "$OUT/$lang/".lc($element->{'lnazev'}).".html",
 			 { binmode => ':utf8' }) or die $t->error;
 
-		 push(@prvky,$prvek);
+		 push(@elements,$element);
 		}
 
 	}
 
-	my @sortedbyname = sort {$a->{"name_$lang"} cmp $b->{"name_$lang"}} @prvky;
-	my @sortedbyprotcislo = sort {$a->{protcislo} <=> $b->{protcislo}} @prvky;
-	my @sortedbyln = sort {$a->{lnazev} cmp $b->{lnazev}} @prvky;
-	my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @prvky;
-	my @sortedbyah = sort {$a->{athmot} =~ s/,/./r <=> $b->{athmot} =~ s/,/./r} @prvky;
+	my @sortedbyname = sort {$a->{"name_$lang"} cmp $b->{"name_$lang"}} @elements;
+	my @sortedbyprotcislo = sort {$a->{protcislo} <=> $b->{protcislo}} @elements;
+	my @sortedbyln = sort {$a->{lnazev} cmp $b->{lnazev}} @elements;
+	my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @elements;
+	my @sortedbyah = sort {$a->{athmot} =~ s/,/./r <=> $b->{athmot} =~ s/,/./r} @elements;
 
 	for my $group (@{$groups->{group}}){
 
 		$t->process('group.html',
-			{ 'prvky' => [@sortedbyname],
+			{ 'elements' => [@sortedbyname],
 				'cur' => $group->{'filename'},
 				'cur_l' => $group->{'fullname'},
 				'title' => $locappname,
@@ -111,7 +111,7 @@ foreach my $lang (@langs){
 	}
 
 	$t->process('index-name.html',
-		{ 'prvky' => [@sortedbyname],
+		{ 'elements' => [@sortedbyname],
 			'title' => $locappname,
 		  'elementname' => "name_$lang",
 			'nohomelink' => 'true'
@@ -120,7 +120,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-pc.html',
-		{ 'prvky' => [@sortedbyprotcislo],
+		{ 'elements' => [@sortedbyprotcislo],
 			'title' => 'Atomic number',
 		  'elementname' => "name_$lang",
 		},
@@ -128,7 +128,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-ln.html',
-		{ 'prvky' => [@sortedbyln],
+		{ 'elements' => [@sortedbyln],
 			'title' => 'Latin name',
 		  'elementname' => "name_$lang",
 		},
@@ -136,7 +136,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-zn.html',
-		{ 'prvky' => [@sortedbyzn],
+		{ 'elements' => [@sortedbyzn],
 			'title' => 'Symbol',
 		  'elementname' => "name_$lang",
 		},
@@ -144,7 +144,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-ah.html',
-		{ 'prvky' => [@sortedbyah],
+		{ 'elements' => [@sortedbyah],
 			'title' => 'Atomic mass',
 		  'elementname' => "name_$lang",
 		},
@@ -161,7 +161,7 @@ foreach my $lang (@langs){
 
 	for my $period (@{$periods->{period}}){
 		$t->process('period.html',
-			{ 'prvky' => [@sortedbyname],
+			{ 'elements' => [@sortedbyname],
 				'periods' => $periods->{period},
 				'period' => $period->{'number'},
 		  	'elementname' => "name_$lang",

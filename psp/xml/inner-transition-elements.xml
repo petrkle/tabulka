@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>95</protcislo>
     <name_cs_CZ>Americium</name_cs_CZ>
     <znacka>Am</znacka>
@@ -23,8 +23,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>97</protcislo>
     <name_cs_CZ>Berkelium</name_cs_CZ>
     <znacka>Bk</znacka>
@@ -45,8 +45,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>58</protcislo>
     <name_cs_CZ>Cer</name_cs_CZ>
     <znacka>Ce</znacka>
@@ -79,8 +79,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>96</protcislo>
     <name_cs_CZ>Curium</name_cs_CZ>
     <znacka>Cm</znacka>
@@ -101,8 +101,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>66</protcislo>
     <name_cs_CZ>Dysprosium</name_cs_CZ>
     <znacka>Dy</znacka>
@@ -134,8 +134,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>99</protcislo>
     <name_cs_CZ>Einsteinium</name_cs_CZ>
     <znacka>Es</znacka>
@@ -155,8 +155,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>68</protcislo>
     <name_cs_CZ>Erbium</name_cs_CZ>
     <znacka>Er</znacka>
@@ -188,8 +188,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>63</protcislo>
     <name_cs_CZ>Europium</name_cs_CZ>
     <znacka>Eu</znacka>
@@ -220,8 +220,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>100</protcislo>
     <name_cs_CZ>Fermium</name_cs_CZ>
     <znacka>Fm</znacka>
@@ -240,8 +240,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>64</protcislo>
     <name_cs_CZ>Gadolinium</name_cs_CZ>
     <znacka>Gd</znacka>
@@ -274,8 +274,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>67</protcislo>
     <name_cs_CZ>Holmium</name_cs_CZ>
     <znacka>Ho</znacka>
@@ -308,8 +308,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>98</protcislo>
     <name_cs_CZ>Kalifornium</name_cs_CZ>
     <znacka>Cf</znacka>
@@ -330,8 +330,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>103</protcislo>
     <name_cs_CZ>Lawrencium</name_cs_CZ>
     <znacka>Lr</znacka>
@@ -349,8 +349,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>71</protcislo>
     <name_cs_CZ>Lutecium</name_cs_CZ>
     <znacka>Lu</znacka>
@@ -383,8 +383,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>101</protcislo>
     <name_cs_CZ>Mendelevium</name_cs_CZ>
     <znacka>Md</znacka>
@@ -403,8 +403,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>60</protcislo>
     <name_cs_CZ>Neodym</name_cs_CZ>
     <znacka>Nd</znacka>
@@ -436,8 +436,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>93</protcislo>
     <name_cs_CZ>Neptunium</name_cs_CZ>
     <znacka>Np</znacka>
@@ -461,8 +461,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>102</protcislo>
     <name_cs_CZ>Nobelium</name_cs_CZ>
     <znacka>No</znacka>
@@ -481,8 +481,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>94</protcislo>
     <name_cs_CZ>Plutonium</name_cs_CZ>
     <znacka>Pu</znacka>
@@ -509,8 +509,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>59</protcislo>
     <name_cs_CZ>Praseodym</name_cs_CZ>
     <znacka>Pr</znacka>
@@ -543,8 +543,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>61</protcislo>
     <name_cs_CZ>Promethium</name_cs_CZ>
     <znacka>Pm</znacka>
@@ -573,8 +573,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>91</protcislo>
     <name_cs_CZ>Protaktinium</name_cs_CZ>
     <znacka>Pa</znacka>
@@ -597,8 +597,8 @@
     <period>7</period>
     <skupina>V.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>62</protcislo>
     <name_cs_CZ>Samarium</name_cs_CZ>
     <znacka>Sm</znacka>
@@ -631,8 +631,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>65</protcislo>
     <name_cs_CZ>Terbium</name_cs_CZ>
     <znacka>Tb</znacka>
@@ -664,8 +664,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>90</protcislo>
     <name_cs_CZ>Thorium</name_cs_CZ>
     <znacka>Th</znacka>
@@ -697,8 +697,8 @@
     <period>7</period>
     <skupina>IV.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>69</protcislo>
     <name_cs_CZ>Thulium</name_cs_CZ>
     <znacka>Tm</znacka>
@@ -730,8 +730,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>92</protcislo>
     <name_cs_CZ>Uran</name_cs_CZ>
     <znacka>U</znacka>
@@ -761,8 +761,8 @@
     <period>7</period>
     <skupina>VI.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>70</protcislo>
     <name_cs_CZ>Ytterbium</name_cs_CZ>
     <znacka>Yb</znacka>
@@ -794,5 +794,5 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>

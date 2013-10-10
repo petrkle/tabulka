@@ -4,12 +4,12 @@
 [% END -%]
 [% INCLUDE header.html %]
 
-<ul id="prvky">
+<ul id="elements">
 [% IF cur %]
 [% FOREACH category IN categories %]
 	[% IF cur == category.filename %]
-	[% FOREACH foo IN prvky.prvek %]
-	<li><a name="[% foo.lnazev FILTER lower %]"></a><a href="[% foo.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
+	[% FOREACH foo IN elements.element %]
+	<li><a name="[% foo.lnazev FILTER lower %]"></a><a href="[% foo.lnazev FILTER lower %].html" class="element"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
 	[% END %]
 	[% END %]
 [% END %]

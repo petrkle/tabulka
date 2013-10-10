@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>51</protcislo>
     <name_cs_CZ>Antimon</name_cs_CZ>
     <znacka>Sb</znacka>
@@ -33,8 +33,8 @@
     <period>5</period>
     <skupina>V.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>33</protcislo>
     <name_cs_CZ>Arsen</name_cs_CZ>
     <znacka>As</znacka>
@@ -66,8 +66,8 @@
     <period>4</period>
     <skupina>V.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>85</protcislo>
     <name_cs_CZ>Astat</name_cs_CZ>
     <znacka>At</znacka>
@@ -90,8 +90,8 @@
     <period>6</period>
     <skupina>VII.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>5</protcislo>
     <name_cs_CZ>Bor</name_cs_CZ>
     <znacka>B</znacka>
@@ -122,8 +122,8 @@
     <period>2</period>
     <skupina>III.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>32</protcislo>
     <name_cs_CZ>Germanium</name_cs_CZ>
     <znacka>Ge</znacka>
@@ -151,8 +151,8 @@
     <period>4</period>
     <skupina>IV.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>14</protcislo>
     <name_cs_CZ>Křemík</name_cs_CZ>
     <znacka>Si</znacka>
@@ -183,8 +183,8 @@
     <period>3</period>
     <skupina>IV.A</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>52</protcislo>
     <name_cs_CZ>Tellur</name_cs_CZ>
     <znacka>Te</znacka>
@@ -217,5 +217,5 @@
     <period>5</period>
     <skupina>VI.A</skupina>
     <state>s</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prvky>
-  <prvek>
+<elements>
+  <element>
     <protcislo>89</protcislo>
     <name_cs_CZ>Aktinium</name_cs_CZ>
     <znacka>Ac</znacka>
@@ -26,8 +26,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>24</protcislo>
     <name_cs_CZ>Chrom</name_cs_CZ>
     <znacka>Cr</znacka>
@@ -61,8 +61,8 @@
     <period>4</period>
     <skupina>VI.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>72</protcislo>
     <name_cs_CZ>Hafnium</name_cs_CZ>
     <znacka>Hf</znacka>
@@ -96,8 +96,8 @@
     <period>6</period>
     <skupina>IV.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>77</protcislo>
     <name_cs_CZ>Iridium</name_cs_CZ>
     <znacka>Ir</znacka>
@@ -129,8 +129,8 @@
     <period>6</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>48</protcislo>
     <name_cs_CZ>Kadmium</name_cs_CZ>
     <znacka>Cd</znacka>
@@ -163,8 +163,8 @@
     <period>5</period>
     <skupina>II.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>27</protcislo>
     <name_cs_CZ>Kobalt</name_cs_CZ>
     <znacka>Co</znacka>
@@ -198,8 +198,8 @@
     <period>4</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>104</protcislo>
     <name_cs_CZ>Kurčatovium</name_cs_CZ>
     <znacka>Ku</znacka>
@@ -216,8 +216,8 @@
     <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>57</protcislo>
     <name_cs_CZ>Lanthan</name_cs_CZ>
     <znacka>La</znacka>
@@ -250,8 +250,8 @@
     <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>25</protcislo>
     <name_cs_CZ>Mangan</name_cs_CZ>
     <znacka>Mn</znacka>
@@ -283,8 +283,8 @@
     <period>4</period>
     <skupina>VII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>42</protcislo>
     <name_cs_CZ>Molybden</name_cs_CZ>
     <znacka>Mo</znacka>
@@ -318,8 +318,8 @@
     <period>5</period>
     <skupina>VI.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>29</protcislo>
     <name_cs_CZ>Měď</name_cs_CZ>
     <znacka>Cu</znacka>
@@ -354,8 +354,8 @@
     <period>4</period>
     <skupina>I.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>28</protcislo>
     <name_cs_CZ>Nikl</name_cs_CZ>
     <znacka>Ni</znacka>
@@ -387,8 +387,8 @@
     <period>4</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>41</protcislo>
     <name_cs_CZ>Niob</name_cs_CZ>
     <znacka>Nb</znacka>
@@ -422,8 +422,8 @@
     <period>5</period>
     <skupina>V.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>76</protcislo>
     <name_cs_CZ>Osmium</name_cs_CZ>
     <znacka>Os</znacka>
@@ -453,8 +453,8 @@
     <period>6</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>46</protcislo>
     <name_cs_CZ>Palladium</name_cs_CZ>
     <znacka>Pd</znacka>
@@ -488,8 +488,8 @@
     <period>5</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>78</protcislo>
     <name_cs_CZ>Platina</name_cs_CZ>
     <znacka>Pt</znacka>
@@ -523,8 +523,8 @@
     <period>6</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>75</protcislo>
     <name_cs_CZ>Rhenium</name_cs_CZ>
     <znacka>Re</znacka>
@@ -556,8 +556,8 @@
     <period>6</period>
     <skupina>VII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>45</protcislo>
     <name_cs_CZ>Rhodium</name_cs_CZ>
     <znacka>Rh</znacka>
@@ -591,8 +591,8 @@
     <period>5</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>80</protcislo>
     <name_cs_CZ>Rtuť</name_cs_CZ>
     <znacka>Hg</znacka>
@@ -625,8 +625,8 @@
     <period>6</period>
     <skupina>II.B</skupina>
     <state>l</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>44</protcislo>
     <name_cs_CZ>Ruthenium</name_cs_CZ>
     <znacka>Ru</znacka>
@@ -659,8 +659,8 @@
     <period>5</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>21</protcislo>
     <name_cs_CZ>Skandium</name_cs_CZ>
     <znacka>Sc</znacka>
@@ -690,8 +690,8 @@
     <period>4</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>47</protcislo>
     <name_cs_CZ>Stříbro</name_cs_CZ>
     <znacka>Ag</znacka>
@@ -726,8 +726,8 @@
     <period>5</period>
     <skupina>I.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>73</protcislo>
     <name_cs_CZ>Tantal</name_cs_CZ>
     <znacka>Ta</znacka>
@@ -759,8 +759,8 @@
     <period>6</period>
     <skupina>V.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>43</protcislo>
     <name_cs_CZ>Technecium</name_cs_CZ>
     <znacka>Tc</znacka>
@@ -789,8 +789,8 @@
     <period>5</period>
     <skupina>VII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>22</protcislo>
     <name_cs_CZ>Titan</name_cs_CZ>
     <znacka>Ti</znacka>
@@ -823,8 +823,8 @@
     <period>4</period>
     <skupina>IV.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>109</protcislo>
     <name_cs_CZ>Unnilennium</name_cs_CZ>
     <znacka>Une</znacka>
@@ -839,8 +839,8 @@
     <period>7</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>106</protcislo>
     <name_cs_CZ>Unnilhexium</name_cs_CZ>
     <znacka>Unh</znacka>
@@ -856,8 +856,8 @@
     <period>7</period>
     <skupina>VI.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>108</protcislo>
     <name_cs_CZ>Unniloctium</name_cs_CZ>
     <znacka>Uno</znacka>
@@ -872,8 +872,8 @@
     <period>7</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>105</protcislo>
     <name_cs_CZ>Unnilpentium</name_cs_CZ>
     <znacka>Unp</znacka>
@@ -889,8 +889,8 @@
     <period>7</period>
     <skupina>V.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>107</protcislo>
     <name_cs_CZ>Unnilseptium</name_cs_CZ>
     <znacka>Uns</znacka>
@@ -906,8 +906,8 @@
     <period>7</period>
     <skupina>VII.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>23</protcislo>
     <name_cs_CZ>Vanad</name_cs_CZ>
     <znacka>V</znacka>
@@ -941,8 +941,8 @@
     <period>4</period>
     <skupina>V.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>74</protcislo>
     <name_cs_CZ>Wolfram</name_cs_CZ>
     <znacka>W</znacka>
@@ -975,8 +975,8 @@
     <period>6</period>
     <skupina>VI.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>39</protcislo>
     <name_cs_CZ>Yttrium</name_cs_CZ>
     <znacka>Y</znacka>
@@ -1008,8 +1008,8 @@
     <period>5</period>
     <skupina>III.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>30</protcislo>
     <name_cs_CZ>Zinek</name_cs_CZ>
     <znacka>Zn</znacka>
@@ -1043,8 +1043,8 @@
     <period>4</period>
     <skupina>II.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>40</protcislo>
     <name_cs_CZ>Zirkonium</name_cs_CZ>
     <znacka>Zr</znacka>
@@ -1078,8 +1078,8 @@
     <period>5</period>
     <skupina>IV.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>79</protcislo>
     <name_cs_CZ>Zlato</name_cs_CZ>
     <znacka>Au</znacka>
@@ -1113,8 +1113,8 @@
     <period>6</period>
     <skupina>I.B</skupina>
     <state>s</state>
-  </prvek>
-  <prvek>
+  </element>
+  <element>
     <protcislo>26</protcislo>
     <name_cs_CZ>Železo</name_cs_CZ>
     <znacka>Fe</znacka>
@@ -1148,5 +1148,5 @@
     <period>4</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
-  </prvek>
-</prvky>
+  </element>
+</elements>
