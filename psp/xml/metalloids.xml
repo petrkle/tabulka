@@ -30,7 +30,7 @@
     <ionizacnipotencial3>25,3</ionizacnipotencial3>
     <elektrickavodivost>2,5.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>294</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>V.A</skupina>
     <state>s</state>
   </prvek>
@@ -63,7 +63,7 @@
     <ionizacnipotencial3>28,351</ionizacnipotencial3>
     <elektrickavodivost>3,3.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>1440</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>V.A</skupina>
     <state>s</state>
   </prvek>
@@ -87,7 +87,7 @@
     <tvodivost>1,7</tvodivost>
     <atomovypolomer>127</atomovypolomer>
     <ionizacnipotencial1>9,5</ionizacnipotencial1>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>VII.A</skupina>
     <state>s</state>
   </prvek>
@@ -119,7 +119,7 @@
     <ionizacnipotencial3>37,93</ionizacnipotencial3>
     <elektrickavodivost>5.10&lt;sup&gt;-6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>4,9.10&lt;sup&gt;4&lt;/sup&gt;</tvrdostvickers>
-    <perioda>2</perioda>
+    <period>2</period>
     <skupina>III.A</skupina>
     <state>s</state>
   </prvek>
@@ -148,7 +148,7 @@
     <ionizacnipotencial2>15,934</ionizacnipotencial2>
     <ionizacnipotencial3>34,22</ionizacnipotencial3>
     <elektrickavodivost>2.10&lt;sup&gt;3&lt;/sup&gt;</elektrickavodivost>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>IV.A</skupina>
     <state>s</state>
   </prvek>
@@ -180,7 +180,7 @@
     <ionizacnipotencial2>16,345</ionizacnipotencial2>
     <ionizacnipotencial3>33,492</ionizacnipotencial3>
     <elektrickavodivost>4.10&lt;sup&gt;2&lt;/sup&gt;</elektrickavodivost>
-    <perioda>3</perioda>
+    <period>3</period>
     <skupina>IV.A</skupina>
     <state>s</state>
   </prvek>
@@ -214,7 +214,7 @@
     <ionizacnipotencial3>27,96</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;4&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>180</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>VI.A</skupina>
     <state>s</state>
   </prvek>

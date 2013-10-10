@@ -29,7 +29,7 @@ my $categories = $xml->XMLin("psp/xml/categories.xml");
 
 my $groups = $xml->XMLin("psp/xml/groups.xml");
 
-my $periody = $xml->XMLin("psp/xml/periody.xml");
+my $periods = $xml->XMLin("psp/xml/periods.xml");
 
 my $state = $xml->XMLin("psp/xml/state.xml");
 
@@ -159,21 +159,21 @@ foreach my $lang (@langs){
 		"$OUT/$lang/menu.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	for my $perioda (@{$periody->{perioda}}){
-		$t->process('perioda.html',
+	for my $period (@{$periods->{period}}){
+		$t->process('period.html',
 			{ 'prvky' => [@sortedbyname],
-				'periody' => $periody->{perioda},
-				'perioda' => $perioda->{'cislo'},
+				'periods' => $periods->{period},
+				'period' => $period->{'number'},
 		  	'elementname' => "name_$lang",
 				'title' => $locappname
 			},
-			"$OUT/$lang/p$perioda->{'cislo'}.html",
+			"$OUT/$lang/p$period->{'number'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
 	}
 
-	$t->process('perioda.html',
-		{ 'periody' => $periody->{perioda},
-			'title' => 'Period',
+	$t->process('period.html',
+		{ 'periods' => $periods->{period},
+			'title' => $locappname,
 		  'elementname' => "name_$lang",
 		},
 		"$OUT/$lang/p.html",

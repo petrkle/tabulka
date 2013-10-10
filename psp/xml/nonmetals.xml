@@ -27,7 +27,7 @@
     <ionizacnipotencial1>14,5341</ionizacnipotencial1>
     <ionizacnipotencial2>29,601</ionizacnipotencial2>
     <ionizacnipotencial3>47,448</ionizacnipotencial3>
-    <perioda>2</perioda>
+    <period>2</period>
     <skupina>V.A</skupina>
     <state>g</state>
   </prvek>
@@ -57,7 +57,7 @@
     <ionizacnipotencial2>19,725</ionizacnipotencial2>
     <ionizacnipotencial3>30,18</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
-    <perioda>3</perioda>
+    <period>3</period>
     <skupina>V.A</skupina>
     <state>s</state>
   </prvek>
@@ -88,7 +88,7 @@
     <ionizacnipotencial1>13,6181</ionizacnipotencial1>
     <ionizacnipotencial2>35,117</ionizacnipotencial2>
     <ionizacnipotencial3>54,934</ionizacnipotencial3>
-    <perioda>2</perioda>
+    <period>2</period>
     <skupina>VI.A</skupina>
     <state>g</state>
   </prvek>
@@ -122,7 +122,7 @@
     <ionizacnipotencial3>30,82</ionizacnipotencial3>
     <elektrickavodivost>8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>736</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>VI.A</skupina>
     <state>s</state>
   </prvek>
@@ -154,7 +154,7 @@
     <ionizacnipotencial2>23,33</ionizacnipotencial2>
     <ionizacnipotencial3>34,83</ionizacnipotencial3>
     <elektrickavodivost>5.10&lt;sup&gt;-14&lt;/sup&gt;</elektrickavodivost>
-    <perioda>3</perioda>
+    <period>3</period>
     <skupina>VI.A</skupina>
     <state>s</state>
   </prvek>
@@ -184,7 +184,7 @@
     <ionizacnipotencial2>24,383</ionizacnipotencial2>
     <ionizacnipotencial3>47,887</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;5&lt;/sup&gt;</elektrickavodivost>
-    <perioda>2</perioda>
+    <period>2</period>
     <skupina>IV.A</skupina>
     <state>s</state>
   </prvek>
@@ -212,7 +212,7 @@
     <kritickytlak>1,293</kritickytlak>
     <atomovypolomer>53</atomovypolomer>
     <kovalentnipolomer>37</kovalentnipolomer>
-    <perioda>1</perioda>
+    <period>1</period>
     <skupina>I.A</skupina>
     <state>g</state>
   </prvek>

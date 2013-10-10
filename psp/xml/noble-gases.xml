@@ -25,7 +25,7 @@
     <ionizacnipotencial1>15,7596</ionizacnipotencial1>
     <ionizacnipotencial2>27,629</ionizacnipotencial2>
     <ionizacnipotencial3>40,74</ionizacnipotencial3>
-    <perioda>3</perioda>
+    <period>3</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
   </prvek>
@@ -51,7 +51,7 @@
     <kritickytlak>0,227</kritickytlak>
     <atomovypolomer>31</atomovypolomer>
     <kovalentnipolomer>32</kovalentnipolomer>
-    <perioda>1</perioda>
+    <period>1</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
   </prvek>
@@ -81,7 +81,7 @@
     <ionizacnipotencial1>13,9996</ionizacnipotencial1>
     <ionizacnipotencial2>24,359</ionizacnipotencial2>
     <ionizacnipotencial3>36,95</ionizacnipotencial3>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
   </prvek>
@@ -110,7 +110,7 @@
     <ionizacnipotencial1>21,5645</ionizacnipotencial1>
     <ionizacnipotencial2>40,962</ionizacnipotencial2>
     <ionizacnipotencial3>63,45</ionizacnipotencial3>
-    <perioda>2</perioda>
+    <period>2</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
   </prvek>
@@ -138,7 +138,7 @@
     <atomovypolomer>120</atomovypolomer>
     <kovalentnipolomer>145</kovalentnipolomer>
     <ionizacnipotencial1>10,7485</ionizacnipotencial1>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
   </prvek>
@@ -168,7 +168,7 @@
     <ionizacnipotencial1>12,1299</ionizacnipotencial1>
     <ionizacnipotencial2>21,21</ionizacnipotencial2>
     <ionizacnipotencial3>32,1</ionizacnipotencial3>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>VIII.A</skupina>
     <state>g</state>
   </prvek>

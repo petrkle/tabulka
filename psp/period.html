@@ -1,23 +1,23 @@
-[% IF perioda -%]
-[% title = "${perioda}. " _ l('period') -%]
+[% IF period -%]
+[% title = "${period}. " _ l('period') -%]
 [% titlelink="p.html" -%]
 [% END -%]
 [% INCLUDE header.html %]
 
 <ul id="prvky">
-[% IF perioda %]
-[% FOREACH per IN periody %]
-	[% IF perioda == per.cislo %]
+[% IF period %]
+[% FOREACH per IN periods %]
+	[% IF period == per.number %]
 		[% FOREACH foo IN prvky %]
-		[% IF foo.perioda == perioda %]
+		[% IF foo.period == period %]
 		<li><a href="[% foo.lnazev FILTER lower %].html" class="prvek"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
 		[% END %]
 		[% END %]
 	[% END %]
 [% END %]
 [% ELSE %]
-[% FOREACH per IN periody %]
-	<li><a href="p[% per.cislo %].html" class="radek closed">[% per.cislo %]. [% l('period') %]</a></li>
+[% FOREACH per IN periods %]
+	<li><a href="p[% per.number %].html" class="radek closed">[% per.number %]. [% l('period') %]</a></li>
 [% END %]
 [% END %]
 </ul>

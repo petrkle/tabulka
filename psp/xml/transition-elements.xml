@@ -23,7 +23,7 @@
     <atomovypolomer>195</atomovypolomer>
     <ionizacnipotencial1>5,17</ionizacnipotencial1>
     <ionizacnipotencial2>10,148</ionizacnipotencial2>
-    <perioda>7</perioda>
+    <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
   </prvek>
@@ -58,7 +58,7 @@
     <elektrickavodivost>7,9.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>1060</tvrdostvickers>
     <tvrdostbrinell>1120</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>VI.B</skupina>
     <state>s</state>
   </prvek>
@@ -93,7 +93,7 @@
     <elektrickavodivost>3,3.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>1760</tvrdostvickers>
     <tvrdostbrinell>1700</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>IV.B</skupina>
     <state>s</state>
   </prvek>
@@ -126,7 +126,7 @@
     <elektrickavodivost>2,1.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>1760</tvrdostvickers>
     <tvrdostbrinell>1670</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -160,7 +160,7 @@
     <ionizacnipotencial3>37,48</ionizacnipotencial3>
     <elektrickavodivost>4,4.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>203</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>II.B</skupina>
     <state>s</state>
   </prvek>
@@ -195,7 +195,7 @@
     <elektrickavodivost>1,7.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>1043</tvrdostvickers>
     <tvrdostbrinell>700</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -213,7 +213,7 @@
     <name_de>Rutherfordium</name_de>
     <frnazev>Rutherfordium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;2&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <perioda>7</perioda>
+    <period>7</period>
     <skupina>III.B</skupina>
     <state>s</state>
   </prvek>
@@ -247,7 +247,7 @@
     <elektrickavodivost>1,9.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>491</tvrdostvickers>
     <tvrdostbrinell>363</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>III.B</skupina>
     <state>s</state>
   </prvek>
@@ -280,7 +280,7 @@
     <ionizacnipotencial3>33,667</ionizacnipotencial3>
     <elektrickavodivost>6,2.10&lt;sup&gt;5&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>196</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>VII.B</skupina>
     <state>s</state>
   </prvek>
@@ -315,7 +315,7 @@
     <elektrickavodivost>1,73.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>1530</tvrdostvickers>
     <tvrdostbrinell>1500</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>VI.B</skupina>
     <state>s</state>
   </prvek>
@@ -351,7 +351,7 @@
     <mernyelodpor>0,0169</mernyelodpor>
     <tvrdostvickers>369</tvrdostvickers>
     <tvrdostbrinell>874</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>I.B</skupina>
     <state>s</state>
   </prvek>
@@ -384,7 +384,7 @@
     <elektrickavodivost>1,4.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>638</tvrdostvickers>
     <tvrdostbrinell>700</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -419,7 +419,7 @@
     <elektrickavodivost>6,7.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>1320</tvrdostvickers>
     <tvrdostbrinell>736</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>V.B</skupina>
     <state>s</state>
   </prvek>
@@ -450,7 +450,7 @@
     <ionizacnipotencial1>8,7</ionizacnipotencial1>
     <elektrickavodivost>1,23.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>3920</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -485,7 +485,7 @@
     <elektrickavodivost>10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>461</tvrdostvickers>
     <tvrdostbrinell>37,3</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -520,7 +520,7 @@
     <mernyelodpor>0,106</mernyelodpor>
     <tvrdostvickers>549</tvrdostvickers>
     <tvrdostbrinell>392</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -553,7 +553,7 @@
     <elektrickavodivost>5,6.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>2450</tvrdostvickers>
     <tvrdostbrinell>1320</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>VII.B</skupina>
     <state>s</state>
   </prvek>
@@ -588,7 +588,7 @@
     <elektrickavodivost>2,3.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>1246</tvrdostvickers>
     <tvrdostbrinell>1100</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -622,7 +622,7 @@
     <ionizacnipotencial3>34,202</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <mernyelodpor>0,959</mernyelodpor>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>II.B</skupina>
     <state>l</state>
   </prvek>
@@ -656,7 +656,7 @@
     <ionizacnipotencial3>28,47</ionizacnipotencial3>
     <elektrickavodivost>1,4.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>2160</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -687,7 +687,7 @@
     <ionizacnipotencial3>24,76</ionizacnipotencial3>
     <elektrickavodivost>1,8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>750</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>III.B</skupina>
     <state>s</state>
   </prvek>
@@ -723,7 +723,7 @@
     <mernyelodpor>0,0152</mernyelodpor>
     <tvrdostvickers>251</tvrdostvickers>
     <tvrdostbrinell>24,5</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>I.B</skupina>
     <state>s</state>
   </prvek>
@@ -756,7 +756,7 @@
     <elektrickavodivost>8,1.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>873</tvrdostvickers>
     <tvrdostbrinell>800</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>V.B</skupina>
     <state>s</state>
   </prvek>
@@ -786,7 +786,7 @@
     <ionizacnipotencial2>15,26</ionizacnipotencial2>
     <ionizacnipotencial3>29,54</ionizacnipotencial3>
     <elektrickavodivost>5.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>VII.B</skupina>
     <state>s</state>
   </prvek>
@@ -820,7 +820,7 @@
     <mernyelodpor>0,42</mernyelodpor>
     <tvrdostvickers>970</tvrdostvickers>
     <tvrdostbrinell>716</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>IV.B</skupina>
     <state>s</state>
   </prvek>
@@ -836,7 +836,7 @@
     <name_de>Meitnerium</name_de>
     <frnazev>Meitnerium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;7&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <perioda>7</perioda>
+    <period>7</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -853,7 +853,7 @@
     <name_de>Seaborgium</name_de>
     <frnazev>Seaborgium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;4&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <perioda>7</perioda>
+    <period>7</period>
     <skupina>VI.B</skupina>
     <state>s</state>
   </prvek>
@@ -869,7 +869,7 @@
     <name_de>Hassium</name_de>
     <frnazev>Hassium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;6&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <perioda>7</perioda>
+    <period>7</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>
@@ -886,7 +886,7 @@
     <name_de>Dubnium</name_de>
     <frnazev>Dubnium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;3&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <perioda>7</perioda>
+    <period>7</period>
     <skupina>V.B</skupina>
     <state>s</state>
   </prvek>
@@ -903,7 +903,7 @@
     <name_de>Bohrium</name_de>
     <frnazev>Bohrium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;5&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <perioda>7</perioda>
+    <period>7</period>
     <skupina>VII.B</skupina>
     <state>s</state>
   </prvek>
@@ -938,7 +938,7 @@
     <elektrickavodivost>4.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>628</tvrdostvickers>
     <tvrdostbrinell>628</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>V.B</skupina>
     <state>s</state>
   </prvek>
@@ -972,7 +972,7 @@
     <mernyelodpor>0,0536</mernyelodpor>
     <tvrdostvickers>3430</tvrdostvickers>
     <tvrdostbrinell>2570</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>VI.B</skupina>
     <state>s</state>
   </prvek>
@@ -1005,7 +1005,7 @@
     <ionizacnipotencial3>20,52</ionizacnipotencial3>
     <elektrickavodivost>1,8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>589</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>III.B</skupina>
     <state>s</state>
   </prvek>
@@ -1040,7 +1040,7 @@
     <elektrickavodivost>1,69.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <mernyelodpor>0,0596</mernyelodpor>
     <tvrdostbrinell>412</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>II.B</skupina>
     <state>s</state>
   </prvek>
@@ -1075,7 +1075,7 @@
     <elektrickavodivost>2,3.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>903</tvrdostvickers>
     <tvrdostbrinell>650</tvrdostbrinell>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>IV.B</skupina>
     <state>s</state>
   </prvek>
@@ -1110,7 +1110,7 @@
     <mernyelodpor>0,022</mernyelodpor>
     <tvrdostvickers>216</tvrdostvickers>
     <tvrdostbrinell>2450</tvrdostbrinell>
-    <perioda>6</perioda>
+    <period>6</period>
     <skupina>I.B</skupina>
     <state>s</state>
   </prvek>
@@ -1145,7 +1145,7 @@
     <mernyelodpor>0,101</mernyelodpor>
     <tvrdostvickers>608</tvrdostvickers>
     <tvrdostbrinell>490</tvrdostbrinell>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>VIII.B</skupina>
     <state>s</state>
   </prvek>

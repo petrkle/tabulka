@@ -28,7 +28,7 @@
     <ionizacnipotencial2>21,8</ionizacnipotencial2>
     <ionizacnipotencial3>36,0</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;-10&lt;/sup&gt;</elektrickavodivost>
-    <perioda>4</perioda>
+    <period>4</period>
     <skupina>VII.A</skupina>
     <state>l</state>
   </prvek>
@@ -59,7 +59,7 @@
     <ionizacnipotencial1>12,9676</ionizacnipotencial1>
     <ionizacnipotencial2>23,81</ionizacnipotencial2>
     <ionizacnipotencial3>39,611</ionizacnipotencial3>
-    <perioda>3</perioda>
+    <period>3</period>
     <skupina>VII.A</skupina>
     <state>g</state>
   </prvek>
@@ -90,7 +90,7 @@
     <ionizacnipotencial1>17,4228</ionizacnipotencial1>
     <ionizacnipotencial2>34,97</ionizacnipotencial2>
     <ionizacnipotencial3>62,707</ionizacnipotencial3>
-    <perioda>2</perioda>
+    <period>2</period>
     <skupina>VII.A</skupina>
     <state>g</state>
   </prvek>
@@ -122,7 +122,7 @@
     <ionizacnipotencial2>19,131</ionizacnipotencial2>
     <ionizacnipotencial3>33,0</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;-7&lt;/sup&gt;</elektrickavodivost>
-    <perioda>5</perioda>
+    <period>5</period>
     <skupina>VII.A</skupina>
     <state>s</state>
   </prvek>
