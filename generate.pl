@@ -25,7 +25,7 @@ my @langs = get_langs();
 
 my $xml = new XML::Simple;
 
-my $druhy = $xml->XMLin("psp/xml/druhy.xml");
+my $categories = $xml->XMLin("psp/xml/categories.xml");
 
 my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
 
@@ -58,19 +58,19 @@ foreach my $lang (@langs){
 	my $locappname = __($appname);
 	my @prvky;
 
-	for my $druh (@{$druhy->{druh}}){
+	for my $category (@{$categories->{category}}){
 
-		my $data = $xml->XMLin("psp/xml/$druh->{'zkratka'}.xml");
+		my $data = $xml->XMLin("psp/xml/$category->{'filename'}.xml");
 
-		$t->process('druh.html',
+		$t->process('category.html',
 			{ 'prvky' => $data,
-				'cur' => $druh->{'zkratka'},
-				'cur_l' => $druh->{'nazev'},
+				'cur' => $category->{'filename'},
+				'cur_l' => $category->{'fullname'},
 				'title' => $locappname,
 		  	'elementname' => "name_$lang",
-				'druhy' => $druhy->{druh}
+				'categories' => $categories->{category}
 			},
-			"$OUT/$lang/$druh->{'zkratka'}.html",
+			"$OUT/$lang/$category->{'filename'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
 
 		for my $prvek (@{$data->{prvek}}){
@@ -78,8 +78,8 @@ foreach my $lang (@langs){
 			 { 'prvek' => $prvek,
 				 'elementname' => "name_$lang",
 				 'state' => $state->{'state'},
-				 'cur' => $druh->{'zkratka'},
-				 'cur_l' => $druh->{'nazev'},
+				 'cur' => $category->{'filename'},
+				 'cur_l' => $category->{'fullname'},
 				 title => $locappname
 			 },
 			 "$OUT/$lang/".lc($prvek->{'lnazev'}).".html",
@@ -179,12 +179,12 @@ foreach my $lang (@langs){
 		"$OUT/$lang/p.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	$t->process('druh.html',
+	$t->process('category.html',
 		{	'title' => $locappname,
 		  'elementname' => "name_$lang",
-			'druhy' => $druhy->{druh}
+			'categories' => $categories->{category}
 		},
-		"$OUT/$lang/d.html",
+		"$OUT/$lang/category.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('skupina.html',
