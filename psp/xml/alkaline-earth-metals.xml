@@ -4,7 +4,7 @@
     <protcislo>56</protcislo>
     <name_cs_CZ>Baryum</name_cs_CZ>
     <znacka>Ba</znacka>
-    <lnazev>Baryum</lnazev>
+    <name_Latin>Baryum</name_Latin>
     <athmot>137,327</athmot>
     <oxid>2</oxid>
     <pe>0,9</pe>
@@ -34,7 +34,7 @@
     <protcislo>88</protcislo>
     <name_cs_CZ>Radium</name_cs_CZ>
     <znacka>Ra</znacka>
-    <lnazev>Radium</lnazev>
+    <name_Latin>Radium</name_Latin>
     <athmot>226,0254</athmot>
     <oxid>2</oxid>
     <pe>0,9</pe>
@@ -61,7 +61,7 @@
     <protcislo>38</protcislo>
     <name_cs_CZ>Stroncium</name_cs_CZ>
     <znacka>Sr</znacka>
-    <lnazev>Strontium</lnazev>
+    <name_Latin>Strontium</name_Latin>
     <athmot>87,62</athmot>
     <oxid>2</oxid>
     <pe>1,0</pe>
@@ -92,7 +92,7 @@
     <protcislo>20</protcislo>
     <name_cs_CZ>Vápník</name_cs_CZ>
     <znacka>Ca</znacka>
-    <lnazev>Calcium</lnazev>
+    <name_Latin>Calcium</name_Latin>
     <athmot>40,078</athmot>
     <oxid>2</oxid>
     <pe>1,0</pe>

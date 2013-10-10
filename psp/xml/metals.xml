@@ -4,7 +4,7 @@
     <protcislo>4</protcislo>
     <name_cs_CZ>Beryllium</name_cs_CZ>
     <znacka>Be</znacka>
-    <lnazev>Beryllium</lnazev>
+    <name_Latin>Beryllium</name_Latin>
     <athmot>9,012182</athmot>
     <oxid>2</oxid>
     <pe>1,5</pe>
@@ -39,7 +39,7 @@
     <protcislo>83</protcislo>
     <name_cs_CZ>Bismut</name_cs_CZ>
     <znacka>Bi</znacka>
-    <lnazev>Bismuthum</lnazev>
+    <name_Latin>Bismuthum</name_Latin>
     <athmot>208,98037</athmot>
     <oxid>3,5</oxid>
     <pe>1,9</pe>
@@ -73,7 +73,7 @@
     <protcislo>50</protcislo>
     <name_cs_CZ>Cín</name_cs_CZ>
     <znacka>Sn</znacka>
-    <lnazev>Stannum</lnazev>
+    <name_Latin>Stannum</name_Latin>
     <athmot>118,710</athmot>
     <oxid>2,4</oxid>
     <pe>1,8</pe>
@@ -107,7 +107,7 @@
     <protcislo>31</protcislo>
     <name_cs_CZ>Gallium</name_cs_CZ>
     <znacka>Ga</znacka>
-    <lnazev>Gallium</lnazev>
+    <name_Latin>Gallium</name_Latin>
     <athmot>69,723</athmot>
     <oxid>3</oxid>
     <pe>1,6</pe>
@@ -137,7 +137,7 @@
     <protcislo>13</protcislo>
     <name_cs_CZ>Hliník</name_cs_CZ>
     <znacka>Al</znacka>
-    <lnazev>Aluminium</lnazev>
+    <name_Latin>Aluminium</name_Latin>
     <athmot>26,981539</athmot>
     <oxid>3</oxid>
     <pe>1,5</pe>
@@ -173,7 +173,7 @@
     <protcislo>12</protcislo>
     <name_cs_CZ>Hořčík</name_cs_CZ>
     <znacka>Mg</znacka>
-    <lnazev>Magnesium</lnazev>
+    <name_Latin>Magnesium</name_Latin>
     <athmot>24,3050</athmot>
     <oxid>2</oxid>
     <pe>1,2</pe>
@@ -207,7 +207,7 @@
     <protcislo>49</protcislo>
     <name_cs_CZ>Indium</name_cs_CZ>
     <znacka>In</znacka>
-    <lnazev>Indium</lnazev>
+    <name_Latin>Indium</name_Latin>
     <athmot>114,82</athmot>
     <oxid>1,3</oxid>
     <pe>1,7</pe>
@@ -239,7 +239,7 @@
     <protcislo>82</protcislo>
     <name_cs_CZ>Olovo</name_cs_CZ>
     <znacka>Pb</znacka>
-    <lnazev>Plumbum</lnazev>
+    <name_Latin>Plumbum</name_Latin>
     <athmot>207,2</athmot>
     <oxid>2,4</oxid>
     <pe>1,8</pe>
@@ -274,7 +274,7 @@
     <protcislo>84</protcislo>
     <name_cs_CZ>Polonium</name_cs_CZ>
     <znacka>Po</znacka>
-    <lnazev>Polonium</lnazev>
+    <name_Latin>Polonium</name_Latin>
     <athmot>208,9824</athmot>
     <oxid>2,4,6</oxid>
     <pe>2,0</pe>
@@ -299,7 +299,7 @@
     <protcislo>81</protcislo>
     <name_cs_CZ>Thallium</name_cs_CZ>
     <znacka>Tl</znacka>
-    <lnazev>Thallium</lnazev>
+    <name_Latin>Thallium</name_Latin>
     <athmot>204,3833</athmot>
     <oxid>1,3</oxid>
     <pe>1,8</pe>

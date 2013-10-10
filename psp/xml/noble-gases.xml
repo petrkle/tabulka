@@ -4,7 +4,7 @@
     <protcislo>18</protcislo>
     <name_cs_CZ>Argon</name_cs_CZ>
     <znacka>Ar</znacka>
-    <lnazev>Argon</lnazev>
+    <name_Latin>Argon</name_Latin>
     <athmot>39,948</athmot>
     <hustota>0,0017838</hustota>
     <si>3</si>
@@ -33,7 +33,7 @@
     <protcislo>2</protcislo>
     <name_cs_CZ>Helium</name_cs_CZ>
     <znacka>He</znacka>
-    <lnazev>Helium</lnazev>
+    <name_Latin>Helium</name_Latin>
     <athmot>4,002602</athmot>
     <hustota>0,0001785</hustota>
     <si>2</si>
@@ -59,7 +59,7 @@
     <protcislo>36</protcislo>
     <name_cs_CZ>Krypton</name_cs_CZ>
     <znacka>Kr</znacka>
-    <lnazev>Krypton</lnazev>
+    <name_Latin>Krypton</name_Latin>
     <athmot>83,8</athmot>
     <oxid>2,4</oxid>
     <hustota>0,0037493</hustota>
@@ -89,7 +89,7 @@
     <protcislo>10</protcislo>
     <name_cs_CZ>Neon</name_cs_CZ>
     <znacka>Ne</znacka>
-    <lnazev>Neon</lnazev>
+    <name_Latin>Neon</name_Latin>
     <athmot>20,1797</athmot>
     <hustota>0,0008999</hustota>
     <si>3</si>
@@ -118,7 +118,7 @@
     <protcislo>86</protcislo>
     <name_cs_CZ>Radon</name_cs_CZ>
     <znacka>Rn</znacka>
-    <lnazev>Radon</lnazev>
+    <name_Latin>Radon</name_Latin>
     <athmot>222,0176</athmot>
     <oxid>2</oxid>
     <hustota>0,00919</hustota>
@@ -146,7 +146,7 @@
     <protcislo>54</protcislo>
     <name_cs_CZ>Xenon</name_cs_CZ>
     <znacka>Xe</znacka>
-    <lnazev>Xenon</lnazev>
+    <name_Latin>Xenon</name_Latin>
     <athmot>131,29</athmot>
     <oxid>2,4,6,8</oxid>
     <hustota>0,0058671</hustota>

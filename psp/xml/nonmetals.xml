@@ -4,7 +4,7 @@
     <protcislo>7</protcislo>
     <name_cs_CZ>Dusík</name_cs_CZ>
     <znacka>N</znacka>
-    <lnazev>Nitrogenium</lnazev>
+    <name_Latin>Nitrogenium</name_Latin>
     <athmot>14,00674</athmot>
     <oxid>-3,1,2,3,4,5</oxid>
     <pe>3,0</pe>
@@ -35,7 +35,7 @@
     <protcislo>15</protcislo>
     <name_cs_CZ>Fosfor</name_cs_CZ>
     <znacka>P</znacka>
-    <lnazev>Phosphorus</lnazev>
+    <name_Latin>Phosphorus</name_Latin>
     <athmot>30,973762</athmot>
     <oxid>-3,3,5</oxid>
     <pe>2,1</pe>
@@ -65,7 +65,7 @@
     <protcislo>8</protcislo>
     <name_cs_CZ>Kyslík</name_cs_CZ>
     <znacka>O</znacka>
-    <lnazev>Oxygenium</lnazev>
+    <name_Latin>Oxygenium</name_Latin>
     <athmot>15,9994</athmot>
     <oxid>-2,-1,2</oxid>
     <pe>3,5</pe>
@@ -96,7 +96,7 @@
     <protcislo>34</protcislo>
     <name_cs_CZ>Selen</name_cs_CZ>
     <znacka>Se</znacka>
-    <lnazev>Selenium</lnazev>
+    <name_Latin>Selenium</name_Latin>
     <athmot>78,96</athmot>
     <oxid>-2,2,4,6</oxid>
     <pe>2,4</pe>
@@ -130,7 +130,7 @@
     <protcislo>16</protcislo>
     <name_cs_CZ>Síra</name_cs_CZ>
     <znacka>S</znacka>
-    <lnazev>Sulphur</lnazev>
+    <name_Latin>Sulphur</name_Latin>
     <athmot>32,066</athmot>
     <oxid>-2,2,4,6</oxid>
     <pe>2,5</pe>
@@ -162,7 +162,7 @@
     <protcislo>6</protcislo>
     <name_cs_CZ>Uhlík</name_cs_CZ>
     <znacka>C</znacka>
-    <lnazev>Carboneum</lnazev>
+    <name_Latin>Carboneum</name_Latin>
     <athmot>12,011</athmot>
     <oxid>-4,2,4</oxid>
     <pe>2,5</pe>
@@ -192,7 +192,7 @@
     <protcislo>1</protcislo>
     <name_cs_CZ>Vodík</name_cs_CZ>
     <znacka>H</znacka>
-    <lnazev>Hydrogenium</lnazev>
+    <name_Latin>Hydrogenium</name_Latin>
     <athmot>1,00794</athmot>
     <oxid>-1,1</oxid>
     <pe>2,1</pe>

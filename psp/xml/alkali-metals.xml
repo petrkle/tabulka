@@ -4,7 +4,7 @@
     <protcislo>55</protcislo>
     <name_cs_CZ>Cesium</name_cs_CZ>
     <znacka>Cs</znacka>
-    <lnazev>Caesium</lnazev>
+    <name_Latin>Caesium</name_Latin>
     <athmot>132,90543</athmot>
     <oxid>1</oxid>
     <pe>0,7</pe>
@@ -37,7 +37,7 @@
     <protcislo>19</protcislo>
     <name_cs_CZ>Draslík</name_cs_CZ>
     <znacka>K</znacka>
-    <lnazev>Kalium</lnazev>
+    <name_Latin>Kalium</name_Latin>
     <athmot>39,0983</athmot>
     <oxid>1</oxid>
     <pe>0,9</pe>
@@ -71,7 +71,7 @@
     <protcislo>87</protcislo>
     <name_cs_CZ>Francium</name_cs_CZ>
     <znacka>Fr</znacka>
-    <lnazev>Francium</lnazev>
+    <name_Latin>Francium</name_Latin>
     <athmot>223,019</athmot>
     <oxid>1</oxid>
     <pe>0,7</pe>
@@ -93,7 +93,7 @@
     <protcislo>3</protcislo>
     <name_cs_CZ>Lithium</name_cs_CZ>
     <znacka>Li</znacka>
-    <lnazev>Lithium</lnazev>
+    <name_Latin>Lithium</name_Latin>
     <athmot>6,941</athmot>
     <oxid>1</oxid>
     <pe>1,0</pe>
@@ -125,7 +125,7 @@
     <protcislo>37</protcislo>
     <name_cs_CZ>Rubidium</name_cs_CZ>
     <znacka>Rb</znacka>
-    <lnazev>Rubidium</lnazev>
+    <name_Latin>Rubidium</name_Latin>
     <athmot>85,4678</athmot>
     <oxid>1</oxid>
     <pe>0,8</pe>
@@ -160,7 +160,7 @@
     <protcislo>11</protcislo>
     <name_cs_CZ>Sodík</name_cs_CZ>
     <znacka>Na</znacka>
-    <lnazev>Natrium</lnazev>
+    <name_Latin>Natrium</name_Latin>
     <athmot>22,98768</athmot>
     <oxid>1</oxid>
     <pe>0,9</pe>

@@ -4,7 +4,7 @@
     <protcislo>35</protcislo>
     <name_cs_CZ>Brom</name_cs_CZ>
     <znacka>Br</znacka>
-    <lnazev>Bromum</lnazev>
+    <name_Latin>Bromum</name_Latin>
     <athmot>79,904</athmot>
     <oxid>-1,1,3,5,7</oxid>
     <pe>2,8</pe>
@@ -36,7 +36,7 @@
     <protcislo>17</protcislo>
     <name_cs_CZ>Chlor</name_cs_CZ>
     <znacka>Cl</znacka>
-    <lnazev>Chlorum</lnazev>
+    <name_Latin>Chlorum</name_Latin>
     <athmot>35,4527</athmot>
     <oxid>-1,1,3,4,5,6,7</oxid>
     <pe>3,0</pe>
@@ -67,7 +67,7 @@
     <protcislo>9</protcislo>
     <name_cs_CZ>Fluor</name_cs_CZ>
     <znacka>F</znacka>
-    <lnazev>Fluorum</lnazev>
+    <name_Latin>Fluorum</name_Latin>
     <athmot>18,9984032</athmot>
     <oxid>-1</oxid>
     <pe>4,0</pe>
@@ -98,7 +98,7 @@
     <protcislo>53</protcislo>
     <name_cs_CZ>Jod</name_cs_CZ>
     <znacka>I</znacka>
-    <lnazev>Iodium</lnazev>
+    <name_Latin>Iodium</name_Latin>
     <athmot>126,90447</athmot>
     <oxid>-1,1,3,5,7</oxid>
     <pe>2,5</pe>

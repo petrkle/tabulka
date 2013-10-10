@@ -4,7 +4,7 @@
     <protcislo>95</protcislo>
     <name_cs_CZ>Americium</name_cs_CZ>
     <znacka>Am</znacka>
-    <lnazev>Americium</lnazev>
+    <name_Latin>Americium</name_Latin>
     <athmot>243,0614</athmot>
     <oxid>3,4,5,6</oxid>
     <pe>1,3</pe>
@@ -28,7 +28,7 @@
     <protcislo>97</protcislo>
     <name_cs_CZ>Berkelium</name_cs_CZ>
     <znacka>Bk</znacka>
-    <lnazev>Berkelium</lnazev>
+    <name_Latin>Berkelium</name_Latin>
     <athmot>247,0703</athmot>
     <oxid>3,4</oxid>
     <hustota>14,8</hustota>
@@ -50,7 +50,7 @@
     <protcislo>58</protcislo>
     <name_cs_CZ>Cer</name_cs_CZ>
     <znacka>Ce</znacka>
-    <lnazev>Cerium</lnazev>
+    <name_Latin>Cerium</name_Latin>
     <athmot>140,115</athmot>
     <oxid>3,4</oxid>
     <pe>1,1</pe>
@@ -84,7 +84,7 @@
     <protcislo>96</protcislo>
     <name_cs_CZ>Curium</name_cs_CZ>
     <znacka>Cm</znacka>
-    <lnazev>Curium</lnazev>
+    <name_Latin>Curium</name_Latin>
     <athmot>247,0704</athmot>
     <oxid>3,4</oxid>
     <hustota>13,55</hustota>
@@ -106,7 +106,7 @@
     <protcislo>66</protcislo>
     <name_cs_CZ>Dysprosium</name_cs_CZ>
     <znacka>Dy</znacka>
-    <lnazev>Dysprosium</lnazev>
+    <name_Latin>Dysprosium</name_Latin>
     <athmot>162,50</athmot>
     <oxid>3</oxid>
     <pe>1,2</pe>
@@ -139,7 +139,7 @@
     <protcislo>99</protcislo>
     <name_cs_CZ>Einsteinium</name_cs_CZ>
     <znacka>Es</znacka>
-    <lnazev>Einsteinium</lnazev>
+    <name_Latin>Einsteinium</name_Latin>
     <athmot>252,0829</athmot>
     <oxid>2,3</oxid>
     <si>0</si>
@@ -160,7 +160,7 @@
     <protcislo>68</protcislo>
     <name_cs_CZ>Erbium</name_cs_CZ>
     <znacka>Er</znacka>
-    <lnazev>Erbium</lnazev>
+    <name_Latin>Erbium</name_Latin>
     <athmot>167,26</athmot>
     <oxid>3</oxid>
     <pe>1,2</pe>
@@ -193,7 +193,7 @@
     <protcislo>63</protcislo>
     <name_cs_CZ>Europium</name_cs_CZ>
     <znacka>Eu</znacka>
-    <lnazev>Europium</lnazev>
+    <name_Latin>Europium</name_Latin>
     <athmot>151,965</athmot>
     <oxid>2,3</oxid>
     <pe>1,0</pe>
@@ -225,7 +225,7 @@
     <protcislo>100</protcislo>
     <name_cs_CZ>Fermium</name_cs_CZ>
     <znacka>Fm</znacka>
-    <lnazev>Fermium</lnazev>
+    <name_Latin>Fermium</name_Latin>
     <athmot>257,0951</athmot>
     <oxid>2,3</oxid>
     <si>0</si>
@@ -245,7 +245,7 @@
     <protcislo>64</protcislo>
     <name_cs_CZ>Gadolinium</name_cs_CZ>
     <znacka>Gd</znacka>
-    <lnazev>Gadolinium</lnazev>
+    <name_Latin>Gadolinium</name_Latin>
     <athmot>157,25</athmot>
     <oxid>3</oxid>
     <pe>1,1</pe>
@@ -279,7 +279,7 @@
     <protcislo>67</protcislo>
     <name_cs_CZ>Holmium</name_cs_CZ>
     <znacka>Ho</znacka>
-    <lnazev>Holmium</lnazev>
+    <name_Latin>Holmium</name_Latin>
     <athmot>164,93032</athmot>
     <oxid>3</oxid>
     <pe>1,2</pe>
@@ -313,7 +313,7 @@
     <protcislo>98</protcislo>
     <name_cs_CZ>Kalifornium</name_cs_CZ>
     <znacka>Cf</znacka>
-    <lnazev>Californium</lnazev>
+    <name_Latin>Californium</name_Latin>
     <athmot>251,0796</athmot>
     <oxid>2,3,4</oxid>
     <hustota>14</hustota>
@@ -335,7 +335,7 @@
     <protcislo>103</protcislo>
     <name_cs_CZ>Lawrencium</name_cs_CZ>
     <znacka>Lr</znacka>
-    <lnazev>Lawrencium</lnazev>
+    <name_Latin>Lawrencium</name_Latin>
     <athmot>260,1053</athmot>
     <oxid>3</oxid>
     <si>0</si>
@@ -354,7 +354,7 @@
     <protcislo>71</protcislo>
     <name_cs_CZ>Lutecium</name_cs_CZ>
     <znacka>Lu</znacka>
-    <lnazev>Lutecium</lnazev>
+    <name_Latin>Lutecium</name_Latin>
     <athmot>174,967</athmot>
     <oxid>3</oxid>
     <pe>1,2</pe>
@@ -388,7 +388,7 @@
     <protcislo>101</protcislo>
     <name_cs_CZ>Mendelevium</name_cs_CZ>
     <znacka>Md</znacka>
-    <lnazev>Mendelevium</lnazev>
+    <name_Latin>Mendelevium</name_Latin>
     <athmot>258,0986</athmot>
     <oxid>2,3</oxid>
     <si>0</si>
@@ -408,7 +408,7 @@
     <protcislo>60</protcislo>
     <name_cs_CZ>Neodym</name_cs_CZ>
     <znacka>Nd</znacka>
-    <lnazev>Neodymium</lnazev>
+    <name_Latin>Neodymium</name_Latin>
     <athmot>144,24</athmot>
     <oxid>3</oxid>
     <pe>1,2</pe>
@@ -441,7 +441,7 @@
     <protcislo>93</protcislo>
     <name_cs_CZ>Neptunium</name_cs_CZ>
     <znacka>Np</znacka>
-    <lnazev>Neptunium</lnazev>
+    <name_Latin>Neptunium</name_Latin>
     <athmot>237,0482</athmot>
     <oxid>3,4,5,6,7</oxid>
     <pe>1,3</pe>
@@ -466,7 +466,7 @@
     <protcislo>102</protcislo>
     <name_cs_CZ>Nobelium</name_cs_CZ>
     <znacka>No</znacka>
-    <lnazev>Nobelium</lnazev>
+    <name_Latin>Nobelium</name_Latin>
     <athmot>259,1009</athmot>
     <oxid>2,3</oxid>
     <si>0</si>
@@ -486,7 +486,7 @@
     <protcislo>94</protcislo>
     <name_cs_CZ>Plutonium</name_cs_CZ>
     <znacka>Pu</znacka>
-    <lnazev>Plutonium</lnazev>
+    <name_Latin>Plutonium</name_Latin>
     <athmot>244,0642</athmot>
     <oxid>3,4,5,6</oxid>
     <pe>1,3</pe>
@@ -514,7 +514,7 @@
     <protcislo>59</protcislo>
     <name_cs_CZ>Praseodym</name_cs_CZ>
     <znacka>Pr</znacka>
-    <lnazev>Praseodymium</lnazev>
+    <name_Latin>Praseodymium</name_Latin>
     <athmot>140,90765</athmot>
     <oxid>3,4</oxid>
     <pe>1,2</pe>
@@ -548,7 +548,7 @@
     <protcislo>61</protcislo>
     <name_cs_CZ>Promethium</name_cs_CZ>
     <znacka>Pm</znacka>
-    <lnazev>Promethium</lnazev>
+    <name_Latin>Promethium</name_Latin>
     <athmot>146,9151</athmot>
     <oxid>3</oxid>
     <pe>1,2</pe>
@@ -578,7 +578,7 @@
     <protcislo>91</protcislo>
     <name_cs_CZ>Protaktinium</name_cs_CZ>
     <znacka>Pa</znacka>
-    <lnazev>Protaktinium</lnazev>
+    <name_Latin>Protaktinium</name_Latin>
     <athmot>231,0359</athmot>
     <oxid>4,5</oxid>
     <pe>1,5</pe>
@@ -602,7 +602,7 @@
     <protcislo>62</protcislo>
     <name_cs_CZ>Samarium</name_cs_CZ>
     <znacka>Sm</znacka>
-    <lnazev>Samarium</lnazev>
+    <name_Latin>Samarium</name_Latin>
     <athmot>150,36</athmot>
     <oxid>2,3</oxid>
     <pe>1,2</pe>
@@ -636,7 +636,7 @@
     <protcislo>65</protcislo>
     <name_cs_CZ>Terbium</name_cs_CZ>
     <znacka>Tb</znacka>
-    <lnazev>Terbium</lnazev>
+    <name_Latin>Terbium</name_Latin>
     <athmot>158,92534</athmot>
     <oxid>3,4</oxid>
     <pe>1,2</pe>
@@ -669,7 +669,7 @@
     <protcislo>90</protcislo>
     <name_cs_CZ>Thorium</name_cs_CZ>
     <znacka>Th</znacka>
-    <lnazev>Thorium</lnazev>
+    <name_Latin>Thorium</name_Latin>
     <athmot>232,0381</athmot>
     <oxid>4</oxid>
     <pe>1,3</pe>
@@ -702,7 +702,7 @@
     <protcislo>69</protcislo>
     <name_cs_CZ>Thulium</name_cs_CZ>
     <znacka>Tm</znacka>
-    <lnazev>Thulium</lnazev>
+    <name_Latin>Thulium</name_Latin>
     <athmot>168,93421</athmot>
     <oxid>2,3</oxid>
     <pe>1,2</pe>
@@ -735,7 +735,7 @@
     <protcislo>92</protcislo>
     <name_cs_CZ>Uran</name_cs_CZ>
     <znacka>U</znacka>
-    <lnazev>Uranium</lnazev>
+    <name_Latin>Uranium</name_Latin>
     <athmot>238,0289</athmot>
     <oxid>3,1,5,6</oxid>
     <pe>1,7</pe>
@@ -766,7 +766,7 @@
     <protcislo>70</protcislo>
     <name_cs_CZ>Ytterbium</name_cs_CZ>
     <znacka>Yb</znacka>
-    <lnazev>Ytterbium</lnazev>
+    <name_Latin>Ytterbium</name_Latin>
     <athmot>173,04</athmot>
     <oxid>2,3</oxid>
     <pe>1,1</pe>

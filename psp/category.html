@@ -9,7 +9,7 @@
 [% FOREACH category IN categories %]
 	[% IF cur == category.filename %]
 	[% FOREACH foo IN elements.element %]
-	<li><a name="[% foo.lnazev FILTER lower %]"></a><a href="[% foo.lnazev FILTER lower %].html" class="element"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
+	<li><a name="[% foo.name_Latin FILTER lower %]"></a><a href="[% foo.name_Latin FILTER lower %].html" class="element"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
 	[% END %]
 	[% END %]
 [% END %]

@@ -82,7 +82,7 @@ foreach my $lang (@langs){
 				 'cur_l' => $category->{'fullname'},
 				 title => $locappname
 			 },
-			 "$OUT/$lang/".lc($element->{'lnazev'}).".html",
+			 "$OUT/$lang/".lc($element->{'name_Latin'}).".html",
 			 { binmode => ':utf8' }) or die $t->error;
 
 		 push(@elements,$element);
@@ -92,7 +92,7 @@ foreach my $lang (@langs){
 
 	my @sortedbyname = sort {$a->{"name_$lang"} cmp $b->{"name_$lang"}} @elements;
 	my @sortedbyprotcislo = sort {$a->{protcislo} <=> $b->{protcislo}} @elements;
-	my @sortedbyln = sort {$a->{lnazev} cmp $b->{lnazev}} @elements;
+	my @sortedbyln = sort {$a->{name_Latin} cmp $b->{name_Latin}} @elements;
 	my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @elements;
 	my @sortedbyah = sort {$a->{athmot} =~ s/,/./r <=> $b->{athmot} =~ s/,/./r} @elements;
 

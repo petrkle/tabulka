@@ -4,7 +4,7 @@
     <protcislo>51</protcislo>
     <name_cs_CZ>Antimon</name_cs_CZ>
     <znacka>Sb</znacka>
-    <lnazev>Stibium</lnazev>
+    <name_Latin>Stibium</name_Latin>
     <athmot>121,75</athmot>
     <oxid>-3,3,5</oxid>
     <pe>1,9</pe>
@@ -38,7 +38,7 @@
     <protcislo>33</protcislo>
     <name_cs_CZ>Arsen</name_cs_CZ>
     <znacka>As</znacka>
-    <lnazev>Arsenicum</lnazev>
+    <name_Latin>Arsenicum</name_Latin>
     <athmot>74,92159</athmot>
     <oxid>-3,3,5</oxid>
     <pe>2,0</pe>
@@ -71,7 +71,7 @@
     <protcislo>85</protcislo>
     <name_cs_CZ>Astat</name_cs_CZ>
     <znacka>At</znacka>
-    <lnazev>Astatum</lnazev>
+    <name_Latin>Astatum</name_Latin>
     <athmot>209,9871</athmot>
     <oxid>-1,1,3,5,7</oxid>
     <pe>2,2</pe>
@@ -95,7 +95,7 @@
     <protcislo>5</protcislo>
     <name_cs_CZ>Bor</name_cs_CZ>
     <znacka>B</znacka>
-    <lnazev>Borum</lnazev>
+    <name_Latin>Borum</name_Latin>
     <athmot>10,811</athmot>
     <oxid>3</oxid>
     <pe>2,0</pe>
@@ -127,7 +127,7 @@
     <protcislo>32</protcislo>
     <name_cs_CZ>Germanium</name_cs_CZ>
     <znacka>Ge</znacka>
-    <lnazev>Germanium</lnazev>
+    <name_Latin>Germanium</name_Latin>
     <athmot>72,61</athmot>
     <oxid>2,4</oxid>
     <pe>1,8</pe>
@@ -156,7 +156,7 @@
     <protcislo>14</protcislo>
     <name_cs_CZ>Křemík</name_cs_CZ>
     <znacka>Si</znacka>
-    <lnazev>Silicium</lnazev>
+    <name_Latin>Silicium</name_Latin>
     <athmot>28,0855</athmot>
     <oxid>-4,4</oxid>
     <pe>1,8</pe>
@@ -188,7 +188,7 @@
     <protcislo>52</protcislo>
     <name_cs_CZ>Tellur</name_cs_CZ>
     <znacka>Te</znacka>
-    <lnazev>Tellurium</lnazev>
+    <name_Latin>Tellurium</name_Latin>
     <athmot>127,60</athmot>
     <oxid>-2,2,4,6</oxid>
     <pe>2,1</pe>

@@ -8,7 +8,7 @@
 [% IF cur_l %]
 [% FOREACH element IN elements %]
 	[% IF cur_l == element.skupina %]
-	<li><a name="[% element.lnazev FILTER lower %]"></a><a href="[% element.lnazev FILTER lower %].html" class="element"><span class="nazevprvku">[% element.${elementname} %]</span><span class="znackaprvku">[% element.znacka %]</span></a></li>
+	<li><a name="[% element.name_Latin FILTER lower %]"></a><a href="[% element.name_Latin FILTER lower %].html" class="element"><span class="nazevprvku">[% element.${elementname} %]</span><span class="znackaprvku">[% element.znacka %]</span></a></li>
 	[% END %]
 [% END %]
 [% ELSE %]
