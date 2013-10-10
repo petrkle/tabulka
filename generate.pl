@@ -27,7 +27,7 @@ my $xml = new XML::Simple;
 
 my $categories = $xml->XMLin("psp/xml/categories.xml");
 
-my $skupiny = $xml->XMLin("psp/xml/skupiny.xml");
+my $groups = $xml->XMLin("psp/xml/groups.xml");
 
 my $periody = $xml->XMLin("psp/xml/periody.xml");
 
@@ -96,17 +96,17 @@ foreach my $lang (@langs){
 	my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @prvky;
 	my @sortedbyah = sort {$a->{athmot} =~ s/,/./r <=> $b->{athmot} =~ s/,/./r} @prvky;
 
-	for my $skupina (@{$skupiny->{skupina}}){
+	for my $group (@{$groups->{group}}){
 
-		$t->process('skupina.html',
+		$t->process('group.html',
 			{ 'prvky' => [@sortedbyname],
-				'cur' => $skupina->{'zkratka'},
-				'cur_l' => $skupina->{'nazev'},
+				'cur' => $group->{'filename'},
+				'cur_l' => $group->{'fullname'},
 				'title' => $locappname,
 		  	'elementname' => "name_$lang",
-				'skupiny' => $skupiny->{skupina}
+				'groups' => $groups->{group}
 			},
-			"$OUT/$lang/$skupina->{'zkratka'}.html",
+			"$OUT/$lang/$group->{'filename'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
 	}
 
@@ -187,11 +187,11 @@ foreach my $lang (@langs){
 		"$OUT/$lang/category.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	$t->process('skupina.html',
+	$t->process('group.html',
 		{	'title' => $locappname,
-			'skupiny' => $skupiny->{skupina}
+			'groups' => $groups->{group}
 		},
-		"$OUT/$lang/s.html",
+		"$OUT/$lang/group.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('about.html',

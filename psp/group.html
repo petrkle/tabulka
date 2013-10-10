@@ -12,8 +12,8 @@
 	[% END %]
 [% END %]
 [% ELSE %]
-[% FOREACH skupina IN skupiny %]
-	<li><a href="[% skupina.zkratka %].html" class="radek closed">[% skupina.nazev %]</a> </li>
+[% FOREACH group IN groups %]
+	<li><a href="[% group.filename %].html" class="radek closed">[% group.fullname %]</a> </li>
 [% END %]
 [% END %]
 </ul>
