@@ -13,7 +13,7 @@
     <ni>19</ni>
     <tt>28,40</tt>
     <tv>700</tv>
-    <obev>1860</obev>
+    <discovery>1860</discovery>
     <tvrdost>0,2</tvrdost>
     <name_en_US>Cesium</name_en_US>
     <name_de>Caesium</name_de>
@@ -30,7 +30,7 @@
     <ionizacnipotencial2>25,10</ionizacnipotencial2>
     <elektrickavodivost>5,3.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <period>6</period>
-    <skupina>I.A</skupina>
+    <group>I.A</group>
     <state>s</state>
   </element>
   <element>
@@ -46,7 +46,7 @@
     <ni>8</ni>
     <tt>93,65</tt>
     <tv>760</tv>
-    <obev>1807</obev>
+    <discovery>1807</discovery>
     <tvrdost>0,5</tvrdost>
     <name_en_US>Potassium</name_en_US>
     <name_de>Kalium</name_de>
@@ -64,7 +64,7 @@
     <elektrickavodivost>1,64.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>0,363</tvrdostbrinell>
     <period>4</period>
-    <skupina>I.A</skupina>
+    <group>I.A</group>
     <state>s</state>
   </element>
   <element>
@@ -79,14 +79,14 @@
     <ni>21</ni>
     <tt>27</tt>
     <tv>677</tv>
-    <obev>1939</obev>
+    <discovery>1939</discovery>
     <name_en_US>Francium</name_en_US>
     <name_de>Francium</name_de>
     <frnazev>Francium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 7s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <tvodivost>15</tvodivost>
     <period>7</period>
-    <skupina>I.A</skupina>
+    <group>I.A</group>
     <state>s</state>
   </element>
   <element>
@@ -102,7 +102,7 @@
     <ni>2</ni>
     <tt>180,54</tt>
     <tv>1347</tv>
-    <obev>1870</obev>
+    <discovery>1870</discovery>
     <tvrdost>0,6</tvrdost>
     <name_en_US>Lithium</name_en_US>
     <name_de>Lithium</name_de>
@@ -118,7 +118,7 @@
     <modulpruznostismyk>4,2</modulpruznostismyk>
     <elektrickavodivost>1,17.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <period>2</period>
-    <skupina>I.A</skupina>
+    <group>I.A</group>
     <state>s</state>
   </element>
   <element>
@@ -134,7 +134,7 @@
     <ni>19</ni>
     <tt>38,89</tt>
     <tv>688</tv>
-    <obev>1861</obev>
+    <discovery>1861</discovery>
     <tvrdost>0,3</tvrdost>
     <name_en_US>Rubidium</name_en_US>
     <name_de>Rubidium</name_de>
@@ -153,7 +153,7 @@
     <elektrickavodivost>4,78.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>0,216</tvrdostbrinell>
     <period>5</period>
-    <skupina>I.A</skupina>
+    <group>I.A</group>
     <state>s</state>
   </element>
   <element>
@@ -169,7 +169,7 @@
     <ni>6</ni>
     <tt>98,81</tt>
     <tv>882,9</tv>
-    <obev>1807</obev>
+    <discovery>1807</discovery>
     <tvrdost>0,4</tvrdost>
     <name_en_US>Sodium</name_en_US>
     <name_de>Natrium</name_de>
@@ -189,7 +189,7 @@
     <elektrickavodivost>2,01.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>0,69</tvrdostbrinell>
     <period>3</period>
-    <skupina>I.A</skupina>
+    <group>I.A</group>
     <state>s</state>
   </element>
 </elements>

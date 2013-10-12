@@ -9,7 +9,7 @@
 	<tr><th>[% l('Period') %]</th><td><a href="p[% element.period %].html">[% element.period %]</a></td></tr> 
 	<tr><th>[% l('Element category') %]</th><td><a href="[% cur %].html">[% l(cur_l) %]</a></td></tr> 
 	<tr><th>[% l('Relative atomic mass') %]</th><td><a href="index-ah.html#[% element.anumber %]">[% element.athmot %]</a></td></tr> 
-	<tr><th>[% l('Group') %]</th><td><a href="[% element.skupina FILTER remove ('\.') FILTER lower %].html">[% element.skupina %]</a></td></tr> 
+	<tr><th>[% l('Group') %]</th><td><a href="[% element.group FILTER remove ('\.') FILTER lower %].html">[% element.group %]</a></td></tr> 
 [% IF element.pe -%]
 	<tr><th>[% l('Electronegativity') %]</th><td><div>[% element.pe %]</div></td></tr>
 [% END -%]
@@ -18,7 +18,6 @@
 	<tr><th>[% l('Electron configuration') %]</th><td><div>[% element.elconf %]</div></td></tr>
 	<tr><th>[% l('Density') %] [g/cm<sup>3</sup>]</th><td><div>[% element.hustota %]</div></td></tr> 
 [% END -%]
-[% skup = element.state -%]
 	<tr><th>[% l('State') %]</th><td><div>[% l(state.${element.state}.long) %]</div></td></tr> 
 [% IF element.tt -%]
 	<tr><th>[% l('Melting point') %] [°C]</th><td><div>[% element.tt %]</div></td></tr>
@@ -41,8 +40,8 @@
 [% IF element.tvodivost -%]
 	<tr><th>[% l('Thermal conductivity') %] [W m<sup>-1</sup> K<sup>-1</sup>]</th><td><div>[% element.tvodivost %]</div></td></tr>
 [% END -%]
-[% IF element.obev -%]
-	<tr><th>[% l('Discovery') %]</th><td><div>[% element.obev %]</div></td></tr>
+[% IF element.discovery -%]
+	<tr><th>[% l('Discovery') %]</th><td><div>[% l(element.discovery) %]</div></td></tr>
 [% END -%]
 [% IF element.tvrdost -%]
 	<tr><th>[% l('Hardness') %] [<a href="mohs.html">[% l('Mohs scale') %]</a>]</th><td><div>[% element.tvrdost %]</div></td></tr>

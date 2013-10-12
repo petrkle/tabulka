@@ -13,7 +13,7 @@
     <ni>13</ni>
     <tt>1170</tt>
     <tv>2607</tv>
-    <obev>1944</obev>
+    <discovery>1944</discovery>
     <name_en_US>Americium</name_en_US>
     <name_de>Americium</name_de>
     <frnazev>Américium</frnazev>
@@ -21,7 +21,7 @@
     <tvodivost>10</tvodivost>
     <ionizacnipotencial1>5,993</ionizacnipotencial1>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -35,7 +35,7 @@
     <si>0</si>
     <ni>8</ni>
     <tt>1020</tt>
-    <obev>1949</obev>
+    <discovery>1949</discovery>
     <name_en_US>Berkelium</name_en_US>
     <name_de>Berkelium</name_de>
     <frnazev>Berkélium</frnazev>
@@ -43,7 +43,7 @@
     <tvodivost>10</tvodivost>
     <ionizacnipotencial1>6,23</ionizacnipotencial1>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -59,7 +59,7 @@
     <ni>15</ni>
     <tt>799</tt>
     <tv>3426</tv>
-    <obev>1803</obev>
+    <discovery>1803</discovery>
     <tvrdost>2,5</tvrdost>
     <name_en_US>Cerium</name_en_US>
     <name_de>Cer</name_de>
@@ -77,7 +77,7 @@
     <tvrdostvickers>270</tvrdostvickers>
     <tvrdostbrinell>412</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -91,7 +91,7 @@
     <si>0</si>
     <ni>13</ni>
     <tt>1340</tt>
-    <obev>1944</obev>
+    <discovery>1944</discovery>
     <name_en_US>Curium</name_en_US>
     <name_de>Curium</name_de>
     <frnazev>Curium</frnazev>
@@ -99,7 +99,7 @@
     <tvodivost>10</tvodivost>
     <ionizacnipotencial1>6,02</ionizacnipotencial1>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -115,7 +115,7 @@
     <ni>14</ni>
     <tt>1412</tt>
     <tv>2562</tv>
-    <obev>1843</obev>
+    <discovery>1843</discovery>
     <name_en_US>Dysprosium</name_en_US>
     <name_de>Dysprosium</name_de>
     <frnazev>Dysprosium</frnazev>
@@ -132,7 +132,7 @@
     <tvrdostvickers>540</tvrdostvickers>
     <tvrdostbrinell>500</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -145,7 +145,7 @@
     <si>0</si>
     <ni>12</ni>
     <tt>850</tt>
-    <obev>1954</obev>
+    <discovery>1954</discovery>
     <name_en_US>Einsteinium</name_en_US>
     <name_de>Einsteinium</name_de>
     <frnazev>Einsteinium</frnazev>
@@ -153,7 +153,7 @@
     <tvodivost>10</tvodivost>
     <ionizacnipotencial1>6,42</ionizacnipotencial1>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -169,7 +169,7 @@
     <ni>10</ni>
     <tt>1545</tt>
     <tv>2863</tv>
-    <obev>1843</obev>
+    <discovery>1843</discovery>
     <name_en_US>Erbium</name_en_US>
     <name_de>Erbium</name_de>
     <frnazev>Erbium</frnazev>
@@ -186,7 +186,7 @@
     <tvrdostvickers>589</tvrdostvickers>
     <tvrdostbrinell>814</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -202,7 +202,7 @@
     <ni>19</ni>
     <tt>822</tt>
     <tv>1597</tv>
-    <obev>1896</obev>
+    <discovery>1896</discovery>
     <name_en_US>Europium</name_en_US>
     <name_de>Europium</name_de>
     <frnazev>Europium</frnazev>
@@ -218,7 +218,7 @@
     <elektrickavodivost>1,1.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>167</tvrdostvickers>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -230,7 +230,7 @@
     <oxid>2,3</oxid>
     <si>0</si>
     <ni>10</ni>
-    <obev>1954</obev>
+    <discovery>1954</discovery>
     <name_en_US>Fermium</name_en_US>
     <name_de>Fermium</name_de>
     <frnazev>Fermium</frnazev>
@@ -238,7 +238,7 @@
     <tvodivost>10</tvodivost>
     <ionizacnipotencial1>6,5</ionizacnipotencial1>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -254,7 +254,7 @@
     <ni>11</ni>
     <tt>1311</tt>
     <tv>3266</tv>
-    <obev>1880</obev>
+    <discovery>1880</discovery>
     <name_en_US>Gadolinium</name_en_US>
     <name_de>Gadolinium</name_de>
     <frnazev>Gadolinium</frnazev>
@@ -272,7 +272,7 @@
     <tvrdostvickers>570</tvrdostvickers>
     <tvrdostbrinell>180</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -288,7 +288,7 @@
     <ni>28</ni>
     <tt>1474</tt>
     <tv>2695</tv>
-    <obev>1879</obev>
+    <discovery>1879</discovery>
     <name_en_US>Holmium</name_en_US>
     <name_de>Holmium</name_de>
     <frnazev>Holmium</frnazev>
@@ -306,7 +306,7 @@
     <tvrdostvickers>481</tvrdostvickers>
     <tvrdostbrinell>746</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -320,7 +320,7 @@
     <si>0</si>
     <ni>12</ni>
     <tt>900</tt>
-    <obev>1950</obev>
+    <discovery>1950</discovery>
     <name_en_US>Californium</name_en_US>
     <name_de>Californium</name_de>
     <frnazev>Californium</frnazev>
@@ -328,7 +328,7 @@
     <tvodivost>10</tvodivost>
     <ionizacnipotencial1>6,3</ionizacnipotencial1>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -340,14 +340,14 @@
     <oxid>3</oxid>
     <si>0</si>
     <ni>2</ni>
-    <obev>1961</obev>
+    <discovery>1961</discovery>
     <name_en_US>Lawrencium</name_en_US>
     <name_de>Lawrencium</name_de>
     <frnazev>Lawrencium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;1&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <tvodivost>10</tvodivost>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -363,7 +363,7 @@
     <ni>21</ni>
     <tt>1663</tt>
     <tv>3395</tv>
-    <obev>1907</obev>
+    <discovery>1907</discovery>
     <name_en_US>Lutetium</name_en_US>
     <name_de>Lutetium</name_de>
     <frnazev>Lutécium</frnazev>
@@ -381,7 +381,7 @@
     <tvrdostvickers>1160</tvrdostvickers>
     <tvrdostbrinell>893</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -393,7 +393,7 @@
     <oxid>2,3</oxid>
     <si>0</si>
     <ni>3</ni>
-    <obev>1955</obev>
+    <discovery>1955</discovery>
     <name_en_US>Mendelevium</name_en_US>
     <name_de>Mendelevium</name_de>
     <frnazev>Mendélévium</frnazev>
@@ -401,7 +401,7 @@
     <tvodivost>10</tvodivost>
     <ionizacnipotencial1>6,58</ionizacnipotencial1>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -417,7 +417,7 @@
     <ni>10</ni>
     <tt>1021</tt>
     <tv>3068</tv>
-    <obev>1885</obev>
+    <discovery>1885</discovery>
     <name_en_US>Neodymium</name_en_US>
     <name_de>Neodym</name_de>
     <frnazev>Néodyme</frnazev>
@@ -434,7 +434,7 @@
     <tvrdostvickers>343</tvrdostvickers>
     <tvrdostbrinell>265</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -450,7 +450,7 @@
     <ni>15</ni>
     <tt>640</tt>
     <tv>3900</tv>
-    <obev>1940</obev>
+    <discovery>1940</discovery>
     <name_en_US>Neptunium</name_en_US>
     <name_de>Neptunium</name_de>
     <frnazev>Neptunium</frnazev>
@@ -459,7 +459,7 @@
     <ionizacnipotencial1>6,2657</ionizacnipotencial1>
     <elektrickavodivost>8,3.10&lt;sup&gt;5&lt;/sup&gt;</elektrickavodivost>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -471,7 +471,7 @@
     <oxid>2,3</oxid>
     <si>0</si>
     <ni>7</ni>
-    <obev>1957</obev>
+    <discovery>1957</discovery>
     <name_en_US>Nobelium</name_en_US>
     <name_de>Nobelium</name_de>
     <frnazev>Nobélium</frnazev>
@@ -479,7 +479,7 @@
     <tvodivost>10</tvodivost>
     <ionizacnipotencial1>6,65</ionizacnipotencial1>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -495,7 +495,7 @@
     <ni>16</ni>
     <tt>641</tt>
     <tv>3232</tv>
-    <obev>1940</obev>
+    <discovery>1940</discovery>
     <name_en_US>Plutonium</name_en_US>
     <name_de>Plutonium</name_de>
     <frnazev>Plutonium</frnazev>
@@ -507,7 +507,7 @@
     <ionizacnipotencial1>6,06</ionizacnipotencial1>
     <elektrickavodivost>6,7.10&lt;sup&gt;5&lt;/sup&gt;</elektrickavodivost>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -523,7 +523,7 @@
     <ni>14</ni>
     <tt>931</tt>
     <tv>3212</tv>
-    <obev>1885</obev>
+    <discovery>1885</discovery>
     <name_en_US>Praseodymium</name_en_US>
     <name_de>Praseodym</name_de>
     <frnazev>Praséodyme</frnazev>
@@ -541,7 +541,7 @@
     <tvrdostvickers>400</tvrdostvickers>
     <tvrdostbrinell>481</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -557,7 +557,7 @@
     <ni>14</ni>
     <tt>1168</tt>
     <tv>2460</tv>
-    <obev>1945</obev>
+    <discovery>1945</discovery>
     <name_en_US>Promethium</name_en_US>
     <name_de>Promethium</name_de>
     <frnazev>Prométhium</frnazev>
@@ -571,7 +571,7 @@
     <ionizacnipotencial3>22,283</ionizacnipotencial3>
     <elektrickavodivost>1,3.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -587,7 +587,7 @@
     <ni>13</ni>
     <tt>1550</tt>
     <tv>4225</tv>
-    <obev>1917</obev>
+    <discovery>1917</discovery>
     <name_en_US>Protactinium</name_en_US>
     <name_de>Protactinium</name_de>
     <frnazev>Protactinium</frnazev>
@@ -595,7 +595,7 @@
     <tvodivost>47</tvodivost>
     <ionizacnipotencial1>5,89</ionizacnipotencial1>
     <period>7</period>
-    <skupina>V.B</skupina>
+    <group>V.B</group>
     <state>s</state>
   </element>
   <element>
@@ -611,7 +611,7 @@
     <ni>13</ni>
     <tt>1077</tt>
     <tv>1791</tv>
-    <obev>1879</obev>
+    <discovery>1879</discovery>
     <name_en_US>Samarium</name_en_US>
     <name_de>Samarium</name_de>
     <frnazev>Samarium</frnazev>
@@ -629,7 +629,7 @@
     <tvrdostvickers>412</tvrdostvickers>
     <tvrdostbrinell>441</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -645,7 +645,7 @@
     <ni>23</ni>
     <tt>1360</tt>
     <tv>3123</tv>
-    <obev>1843</obev>
+    <discovery>1843</discovery>
     <name_en_US>Terbium</name_en_US>
     <name_de>Terbium</name_de>
     <frnazev>Terbium</frnazev>
@@ -662,7 +662,7 @@
     <tvrdostvickers>863</tvrdostvickers>
     <tvrdostbrinell>677</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -678,7 +678,7 @@
     <ni>12</ni>
     <tt>1750</tt>
     <tv>4500</tv>
-    <obev>1828</obev>
+    <discovery>1828</discovery>
     <tvrdost>3</tvrdost>
     <name_en_US>Thorium</name_en_US>
     <name_de>Thorium</name_de>
@@ -695,7 +695,7 @@
     <tvrdostvickers>350</tvrdostvickers>
     <tvrdostbrinell>400</tvrdostbrinell>
     <period>7</period>
-    <skupina>IV.B</skupina>
+    <group>IV.B</group>
     <state>s</state>
   </element>
   <element>
@@ -711,7 +711,7 @@
     <ni>17</ni>
     <tt>1545</tt>
     <tv>1947</tv>
-    <obev>1879</obev>
+    <discovery>1879</discovery>
     <name_en_US>Thulium</name_en_US>
     <name_de>Thulium</name_de>
     <frnazev>Thulium</frnazev>
@@ -728,7 +728,7 @@
     <tvrdostvickers>520</tvrdostvickers>
     <tvrdostbrinell>471</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -744,7 +744,7 @@
     <ni>15</ni>
     <tt>1132,3</tt>
     <tv>3900</tv>
-    <obev>1789</obev>
+    <discovery>1789</discovery>
     <tvrdost>6,0</tvrdost>
     <name_en_US>Uranium</name_en_US>
     <name_de>Uran</name_de>
@@ -759,7 +759,7 @@
     <tvrdostvickers>1960</tvrdostvickers>
     <tvrdostbrinell>2400</tvrdostbrinell>
     <period>7</period>
-    <skupina>VI.B</skupina>
+    <group>VI.B</group>
     <state>s</state>
   </element>
   <element>
@@ -775,7 +775,7 @@
     <ni>9</ni>
     <tt>819</tt>
     <tv>1194</tv>
-    <obev>1878</obev>
+    <discovery>1878</discovery>
     <name_en_US>Ytterbium</name_en_US>
     <name_de>Ytterbium</name_de>
     <frnazev>Ytterbium</frnazev>
@@ -792,7 +792,7 @@
     <tvrdostvickers>206</tvrdostvickers>
     <tvrdostbrinell>343</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
 </elements>

@@ -1,7 +1,7 @@
 @font-face{font-family:"robotoregular";src:url("roboto-regular.ttf") format("opentype");}
 body{font-family:"robotoregular",sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
-#hlavicka{width:100%;background:#fb3;font-size:1.5em;border-bottom:1px #999 solid;}
-#nadpis #likea,#nadpis a{padding:0.5em 0.2em 0.5em 0.5em;display:inline-block;height:100%;width:100%;font-weight:normal;}
+#header{width:100%;background:#fb3;font-size:1.5em;border-bottom:1px #999 solid;}
+#title #likea,#title a{padding:0.5em 0.2em 0.5em 0.5em;display:inline-block;height:100%;width:100%;font-weight:normal;}
 #menu a{color:#000;text-decoration:none;background:transparent;padding:0.5em;display:inline-block;height:100%;font-weight:normal;}
 #menu{text-align:right;}
 h2{font-size:1em;font-weight:bold;padding:0.8em;letter-spacing:-1px;background:#eee;border-bottom:1px #999 solid;margin:0;}
@@ -12,10 +12,10 @@ a:visited{color:#000;text-decoration:none;}
 h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;white-space:nowrap;overflow:hidden;}
 #elements{margin:0;padding:0;}
 #elements li{list-style:none;margin:0;padding:0;}
-.znackaprvku{display:block;float:right;text-align:center;width:3em;background:#ddd;line-height:3.6em;}
-.ahprvku{display:block;float:right;text-align:center;width:7em;background:#ddd;line-height:3.6em;}
-.nazevprvku{padding:0.8em;line-height:3.6em;}
-.radek{display:block;padding:1em;border-bottom:1px #999 solid;}
+.symbol{display:block;float:right;text-align:center;width:3em;background:#ddd;line-height:3.6em;}
+.elementam{display:block;float:right;text-align:center;width:7em;background:#ddd;line-height:3.6em;}
+.elementname{padding:0.8em;line-height:3.6em;}
+.line{display:block;padding:1em;border-bottom:1px #999 solid;}
 .closed{background:#fff url("right.png") no-repeat 100% 50%;}
 .about{background:#fb3;text-align:center;}
 .element{display:block;background:#fff;padding:0;margin:0;border-bottom:1px #999 solid;}
@@ -29,7 +29,6 @@ h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;white-sp
 #mohs{width:100%;}
 #mohs th{padding:1.5em 1em;text-align:center;}
 #mohs td{padding:1.5em 1em;}
-.pravyokraj{border-right:0;}
-.vnitrnibunka{border-bottom:1px solid #aaa;border-right:1px solid #aaa;}
-.pravyokraj{border-bottom:1px solid #aaa;}
-p{padding:1em;margin:0;}
+.lscell{border-bottom:1px solid #aaa;border-right:1px solid #aaa;}
+.rscell{border-bottom:1px solid #aaa;border-right:0;}
+p{padding:1em;margin:0;text-align:center;}

@@ -9,9 +9,9 @@
 </head>
 <body>
 
-<table id="hlavicka" border="0" cellspacing="0" cellpadding="0">
+<table id="header" border="0" cellspacing="0" cellpadding="0">
 	<tr>
-		<td id="nadpis">[% IF !nohomelink -%]<a href="[%IF titlelink%][% titlelink %][% ELSE %]index.html[% END %]">[% ELSE %]<span id="likea">[%- END %][% l(title) %][% IF !nohomelink -%]</a>[% ELSE %]<span>[%- END %]</td>
+		<td id="title">[% IF !nohomelink -%]<a href="[%IF titlelink%][% titlelink %][% ELSE %]index.html[% END %]">[% ELSE %]<span id="likea">[%- END %][% l(title) %][% IF !nohomelink -%]</a>[% ELSE %]<span>[%- END %]</td>
 		<td id="menu">[% IF !nomenulink -%]<a href="menu.html" id="hamburger">≡</a>[% ELSE %]&nbsp;[%- END %]</td>
 	</tr>
 </table>

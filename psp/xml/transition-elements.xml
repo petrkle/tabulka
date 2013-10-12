@@ -13,7 +13,7 @@
     <ni>11</ni>
     <tt>1050</tt>
     <tv>3200</tv>
-    <obev>1899</obev>
+    <discovery>1899</discovery>
     <name_en_US>Actinium</name_en_US>
     <name_de>Actinium</name_de>
     <frnazev>Actinium</frnazev>
@@ -24,7 +24,7 @@
     <ionizacnipotencial1>5,17</ionizacnipotencial1>
     <ionizacnipotencial2>10,148</ionizacnipotencial2>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -40,7 +40,7 @@
     <ni>5</ni>
     <tt>1857</tt>
     <tv>2672</tv>
-    <obev>1797</obev>
+    <discovery>1797</discovery>
     <tvrdost>9,0</tvrdost>
     <name_en_US>Chromium</name_en_US>
     <name_de>Chrom</name_de>
@@ -59,7 +59,7 @@
     <tvrdostvickers>1060</tvrdostvickers>
     <tvrdostbrinell>1120</tvrdostbrinell>
     <period>4</period>
-    <skupina>VI.B</skupina>
+    <group>VI.B</group>
     <state>s</state>
   </element>
   <element>
@@ -75,7 +75,7 @@
     <ni>15</ni>
     <tt>2227</tt>
     <tv>4600</tv>
-    <obev>1864</obev>
+    <discovery>1864</discovery>
     <tvrdost>5,5</tvrdost>
     <name_en_US>Hafnium</name_en_US>
     <name_de>Hafnium</name_de>
@@ -94,7 +94,7 @@
     <tvrdostvickers>1760</tvrdostvickers>
     <tvrdostbrinell>1700</tvrdostbrinell>
     <period>6</period>
-    <skupina>IV.B</skupina>
+    <group>IV.B</group>
     <state>s</state>
   </element>
   <element>
@@ -110,7 +110,7 @@
     <ni>23</ni>
     <tt>2447</tt>
     <tv>4500</tv>
-    <obev>1803</obev>
+    <discovery>1803</discovery>
     <tvrdost>6,5</tvrdost>
     <name_en_US>Iridium</name_en_US>
     <name_de>Iridium</name_de>
@@ -127,7 +127,7 @@
     <tvrdostvickers>1760</tvrdostvickers>
     <tvrdostbrinell>1670</tvrdostbrinell>
     <period>6</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -143,7 +143,7 @@
     <ni>14</ni>
     <tt>321,108</tt>
     <tv>765</tv>
-    <obev>1817</obev>
+    <discovery>1817</discovery>
     <tvrdost>2,0</tvrdost>
     <name_en_US>Cadmium</name_en_US>
     <name_de>Cadmium</name_de>
@@ -161,7 +161,7 @@
     <elektrickavodivost>4,4.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>203</tvrdostbrinell>
     <period>5</period>
-    <skupina>II.B</skupina>
+    <group>II.B</group>
     <state>s</state>
   </element>
   <element>
@@ -177,7 +177,7 @@
     <ni>13</ni>
     <tt>1494</tt>
     <tv>2900</tv>
-    <obev>1735</obev>
+    <discovery>1735</discovery>
     <tvrdost>5,5</tvrdost>
     <name_en_US>Cobalt</name_en_US>
     <name_de>Cobalt</name_de>
@@ -196,7 +196,7 @@
     <tvrdostvickers>1043</tvrdostvickers>
     <tvrdostbrinell>700</tvrdostbrinell>
     <period>4</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -208,13 +208,13 @@
     <oxid>4</oxid>
     <si>0</si>
     <ni>6</ni>
-    <obev>1964</obev>
+    <discovery>1964</discovery>
     <name_en_US>Rutherfordium</name_en_US>
     <name_de>Rutherfordium</name_de>
     <frnazev>Rutherfordium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;2&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <period>7</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -230,7 +230,7 @@
     <ni>16</ni>
     <tt>921</tt>
     <tv>3457</tv>
-    <obev>1839</obev>
+    <discovery>1839</discovery>
     <tvrdost>2,5</tvrdost>
     <name_en_US>Lanthanum</name_en_US>
     <name_de>Lanthan</name_de>
@@ -248,7 +248,7 @@
     <tvrdostvickers>491</tvrdostvickers>
     <tvrdostbrinell>363</tvrdostbrinell>
     <period>6</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -264,7 +264,7 @@
     <ni>10</ni>
     <tt>1244</tt>
     <tv>2100</tv>
-    <obev>1774</obev>
+    <discovery>1774</discovery>
     <tvrdost>5,0</tvrdost>
     <name_en_US>Manganese</name_en_US>
     <name_de>Mangan</name_de>
@@ -281,7 +281,7 @@
     <elektrickavodivost>6,2.10&lt;sup&gt;5&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>196</tvrdostbrinell>
     <period>4</period>
-    <skupina>VII.B</skupina>
+    <group>VII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -297,7 +297,7 @@
     <ni>13</ni>
     <tt>2617</tt>
     <tv>4650</tv>
-    <obev>1785</obev>
+    <discovery>1785</discovery>
     <tvrdost>5,5</tvrdost>
     <name_en_US>Molybdenum</name_en_US>
     <name_de>Molybdän</name_de>
@@ -316,7 +316,7 @@
     <tvrdostvickers>1530</tvrdostvickers>
     <tvrdostbrinell>1500</tvrdostbrinell>
     <period>5</period>
-    <skupina>VI.B</skupina>
+    <group>VI.B</group>
     <state>s</state>
   </element>
   <element>
@@ -332,7 +332,7 @@
     <ni>9</ni>
     <tt>1084,5</tt>
     <tv>2567</tv>
-    <obev>starověk</obev>
+    <discovery>Antiquity</discovery>
     <tvrdost>3,0</tvrdost>
     <name_en_US>Copper</name_en_US>
     <name_de>Kupfer</name_de>
@@ -352,7 +352,7 @@
     <tvrdostvickers>369</tvrdostvickers>
     <tvrdostbrinell>874</tvrdostbrinell>
     <period>4</period>
-    <skupina>I.B</skupina>
+    <group>I.B</group>
     <state>s</state>
   </element>
   <element>
@@ -368,7 +368,7 @@
     <ni>7</ni>
     <tt>1455</tt>
     <tv>2732</tv>
-    <obev>1751</obev>
+    <discovery>1751</discovery>
     <tvrdost>4,0</tvrdost>
     <name_en_US>Nickel</name_en_US>
     <name_de>Nickel</name_de>
@@ -385,7 +385,7 @@
     <tvrdostvickers>638</tvrdostvickers>
     <tvrdostbrinell>700</tvrdostbrinell>
     <period>4</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -401,7 +401,7 @@
     <ni>21</ni>
     <tt>2468</tt>
     <tv>4742</tv>
-    <obev>1801</obev>
+    <discovery>1801</discovery>
     <tvrdost>6,0</tvrdost>
     <name_en_US>Niobium</name_en_US>
     <name_de>Niob</name_de>
@@ -420,7 +420,7 @@
     <tvrdostvickers>1320</tvrdostvickers>
     <tvrdostbrinell>736</tvrdostbrinell>
     <period>5</period>
-    <skupina>V.B</skupina>
+    <group>V.B</group>
     <state>s</state>
   </element>
   <element>
@@ -436,7 +436,7 @@
     <ni>12</ni>
     <tt>3045</tt>
     <tv>5000</tv>
-    <obev>1803</obev>
+    <discovery>1803</discovery>
     <tvrdost>8,0</tvrdost>
     <name_en_US>Osmium</name_en_US>
     <name_de>Osmium</name_de>
@@ -451,7 +451,7 @@
     <elektrickavodivost>1,23.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>3920</tvrdostbrinell>
     <period>6</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -467,7 +467,7 @@
     <ni>15</ni>
     <tt>1554</tt>
     <tv>3980</tv>
-    <obev>1803</obev>
+    <discovery>1803</discovery>
     <tvrdost>4,8</tvrdost>
     <name_en_US>Palladium</name_en_US>
     <name_de>Palladium</name_de>
@@ -486,7 +486,7 @@
     <tvrdostvickers>461</tvrdostvickers>
     <tvrdostbrinell>37,3</tvrdostbrinell>
     <period>5</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -502,7 +502,7 @@
     <ni>28</ni>
     <tt>1772</tt>
     <tv>3827</tv>
-    <obev>1735</obev>
+    <discovery>1735</discovery>
     <tvrdost>4,3</tvrdost>
     <name_en_US>Platinum</name_en_US>
     <name_de>Platin</name_de>
@@ -521,7 +521,7 @@
     <tvrdostvickers>549</tvrdostvickers>
     <tvrdostbrinell>392</tvrdostbrinell>
     <period>6</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -537,7 +537,7 @@
     <ni>20</ni>
     <tt>3180</tt>
     <tv>5630</tv>
-    <obev>1925</obev>
+    <discovery>1925</discovery>
     <tvrdost>7,0</tvrdost>
     <name_en_US>Rhenium</name_en_US>
     <name_de>Rhenium</name_de>
@@ -554,7 +554,7 @@
     <tvrdostvickers>2450</tvrdostvickers>
     <tvrdostbrinell>1320</tvrdostbrinell>
     <period>6</period>
-    <skupina>VII.B</skupina>
+    <group>VII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -570,7 +570,7 @@
     <ni>19</ni>
     <tt>1963</tt>
     <tv>3800</tv>
-    <obev>1803</obev>
+    <discovery>1803</discovery>
     <tvrdost>6,0</tvrdost>
     <name_en_US>Rhodium</name_en_US>
     <name_de>Rhodium</name_de>
@@ -589,7 +589,7 @@
     <tvrdostvickers>1246</tvrdostvickers>
     <tvrdostbrinell>1100</tvrdostbrinell>
     <period>5</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -605,7 +605,7 @@
     <ni>19</ni>
     <tt>-38,862</tt>
     <tv>356,66</tv>
-    <obev>starověk</obev>
+    <discovery>Antiquity</discovery>
     <tvrdost>1,5</tvrdost>
     <name_en_US>Mercury</name_en_US>
     <name_de>Quecksilber</name_de>
@@ -623,7 +623,7 @@
     <elektrickavodivost>1.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <mernyelodpor>0,959</mernyelodpor>
     <period>6</period>
-    <skupina>II.B</skupina>
+    <group>II.B</group>
     <state>l</state>
   </element>
   <element>
@@ -639,7 +639,7 @@
     <ni>9</ni>
     <tt>2300</tt>
     <tv>4000</tv>
-    <obev>1843</obev>
+    <discovery>1843</discovery>
     <tvrdost>6,5</tvrdost>
     <name_en_US>Ruthenium</name_en_US>
     <name_de>Ruthenium</name_de>
@@ -657,7 +657,7 @@
     <elektrickavodivost>1,4.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>2160</tvrdostbrinell>
     <period>5</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -673,7 +673,7 @@
     <ni>14</ni>
     <tt>1541</tt>
     <tv>2750</tv>
-    <obev>1876</obev>
+    <discovery>1876</discovery>
     <name_en_US>Scandium</name_en_US>
     <name_de>Scandium</name_de>
     <frnazev>Scandium</frnazev>
@@ -688,7 +688,7 @@
     <elektrickavodivost>1,8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>750</tvrdostbrinell>
     <period>4</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -704,7 +704,7 @@
     <ni>25</ni>
     <tt>961,93</tt>
     <tv>2212</tv>
-    <obev>starověk</obev>
+    <discovery>Antiquity</discovery>
     <tvrdost>2,7</tvrdost>
     <name_en_US>Silver</name_en_US>
     <name_de>Silber</name_de>
@@ -724,7 +724,7 @@
     <tvrdostvickers>251</tvrdostvickers>
     <tvrdostbrinell>24,5</tvrdostbrinell>
     <period>5</period>
-    <skupina>I.B</skupina>
+    <group>I.B</group>
     <state>s</state>
   </element>
   <element>
@@ -740,7 +740,7 @@
     <ni>18</ni>
     <tt>2996</tt>
     <tv>5660</tv>
-    <obev>1802</obev>
+    <discovery>1802</discovery>
     <tvrdost>6,5</tvrdost>
     <name_en_US>Tantalum</name_en_US>
     <name_de>Tantal</name_de>
@@ -757,7 +757,7 @@
     <tvrdostvickers>873</tvrdostvickers>
     <tvrdostbrinell>800</tvrdostbrinell>
     <period>6</period>
-    <skupina>V.B</skupina>
+    <group>V.B</group>
     <state>s</state>
   </element>
   <element>
@@ -773,7 +773,7 @@
     <ni>22</ni>
     <tt>2150</tt>
     <tv>4880</tv>
-    <obev>1937</obev>
+    <discovery>1937</discovery>
     <name_en_US>Technetium</name_en_US>
     <name_de>Technetium</name_de>
     <frnazev>Technétium</frnazev>
@@ -787,7 +787,7 @@
     <ionizacnipotencial3>29,54</ionizacnipotencial3>
     <elektrickavodivost>5.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <period>5</period>
-    <skupina>VII.B</skupina>
+    <group>VII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -803,7 +803,7 @@
     <ni>4</ni>
     <tt>1660</tt>
     <tv>3287</tv>
-    <obev>1790</obev>
+    <discovery>1790</discovery>
     <tvrdost>6,0</tvrdost>
     <name_en_US>Titanium</name_en_US>
     <name_de>Titan</name_de>
@@ -821,7 +821,7 @@
     <tvrdostvickers>970</tvrdostvickers>
     <tvrdostbrinell>716</tvrdostbrinell>
     <period>4</period>
-    <skupina>IV.B</skupina>
+    <group>IV.B</group>
     <state>s</state>
   </element>
   <element>
@@ -837,7 +837,7 @@
     <frnazev>Meitnerium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;7&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <period>7</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -854,7 +854,7 @@
     <frnazev>Seaborgium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;4&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <period>7</period>
-    <skupina>VI.B</skupina>
+    <group>VI.B</group>
     <state>s</state>
   </element>
   <element>
@@ -870,7 +870,7 @@
     <frnazev>Hassium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;6&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <period>7</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -887,7 +887,7 @@
     <frnazev>Dubnium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;3&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <period>7</period>
-    <skupina>V.B</skupina>
+    <group>V.B</group>
     <state>s</state>
   </element>
   <element>
@@ -904,7 +904,7 @@
     <frnazev>Bohrium</frnazev>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;5&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <period>7</period>
-    <skupina>VII.B</skupina>
+    <group>VII.B</group>
     <state>s</state>
   </element>
   <element>
@@ -920,7 +920,7 @@
     <ni>5</ni>
     <tt>1900</tt>
     <tv>3380</tv>
-    <obev>1801</obev>
+    <discovery>1801</discovery>
     <tvrdost>6-7</tvrdost>
     <name_en_US>Vanadium</name_en_US>
     <name_de>Vanadium</name_de>
@@ -939,7 +939,7 @@
     <tvrdostvickers>628</tvrdostvickers>
     <tvrdostbrinell>628</tvrdostbrinell>
     <period>4</period>
-    <skupina>V.B</skupina>
+    <group>V.B</group>
     <state>s</state>
   </element>
   <element>
@@ -955,7 +955,7 @@
     <ni>16</ni>
     <tt>3387</tt>
     <tv>5660</tv>
-    <obev>1758</obev>
+    <discovery>1758</discovery>
     <tvrdost>7,5</tvrdost>
     <name_en_US>Tungsten</name_en_US>
     <name_de>Wolfram</name_de>
@@ -973,7 +973,7 @@
     <tvrdostvickers>3430</tvrdostvickers>
     <tvrdostbrinell>2570</tvrdostbrinell>
     <period>6</period>
-    <skupina>VI.B</skupina>
+    <group>VI.B</group>
     <state>s</state>
   </element>
   <element>
@@ -989,7 +989,7 @@
     <ni>20</ni>
     <tt>1522</tt>
     <tv>3200</tv>
-    <obev>1794</obev>
+    <discovery>1794</discovery>
     <name_en_US>Yttrium</name_en_US>
     <name_de>Yttrium</name_de>
     <frnazev>Yttrium</frnazev>
@@ -1006,7 +1006,7 @@
     <elektrickavodivost>1,8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>589</tvrdostbrinell>
     <period>5</period>
-    <skupina>III.B</skupina>
+    <group>III.B</group>
     <state>s</state>
   </element>
   <element>
@@ -1022,7 +1022,7 @@
     <ni>10</ni>
     <tt>419,58</tt>
     <tv>907</tv>
-    <obev>1530</obev>
+    <discovery>1530</discovery>
     <tvrdost>2,5</tvrdost>
     <name_en_US>Zinc</name_en_US>
     <name_de>Zink</name_de>
@@ -1041,7 +1041,7 @@
     <mernyelodpor>0,0596</mernyelodpor>
     <tvrdostbrinell>412</tvrdostbrinell>
     <period>4</period>
-    <skupina>II.B</skupina>
+    <group>II.B</group>
     <state>s</state>
   </element>
   <element>
@@ -1057,7 +1057,7 @@
     <ni>16</ni>
     <tt>1852</tt>
     <tv>3800</tv>
-    <obev>1789</obev>
+    <discovery>1789</discovery>
     <tvrdost>5,0</tvrdost>
     <name_en_US>Zirconium</name_en_US>
     <name_de>Zirkonium</name_de>
@@ -1076,7 +1076,7 @@
     <tvrdostvickers>903</tvrdostvickers>
     <tvrdostbrinell>650</tvrdostbrinell>
     <period>5</period>
-    <skupina>IV.B</skupina>
+    <group>IV.B</group>
     <state>s</state>
   </element>
   <element>
@@ -1092,7 +1092,7 @@
     <ni>20</ni>
     <tt>1064,43</tt>
     <tv>2966</tv>
-    <obev>starověk</obev>
+    <discovery>Antiquity</discovery>
     <tvrdost>2,5</tvrdost>
     <name_en_US>Gold</name_en_US>
     <name_de>Gold</name_de>
@@ -1111,7 +1111,7 @@
     <tvrdostvickers>216</tvrdostvickers>
     <tvrdostbrinell>2450</tvrdostbrinell>
     <period>6</period>
-    <skupina>I.B</skupina>
+    <group>I.B</group>
     <state>s</state>
   </element>
   <element>
@@ -1146,7 +1146,7 @@
     <tvrdostvickers>608</tvrdostvickers>
     <tvrdostbrinell>490</tvrdostbrinell>
     <period>4</period>
-    <skupina>VIII.B</skupina>
+    <group>VIII.B</group>
     <state>s</state>
   </element>
 </elements>

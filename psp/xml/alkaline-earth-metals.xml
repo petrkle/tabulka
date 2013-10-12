@@ -13,7 +13,7 @@
     <ni>17</ni>
     <tt>725</tt>
     <tv>1640</tv>
-    <obev>1808</obev>
+    <discovery>1808</discovery>
     <tvrdost>1,25</tvrdost>
     <name_en_US>Barium</name_en_US>
     <name_de>Barium</name_de>
@@ -27,7 +27,7 @@
     <ionizacnipotencial2>10,004</ionizacnipotencial2>
     <elektrickavodivost>2,8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <period>6</period>
-    <skupina>II.A</skupina>
+    <group>II.A</group>
     <state>s</state>
   </element>
   <element>
@@ -43,7 +43,7 @@
     <ni>16</ni>
     <tt>700</tt>
     <tv>1140</tv>
-    <obev>1898</obev>
+    <discovery>1898</discovery>
     <name_en_US>Radium</name_en_US>
     <name_de>Radium</name_de>
     <frnazev>Radium</frnazev>
@@ -54,7 +54,7 @@
     <ionizacnipotencial2>10,148</ionizacnipotencial2>
     <elektrickavodivost>10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <period>7</period>
-    <skupina>II.A</skupina>
+    <group>II.A</group>
     <state>s</state>
   </element>
   <element>
@@ -70,7 +70,7 @@
     <ni>13</ni>
     <tt>769</tt>
     <tv>1384</tv>
-    <obev>1790</obev>
+    <discovery>1790</discovery>
     <tvrdost>1,8</tvrdost>
     <name_en_US>Strontium</name_en_US>
     <name_de>Strontium</name_de>
@@ -85,7 +85,7 @@
     <ionizacnipotencial3>43,6</ionizacnipotencial3>
     <elektrickavodivost>2.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <period>5</period>
-    <skupina>II.A</skupina>
+    <group>II.A</group>
     <state>s</state>
   </element>
   <element>
@@ -101,7 +101,7 @@
     <ni>8</ni>
     <tt>839</tt>
     <tv>1484</tv>
-    <obev>1808</obev>
+    <discovery>1808</discovery>
     <tvrdost>1,5-2</tvrdost>
     <name_en_US>Calcium</name_en_US>
     <name_de>Calcium</name_de>
@@ -117,7 +117,7 @@
     <elektrickavodivost>3,13.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>167</tvrdostbrinell>
     <period>4</period>
-    <skupina>II.A</skupina>
+    <group>II.A</group>
     <state>s</state>
   </element>
 </elements>

@@ -13,7 +13,7 @@
     <ni>27</ni>
     <tt>630,74</tt>
     <tv>1750</tv>
-    <obev>1450</obev>
+    <discovery>1450</discovery>
     <tvrdost>3-3,5</tvrdost>
     <name_en_US>Antimony</name_en_US>
     <name_de>Antimon</name_de>
@@ -31,7 +31,7 @@
     <elektrickavodivost>2,5.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>294</tvrdostbrinell>
     <period>5</period>
-    <skupina>V.A</skupina>
+    <group>V.A</group>
     <state>s</state>
   </element>
   <element>
@@ -47,7 +47,7 @@
     <ni>13</ni>
     <tt>817</tt>
     <tv>613</tv>
-    <obev>1250</obev>
+    <discovery>1250</discovery>
     <tvrdost>3,5</tvrdost>
     <name_en_US>Arsenic</name_en_US>
     <name_de>Arsen</name_de>
@@ -64,7 +64,7 @@
     <elektrickavodivost>3,3.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>1440</tvrdostbrinell>
     <period>4</period>
-    <skupina>V.A</skupina>
+    <group>V.A</group>
     <state>s</state>
   </element>
   <element>
@@ -79,7 +79,7 @@
     <ni>21</ni>
     <tt>302</tt>
     <tv>330</tv>
-    <obev>1940</obev>
+    <discovery>1940</discovery>
     <name_en_US>Astatine</name_en_US>
     <name_de>Astat</name_de>
     <frnazev>Astate</frnazev>
@@ -88,7 +88,7 @@
     <atomovypolomer>127</atomovypolomer>
     <ionizacnipotencial1>9,5</ionizacnipotencial1>
     <period>6</period>
-    <skupina>VII.A</skupina>
+    <group>VII.A</group>
     <state>s</state>
   </element>
   <element>
@@ -104,7 +104,7 @@
     <ni>4</ni>
     <tt>2300</tt>
     <tv>2550</tv>
-    <obev>1808</obev>
+    <discovery>1808</discovery>
     <tvrdost>9,3</tvrdost>
     <name_en_US>Boron</name_en_US>
     <name_de>Bor</name_de>
@@ -120,7 +120,7 @@
     <elektrickavodivost>5.10&lt;sup&gt;-6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostvickers>4,9.10&lt;sup&gt;4&lt;/sup&gt;</tvrdostvickers>
     <period>2</period>
-    <skupina>III.A</skupina>
+    <group>III.A</group>
     <state>s</state>
   </element>
   <element>
@@ -136,7 +136,7 @@
     <ni>11</ni>
     <tt>937,4</tt>
     <tv>2830</tv>
-    <obev>1885</obev>
+    <discovery>1885</discovery>
     <tvrdost>6,25</tvrdost>
     <name_en_US>Germanium</name_en_US>
     <name_de>Germanium</name_de>
@@ -149,7 +149,7 @@
     <ionizacnipotencial3>34,22</ionizacnipotencial3>
     <elektrickavodivost>2.10&lt;sup&gt;3&lt;/sup&gt;</elektrickavodivost>
     <period>4</period>
-    <skupina>IV.A</skupina>
+    <group>IV.A</group>
     <state>s</state>
   </element>
   <element>
@@ -165,7 +165,7 @@
     <ni>5</ni>
     <tt>1410</tt>
     <tv>2355</tv>
-    <obev>1824</obev>
+    <discovery>1824</discovery>
     <tvrdost>7,0</tvrdost>
     <name_en_US>Silicon</name_en_US>
     <name_de>Silicium</name_de>
@@ -181,7 +181,7 @@
     <ionizacnipotencial3>33,492</ionizacnipotencial3>
     <elektrickavodivost>4.10&lt;sup&gt;2&lt;/sup&gt;</elektrickavodivost>
     <period>3</period>
-    <skupina>IV.A</skupina>
+    <group>IV.A</group>
     <state>s</state>
   </element>
   <element>
@@ -197,7 +197,7 @@
     <ni>22</ni>
     <tt>449,5</tt>
     <tv>1100</tv>
-    <obev>1782</obev>
+    <discovery>1782</discovery>
     <tvrdost>2,3</tvrdost>
     <name_en_US>Tellurium</name_en_US>
     <name_de>Tellur</name_de>
@@ -215,7 +215,7 @@
     <elektrickavodivost>1.10&lt;sup&gt;4&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>180</tvrdostbrinell>
     <period>5</period>
-    <skupina>VI.A</skupina>
+    <group>VI.A</group>
     <state>s</state>
   </element>
 </elements>

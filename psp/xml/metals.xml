@@ -13,7 +13,7 @@
     <ni>3</ni>
     <tt>1278</tt>
     <tv>2970</tv>
-    <obev>1828</obev>
+    <discovery>1828</discovery>
     <tvrdost>5,0-5,5</tvrdost>
     <name_en_US>Beryllium</name_en_US>
     <name_de>Beryllium</name_de>
@@ -32,7 +32,7 @@
     <tvrdostvickers>1670</tvrdostvickers>
     <tvrdostbrinell>600</tvrdostbrinell>
     <period>2</period>
-    <skupina>II.A</skupina>
+    <group>II.A</group>
     <state>s</state>
   </element>
   <element>
@@ -48,7 +48,7 @@
     <ni>18</ni>
     <tt>271,44</tt>
     <tv>1560</tv>
-    <obev>1450</obev>
+    <discovery>1450</discovery>
     <tvrdost>2,5</tvrdost>
     <name_en_US>Bismuth</name_en_US>
     <name_de>Bismut</name_de>
@@ -66,7 +66,7 @@
     <elektrickavodivost>8,67.10&lt;sup&gt;5&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>94,2</tvrdostbrinell>
     <period>6</period>
-    <skupina>V.A</skupina>
+    <group>V.A</group>
     <state>s</state>
   </element>
   <element>
@@ -82,7 +82,7 @@
     <ni>18</ni>
     <tt>231,97</tt>
     <tv>2270</tv>
-    <obev>starověk</obev>
+    <discovery>Antiquity</discovery>
     <tvrdost>1,8</tvrdost>
     <name_en_US>Tin</name_en_US>
     <name_de>Zinn</name_de>
@@ -100,7 +100,7 @@
     <elektrickavodivost>8,7.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <mernyelodpor>0,126</mernyelodpor>
     <period>5</period>
-    <skupina>IV.A</skupina>
+    <group>IV.A</group>
     <state>s</state>
   </element>
   <element>
@@ -116,7 +116,7 @@
     <ni>11</ni>
     <tt>29,78</tt>
     <tv>2403</tv>
-    <obev>1875</obev>
+    <discovery>1875</discovery>
     <tvrdost>1,5</tvrdost>
     <name_en_US>Gallium</name_en_US>
     <name_de>Gallium</name_de>
@@ -130,7 +130,7 @@
     <elektrickavodivost>7,1.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>60</tvrdostbrinell>
     <period>4</period>
-    <skupina>III.A</skupina>
+    <group>III.A</group>
     <state>s</state>
   </element>
   <element>
@@ -146,7 +146,7 @@
     <ni>7</ni>
     <tt>660,37</tt>
     <tv>2467</tv>
-    <obev>1825</obev>
+    <discovery>1825</discovery>
     <tvrdost>2,9</tvrdost>
     <name_en_US>Aluminum</name_en_US>
     <name_de>Aluminium</name_de>
@@ -166,7 +166,7 @@
     <tvrdostvickers>167</tvrdostvickers>
     <tvrdostbrinell>245</tvrdostbrinell>
     <period>3</period>
-    <skupina>III.A</skupina>
+    <group>III.A</group>
     <state>s</state>
   </element>
   <element>
@@ -182,7 +182,7 @@
     <ni>5</ni>
     <tt>648,8</tt>
     <tv>1090</tv>
-    <obev>1808</obev>
+    <discovery>1808</discovery>
     <tvrdost>2,25</tvrdost>
     <name_en_US>Magnesium</name_en_US>
     <name_de>Magnesium</name_de>
@@ -200,7 +200,7 @@
     <elektrickavodivost>2,24.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>260</tvrdostbrinell>
     <period>3</period>
-    <skupina>II.A</skupina>
+    <group>II.A</group>
     <state>s</state>
   </element>
   <element>
@@ -216,7 +216,7 @@
     <ni>32</ni>
     <tt>156,63</tt>
     <tv>2080</tv>
-    <obev>1863</obev>
+    <discovery>1863</discovery>
     <tvrdost>1,2</tvrdost>
     <name_en_US>Indium</name_en_US>
     <name_de>Indium</name_de>
@@ -232,7 +232,7 @@
     <ionizacnipotencial3>28,03</ionizacnipotencial3>
     <elektrickavodivost>3,4.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <period>5</period>
-    <skupina>III.A</skupina>
+    <group>III.A</group>
     <state>s</state>
   </element>
   <element>
@@ -248,7 +248,7 @@
     <ni>24</ni>
     <tt>323,50</tt>
     <tv>1740</tv>
-    <obev>starověk</obev>
+    <discovery>Antiquity</discovery>
     <tvrdost>1,5</tvrdost>
     <name_en_US>Lead</name_en_US>
     <name_de>Blei</name_de>
@@ -267,7 +267,7 @@
     <mernyelodpor>0,206</mernyelodpor>
     <tvrdostbrinell>38,3</tvrdostbrinell>
     <period>6</period>
-    <skupina>IV.A</skupina>
+    <group>IV.A</group>
     <state>s</state>
   </element>
   <element>
@@ -283,7 +283,7 @@
     <ni>33</ni>
     <tt>254</tt>
     <tv>962</tv>
-    <obev>1898</obev>
+    <discovery>1898</discovery>
     <name_en_US>Polonium</name_en_US>
     <name_de>Polonium</name_de>
     <frnazev>Polonium</frnazev>
@@ -292,7 +292,7 @@
     <atomovypolomer>135</atomovypolomer>
     <ionizacnipotencial1>8,4167</ionizacnipotencial1>
     <period>6</period>
-    <skupina>VI.A</skupina>
+    <group>VI.A</group>
     <state>s</state>
   </element>
   <element>
@@ -308,7 +308,7 @@
     <ni>26</ni>
     <tt>303,5</tt>
     <tv>1457</tv>
-    <obev>1861</obev>
+    <discovery>1861</discovery>
     <tvrdost>1,2</tvrdost>
     <name_en_US>Thallium</name_en_US>
     <name_de>Thallium</name_de>
@@ -323,7 +323,7 @@
     <ionizacnipotencial3>29,829</ionizacnipotencial3>
     <elektrickavodivost>5,6.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <period>6</period>
-    <skupina>III.A</skupina>
+    <group>III.A</group>
     <state>s</state>
   </element>
 </elements>

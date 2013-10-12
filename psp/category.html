@@ -9,13 +9,13 @@
 [% FOREACH category IN categories %]
 	[% IF cur == category.filename %]
 	[% FOREACH foo IN elements.element %]
-	<li><a name="[% foo.name_Latin FILTER lower %]"></a><a href="[% foo.name_Latin FILTER lower %].html" class="element"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.symbol %]</span></a></li>
+	<li><a name="[% foo.name_Latin FILTER lower %]"></a><a href="[% foo.name_Latin FILTER lower %].html" class="element"><span class="elementname">[% foo.${elementname} %]</span><span class="symbol">[% foo.symbol %]</span></a></li>
 	[% END %]
 	[% END %]
 [% END %]
 [% ELSE %]
 [% FOREACH category IN categories %]
-	<li><a href="[% category.filename %].html" class="radek closed">[% l(category.fullname) %]</a> </li>
+	<li><a href="[% category.filename %].html" class="line closed">[% l(category.fullname) %]</a> </li>
 [% END %]
 [% END %]
 </ul>

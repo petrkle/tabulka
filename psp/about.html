@@ -4,31 +4,31 @@
 <table id="mohs" cellspacing="0" cellpadding="0">
 	
 <tr>
-		<td class="vnitrnibunka">[% l('Version') %]</td>
-		<td class="pravyokraj">[% version %]</td>
+		<td class="lscell">[% l('Version') %]</td>
+		<td class="rscell">[% version %]</td>
 </tr>
 
 <tr>
-		<td class="vnitrnibunka">[% l('Created') %]</td>
-		<td class="pravyokraj">[% date.format(mytime, ' %d. %m. %Y').replace(' 0', ' ') %]</td>
+		<td class="lscell">[% l('Created') %]</td>
+		<td class="rscell">[% date.format(mytime, ' %d. %m. %Y').replace(' 0', ' ') %]</td>
 </tr>
 
 <tr>
-		<td class="vnitrnibunka">Google Play</td>
-		<td class="pravyokraj"><a href="market://details?id=cz.kle.tabulka">[% l('Write review') %]</a></td>
+		<td class="lscell">Google Play</td>
+		<td class="rscell"><a href="market://details?id=cz.kle.tabulka">[% l('Write review') %]</a></td>
 </tr>
 
 <tr>
-		<td class="vnitrnibunka">[% l('Author') %]</td>
-		<td class="pravyokraj"><a href="mailto:petr@kle.cz">petr@kle.cz</a></td>
+		<td class="lscell">[% l('Author') %]</td>
+		<td class="rscell"><a href="mailto:petr@kle.cz">petr@kle.cz</a></td>
 </tr>
 
 <tr>
-		<td colspan=2" class="pravyokraj" style="text-align:center"><a href="https://github.com/petrkle/tabulka" target="_blank">github.com/petrkle/tabulka</a></td>
+		<td colspan=2" class="rscell" style="text-align:center"><a href="https://github.com/petrkle/tabulka" target="_blank">github.com/petrkle/tabulka</a></td>
 </tr>
 
 </table>
 
-<p style="text-align:center"><a href="index.html"><img src="../z.png" /></a></p>
+<p><a href="index.html"><img src="../z.png" /></a></p>
 
 [% INCLUDE footer.html -%]

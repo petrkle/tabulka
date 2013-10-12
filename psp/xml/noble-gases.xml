@@ -11,7 +11,7 @@
     <ni>5</ni>
     <tt>-189,4</tt>
     <tv>-185,87</tv>
-    <obev>1894</obev>
+    <discovery>1894</discovery>
     <name_en_US>Argon</name_en_US>
     <name_de>Argon</name_de>
     <frnazev>Argon</frnazev>
@@ -26,7 +26,7 @@
     <ionizacnipotencial2>27,629</ionizacnipotencial2>
     <ionizacnipotencial3>40,74</ionizacnipotencial3>
     <period>3</period>
-    <skupina>VIII.A</skupina>
+    <group>VIII.A</group>
     <state>g</state>
   </element>
   <element>
@@ -40,7 +40,7 @@
     <ni>2</ni>
     <tt>-272,12</tt>
     <tv>-266,934</tv>
-    <obev>1868</obev>
+    <discovery>1868</discovery>
     <name_en_US>Helium</name_en_US>
     <name_de>Helium</name_de>
     <frnazev>Hélium</frnazev>
@@ -52,7 +52,7 @@
     <atomovypolomer>31</atomovypolomer>
     <kovalentnipolomer>32</kovalentnipolomer>
     <period>1</period>
-    <skupina>VIII.A</skupina>
+    <group>VIII.A</group>
     <state>g</state>
   </element>
   <element>
@@ -67,7 +67,7 @@
     <ni>17</ni>
     <tt>-157,10</tt>
     <tv>-152,30</tv>
-    <obev>1898</obev>
+    <discovery>1898</discovery>
     <name_en_US>Krypton</name_en_US>
     <name_de>Krypton</name_de>
     <frnazev>Krypton</frnazev>
@@ -82,7 +82,7 @@
     <ionizacnipotencial2>24,359</ionizacnipotencial2>
     <ionizacnipotencial3>36,95</ionizacnipotencial3>
     <period>4</period>
-    <skupina>VIII.A</skupina>
+    <group>VIII.A</group>
     <state>g</state>
   </element>
   <element>
@@ -96,7 +96,7 @@
     <ni>5</ni>
     <tt>-248,67</tt>
     <tv>-246,048</tv>
-    <obev>1898</obev>
+    <discovery>1898</discovery>
     <name_en_US>Neon</name_en_US>
     <name_de>Neon</name_de>
     <frnazev>Néon</frnazev>
@@ -111,7 +111,7 @@
     <ionizacnipotencial2>40,962</ionizacnipotencial2>
     <ionizacnipotencial3>63,45</ionizacnipotencial3>
     <period>2</period>
-    <skupina>VIII.A</skupina>
+    <group>VIII.A</group>
     <state>g</state>
   </element>
   <element>
@@ -126,7 +126,7 @@
     <ni>20</ni>
     <tt>-71</tt>
     <tv>-61,8</tv>
-    <obev>1900</obev>
+    <discovery>1900</discovery>
     <name_en_US>Radon</name_en_US>
     <name_de>Radon</name_de>
     <frnazev>Radon</frnazev>
@@ -139,7 +139,7 @@
     <kovalentnipolomer>145</kovalentnipolomer>
     <ionizacnipotencial1>10,7485</ionizacnipotencial1>
     <period>6</period>
-    <skupina>VIII.A</skupina>
+    <group>VIII.A</group>
     <state>g</state>
   </element>
   <element>
@@ -154,7 +154,7 @@
     <ni>22</ni>
     <tt>-111,82</tt>
     <tv>-108,12</tv>
-    <obev>1898</obev>
+    <discovery>1898</discovery>
     <name_en_US>Xenon</name_en_US>
     <name_de>Xenon</name_de>
     <frnazev>Xénon</frnazev>
@@ -169,7 +169,7 @@
     <ionizacnipotencial2>21,21</ionizacnipotencial2>
     <ionizacnipotencial3>32,1</ionizacnipotencial3>
     <period>5</period>
-    <skupina>VIII.A</skupina>
+    <group>VIII.A</group>
     <state>g</state>
   </element>
 </elements>

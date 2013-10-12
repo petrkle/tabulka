@@ -226,3 +226,6 @@ msgstr "Korund"
 
 msgid "Diamond"
 msgstr "Diamant"
+
+msgid "Antiquity"
+msgstr "Starověk"

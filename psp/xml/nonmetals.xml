@@ -13,7 +13,7 @@
     <ni>4</ni>
     <tt>-209,79</tt>
     <tv>-195,802</tv>
-    <obev>1772</obev>
+    <discovery>1772</discovery>
     <name_en_US>Nitrogen</name_en_US>
     <name_de>Stickstoff</name_de>
     <frnazev>Azote</frnazev>
@@ -28,7 +28,7 @@
     <ionizacnipotencial2>29,601</ionizacnipotencial2>
     <ionizacnipotencial3>47,448</ionizacnipotencial3>
     <period>2</period>
-    <skupina>V.A</skupina>
+    <group>V.A</group>
     <state>g</state>
   </element>
   <element>
@@ -44,7 +44,7 @@
     <ni>6</ni>
     <tt>44,1</tt>
     <tv>280</tv>
-    <obev>1669</obev>
+    <discovery>1669</discovery>
     <name_en_US>Phosphorus</name_en_US>
     <name_de>Phosphor</name_de>
     <frnazev>Phosphore</frnazev>
@@ -58,7 +58,7 @@
     <ionizacnipotencial3>30,18</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
     <period>3</period>
-    <skupina>V.A</skupina>
+    <group>V.A</group>
     <state>s</state>
   </element>
   <element>
@@ -74,7 +74,7 @@
     <ni>5</ni>
     <tt>-218,79</tt>
     <tv>-182,962</tv>
-    <obev>1774</obev>
+    <discovery>1774</discovery>
     <name_en_US>Oxygen</name_en_US>
     <name_de>Sauerstoff</name_de>
     <frnazev>Oxygéne</frnazev>
@@ -89,7 +89,7 @@
     <ionizacnipotencial2>35,117</ionizacnipotencial2>
     <ionizacnipotencial3>54,934</ionizacnipotencial3>
     <period>2</period>
-    <skupina>VI.A</skupina>
+    <group>VI.A</group>
     <state>g</state>
   </element>
   <element>
@@ -105,7 +105,7 @@
     <ni>14</ni>
     <tt>217</tt>
     <tv>685</tv>
-    <obev>1817</obev>
+    <discovery>1817</discovery>
     <tvrdost>2,0</tvrdost>
     <name_en_US>Selenium</name_en_US>
     <name_de>Selen</name_de>
@@ -123,7 +123,7 @@
     <elektrickavodivost>8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
     <tvrdostbrinell>736</tvrdostbrinell>
     <period>4</period>
-    <skupina>VI.A</skupina>
+    <group>VI.A</group>
     <state>s</state>
   </element>
   <element>
@@ -155,7 +155,7 @@
     <ionizacnipotencial3>34,83</ionizacnipotencial3>
     <elektrickavodivost>5.10&lt;sup&gt;-14&lt;/sup&gt;</elektrickavodivost>
     <period>3</period>
-    <skupina>VI.A</skupina>
+    <group>VI.A</group>
     <state>s</state>
   </element>
   <element>
@@ -185,7 +185,7 @@
     <ionizacnipotencial3>47,887</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;5&lt;/sup&gt;</elektrickavodivost>
     <period>2</period>
-    <skupina>IV.A</skupina>
+    <group>IV.A</group>
     <state>s</state>
   </element>
   <element>
@@ -201,7 +201,7 @@
     <ni>1</ni>
     <tt>-259,34</tt>
     <tv>-252,87</tv>
-    <obev>1766</obev>
+    <discovery>1766</discovery>
     <name_en_US>Hydrogen</name_en_US>
     <name_de>Wasserstoff</name_de>
     <frnazev>Hydrogéne</frnazev>
@@ -213,7 +213,7 @@
     <atomovypolomer>53</atomovypolomer>
     <kovalentnipolomer>37</kovalentnipolomer>
     <period>1</period>
-    <skupina>I.A</skupina>
+    <group>I.A</group>
     <state>g</state>
   </element>
 </elements>

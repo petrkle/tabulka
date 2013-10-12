@@ -13,7 +13,7 @@
     <ni>16</ni>
     <tt>-7,25</tt>
     <tv>58,78</tv>
-    <obev>1826</obev>
+    <discovery>1826</discovery>
     <name_en_US>Bromine</name_en_US>
     <name_de>Brom</name_de>
     <frnazev>Brome</frnazev>
@@ -29,7 +29,7 @@
     <ionizacnipotencial3>36,0</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;-10&lt;/sup&gt;</elektrickavodivost>
     <period>4</period>
-    <skupina>VII.A</skupina>
+    <group>VII.A</group>
     <state>l</state>
   </element>
   <element>
@@ -45,7 +45,7 @@
     <ni>9</ni>
     <tt>-100,98</tt>
     <tv>-34,6</tv>
-    <obev>1774</obev>
+    <discovery>1774</discovery>
     <name_en_US>Chlorine</name_en_US>
     <name_de>Chlor</name_de>
     <frnazev>Chlore</frnazev>
@@ -60,7 +60,7 @@
     <ionizacnipotencial2>23,81</ionizacnipotencial2>
     <ionizacnipotencial3>39,611</ionizacnipotencial3>
     <period>3</period>
-    <skupina>VII.A</skupina>
+    <group>VII.A</group>
     <state>g</state>
   </element>
   <element>
@@ -76,7 +76,7 @@
     <ni>5</ni>
     <tt>-219,62</tt>
     <tv>-188,14</tv>
-    <obev>1886</obev>
+    <discovery>1886</discovery>
     <name_en_US>Fluorine</name_en_US>
     <name_de>Fluor</name_de>
     <frnazev>Fluor</frnazev>
@@ -91,7 +91,7 @@
     <ionizacnipotencial2>34,97</ionizacnipotencial2>
     <ionizacnipotencial3>62,707</ionizacnipotencial3>
     <period>2</period>
-    <skupina>VII.A</skupina>
+    <group>VII.A</group>
     <state>g</state>
   </element>
   <element>
@@ -107,7 +107,7 @@
     <ni>23</ni>
     <tt>113,5</tt>
     <tv>184,35</tv>
-    <obev>1811</obev>
+    <discovery>1811</discovery>
     <name_en_US>Iodine</name_en_US>
     <name_de>Iod</name_de>
     <frnazev>Iode</frnazev>
@@ -123,7 +123,7 @@
     <ionizacnipotencial3>33,0</ionizacnipotencial3>
     <elektrickavodivost>1.10&lt;sup&gt;-7&lt;/sup&gt;</elektrickavodivost>
     <period>5</period>
-    <skupina>VII.A</skupina>
+    <group>VII.A</group>
     <state>s</state>
   </element>
 </elements>

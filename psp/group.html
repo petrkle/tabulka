@@ -7,13 +7,13 @@
 <ul id="elements">
 [% IF cur_l %]
 [% FOREACH element IN elements %]
-	[% IF cur_l == element.skupina %]
-	<li><a name="[% element.name_Latin FILTER lower %]"></a><a href="[% element.name_Latin FILTER lower %].html" class="element"><span class="nazevprvku">[% element.${elementname} %]</span><span class="znackaprvku">[% element.symbol %]</span></a></li>
+	[% IF cur_l == element.group %]
+	<li><a name="[% element.name_Latin FILTER lower %]"></a><a href="[% element.name_Latin FILTER lower %].html" class="element"><span class="elementname">[% element.${elementname} %]</span><span class="symbol">[% element.symbol %]</span></a></li>
 	[% END %]
 [% END %]
 [% ELSE %]
 [% FOREACH group IN groups %]
-	<li><a href="[% group.filename %].html" class="radek closed">[% group.fullname %]</a> </li>
+	<li><a href="[% group.filename %].html" class="line closed">[% group.fullname %]</a> </li>
 [% END %]
 [% END %]
 </ul>
