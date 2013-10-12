@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elements>
   <element>
-    <protcislo>7</protcislo>
+    <anumber>7</anumber>
     <name_cs_CZ>Dusík</name_cs_CZ>
-    <znacka>N</znacka>
+    <symbol>N</symbol>
     <name_Latin>Nitrogenium</name_Latin>
     <athmot>14,00674</athmot>
     <oxid>-3,1,2,3,4,5</oxid>
@@ -32,9 +32,9 @@
     <state>g</state>
   </element>
   <element>
-    <protcislo>15</protcislo>
+    <anumber>15</anumber>
     <name_cs_CZ>Fosfor</name_cs_CZ>
-    <znacka>P</znacka>
+    <symbol>P</symbol>
     <name_Latin>Phosphorus</name_Latin>
     <athmot>30,973762</athmot>
     <oxid>-3,3,5</oxid>
@@ -62,9 +62,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>8</protcislo>
+    <anumber>8</anumber>
     <name_cs_CZ>Kyslík</name_cs_CZ>
-    <znacka>O</znacka>
+    <symbol>O</symbol>
     <name_Latin>Oxygenium</name_Latin>
     <athmot>15,9994</athmot>
     <oxid>-2,-1,2</oxid>
@@ -93,9 +93,9 @@
     <state>g</state>
   </element>
   <element>
-    <protcislo>34</protcislo>
+    <anumber>34</anumber>
     <name_cs_CZ>Selen</name_cs_CZ>
-    <znacka>Se</znacka>
+    <symbol>Se</symbol>
     <name_Latin>Selenium</name_Latin>
     <athmot>78,96</athmot>
     <oxid>-2,2,4,6</oxid>
@@ -127,9 +127,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>16</protcislo>
+    <anumber>16</anumber>
     <name_cs_CZ>Síra</name_cs_CZ>
-    <znacka>S</znacka>
+    <symbol>S</symbol>
     <name_Latin>Sulphur</name_Latin>
     <athmot>32,066</athmot>
     <oxid>-2,2,4,6</oxid>
@@ -159,9 +159,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>6</protcislo>
+    <anumber>6</anumber>
     <name_cs_CZ>Uhlík</name_cs_CZ>
-    <znacka>C</znacka>
+    <symbol>C</symbol>
     <name_Latin>Carboneum</name_Latin>
     <athmot>12,011</athmot>
     <oxid>-4,2,4</oxid>
@@ -189,9 +189,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>1</protcislo>
+    <anumber>1</anumber>
     <name_cs_CZ>Vodík</name_cs_CZ>
-    <znacka>H</znacka>
+    <symbol>H</symbol>
     <name_Latin>Hydrogenium</name_Latin>
     <athmot>1,00794</athmot>
     <oxid>-1,1</oxid>

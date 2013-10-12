@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elements>
   <element>
-    <protcislo>89</protcislo>
+    <anumber>89</anumber>
     <name_cs_CZ>Aktinium</name_cs_CZ>
-    <znacka>Ac</znacka>
+    <symbol>Ac</symbol>
     <name_Latin>Actinium</name_Latin>
     <athmot>227,0278</athmot>
     <oxid>3</oxid>
@@ -28,9 +28,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>24</protcislo>
+    <anumber>24</anumber>
     <name_cs_CZ>Chrom</name_cs_CZ>
-    <znacka>Cr</znacka>
+    <symbol>Cr</symbol>
     <name_Latin>Chromium</name_Latin>
     <athmot>51,9961</athmot>
     <oxid>2,3,4,5,6</oxid>
@@ -63,9 +63,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>72</protcislo>
+    <anumber>72</anumber>
     <name_cs_CZ>Hafnium</name_cs_CZ>
-    <znacka>Hf</znacka>
+    <symbol>Hf</symbol>
     <name_Latin>Hafnium</name_Latin>
     <athmot>178,49</athmot>
     <oxid>4</oxid>
@@ -98,9 +98,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>77</protcislo>
+    <anumber>77</anumber>
     <name_cs_CZ>Iridium</name_cs_CZ>
-    <znacka>Ir</znacka>
+    <symbol>Ir</symbol>
     <name_Latin>Iridium</name_Latin>
     <athmot>192,22</athmot>
     <oxid>2,3,4,6</oxid>
@@ -131,9 +131,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>48</protcislo>
+    <anumber>48</anumber>
     <name_cs_CZ>Kadmium</name_cs_CZ>
-    <znacka>Cd</znacka>
+    <symbol>Cd</symbol>
     <name_Latin>Cadmium</name_Latin>
     <athmot>112,411</athmot>
     <oxid>2</oxid>
@@ -165,9 +165,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>27</protcislo>
+    <anumber>27</anumber>
     <name_cs_CZ>Kobalt</name_cs_CZ>
-    <znacka>Co</znacka>
+    <symbol>Co</symbol>
     <name_Latin>Cobaltum</name_Latin>
     <athmot>58,93320</athmot>
     <oxid>2,3</oxid>
@@ -200,9 +200,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>104</protcislo>
+    <anumber>104</anumber>
     <name_cs_CZ>Kurčatovium</name_cs_CZ>
-    <znacka>Ku</znacka>
+    <symbol>Ku</symbol>
     <name_Latin>Kurcharovium</name_Latin>
     <athmot>261,1087</athmot>
     <oxid>4</oxid>
@@ -218,9 +218,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>57</protcislo>
+    <anumber>57</anumber>
     <name_cs_CZ>Lanthan</name_cs_CZ>
-    <znacka>La</znacka>
+    <symbol>La</symbol>
     <name_Latin>Lanthanium</name_Latin>
     <athmot>138,9055</athmot>
     <oxid>3</oxid>
@@ -252,9 +252,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>25</protcislo>
+    <anumber>25</anumber>
     <name_cs_CZ>Mangan</name_cs_CZ>
-    <znacka>Mn</znacka>
+    <symbol>Mn</symbol>
     <name_Latin>Manganum</name_Latin>
     <athmot>54,93805</athmot>
     <oxid>2,3,4,6,7</oxid>
@@ -285,9 +285,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>42</protcislo>
+    <anumber>42</anumber>
     <name_cs_CZ>Molybden</name_cs_CZ>
-    <znacka>Mo</znacka>
+    <symbol>Mo</symbol>
     <name_Latin>Molybdaneum</name_Latin>
     <athmot>95,94</athmot>
     <oxid>2,3,4,5,6</oxid>
@@ -320,9 +320,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>29</protcislo>
+    <anumber>29</anumber>
     <name_cs_CZ>Měď</name_cs_CZ>
-    <znacka>Cu</znacka>
+    <symbol>Cu</symbol>
     <name_Latin>Cuprum</name_Latin>
     <athmot>63,546</athmot>
     <oxid>1,2,3</oxid>
@@ -356,9 +356,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>28</protcislo>
+    <anumber>28</anumber>
     <name_cs_CZ>Nikl</name_cs_CZ>
-    <znacka>Ni</znacka>
+    <symbol>Ni</symbol>
     <name_Latin>Niccolum</name_Latin>
     <athmot>58,69</athmot>
     <oxid>2,3</oxid>
@@ -389,9 +389,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>41</protcislo>
+    <anumber>41</anumber>
     <name_cs_CZ>Niob</name_cs_CZ>
-    <znacka>Nb</znacka>
+    <symbol>Nb</symbol>
     <name_Latin>Niobium</name_Latin>
     <athmot>92,90638</athmot>
     <oxid>3,5</oxid>
@@ -424,9 +424,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>76</protcislo>
+    <anumber>76</anumber>
     <name_cs_CZ>Osmium</name_cs_CZ>
-    <znacka>Os</znacka>
+    <symbol>Os</symbol>
     <name_Latin>Osmium</name_Latin>
     <athmot>190,2</athmot>
     <oxid>2,3,4,6,8</oxid>
@@ -455,9 +455,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>46</protcislo>
+    <anumber>46</anumber>
     <name_cs_CZ>Palladium</name_cs_CZ>
-    <znacka>Pd</znacka>
+    <symbol>Pd</symbol>
     <name_Latin>Palladium</name_Latin>
     <athmot>106,42</athmot>
     <oxid>2,4</oxid>
@@ -490,9 +490,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>78</protcislo>
+    <anumber>78</anumber>
     <name_cs_CZ>Platina</name_cs_CZ>
-    <znacka>Pt</znacka>
+    <symbol>Pt</symbol>
     <name_Latin>Platinium</name_Latin>
     <athmot>195,08</athmot>
     <oxid>2,4,6</oxid>
@@ -525,9 +525,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>75</protcislo>
+    <anumber>75</anumber>
     <name_cs_CZ>Rhenium</name_cs_CZ>
-    <znacka>Re</znacka>
+    <symbol>Re</symbol>
     <name_Latin>Rhenium</name_Latin>
     <athmot>186,207</athmot>
     <oxid>2,3,4,6,7</oxid>
@@ -558,9 +558,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>45</protcislo>
+    <anumber>45</anumber>
     <name_cs_CZ>Rhodium</name_cs_CZ>
-    <znacka>Rh</znacka>
+    <symbol>Rh</symbol>
     <name_Latin>Rhodium</name_Latin>
     <athmot>102,90550</athmot>
     <oxid>2,3,4,5</oxid>
@@ -593,9 +593,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>80</protcislo>
+    <anumber>80</anumber>
     <name_cs_CZ>Rtuť</name_cs_CZ>
-    <znacka>Hg</znacka>
+    <symbol>Hg</symbol>
     <name_Latin>Hydrargyum</name_Latin>
     <athmot>200,59</athmot>
     <oxid>1,2</oxid>
@@ -627,9 +627,9 @@
     <state>l</state>
   </element>
   <element>
-    <protcislo>44</protcislo>
+    <anumber>44</anumber>
     <name_cs_CZ>Ruthenium</name_cs_CZ>
-    <znacka>Ru</znacka>
+    <symbol>Ru</symbol>
     <name_Latin>Ruthenium</name_Latin>
     <athmot>101,07</athmot>
     <oxid>2,3,4,6,8</oxid>
@@ -661,9 +661,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>21</protcislo>
+    <anumber>21</anumber>
     <name_cs_CZ>Skandium</name_cs_CZ>
-    <znacka>Sc</znacka>
+    <symbol>Sc</symbol>
     <name_Latin>Scandium</name_Latin>
     <athmot>44,955910</athmot>
     <oxid>3</oxid>
@@ -692,9 +692,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>47</protcislo>
+    <anumber>47</anumber>
     <name_cs_CZ>Stříbro</name_cs_CZ>
-    <znacka>Ag</znacka>
+    <symbol>Ag</symbol>
     <name_Latin>Argentum</name_Latin>
     <athmot>107,8682</athmot>
     <oxid>1,2,3</oxid>
@@ -728,9 +728,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>73</protcislo>
+    <anumber>73</anumber>
     <name_cs_CZ>Tantal</name_cs_CZ>
-    <znacka>Ta</znacka>
+    <symbol>Ta</symbol>
     <name_Latin>Tantalum</name_Latin>
     <athmot>180,9479</athmot>
     <oxid>5</oxid>
@@ -761,9 +761,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>43</protcislo>
+    <anumber>43</anumber>
     <name_cs_CZ>Technecium</name_cs_CZ>
-    <znacka>Tc</znacka>
+    <symbol>Tc</symbol>
     <name_Latin>Tecnetium</name_Latin>
     <athmot>98,9063</athmot>
     <oxid>2,4,7</oxid>
@@ -791,9 +791,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>22</protcislo>
+    <anumber>22</anumber>
     <name_cs_CZ>Titan</name_cs_CZ>
-    <znacka>Ti</znacka>
+    <symbol>Ti</symbol>
     <name_Latin>Titanium</name_Latin>
     <athmot>47,88</athmot>
     <oxid>2,3,4</oxid>
@@ -825,9 +825,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>109</protcislo>
+    <anumber>109</anumber>
     <name_cs_CZ>Unnilennium</name_cs_CZ>
-    <znacka>Une</znacka>
+    <symbol>Une</symbol>
     <name_Latin>Unnilennium</name_Latin>
     <athmot>266</athmot>
     <si>0</si>
@@ -841,9 +841,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>106</protcislo>
+    <anumber>106</anumber>
     <name_cs_CZ>Unnilhexium</name_cs_CZ>
-    <znacka>Unh</znacka>
+    <symbol>Unh</symbol>
     <name_Latin>Unnilhexium</name_Latin>
     <athmot>263,9182</athmot>
     <oxid>6</oxid>
@@ -858,9 +858,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>108</protcislo>
+    <anumber>108</anumber>
     <name_cs_CZ>Unniloctium</name_cs_CZ>
-    <znacka>Uno</znacka>
+    <symbol>Uno</symbol>
     <name_Latin>Unniloctium</name_Latin>
     <athmot>265</athmot>
     <si>0</si>
@@ -874,9 +874,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>105</protcislo>
+    <anumber>105</anumber>
     <name_cs_CZ>Unnilpentium</name_cs_CZ>
-    <znacka>Unp</znacka>
+    <symbol>Unp</symbol>
     <name_Latin>Unnilpentium</name_Latin>
     <athmot>262,1138</athmot>
     <oxid>5</oxid>
@@ -891,9 +891,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>107</protcislo>
+    <anumber>107</anumber>
     <name_cs_CZ>Unnilseptium</name_cs_CZ>
-    <znacka>Uns</znacka>
+    <symbol>Uns</symbol>
     <name_Latin>Unnilseptium</name_Latin>
     <athmot>262,1229</athmot>
     <oxid>7</oxid>
@@ -908,9 +908,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>23</protcislo>
+    <anumber>23</anumber>
     <name_cs_CZ>Vanad</name_cs_CZ>
-    <znacka>V</znacka>
+    <symbol>V</symbol>
     <name_Latin>Vanadium</name_Latin>
     <athmot>50,9415</athmot>
     <oxid>2,3,4,5</oxid>
@@ -943,9 +943,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>74</protcislo>
+    <anumber>74</anumber>
     <name_cs_CZ>Wolfram</name_cs_CZ>
-    <znacka>W</znacka>
+    <symbol>W</symbol>
     <name_Latin>Wolframium</name_Latin>
     <athmot>183,85</athmot>
     <oxid>2,3,4,5,6</oxid>
@@ -977,9 +977,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>39</protcislo>
+    <anumber>39</anumber>
     <name_cs_CZ>Yttrium</name_cs_CZ>
-    <znacka>Y</znacka>
+    <symbol>Y</symbol>
     <name_Latin>Yttrium</name_Latin>
     <athmot>88,90585</athmot>
     <oxid>3</oxid>
@@ -1010,9 +1010,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>30</protcislo>
+    <anumber>30</anumber>
     <name_cs_CZ>Zinek</name_cs_CZ>
-    <znacka>Zn</znacka>
+    <symbol>Zn</symbol>
     <name_Latin>Zincum</name_Latin>
     <athmot>65,39</athmot>
     <oxid>2</oxid>
@@ -1045,9 +1045,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>40</protcislo>
+    <anumber>40</anumber>
     <name_cs_CZ>Zirkonium</name_cs_CZ>
-    <znacka>Zr</znacka>
+    <symbol>Zr</symbol>
     <name_Latin>Zirkonium</name_Latin>
     <athmot>91,244</athmot>
     <oxid>4</oxid>
@@ -1080,9 +1080,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>79</protcislo>
+    <anumber>79</anumber>
     <name_cs_CZ>Zlato</name_cs_CZ>
-    <znacka>Au</znacka>
+    <symbol>Au</symbol>
     <name_Latin>Aurum</name_Latin>
     <athmot>196,96654</athmot>
     <oxid>1,3</oxid>
@@ -1115,9 +1115,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>26</protcislo>
+    <anumber>26</anumber>
     <name_cs_CZ>Železo</name_cs_CZ>
-    <znacka>Fe</znacka>
+    <symbol>Fe</symbol>
     <name_Latin>Ferrum</name_Latin>
     <athmot>55,847</athmot>
     <oxid>2,3,6</oxid>

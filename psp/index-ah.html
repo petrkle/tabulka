@@ -2,7 +2,7 @@
 
 <ul id="elements">
 [% FOREACH foo IN elements %]
-<li><a href="[% foo.name_Latin FILTER lower %].html" class="element" name="[% foo.protcislo %]"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="ahprvku">[% foo.athmot %]</span></a></li>
+<li><a href="[% foo.name_Latin FILTER lower %].html" class="element" name="[% foo.anumber %]"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="ahprvku">[% foo.athmot %]</span></a></li>
 [% END %]
 </ul>
 

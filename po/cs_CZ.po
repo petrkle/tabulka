@@ -193,3 +193,36 @@ msgstr "Počet stabilních izotopů"
 
 msgid "Unstable isotopes"
 msgstr "Počet nestabilních izotopů"
+
+msgid "Substance"
+msgstr "Látka"
+
+msgid "Talc"
+msgstr "Mastek"
+
+msgid "Rock salt"
+msgstr "Sůl kamenná"
+
+msgid "Limestone"
+msgstr "Vápenec"
+
+msgid "Fluorspar"
+msgstr "Kazivec"
+
+msgid "Apatite"
+msgstr "Apatit"
+
+msgid "Feldspar"
+msgstr "Živec"
+
+msgid "Quartz"
+msgstr "Křemen"
+
+msgid "Topaz"
+msgstr "Topaz"
+
+msgid "Corundum"
+msgstr "Korund"
+
+msgid "Diamond"
+msgstr "Diamant"

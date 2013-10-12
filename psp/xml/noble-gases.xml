@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elements>
   <element>
-    <protcislo>18</protcislo>
+    <anumber>18</anumber>
     <name_cs_CZ>Argon</name_cs_CZ>
-    <znacka>Ar</znacka>
+    <symbol>Ar</symbol>
     <name_Latin>Argon</name_Latin>
     <athmot>39,948</athmot>
     <hustota>0,0017838</hustota>
@@ -30,9 +30,9 @@
     <state>g</state>
   </element>
   <element>
-    <protcislo>2</protcislo>
+    <anumber>2</anumber>
     <name_cs_CZ>Helium</name_cs_CZ>
-    <znacka>He</znacka>
+    <symbol>He</symbol>
     <name_Latin>Helium</name_Latin>
     <athmot>4,002602</athmot>
     <hustota>0,0001785</hustota>
@@ -56,9 +56,9 @@
     <state>g</state>
   </element>
   <element>
-    <protcislo>36</protcislo>
+    <anumber>36</anumber>
     <name_cs_CZ>Krypton</name_cs_CZ>
-    <znacka>Kr</znacka>
+    <symbol>Kr</symbol>
     <name_Latin>Krypton</name_Latin>
     <athmot>83,8</athmot>
     <oxid>2,4</oxid>
@@ -86,9 +86,9 @@
     <state>g</state>
   </element>
   <element>
-    <protcislo>10</protcislo>
+    <anumber>10</anumber>
     <name_cs_CZ>Neon</name_cs_CZ>
-    <znacka>Ne</znacka>
+    <symbol>Ne</symbol>
     <name_Latin>Neon</name_Latin>
     <athmot>20,1797</athmot>
     <hustota>0,0008999</hustota>
@@ -115,9 +115,9 @@
     <state>g</state>
   </element>
   <element>
-    <protcislo>86</protcislo>
+    <anumber>86</anumber>
     <name_cs_CZ>Radon</name_cs_CZ>
-    <znacka>Rn</znacka>
+    <symbol>Rn</symbol>
     <name_Latin>Radon</name_Latin>
     <athmot>222,0176</athmot>
     <oxid>2</oxid>
@@ -143,9 +143,9 @@
     <state>g</state>
   </element>
   <element>
-    <protcislo>54</protcislo>
+    <anumber>54</anumber>
     <name_cs_CZ>Xenon</name_cs_CZ>
-    <znacka>Xe</znacka>
+    <symbol>Xe</symbol>
     <name_Latin>Xenon</name_Latin>
     <athmot>131,29</athmot>
     <oxid>2,4,6,8</oxid>

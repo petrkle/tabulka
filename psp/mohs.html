@@ -1,72 +1,62 @@
-[% USE Filter.MinifyHTML( comments => 1) -%]
-[% FILTER minify_html -%]
-[% title = "Mohsova stupnice" %]
-
 [% INCLUDE header.html %]
-[% USE date %]
 
 <table id="mohs" cellspacing="0" cellpadding="0">
 	
 <tr>
-		<th class="vnitrnibunka">Tvrdost</th>
-		<th class="pravyokraj">Látka</th>
+		<th class="vnitrnibunka">[% l('Hardness') %]</th>
+		<th class="pravyokraj">[% l('Substance') %]</th>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">1</td>
-	<td class="pravyokraj">mastek</td>
+	<td class="pravyokraj">[% l('Talc') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">2</td>
-	<td class="pravyokraj">sůl&nbsp;kamenná</td>
+	<td class="pravyokraj">[% l('Rock salt') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">3</td>
-	<td class="pravyokraj">kalcit&nbsp;(vápenec)</td>
+	<td class="pravyokraj">[% l('Limestone') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">4</td>
-	<td class="pravyokraj">fluorit&nbsp;(kazivec)</td>
+	<td class="pravyokraj">[% l('Fluorspar') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">5</td>
-	<td class="pravyokraj">apatit</td>
+	<td class="pravyokraj">[% l('Apatite') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">6</td>
-	<td class="pravyokraj">živec&nbsp;(ortoklas)</td>
+	<td class="pravyokraj">[% l('Feldspar') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">7</td>
-	<td class="pravyokraj">křemen</td>
+	<td class="pravyokraj">[% l('Quartz') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">8</td>
-	<td class="pravyokraj">topaz</td>
+	<td class="pravyokraj">[% l('Topaz') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">9</td>
-	<td class="pravyokraj">korund</td>
+	<td class="pravyokraj">[% l('Corundum') %]</td>
 </tr>
 
 <tr>
 	<td class="vnitrnibunka">10</td>
-	<td class="pravyokraj">diamant</td>
+	<td class="pravyokraj">[% l('Diamond') %]</td>
 </tr>
 
 </table>
 
-<p>
-Materiálem s vyšším číslem lze udělat vryp do materiálu s číslem nižším. Určení tvrdosti podle Mohsovy stupnice tvrdosti se provádí vrypem do zkoušeného materiálu.
-</p>
-
 [% INCLUDE footer.html -%]
-[% END -%]

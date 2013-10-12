@@ -10,7 +10,7 @@
 	[% IF period == per.number %]
 		[% FOREACH foo IN elements %]
 		[% IF foo.period == period %]
-		<li><a href="[% foo.name_Latin FILTER lower %].html" class="element"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.znacka %]</span></a></li>
+		<li><a href="[% foo.name_Latin FILTER lower %].html" class="element"><span class="nazevprvku">[% foo.${elementname} %]</span><span class="znackaprvku">[% foo.symbol %]</span></a></li>
 		[% END %]
 		[% END %]
 	[% END %]

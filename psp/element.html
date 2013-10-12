@@ -1,14 +1,14 @@
 [% title = element.${elementname} -%]
-[% titlelink="index.html#${element.protcislo}" -%]
+[% titlelink="index.html#${element.anumber}" -%]
 [% INCLUDE header.html %]
 
 <table id="atom" cellspacing="0" cellpadding="0">
-	<tr><th>[% l('Symbol') %]</th><td><div>[% element.znacka %]</div></td></tr> 
+	<tr><th>[% l('Symbol') %]</th><td><div>[% element.symbol %]</div></td></tr> 
 	<tr><th>[% l('Latin name') %]</th><td><a href="index-ln.html#[% element.name_Latin %]">[% element.name_Latin %]</a></td></tr> 
-	<tr><th>[% l('Atomic number') %]</th><td><a href="index-pc.html#[% element.protcislo %]">[% element.protcislo %]</a></td></tr> 
+	<tr><th>[% l('Atomic number') %]</th><td><a href="index-an.html#[% element.anumber %]">[% element.anumber %]</a></td></tr> 
 	<tr><th>[% l('Period') %]</th><td><a href="p[% element.period %].html">[% element.period %]</a></td></tr> 
 	<tr><th>[% l('Element category') %]</th><td><a href="[% cur %].html">[% l(cur_l) %]</a></td></tr> 
-	<tr><th>[% l('Relative atomic mass') %]</th><td><a href="index-ah.html#[% element.protcislo %]">[% element.athmot %]</a></td></tr> 
+	<tr><th>[% l('Relative atomic mass') %]</th><td><a href="index-ah.html#[% element.anumber %]">[% element.athmot %]</a></td></tr> 
 	<tr><th>[% l('Group') %]</th><td><a href="[% element.skupina FILTER remove ('\.') FILTER lower %].html">[% element.skupina %]</a></td></tr> 
 [% IF element.pe -%]
 	<tr><th>[% l('Electronegativity') %]</th><td><div>[% element.pe %]</div></td></tr>

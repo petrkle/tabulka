@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elements>
   <element>
-    <protcislo>56</protcislo>
+    <anumber>56</anumber>
     <name_cs_CZ>Baryum</name_cs_CZ>
-    <znacka>Ba</znacka>
+    <symbol>Ba</symbol>
     <name_Latin>Baryum</name_Latin>
     <athmot>137,327</athmot>
     <oxid>2</oxid>
@@ -31,9 +31,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>88</protcislo>
+    <anumber>88</anumber>
     <name_cs_CZ>Radium</name_cs_CZ>
-    <znacka>Ra</znacka>
+    <symbol>Ra</symbol>
     <name_Latin>Radium</name_Latin>
     <athmot>226,0254</athmot>
     <oxid>2</oxid>
@@ -58,9 +58,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>38</protcislo>
+    <anumber>38</anumber>
     <name_cs_CZ>Stroncium</name_cs_CZ>
-    <znacka>Sr</znacka>
+    <symbol>Sr</symbol>
     <name_Latin>Strontium</name_Latin>
     <athmot>87,62</athmot>
     <oxid>2</oxid>
@@ -89,9 +89,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>20</protcislo>
+    <anumber>20</anumber>
     <name_cs_CZ>Vápník</name_cs_CZ>
-    <znacka>Ca</znacka>
+    <symbol>Ca</symbol>
     <name_Latin>Calcium</name_Latin>
     <athmot>40,078</athmot>
     <oxid>2</oxid>

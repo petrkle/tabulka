@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elements>
   <element>
-    <protcislo>55</protcislo>
+    <anumber>55</anumber>
     <name_cs_CZ>Cesium</name_cs_CZ>
-    <znacka>Cs</znacka>
+    <symbol>Cs</symbol>
     <name_Latin>Caesium</name_Latin>
     <athmot>132,90543</athmot>
     <oxid>1</oxid>
@@ -34,9 +34,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>19</protcislo>
+    <anumber>19</anumber>
     <name_cs_CZ>Draslík</name_cs_CZ>
-    <znacka>K</znacka>
+    <symbol>K</symbol>
     <name_Latin>Kalium</name_Latin>
     <athmot>39,0983</athmot>
     <oxid>1</oxid>
@@ -68,9 +68,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>87</protcislo>
+    <anumber>87</anumber>
     <name_cs_CZ>Francium</name_cs_CZ>
-    <znacka>Fr</znacka>
+    <symbol>Fr</symbol>
     <name_Latin>Francium</name_Latin>
     <athmot>223,019</athmot>
     <oxid>1</oxid>
@@ -90,9 +90,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>3</protcislo>
+    <anumber>3</anumber>
     <name_cs_CZ>Lithium</name_cs_CZ>
-    <znacka>Li</znacka>
+    <symbol>Li</symbol>
     <name_Latin>Lithium</name_Latin>
     <athmot>6,941</athmot>
     <oxid>1</oxid>
@@ -122,9 +122,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>37</protcislo>
+    <anumber>37</anumber>
     <name_cs_CZ>Rubidium</name_cs_CZ>
-    <znacka>Rb</znacka>
+    <symbol>Rb</symbol>
     <name_Latin>Rubidium</name_Latin>
     <athmot>85,4678</athmot>
     <oxid>1</oxid>
@@ -157,9 +157,9 @@
     <state>s</state>
   </element>
   <element>
-    <protcislo>11</protcislo>
+    <anumber>11</anumber>
     <name_cs_CZ>Sodík</name_cs_CZ>
-    <znacka>Na</znacka>
+    <symbol>Na</symbol>
     <name_Latin>Natrium</name_Latin>
     <athmot>22,98768</athmot>
     <oxid>1</oxid>

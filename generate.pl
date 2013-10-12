@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 use utf8;
+use locale;
 use Template;
 use Template::Stash;
 use XML::Simple;
@@ -10,7 +11,6 @@ use File::Copy;
 use File::Basename;
 use Locale::TextDomain ( 'ptable' ,  './locale/' );
 use POSIX qw (setlocale LC_ALL LC_COLLATE);
-use locale;
 use Locale::Messages qw (nl_putenv);
 use Encode;
 Locale::Messages->select_package ('gettext_pp');
@@ -91,9 +91,9 @@ foreach my $lang (@langs){
 	}
 
 	my @sortedbyname = sort {$a->{"name_$lang"} cmp $b->{"name_$lang"}} @elements;
-	my @sortedbyprotcislo = sort {$a->{protcislo} <=> $b->{protcislo}} @elements;
+	my @sortedbyprotcislo = sort {$a->{anumber} <=> $b->{anumber}} @elements;
 	my @sortedbyln = sort {$a->{name_Latin} cmp $b->{name_Latin}} @elements;
-	my @sortedbyzn = sort {$a->{znacka} cmp $b->{znacka}} @elements;
+	my @sortedbyzn = sort {$a->{symbol} cmp $b->{symbol}} @elements;
 	my @sortedbyah = sort {$a->{athmot} =~ s/,/./r <=> $b->{athmot} =~ s/,/./r} @elements;
 
 	for my $group (@{$groups->{group}}){
@@ -119,12 +119,12 @@ foreach my $lang (@langs){
 		"$OUT/$lang/index.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	$t->process('index-pc.html',
+	$t->process('index-an.html',
 		{ 'elements' => [@sortedbyprotcislo],
 			'title' => 'Atomic number',
 		  'elementname' => "name_$lang",
 		},
-		"$OUT/$lang/index-pc.html",
+		"$OUT/$lang/index-an.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-ln.html',
@@ -194,7 +194,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('mohs.html',
-		{	'title' => $locappname,
+		{	'title' => 'Mohs scale',
 		},
 		"$OUT/$lang/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
