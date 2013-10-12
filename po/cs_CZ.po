@@ -23,6 +23,9 @@ msgstr "Chemická tabulka"
 msgid "Settings"
 msgstr "Nastavení"
 
+msgid "Language"
+msgstr "Jazyk"
+
 msgid "About"
 msgstr "O programu"
 

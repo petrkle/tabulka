@@ -199,10 +199,10 @@ foreach my $lang (@langs){
 		"$OUT/$lang/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	$t->process('settings.html',
-		{	'title' => $locappname,
+	$t->process('language.html',
+		{	'title' => 'Language',
 		},
-		"$OUT/$lang/settings.html",
+		"$OUT/$lang/language.html",
 		{ binmode => ':utf8' }) or die $t->error;
 }
 

@@ -29,6 +29,9 @@ h1{background:#fd3 url("tabulka.png") no-repeat 0 50%;padding-left:60px;white-sp
 #mohs{width:100%;}
 #mohs th{padding:1.5em 1em;text-align:center;}
 #mohs td{padding:1.5em 1em;}
+#menubot{width:100%;}
+#menubot td{padding:0;text-align:center;width:50%;}
+#menubot .lscell a,#menubot .rscell a{display:block;padding:1em;}
 .lscell{border-bottom:1px solid #aaa;border-right:1px solid #aaa;}
 .rscell{border-bottom:1px solid #aaa;border-right:0;}
 p{padding:1em;margin:0;text-align:center;}
