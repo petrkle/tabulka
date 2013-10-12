@@ -7,29 +7,29 @@
     <name_Latin>Stibium</name_Latin>
     <athmot>121,75</athmot>
     <oxid>-3,3,5</oxid>
-    <pe>1,9</pe>
-    <hustota>7,29</hustota>
-    <si>2</si>
-    <ni>27</ni>
-    <tt>630,74</tt>
-    <tv>1750</tv>
+    <electronegativity>1,9</electronegativity>
+    <density>7,29</density>
+    <stbisot>2</stbisot>
+    <unstisot>27</unstisot>
+    <mpoint>630,74</mpoint>
+    <bpoint>1750</bpoint>
     <discovery>1450</discovery>
-    <tvrdost>3-3,5</tvrdost>
+    <hardness>3-3,5</hardness>
     <name_en_US>Antimony</name_en_US>
-    <name_de>Antimon</name_de>
-    <frnazev>Antimoine</frnazev>
+    <name_de_DE>Antimon</name_de_DE>
+    <name_fr_FR>Antimoine</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;3&lt;/sup&gt;</elconf>
-    <tkapacita>0,207</tkapacita>
-    <tvodivost>24,3</tvodivost>
-    <atomovypolomer>133</atomovypolomer>
-    <kovalentnipolomer>138</kovalentnipolomer>
-    <modulpruznostitah>55</modulpruznostitah>
-    <modulpruznostismyk>20</modulpruznostismyk>
-    <ionizacnipotencial1>8,64</ionizacnipotencial1>
-    <ionizacnipotencial2>16,53</ionizacnipotencial2>
-    <ionizacnipotencial3>25,3</ionizacnipotencial3>
-    <elektrickavodivost>2,5.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
-    <tvrdostbrinell>294</tvrdostbrinell>
+    <heatcap>0,207</heatcap>
+    <thcond>24,3</thcond>
+    <atomicradius>133</atomicradius>
+    <covalentradius>138</covalentradius>
+    <young>55</young>
+    <shear>20</shear>
+    <ionizationenergy1>8,64</ionizationenergy1>
+    <ionizationenergy2>16,53</ionizationenergy2>
+    <ionizationenergy3>25,3</ionizationenergy3>
+    <elcond>2,5.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <brinell>294</brinell>
     <period>5</period>
     <group>V.A</group>
     <state>s</state>
@@ -41,28 +41,28 @@
     <name_Latin>Arsenicum</name_Latin>
     <athmot>74,92159</athmot>
     <oxid>-3,3,5</oxid>
-    <pe>2,0</pe>
-    <hustota>4,7</hustota>
-    <si>1</si>
-    <ni>13</ni>
-    <tt>817</tt>
-    <tv>613</tv>
+    <electronegativity>2,0</electronegativity>
+    <density>4,7</density>
+    <stbisot>1</stbisot>
+    <unstisot>13</unstisot>
+    <mpoint>817</mpoint>
+    <bpoint>613</bpoint>
     <discovery>1250</discovery>
-    <tvrdost>3,5</tvrdost>
+    <hardness>3,5</hardness>
     <name_en_US>Arsenic</name_en_US>
-    <name_de>Arsen</name_de>
-    <frnazev>Arsenic</frnazev>
+    <name_de_DE>Arsen</name_de_DE>
+    <name_fr_FR>Arsenic</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;3&lt;/sup&gt;</elconf>
-    <tkapacita>0,33</tkapacita>
-    <tvodivost>50</tvodivost>
-    <atomovypolomer>114</atomovypolomer>
-    <kovalentnipolomer>119</kovalentnipolomer>
-    <modulpruznostitah>8</modulpruznostitah>
-    <ionizacnipotencial1>9,8152</ionizacnipotencial1>
-    <ionizacnipotencial2>18,633</ionizacnipotencial2>
-    <ionizacnipotencial3>28,351</ionizacnipotencial3>
-    <elektrickavodivost>3,3.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
-    <tvrdostbrinell>1440</tvrdostbrinell>
+    <heatcap>0,33</heatcap>
+    <thcond>50</thcond>
+    <atomicradius>114</atomicradius>
+    <covalentradius>119</covalentradius>
+    <young>8</young>
+    <ionizationenergy1>9,8152</ionizationenergy1>
+    <ionizationenergy2>18,633</ionizationenergy2>
+    <ionizationenergy3>28,351</ionizationenergy3>
+    <elcond>3,3.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <brinell>1440</brinell>
     <period>4</period>
     <group>V.A</group>
     <state>s</state>
@@ -74,19 +74,19 @@
     <name_Latin>Astatum</name_Latin>
     <athmot>209,9871</athmot>
     <oxid>-1,1,3,5,7</oxid>
-    <pe>2,2</pe>
-    <si>0</si>
-    <ni>21</ni>
-    <tt>302</tt>
-    <tv>330</tv>
+    <electronegativity>2,2</electronegativity>
+    <stbisot>0</stbisot>
+    <unstisot>21</unstisot>
+    <mpoint>302</mpoint>
+    <bpoint>330</bpoint>
     <discovery>1940</discovery>
     <name_en_US>Astatine</name_en_US>
-    <name_de>Astat</name_de>
-    <frnazev>Astate</frnazev>
+    <name_de_DE>Astat</name_de_DE>
+    <name_fr_FR>Astate</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <tvodivost>1,7</tvodivost>
-    <atomovypolomer>127</atomovypolomer>
-    <ionizacnipotencial1>9,5</ionizacnipotencial1>
+    <thcond>1,7</thcond>
+    <atomicradius>127</atomicradius>
+    <ionizationenergy1>9,5</ionizationenergy1>
     <period>6</period>
     <group>VII.A</group>
     <state>s</state>
@@ -98,27 +98,27 @@
     <name_Latin>Borum</name_Latin>
     <athmot>10,811</athmot>
     <oxid>3</oxid>
-    <pe>2,0</pe>
-    <hustota>2,34</hustota>
-    <si>2</si>
-    <ni>4</ni>
-    <tt>2300</tt>
-    <tv>2550</tv>
+    <electronegativity>2,0</electronegativity>
+    <density>2,34</density>
+    <stbisot>2</stbisot>
+    <unstisot>4</unstisot>
+    <mpoint>2300</mpoint>
+    <bpoint>2550</bpoint>
     <discovery>1808</discovery>
-    <tvrdost>9,3</tvrdost>
+    <hardness>9,3</hardness>
     <name_en_US>Boron</name_en_US>
-    <name_de>Bor</name_de>
-    <frnazev>Bore</frnazev>
+    <name_de_DE>Bor</name_de_DE>
+    <name_fr_FR>Bore</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <tkapacita>1,026</tkapacita>
-    <tvodivost>27</tvodivost>
-    <atomovypolomer>87</atomovypolomer>
-    <kovalentnipolomer>82</kovalentnipolomer>
-    <ionizacnipotencial1>8,298</ionizacnipotencial1>
-    <ionizacnipotencial2>25,154</ionizacnipotencial2>
-    <ionizacnipotencial3>37,93</ionizacnipotencial3>
-    <elektrickavodivost>5.10&lt;sup&gt;-6&lt;/sup&gt;</elektrickavodivost>
-    <tvrdostvickers>4,9.10&lt;sup&gt;4&lt;/sup&gt;</tvrdostvickers>
+    <heatcap>1,026</heatcap>
+    <thcond>27</thcond>
+    <atomicradius>87</atomicradius>
+    <covalentradius>82</covalentradius>
+    <ionizationenergy1>8,298</ionizationenergy1>
+    <ionizationenergy2>25,154</ionizationenergy2>
+    <ionizationenergy3>37,93</ionizationenergy3>
+    <elcond>5.10&lt;sup&gt;-6&lt;/sup&gt;</elcond>
+    <vickers>4,9.10&lt;sup&gt;4&lt;/sup&gt;</vickers>
     <period>2</period>
     <group>III.A</group>
     <state>s</state>
@@ -130,24 +130,24 @@
     <name_Latin>Germanium</name_Latin>
     <athmot>72,61</athmot>
     <oxid>2,4</oxid>
-    <pe>1,8</pe>
-    <hustota>5,32</hustota>
-    <si>2</si>
-    <ni>11</ni>
-    <tt>937,4</tt>
-    <tv>2830</tv>
+    <electronegativity>1,8</electronegativity>
+    <density>5,32</density>
+    <stbisot>2</stbisot>
+    <unstisot>11</unstisot>
+    <mpoint>937,4</mpoint>
+    <bpoint>2830</bpoint>
     <discovery>1885</discovery>
-    <tvrdost>6,25</tvrdost>
+    <hardness>6,25</hardness>
     <name_en_US>Germanium</name_en_US>
-    <name_de>Germanium</name_de>
-    <frnazev>Germanium</frnazev>
+    <name_de_DE>Germanium</name_de_DE>
+    <name_fr_FR>Germanium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <tkapacita>0,32</tkapacita>
-    <tvodivost>59,9</tvodivost>
-    <ionizacnipotencial1>7,9</ionizacnipotencial1>
-    <ionizacnipotencial2>15,934</ionizacnipotencial2>
-    <ionizacnipotencial3>34,22</ionizacnipotencial3>
-    <elektrickavodivost>2.10&lt;sup&gt;3&lt;/sup&gt;</elektrickavodivost>
+    <heatcap>0,32</heatcap>
+    <thcond>59,9</thcond>
+    <ionizationenergy1>7,9</ionizationenergy1>
+    <ionizationenergy2>15,934</ionizationenergy2>
+    <ionizationenergy3>34,22</ionizationenergy3>
+    <elcond>2.10&lt;sup&gt;3&lt;/sup&gt;</elcond>
     <period>4</period>
     <group>IV.A</group>
     <state>s</state>
@@ -159,27 +159,27 @@
     <name_Latin>Silicium</name_Latin>
     <athmot>28,0855</athmot>
     <oxid>-4,4</oxid>
-    <pe>1,8</pe>
-    <hustota>2,332</hustota>
-    <si>3</si>
-    <ni>5</ni>
-    <tt>1410</tt>
-    <tv>2355</tv>
+    <electronegativity>1,8</electronegativity>
+    <density>2,332</density>
+    <stbisot>3</stbisot>
+    <unstisot>5</unstisot>
+    <mpoint>1410</mpoint>
+    <bpoint>2355</bpoint>
     <discovery>1824</discovery>
-    <tvrdost>7,0</tvrdost>
+    <hardness>7,0</hardness>
     <name_en_US>Silicon</name_en_US>
-    <name_de>Silicium</name_de>
-    <frnazev>Silicium</frnazev>
+    <name_de_DE>Silicium</name_de_DE>
+    <name_fr_FR>Silicium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <tkapacita>0,70</tkapacita>
-    <tvodivost>148</tvodivost>
-    <atomovypolomer>111</atomovypolomer>
-    <kovalentnipolomer>111</kovalentnipolomer>
-    <modulpruznostitah>47</modulpruznostitah>
-    <ionizacnipotencial1>8,1517</ionizacnipotencial1>
-    <ionizacnipotencial2>16,345</ionizacnipotencial2>
-    <ionizacnipotencial3>33,492</ionizacnipotencial3>
-    <elektrickavodivost>4.10&lt;sup&gt;2&lt;/sup&gt;</elektrickavodivost>
+    <heatcap>0,70</heatcap>
+    <thcond>148</thcond>
+    <atomicradius>111</atomicradius>
+    <covalentradius>111</covalentradius>
+    <young>47</young>
+    <ionizationenergy1>8,1517</ionizationenergy1>
+    <ionizationenergy2>16,345</ionizationenergy2>
+    <ionizationenergy3>33,492</ionizationenergy3>
+    <elcond>4.10&lt;sup&gt;2&lt;/sup&gt;</elcond>
     <period>3</period>
     <group>IV.A</group>
     <state>s</state>
@@ -191,29 +191,29 @@
     <name_Latin>Tellurium</name_Latin>
     <athmot>127,60</athmot>
     <oxid>-2,2,4,6</oxid>
-    <pe>2,1</pe>
-    <hustota>6,25</hustota>
-    <si>8</si>
-    <ni>22</ni>
-    <tt>449,5</tt>
-    <tv>1100</tv>
+    <electronegativity>2,1</electronegativity>
+    <density>6,25</density>
+    <stbisot>8</stbisot>
+    <unstisot>22</unstisot>
+    <mpoint>449,5</mpoint>
+    <bpoint>1100</bpoint>
     <discovery>1782</discovery>
-    <tvrdost>2,3</tvrdost>
+    <hardness>2,3</hardness>
     <name_en_US>Tellurium</name_en_US>
-    <name_de>Tellur</name_de>
-    <frnazev>Tellure</frnazev>
+    <name_de_DE>Tellur</name_de_DE>
+    <name_fr_FR>Tellure</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;4&lt;/sup&gt;</elconf>
-    <tkapacita>0,202</tkapacita>
-    <tvodivost>2,35</tvodivost>
-    <atomovypolomer>123</atomovypolomer>
-    <kovalentnipolomer>135</kovalentnipolomer>
-    <modulpruznostitah>43</modulpruznostitah>
-    <modulpruznostismyk>16</modulpruznostismyk>
-    <ionizacnipotencial1>9,0096</ionizacnipotencial1>
-    <ionizacnipotencial2>18,6</ionizacnipotencial2>
-    <ionizacnipotencial3>27,96</ionizacnipotencial3>
-    <elektrickavodivost>1.10&lt;sup&gt;4&lt;/sup&gt;</elektrickavodivost>
-    <tvrdostbrinell>180</tvrdostbrinell>
+    <heatcap>0,202</heatcap>
+    <thcond>2,35</thcond>
+    <atomicradius>123</atomicradius>
+    <covalentradius>135</covalentradius>
+    <young>43</young>
+    <shear>16</shear>
+    <ionizationenergy1>9,0096</ionizationenergy1>
+    <ionizationenergy2>18,6</ionizationenergy2>
+    <ionizationenergy3>27,96</ionizationenergy3>
+    <elcond>1.10&lt;sup&gt;4&lt;/sup&gt;</elcond>
+    <brinell>180</brinell>
     <period>5</period>
     <group>VI.A</group>
     <state>s</state>

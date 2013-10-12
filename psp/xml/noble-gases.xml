@@ -6,25 +6,25 @@
     <symbol>Ar</symbol>
     <name_Latin>Argon</name_Latin>
     <athmot>39,948</athmot>
-    <hustota>0,0017838</hustota>
-    <si>3</si>
-    <ni>5</ni>
-    <tt>-189,4</tt>
-    <tv>-185,87</tv>
+    <density>0,0017838</density>
+    <stbisot>3</stbisot>
+    <unstisot>5</unstisot>
+    <mpoint>-189,4</mpoint>
+    <bpoint>-185,87</bpoint>
     <discovery>1894</discovery>
     <name_en_US>Argon</name_en_US>
-    <name_de>Argon</name_de>
-    <frnazev>Argon</frnazev>
+    <name_de_DE>Argon</name_de_DE>
+    <name_fr_FR>Argon</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt;</elconf>
-    <tkapacita>0,52</tkapacita>
-    <tvodivost>0,0177</tvodivost>
-    <kritickateplota>-86,28</kritickateplota>
-    <kritickytlak>4,988</kritickytlak>
-    <atomovypolomer>71</atomovypolomer>
-    <kovalentnipolomer>97</kovalentnipolomer>
-    <ionizacnipotencial1>15,7596</ionizacnipotencial1>
-    <ionizacnipotencial2>27,629</ionizacnipotencial2>
-    <ionizacnipotencial3>40,74</ionizacnipotencial3>
+    <heatcap>0,52</heatcap>
+    <thcond>0,0177</thcond>
+    <criticalpoint>-86,28</criticalpoint>
+    <criticalpress>4,988</criticalpress>
+    <atomicradius>71</atomicradius>
+    <covalentradius>97</covalentradius>
+    <ionizationenergy1>15,7596</ionizationenergy1>
+    <ionizationenergy2>27,629</ionizationenergy2>
+    <ionizationenergy3>40,74</ionizationenergy3>
     <period>3</period>
     <group>VIII.A</group>
     <state>g</state>
@@ -35,22 +35,22 @@
     <symbol>He</symbol>
     <name_Latin>Helium</name_Latin>
     <athmot>4,002602</athmot>
-    <hustota>0,0001785</hustota>
-    <si>2</si>
-    <ni>2</ni>
-    <tt>-272,12</tt>
-    <tv>-266,934</tv>
+    <density>0,0001785</density>
+    <stbisot>2</stbisot>
+    <unstisot>2</unstisot>
+    <mpoint>-272,12</mpoint>
+    <bpoint>-266,934</bpoint>
     <discovery>1868</discovery>
     <name_en_US>Helium</name_en_US>
-    <name_de>Helium</name_de>
-    <frnazev>Hélium</frnazev>
+    <name_de_DE>Helium</name_de_DE>
+    <name_fr_FR>Hélium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <tkapacita>5,193</tkapacita>
-    <tvodivost>0,152</tvodivost>
-    <kritickateplota>-267,96</kritickateplota>
-    <kritickytlak>0,227</kritickytlak>
-    <atomovypolomer>31</atomovypolomer>
-    <kovalentnipolomer>32</kovalentnipolomer>
+    <heatcap>5,193</heatcap>
+    <thcond>0,152</thcond>
+    <criticalpoint>-267,96</criticalpoint>
+    <criticalpress>0,227</criticalpress>
+    <atomicradius>31</atomicradius>
+    <covalentradius>32</covalentradius>
     <period>1</period>
     <group>VIII.A</group>
     <state>g</state>
@@ -62,25 +62,25 @@
     <name_Latin>Krypton</name_Latin>
     <athmot>83,8</athmot>
     <oxid>2,4</oxid>
-    <hustota>0,0037493</hustota>
-    <si>6</si>
-    <ni>17</ni>
-    <tt>-157,10</tt>
-    <tv>-152,30</tv>
+    <density>0,0037493</density>
+    <stbisot>6</stbisot>
+    <unstisot>17</unstisot>
+    <mpoint>-157,10</mpoint>
+    <bpoint>-152,30</bpoint>
     <discovery>1898</discovery>
     <name_en_US>Krypton</name_en_US>
-    <name_de>Krypton</name_de>
-    <frnazev>Krypton</frnazev>
+    <name_de_DE>Krypton</name_de_DE>
+    <name_fr_FR>Krypton</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt;</elconf>
-    <tkapacita>0,248</tkapacita>
-    <tvodivost>0,00949</tvodivost>
-    <kritickateplota>-63,74</kritickateplota>
-    <kritickytlak>5,5</kritickytlak>
-    <atomovypolomer>88</atomovypolomer>
-    <kovalentnipolomer>110</kovalentnipolomer>
-    <ionizacnipotencial1>13,9996</ionizacnipotencial1>
-    <ionizacnipotencial2>24,359</ionizacnipotencial2>
-    <ionizacnipotencial3>36,95</ionizacnipotencial3>
+    <heatcap>0,248</heatcap>
+    <thcond>0,00949</thcond>
+    <criticalpoint>-63,74</criticalpoint>
+    <criticalpress>5,5</criticalpress>
+    <atomicradius>88</atomicradius>
+    <covalentradius>110</covalentradius>
+    <ionizationenergy1>13,9996</ionizationenergy1>
+    <ionizationenergy2>24,359</ionizationenergy2>
+    <ionizationenergy3>36,95</ionizationenergy3>
     <period>4</period>
     <group>VIII.A</group>
     <state>g</state>
@@ -91,25 +91,25 @@
     <symbol>Ne</symbol>
     <name_Latin>Neon</name_Latin>
     <athmot>20,1797</athmot>
-    <hustota>0,0008999</hustota>
-    <si>3</si>
-    <ni>5</ni>
-    <tt>-248,67</tt>
-    <tv>-246,048</tv>
+    <density>0,0008999</density>
+    <stbisot>3</stbisot>
+    <unstisot>5</unstisot>
+    <mpoint>-248,67</mpoint>
+    <bpoint>-246,048</bpoint>
     <discovery>1898</discovery>
     <name_en_US>Neon</name_en_US>
-    <name_de>Neon</name_de>
-    <frnazev>Néon</frnazev>
+    <name_de_DE>Neon</name_de_DE>
+    <name_fr_FR>Néon</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt;</elconf>
-    <tkapacita>1,03</tkapacita>
-    <tvodivost>0,0493</tvodivost>
-    <kritickateplota>-228,75</kritickateplota>
-    <kritickytlak>2,76</kritickytlak>
-    <atomovypolomer>38</atomovypolomer>
-    <kovalentnipolomer>69</kovalentnipolomer>
-    <ionizacnipotencial1>21,5645</ionizacnipotencial1>
-    <ionizacnipotencial2>40,962</ionizacnipotencial2>
-    <ionizacnipotencial3>63,45</ionizacnipotencial3>
+    <heatcap>1,03</heatcap>
+    <thcond>0,0493</thcond>
+    <criticalpoint>-228,75</criticalpoint>
+    <criticalpress>2,76</criticalpress>
+    <atomicradius>38</atomicradius>
+    <covalentradius>69</covalentradius>
+    <ionizationenergy1>21,5645</ionizationenergy1>
+    <ionizationenergy2>40,962</ionizationenergy2>
+    <ionizationenergy3>63,45</ionizationenergy3>
     <period>2</period>
     <group>VIII.A</group>
     <state>g</state>
@@ -121,23 +121,23 @@
     <name_Latin>Radon</name_Latin>
     <athmot>222,0176</athmot>
     <oxid>2</oxid>
-    <hustota>0,00919</hustota>
-    <si>0</si>
-    <ni>20</ni>
-    <tt>-71</tt>
-    <tv>-61,8</tv>
+    <density>0,00919</density>
+    <stbisot>0</stbisot>
+    <unstisot>20</unstisot>
+    <mpoint>-71</mpoint>
+    <bpoint>-61,8</bpoint>
     <discovery>1900</discovery>
     <name_en_US>Radon</name_en_US>
-    <name_de>Radon</name_de>
-    <frnazev>Radon</frnazev>
+    <name_de_DE>Radon</name_de_DE>
+    <name_fr_FR>Radon</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt;</elconf>
-    <tkapacita>0,094</tkapacita>
-    <tvodivost>0,00364</tvodivost>
-    <kritickateplota>104</kritickateplota>
-    <kritickytlak>6,28</kritickytlak>
-    <atomovypolomer>120</atomovypolomer>
-    <kovalentnipolomer>145</kovalentnipolomer>
-    <ionizacnipotencial1>10,7485</ionizacnipotencial1>
+    <heatcap>0,094</heatcap>
+    <thcond>0,00364</thcond>
+    <criticalpoint>104</criticalpoint>
+    <criticalpress>6,28</criticalpress>
+    <atomicradius>120</atomicradius>
+    <covalentradius>145</covalentradius>
+    <ionizationenergy1>10,7485</ionizationenergy1>
     <period>6</period>
     <group>VIII.A</group>
     <state>g</state>
@@ -149,25 +149,25 @@
     <name_Latin>Xenon</name_Latin>
     <athmot>131,29</athmot>
     <oxid>2,4,6,8</oxid>
-    <hustota>0,0058671</hustota>
-    <si>2</si>
-    <ni>22</ni>
-    <tt>-111,82</tt>
-    <tv>-108,12</tv>
+    <density>0,0058671</density>
+    <stbisot>2</stbisot>
+    <unstisot>22</unstisot>
+    <mpoint>-111,82</mpoint>
+    <bpoint>-108,12</bpoint>
     <discovery>1898</discovery>
     <name_en_US>Xenon</name_en_US>
-    <name_de>Xenon</name_de>
-    <frnazev>Xénon</frnazev>
+    <name_de_DE>Xenon</name_de_DE>
+    <name_fr_FR>Xénon</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt;</elconf>
-    <tkapacita>0,158</tkapacita>
-    <tvodivost>0,00569</tvodivost>
-    <kritickateplota>16,62</kritickateplota>
-    <kritickytlak>5,841</kritickytlak>
-    <atomovypolomer>108</atomovypolomer>
-    <kovalentnipolomer>130</kovalentnipolomer>
-    <ionizacnipotencial1>12,1299</ionizacnipotencial1>
-    <ionizacnipotencial2>21,21</ionizacnipotencial2>
-    <ionizacnipotencial3>32,1</ionizacnipotencial3>
+    <heatcap>0,158</heatcap>
+    <thcond>0,00569</thcond>
+    <criticalpoint>16,62</criticalpoint>
+    <criticalpress>5,841</criticalpress>
+    <atomicradius>108</atomicradius>
+    <covalentradius>130</covalentradius>
+    <ionizationenergy1>12,1299</ionizationenergy1>
+    <ionizationenergy2>21,21</ionizationenergy2>
+    <ionizationenergy3>32,1</ionizationenergy3>
     <period>5</period>
     <group>VIII.A</group>
     <state>g</state>

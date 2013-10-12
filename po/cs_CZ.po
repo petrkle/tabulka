@@ -229,3 +229,6 @@ msgstr "Diamant"
 
 msgid "Antiquity"
 msgstr "Starověk"
+
+msgid "Heat capacity"
+msgstr "Tepelná kapacita"

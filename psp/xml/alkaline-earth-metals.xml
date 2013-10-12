@@ -7,25 +7,25 @@
     <name_Latin>Baryum</name_Latin>
     <athmot>137,327</athmot>
     <oxid>2</oxid>
-    <pe>0,9</pe>
-    <hustota>3,5</hustota>
-    <si>7</si>
-    <ni>17</ni>
-    <tt>725</tt>
-    <tv>1640</tv>
+    <electronegativity>0,9</electronegativity>
+    <density>3,5</density>
+    <stbisot>7</stbisot>
+    <unstisot>17</unstisot>
+    <mpoint>725</mpoint>
+    <bpoint>1640</bpoint>
     <discovery>1808</discovery>
-    <tvrdost>1,25</tvrdost>
+    <hardness>1,25</hardness>
     <name_en_US>Barium</name_en_US>
-    <name_de>Barium</name_de>
-    <frnazev>Baryum</frnazev>
+    <name_de_DE>Barium</name_de_DE>
+    <name_fr_FR>Baryum</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <tkapacita>0,204</tkapacita>
-    <tvodivost>18,4</tvodivost>
-    <modulpruznostitah>13</modulpruznostitah>
-    <modulpruznostismyk>4,9</modulpruznostismyk>
-    <ionizacnipotencial1>5,2117</ionizacnipotencial1>
-    <ionizacnipotencial2>10,004</ionizacnipotencial2>
-    <elektrickavodivost>2,8.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
+    <heatcap>0,204</heatcap>
+    <thcond>18,4</thcond>
+    <young>13</young>
+    <shear>4,9</shear>
+    <ionizationenergy1>5,2117</ionizationenergy1>
+    <ionizationenergy2>10,004</ionizationenergy2>
+    <elcond>2,8.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <period>6</period>
     <group>II.A</group>
     <state>s</state>
@@ -37,22 +37,22 @@
     <name_Latin>Radium</name_Latin>
     <athmot>226,0254</athmot>
     <oxid>2</oxid>
-    <pe>0,9</pe>
-    <hustota>5,5</hustota>
-    <si>0</si>
-    <ni>16</ni>
-    <tt>700</tt>
-    <tv>1140</tv>
+    <electronegativity>0,9</electronegativity>
+    <density>5,5</density>
+    <stbisot>0</stbisot>
+    <unstisot>16</unstisot>
+    <mpoint>700</mpoint>
+    <bpoint>1140</bpoint>
     <discovery>1898</discovery>
     <name_en_US>Radium</name_en_US>
-    <name_de>Radium</name_de>
-    <frnazev>Radium</frnazev>
+    <name_de_DE>Radium</name_de_DE>
+    <name_fr_FR>Radium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <tkapacita>0,094</tkapacita>
-    <tvodivost>18,6</tvodivost>
-    <ionizacnipotencial1>5,2789</ionizacnipotencial1>
-    <ionizacnipotencial2>10,148</ionizacnipotencial2>
-    <elektrickavodivost>10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
+    <heatcap>0,094</heatcap>
+    <thcond>18,6</thcond>
+    <ionizationenergy1>5,2789</ionizationenergy1>
+    <ionizationenergy2>10,148</ionizationenergy2>
+    <elcond>10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <period>7</period>
     <group>II.A</group>
     <state>s</state>
@@ -64,26 +64,26 @@
     <name_Latin>Strontium</name_Latin>
     <athmot>87,62</athmot>
     <oxid>2</oxid>
-    <pe>1,0</pe>
-    <hustota>2,6</hustota>
-    <si>4</si>
-    <ni>13</ni>
-    <tt>769</tt>
-    <tv>1384</tv>
+    <electronegativity>1,0</electronegativity>
+    <density>2,6</density>
+    <stbisot>4</stbisot>
+    <unstisot>13</unstisot>
+    <mpoint>769</mpoint>
+    <bpoint>1384</bpoint>
     <discovery>1790</discovery>
-    <tvrdost>1,8</tvrdost>
+    <hardness>1,8</hardness>
     <name_en_US>Strontium</name_en_US>
-    <name_de>Strontium</name_de>
-    <frnazev>Strontium</frnazev>
+    <name_de_DE>Strontium</name_de_DE>
+    <name_fr_FR>Strontium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <tkapacita>0,3</tkapacita>
-    <tvodivost>35,3</tvodivost>
-    <atomovypolomer>219</atomovypolomer>
-    <kovalentnipolomer>182</kovalentnipolomer>
-    <ionizacnipotencial1>5,6948</ionizacnipotencial1>
-    <ionizacnipotencial2>11,03</ionizacnipotencial2>
-    <ionizacnipotencial3>43,6</ionizacnipotencial3>
-    <elektrickavodivost>2.10&lt;sup&gt;6&lt;/sup&gt;</elektrickavodivost>
+    <heatcap>0,3</heatcap>
+    <thcond>35,3</thcond>
+    <atomicradius>219</atomicradius>
+    <covalentradius>182</covalentradius>
+    <ionizationenergy1>5,6948</ionizationenergy1>
+    <ionizationenergy2>11,03</ionizationenergy2>
+    <ionizationenergy3>43,6</ionizationenergy3>
+    <elcond>2.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <period>5</period>
     <group>II.A</group>
     <state>s</state>
@@ -95,27 +95,27 @@
     <name_Latin>Calcium</name_Latin>
     <athmot>40,078</athmot>
     <oxid>2</oxid>
-    <pe>1,0</pe>
-    <hustota>1,55</hustota>
-    <si>6</si>
-    <ni>8</ni>
-    <tt>839</tt>
-    <tv>1484</tv>
+    <electronegativity>1,0</electronegativity>
+    <density>1,55</density>
+    <stbisot>6</stbisot>
+    <unstisot>8</unstisot>
+    <mpoint>839</mpoint>
+    <bpoint>1484</bpoint>
     <discovery>1808</discovery>
-    <tvrdost>1,5-2</tvrdost>
+    <hardness>1,5-2</hardness>
     <name_en_US>Calcium</name_en_US>
-    <name_de>Calcium</name_de>
-    <frnazev>Calcium</frnazev>
+    <name_de_DE>Calcium</name_de_DE>
+    <name_fr_FR>Calcium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <tkapacita>0,647</tkapacita>
-    <tvodivost>200</tvodivost>
-    <modulpruznostitah>20</modulpruznostitah>
-    <modulpruznostismyk>7,4</modulpruznostismyk>
-    <ionizacnipotencial1>6,1132</ionizacnipotencial1>
-    <ionizacnipotencial2>11,871</ionizacnipotencial2>
-    <ionizacnipotencial3>50,908</ionizacnipotencial3>
-    <elektrickavodivost>3,13.10&lt;sup&gt;7&lt;/sup&gt;</elektrickavodivost>
-    <tvrdostbrinell>167</tvrdostbrinell>
+    <heatcap>0,647</heatcap>
+    <thcond>200</thcond>
+    <young>20</young>
+    <shear>7,4</shear>
+    <ionizationenergy1>6,1132</ionizationenergy1>
+    <ionizationenergy2>11,871</ionizationenergy2>
+    <ionizationenergy3>50,908</ionizationenergy3>
+    <elcond>3,13.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <brinell>167</brinell>
     <period>4</period>
     <group>II.A</group>
     <state>s</state>

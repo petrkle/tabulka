@@ -7,27 +7,27 @@
     <name_Latin>Bromum</name_Latin>
     <athmot>79,904</athmot>
     <oxid>-1,1,3,5,7</oxid>
-    <pe>2,8</pe>
-    <hustota>3,123</hustota>
-    <si>2</si>
-    <ni>16</ni>
-    <tt>-7,25</tt>
-    <tv>58,78</tv>
+    <electronegativity>2,8</electronegativity>
+    <density>3,123</density>
+    <stbisot>2</stbisot>
+    <unstisot>16</unstisot>
+    <mpoint>-7,25</mpoint>
+    <bpoint>58,78</bpoint>
     <discovery>1826</discovery>
     <name_en_US>Bromine</name_en_US>
-    <name_de>Brom</name_de>
-    <frnazev>Brome</frnazev>
+    <name_de_DE>Brom</name_de_DE>
+    <name_fr_FR>Brome</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <tkapacita>0,226</tkapacita>
-    <tvodivost>0,122</tvodivost>
-    <kritickateplota>315</kritickateplota>
-    <kritickytlak>10,34</kritickytlak>
-    <atomovypolomer>94</atomovypolomer>
-    <kovalentnipolomer>114</kovalentnipolomer>
-    <ionizacnipotencial1>11,8138</ionizacnipotencial1>
-    <ionizacnipotencial2>21,8</ionizacnipotencial2>
-    <ionizacnipotencial3>36,0</ionizacnipotencial3>
-    <elektrickavodivost>1.10&lt;sup&gt;-10&lt;/sup&gt;</elektrickavodivost>
+    <heatcap>0,226</heatcap>
+    <thcond>0,122</thcond>
+    <criticalpoint>315</criticalpoint>
+    <criticalpress>10,34</criticalpress>
+    <atomicradius>94</atomicradius>
+    <covalentradius>114</covalentradius>
+    <ionizationenergy1>11,8138</ionizationenergy1>
+    <ionizationenergy2>21,8</ionizationenergy2>
+    <ionizationenergy3>36,0</ionizationenergy3>
+    <elcond>1.10&lt;sup&gt;-10&lt;/sup&gt;</elcond>
     <period>4</period>
     <group>VII.A</group>
     <state>l</state>
@@ -39,26 +39,26 @@
     <name_Latin>Chlorum</name_Latin>
     <athmot>35,4527</athmot>
     <oxid>-1,1,3,4,5,6,7</oxid>
-    <pe>3,0</pe>
-    <hustota>0,003214</hustota>
-    <si>2</si>
-    <ni>9</ni>
-    <tt>-100,98</tt>
-    <tv>-34,6</tv>
+    <electronegativity>3,0</electronegativity>
+    <density>0,003214</density>
+    <stbisot>2</stbisot>
+    <unstisot>9</unstisot>
+    <mpoint>-100,98</mpoint>
+    <bpoint>-34,6</bpoint>
     <discovery>1774</discovery>
     <name_en_US>Chlorine</name_en_US>
-    <name_de>Chlor</name_de>
-    <frnazev>Chlore</frnazev>
+    <name_de_DE>Chlor</name_de_DE>
+    <name_fr_FR>Chlore</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <tkapacita>0,48</tkapacita>
-    <tvodivost>0,0089</tvodivost>
-    <kritickateplota>143,75</kritickateplota>
-    <kritickytlak>7,991</kritickytlak>
-    <atomovypolomer>42</atomovypolomer>
-    <kovalentnipolomer>71</kovalentnipolomer>
-    <ionizacnipotencial1>12,9676</ionizacnipotencial1>
-    <ionizacnipotencial2>23,81</ionizacnipotencial2>
-    <ionizacnipotencial3>39,611</ionizacnipotencial3>
+    <heatcap>0,48</heatcap>
+    <thcond>0,0089</thcond>
+    <criticalpoint>143,75</criticalpoint>
+    <criticalpress>7,991</criticalpress>
+    <atomicradius>42</atomicradius>
+    <covalentradius>71</covalentradius>
+    <ionizationenergy1>12,9676</ionizationenergy1>
+    <ionizationenergy2>23,81</ionizationenergy2>
+    <ionizationenergy3>39,611</ionizationenergy3>
     <period>3</period>
     <group>VII.A</group>
     <state>g</state>
@@ -70,26 +70,26 @@
     <name_Latin>Fluorum</name_Latin>
     <athmot>18,9984032</athmot>
     <oxid>-1</oxid>
-    <pe>4,0</pe>
-    <hustota>0,001696</hustota>
-    <si>1</si>
-    <ni>5</ni>
-    <tt>-219,62</tt>
-    <tv>-188,14</tv>
+    <electronegativity>4,0</electronegativity>
+    <density>0,001696</density>
+    <stbisot>1</stbisot>
+    <unstisot>5</unstisot>
+    <mpoint>-219,62</mpoint>
+    <bpoint>-188,14</bpoint>
     <discovery>1886</discovery>
     <name_en_US>Fluorine</name_en_US>
-    <name_de>Fluor</name_de>
-    <frnazev>Fluor</frnazev>
+    <name_de_DE>Fluor</name_de_DE>
+    <name_fr_FR>Fluor</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <tkapacita>0,824</tkapacita>
-    <tvodivost>0,0279</tvodivost>
-    <kritickateplota>-129,02</kritickateplota>
-    <kritickytlak>5,172</kritickytlak>
-    <atomovypolomer>42</atomovypolomer>
-    <kovalentnipolomer>71</kovalentnipolomer>
-    <ionizacnipotencial1>17,4228</ionizacnipotencial1>
-    <ionizacnipotencial2>34,97</ionizacnipotencial2>
-    <ionizacnipotencial3>62,707</ionizacnipotencial3>
+    <heatcap>0,824</heatcap>
+    <thcond>0,0279</thcond>
+    <criticalpoint>-129,02</criticalpoint>
+    <criticalpress>5,172</criticalpress>
+    <atomicradius>42</atomicradius>
+    <covalentradius>71</covalentradius>
+    <ionizationenergy1>17,4228</ionizationenergy1>
+    <ionizationenergy2>34,97</ionizationenergy2>
+    <ionizationenergy3>62,707</ionizationenergy3>
     <period>2</period>
     <group>VII.A</group>
     <state>g</state>
@@ -101,27 +101,27 @@
     <name_Latin>Iodium</name_Latin>
     <athmot>126,90447</athmot>
     <oxid>-1,1,3,5,7</oxid>
-    <pe>2,5</pe>
-    <hustota>4,93</hustota>
-    <si>1</si>
-    <ni>23</ni>
-    <tt>113,5</tt>
-    <tv>184,35</tv>
+    <electronegativity>2,5</electronegativity>
+    <density>4,93</density>
+    <stbisot>1</stbisot>
+    <unstisot>23</unstisot>
+    <mpoint>113,5</mpoint>
+    <bpoint>184,35</bpoint>
     <discovery>1811</discovery>
     <name_en_US>Iodine</name_en_US>
-    <name_de>Iod</name_de>
-    <frnazev>Iode</frnazev>
+    <name_de_DE>Iod</name_de_DE>
+    <name_fr_FR>Iode</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <tkapacita>0,145</tkapacita>
-    <tvodivost>0,449</tvodivost>
-    <kritickateplota>546</kritickateplota>
-    <kritickytlak>11,7</kritickytlak>
-    <atomovypolomer>115</atomovypolomer>
-    <kovalentnipolomer>133</kovalentnipolomer>
-    <ionizacnipotencial1>10,4513</ionizacnipotencial1>
-    <ionizacnipotencial2>19,131</ionizacnipotencial2>
-    <ionizacnipotencial3>33,0</ionizacnipotencial3>
-    <elektrickavodivost>1.10&lt;sup&gt;-7&lt;/sup&gt;</elektrickavodivost>
+    <heatcap>0,145</heatcap>
+    <thcond>0,449</thcond>
+    <criticalpoint>546</criticalpoint>
+    <criticalpress>11,7</criticalpress>
+    <atomicradius>115</atomicradius>
+    <covalentradius>133</covalentradius>
+    <ionizationenergy1>10,4513</ionizationenergy1>
+    <ionizationenergy2>19,131</ionizationenergy2>
+    <ionizationenergy3>33,0</ionizationenergy3>
+    <elcond>1.10&lt;sup&gt;-7&lt;/sup&gt;</elcond>
     <period>5</period>
     <group>VII.A</group>
     <state>s</state>

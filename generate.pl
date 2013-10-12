@@ -135,12 +135,12 @@ foreach my $lang (@langs){
 		"$OUT/$lang/index-ln.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	$t->process('index-ah.html',
+	$t->process('index-am.html',
 		{ 'elements' => [@sortedbyah],
 			'title' => 'Atomic mass',
 		  'elementname' => "name_$lang",
 		},
-		"$OUT/$lang/index-ah.html",
+		"$OUT/$lang/index-am.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('menu.html',
