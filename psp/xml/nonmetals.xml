@@ -5,7 +5,7 @@
     <name_cs_CZ>Dusík</name_cs_CZ>
     <symbol>N</symbol>
     <name_Latin>Nitrogenium</name_Latin>
-    <athmot>14,00674</athmot>
+    <atomicmass>14,00674</atomicmass>
     <oxid>-3,1,2,3,4,5</oxid>
     <electronegativity>3,0</electronegativity>
     <density>0,0012506</density>
@@ -36,7 +36,7 @@
     <name_cs_CZ>Fosfor</name_cs_CZ>
     <symbol>P</symbol>
     <name_Latin>Phosphorus</name_Latin>
-    <athmot>30,973762</athmot>
+    <atomicmass>30,973762</atomicmass>
     <oxid>-3,3,5</oxid>
     <electronegativity>2,1</electronegativity>
     <density>1,83</density>
@@ -66,7 +66,7 @@
     <name_cs_CZ>Kyslík</name_cs_CZ>
     <symbol>O</symbol>
     <name_Latin>Oxygenium</name_Latin>
-    <athmot>15,9994</athmot>
+    <atomicmass>15,9994</atomicmass>
     <oxid>-2,-1,2</oxid>
     <electronegativity>3,5</electronegativity>
     <density>0,001429</density>
@@ -97,7 +97,7 @@
     <name_cs_CZ>Selen</name_cs_CZ>
     <symbol>Se</symbol>
     <name_Latin>Selenium</name_Latin>
-    <athmot>78,96</athmot>
+    <atomicmass>78,96</atomicmass>
     <oxid>-2,2,4,6</oxid>
     <electronegativity>2,4</electronegativity>
     <density>4,80</density>
@@ -131,7 +131,7 @@
     <name_cs_CZ>Síra</name_cs_CZ>
     <symbol>S</symbol>
     <name_Latin>Sulphur</name_Latin>
-    <athmot>32,066</athmot>
+    <atomicmass>32,066</atomicmass>
     <oxid>-2,2,4,6</oxid>
     <electronegativity>2,5</electronegativity>
     <density>2,07</density>
@@ -163,7 +163,7 @@
     <name_cs_CZ>Uhlík</name_cs_CZ>
     <symbol>C</symbol>
     <name_Latin>Carboneum</name_Latin>
-    <athmot>12,011</athmot>
+    <atomicmass>12,011</atomicmass>
     <oxid>-4,2,4</oxid>
     <electronegativity>2,5</electronegativity>
     <density>3,515</density>
@@ -193,7 +193,7 @@
     <name_cs_CZ>Vodík</name_cs_CZ>
     <symbol>H</symbol>
     <name_Latin>Hydrogenium</name_Latin>
-    <athmot>1,00794</athmot>
+    <atomicmass>1,00794</atomicmass>
     <oxid>-1,1</oxid>
     <electronegativity>2,1</electronegativity>
     <density>0,00008988</density>

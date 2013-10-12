@@ -5,7 +5,7 @@
     <name_cs_CZ>Argon</name_cs_CZ>
     <symbol>Ar</symbol>
     <name_Latin>Argon</name_Latin>
-    <athmot>39,948</athmot>
+    <atomicmass>39,948</atomicmass>
     <density>0,0017838</density>
     <stbisot>3</stbisot>
     <unstisot>5</unstisot>
@@ -34,7 +34,7 @@
     <name_cs_CZ>Helium</name_cs_CZ>
     <symbol>He</symbol>
     <name_Latin>Helium</name_Latin>
-    <athmot>4,002602</athmot>
+    <atomicmass>4,002602</atomicmass>
     <density>0,0001785</density>
     <stbisot>2</stbisot>
     <unstisot>2</unstisot>
@@ -60,7 +60,7 @@
     <name_cs_CZ>Krypton</name_cs_CZ>
     <symbol>Kr</symbol>
     <name_Latin>Krypton</name_Latin>
-    <athmot>83,8</athmot>
+    <atomicmass>83,8</atomicmass>
     <oxid>2,4</oxid>
     <density>0,0037493</density>
     <stbisot>6</stbisot>
@@ -90,7 +90,7 @@
     <name_cs_CZ>Neon</name_cs_CZ>
     <symbol>Ne</symbol>
     <name_Latin>Neon</name_Latin>
-    <athmot>20,1797</athmot>
+    <atomicmass>20,1797</atomicmass>
     <density>0,0008999</density>
     <stbisot>3</stbisot>
     <unstisot>5</unstisot>
@@ -119,7 +119,7 @@
     <name_cs_CZ>Radon</name_cs_CZ>
     <symbol>Rn</symbol>
     <name_Latin>Radon</name_Latin>
-    <athmot>222,0176</athmot>
+    <atomicmass>222,0176</atomicmass>
     <oxid>2</oxid>
     <density>0,00919</density>
     <stbisot>0</stbisot>
@@ -147,7 +147,7 @@
     <name_cs_CZ>Xenon</name_cs_CZ>
     <symbol>Xe</symbol>
     <name_Latin>Xenon</name_Latin>
-    <athmot>131,29</athmot>
+    <atomicmass>131,29</atomicmass>
     <oxid>2,4,6,8</oxid>
     <density>0,0058671</density>
     <stbisot>2</stbisot>

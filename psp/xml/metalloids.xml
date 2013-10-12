@@ -5,7 +5,7 @@
     <name_cs_CZ>Antimon</name_cs_CZ>
     <symbol>Sb</symbol>
     <name_Latin>Stibium</name_Latin>
-    <athmot>121,75</athmot>
+    <atomicmass>121,75</atomicmass>
     <oxid>-3,3,5</oxid>
     <electronegativity>1,9</electronegativity>
     <density>7,29</density>
@@ -39,7 +39,7 @@
     <name_cs_CZ>Arsen</name_cs_CZ>
     <symbol>As</symbol>
     <name_Latin>Arsenicum</name_Latin>
-    <athmot>74,92159</athmot>
+    <atomicmass>74,92159</atomicmass>
     <oxid>-3,3,5</oxid>
     <electronegativity>2,0</electronegativity>
     <density>4,7</density>
@@ -72,7 +72,7 @@
     <name_cs_CZ>Astat</name_cs_CZ>
     <symbol>At</symbol>
     <name_Latin>Astatum</name_Latin>
-    <athmot>209,9871</athmot>
+    <atomicmass>209,9871</atomicmass>
     <oxid>-1,1,3,5,7</oxid>
     <electronegativity>2,2</electronegativity>
     <stbisot>0</stbisot>
@@ -96,7 +96,7 @@
     <name_cs_CZ>Bor</name_cs_CZ>
     <symbol>B</symbol>
     <name_Latin>Borum</name_Latin>
-    <athmot>10,811</athmot>
+    <atomicmass>10,811</atomicmass>
     <oxid>3</oxid>
     <electronegativity>2,0</electronegativity>
     <density>2,34</density>
@@ -128,7 +128,7 @@
     <name_cs_CZ>Germanium</name_cs_CZ>
     <symbol>Ge</symbol>
     <name_Latin>Germanium</name_Latin>
-    <athmot>72,61</athmot>
+    <atomicmass>72,61</atomicmass>
     <oxid>2,4</oxid>
     <electronegativity>1,8</electronegativity>
     <density>5,32</density>
@@ -157,7 +157,7 @@
     <name_cs_CZ>Křemík</name_cs_CZ>
     <symbol>Si</symbol>
     <name_Latin>Silicium</name_Latin>
-    <athmot>28,0855</athmot>
+    <atomicmass>28,0855</atomicmass>
     <oxid>-4,4</oxid>
     <electronegativity>1,8</electronegativity>
     <density>2,332</density>
@@ -189,7 +189,7 @@
     <name_cs_CZ>Tellur</name_cs_CZ>
     <symbol>Te</symbol>
     <name_Latin>Tellurium</name_Latin>
-    <athmot>127,60</athmot>
+    <atomicmass>127,60</atomicmass>
     <oxid>-2,2,4,6</oxid>
     <electronegativity>2,1</electronegativity>
     <density>6,25</density>

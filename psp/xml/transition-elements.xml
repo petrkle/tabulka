@@ -5,7 +5,7 @@
     <name_cs_CZ>Aktinium</name_cs_CZ>
     <symbol>Ac</symbol>
     <name_Latin>Actinium</name_Latin>
-    <athmot>227,0278</athmot>
+    <atomicmass>227,0278</atomicmass>
     <oxid>3</oxid>
     <electronegativity>1,1</electronegativity>
     <density>10,07</density>
@@ -32,7 +32,7 @@
     <name_cs_CZ>Chrom</name_cs_CZ>
     <symbol>Cr</symbol>
     <name_Latin>Chromium</name_Latin>
-    <athmot>51,9961</athmot>
+    <atomicmass>51,9961</atomicmass>
     <oxid>2,3,4,5,6</oxid>
     <electronegativity>1,6</electronegativity>
     <density>7,19</density>
@@ -67,7 +67,7 @@
     <name_cs_CZ>Hafnium</name_cs_CZ>
     <symbol>Hf</symbol>
     <name_Latin>Hafnium</name_Latin>
-    <athmot>178,49</athmot>
+    <atomicmass>178,49</atomicmass>
     <oxid>4</oxid>
     <electronegativity>1,3</electronegativity>
     <density>13,3</density>
@@ -102,7 +102,7 @@
     <name_cs_CZ>Iridium</name_cs_CZ>
     <symbol>Ir</symbol>
     <name_Latin>Iridium</name_Latin>
-    <athmot>192,22</athmot>
+    <atomicmass>192,22</atomicmass>
     <oxid>2,3,4,6</oxid>
     <electronegativity>2,2</electronegativity>
     <density>22,5</density>
@@ -135,7 +135,7 @@
     <name_cs_CZ>Kadmium</name_cs_CZ>
     <symbol>Cd</symbol>
     <name_Latin>Cadmium</name_Latin>
-    <athmot>112,411</athmot>
+    <atomicmass>112,411</atomicmass>
     <oxid>2</oxid>
     <electronegativity>1,7</electronegativity>
     <density>8,65</density>
@@ -169,7 +169,7 @@
     <name_cs_CZ>Kobalt</name_cs_CZ>
     <symbol>Co</symbol>
     <name_Latin>Cobaltum</name_Latin>
-    <athmot>58,93320</athmot>
+    <atomicmass>58,93320</atomicmass>
     <oxid>2,3</oxid>
     <electronegativity>1,8</electronegativity>
     <density>8,9</density>
@@ -204,7 +204,7 @@
     <name_cs_CZ>Kurčatovium</name_cs_CZ>
     <symbol>Ku</symbol>
     <name_Latin>Kurcharovium</name_Latin>
-    <athmot>261,1087</athmot>
+    <atomicmass>261,1087</atomicmass>
     <oxid>4</oxid>
     <stbisot>0</stbisot>
     <unstisot>6</unstisot>
@@ -222,7 +222,7 @@
     <name_cs_CZ>Lanthan</name_cs_CZ>
     <symbol>La</symbol>
     <name_Latin>Lanthanium</name_Latin>
-    <athmot>138,9055</athmot>
+    <atomicmass>138,9055</atomicmass>
     <oxid>3</oxid>
     <electronegativity>1,1</electronegativity>
     <density>6,166</density>
@@ -256,7 +256,7 @@
     <name_cs_CZ>Mangan</name_cs_CZ>
     <symbol>Mn</symbol>
     <name_Latin>Manganum</name_Latin>
-    <athmot>54,93805</athmot>
+    <atomicmass>54,93805</atomicmass>
     <oxid>2,3,4,6,7</oxid>
     <electronegativity>1,5</electronegativity>
     <density>7,44</density>
@@ -289,7 +289,7 @@
     <name_cs_CZ>Molybden</name_cs_CZ>
     <symbol>Mo</symbol>
     <name_Latin>Molybdaneum</name_Latin>
-    <athmot>95,94</athmot>
+    <atomicmass>95,94</atomicmass>
     <oxid>2,3,4,5,6</oxid>
     <electronegativity>1,8</electronegativity>
     <density>10,22</density>
@@ -324,7 +324,7 @@
     <name_cs_CZ>Měď</name_cs_CZ>
     <symbol>Cu</symbol>
     <name_Latin>Cuprum</name_Latin>
-    <athmot>63,546</athmot>
+    <atomicmass>63,546</atomicmass>
     <oxid>1,2,3</oxid>
     <electronegativity>1,9</electronegativity>
     <density>8,96</density>
@@ -360,7 +360,7 @@
     <name_cs_CZ>Nikl</name_cs_CZ>
     <symbol>Ni</symbol>
     <name_Latin>Niccolum</name_Latin>
-    <athmot>58,69</athmot>
+    <atomicmass>58,69</atomicmass>
     <oxid>2,3</oxid>
     <electronegativity>1,8</electronegativity>
     <density>8,908</density>
@@ -393,7 +393,7 @@
     <name_cs_CZ>Niob</name_cs_CZ>
     <symbol>Nb</symbol>
     <name_Latin>Niobium</name_Latin>
-    <athmot>92,90638</athmot>
+    <atomicmass>92,90638</atomicmass>
     <oxid>3,5</oxid>
     <electronegativity>1,6</electronegativity>
     <density>8,57</density>
@@ -428,7 +428,7 @@
     <name_cs_CZ>Osmium</name_cs_CZ>
     <symbol>Os</symbol>
     <name_Latin>Osmium</name_Latin>
-    <athmot>190,2</athmot>
+    <atomicmass>190,2</atomicmass>
     <oxid>2,3,4,6,8</oxid>
     <electronegativity>2,2</electronegativity>
     <density>22,6</density>
@@ -459,7 +459,7 @@
     <name_cs_CZ>Palladium</name_cs_CZ>
     <symbol>Pd</symbol>
     <name_Latin>Palladium</name_Latin>
-    <athmot>106,42</athmot>
+    <atomicmass>106,42</atomicmass>
     <oxid>2,4</oxid>
     <electronegativity>2,2</electronegativity>
     <density>12,02</density>
@@ -494,7 +494,7 @@
     <name_cs_CZ>Platina</name_cs_CZ>
     <symbol>Pt</symbol>
     <name_Latin>Platinium</name_Latin>
-    <athmot>195,08</athmot>
+    <atomicmass>195,08</atomicmass>
     <oxid>2,4,6</oxid>
     <electronegativity>2,2</electronegativity>
     <density>21,45</density>
@@ -529,7 +529,7 @@
     <name_cs_CZ>Rhenium</name_cs_CZ>
     <symbol>Re</symbol>
     <name_Latin>Rhenium</name_Latin>
-    <athmot>186,207</athmot>
+    <atomicmass>186,207</atomicmass>
     <oxid>2,3,4,6,7</oxid>
     <electronegativity>1,9</electronegativity>
     <density>21,03</density>
@@ -562,7 +562,7 @@
     <name_cs_CZ>Rhodium</name_cs_CZ>
     <symbol>Rh</symbol>
     <name_Latin>Rhodium</name_Latin>
-    <athmot>102,90550</athmot>
+    <atomicmass>102,90550</atomicmass>
     <oxid>2,3,4,5</oxid>
     <electronegativity>2,2</electronegativity>
     <density>12,45</density>
@@ -597,7 +597,7 @@
     <name_cs_CZ>Rtuť</name_cs_CZ>
     <symbol>Hg</symbol>
     <name_Latin>Hydrargyum</name_Latin>
-    <athmot>200,59</athmot>
+    <atomicmass>200,59</atomicmass>
     <oxid>1,2</oxid>
     <electronegativity>1,9</electronegativity>
     <density>13,546</density>
@@ -631,7 +631,7 @@
     <name_cs_CZ>Ruthenium</name_cs_CZ>
     <symbol>Ru</symbol>
     <name_Latin>Ruthenium</name_Latin>
-    <athmot>101,07</athmot>
+    <atomicmass>101,07</atomicmass>
     <oxid>2,3,4,6,8</oxid>
     <electronegativity>2,2</electronegativity>
     <density>12,41</density>
@@ -665,7 +665,7 @@
     <name_cs_CZ>Skandium</name_cs_CZ>
     <symbol>Sc</symbol>
     <name_Latin>Scandium</name_Latin>
-    <athmot>44,955910</athmot>
+    <atomicmass>44,955910</atomicmass>
     <oxid>3</oxid>
     <electronegativity>1,3</electronegativity>
     <density>2,989</density>
@@ -696,7 +696,7 @@
     <name_cs_CZ>Stříbro</name_cs_CZ>
     <symbol>Ag</symbol>
     <name_Latin>Argentum</name_Latin>
-    <athmot>107,8682</athmot>
+    <atomicmass>107,8682</atomicmass>
     <oxid>1,2,3</oxid>
     <electronegativity>1,9</electronegativity>
     <density>10,49</density>
@@ -732,7 +732,7 @@
     <name_cs_CZ>Tantal</name_cs_CZ>
     <symbol>Ta</symbol>
     <name_Latin>Tantalum</name_Latin>
-    <athmot>180,9479</athmot>
+    <atomicmass>180,9479</atomicmass>
     <oxid>5</oxid>
     <electronegativity>1,5</electronegativity>
     <density>16,654</density>
@@ -765,7 +765,7 @@
     <name_cs_CZ>Technecium</name_cs_CZ>
     <symbol>Tc</symbol>
     <name_Latin>Tecnetium</name_Latin>
-    <athmot>98,9063</athmot>
+    <atomicmass>98,9063</atomicmass>
     <oxid>2,4,7</oxid>
     <electronegativity>1,9</electronegativity>
     <density>11,56</density>
@@ -795,7 +795,7 @@
     <name_cs_CZ>Titan</name_cs_CZ>
     <symbol>Ti</symbol>
     <name_Latin>Titanium</name_Latin>
-    <athmot>47,88</athmot>
+    <atomicmass>47,88</atomicmass>
     <oxid>2,3,4</oxid>
     <electronegativity>1,5</electronegativity>
     <density>4,507</density>
@@ -829,7 +829,7 @@
     <name_cs_CZ>Unnilennium</name_cs_CZ>
     <symbol>Une</symbol>
     <name_Latin>Unnilennium</name_Latin>
-    <athmot>266</athmot>
+    <atomicmass>266</atomicmass>
     <stbisot>0</stbisot>
     <unstisot>1</unstisot>
     <name_en_US>Meitnerium</name_en_US>
@@ -845,7 +845,7 @@
     <name_cs_CZ>Unnilhexium</name_cs_CZ>
     <symbol>Unh</symbol>
     <name_Latin>Unnilhexium</name_Latin>
-    <athmot>263,9182</athmot>
+    <atomicmass>263,9182</atomicmass>
     <oxid>6</oxid>
     <stbisot>0</stbisot>
     <unstisot>4</unstisot>
@@ -862,7 +862,7 @@
     <name_cs_CZ>Unniloctium</name_cs_CZ>
     <symbol>Uno</symbol>
     <name_Latin>Unniloctium</name_Latin>
-    <athmot>265</athmot>
+    <atomicmass>265</atomicmass>
     <stbisot>0</stbisot>
     <unstisot>2</unstisot>
     <name_en_US>Hassium</name_en_US>
@@ -878,7 +878,7 @@
     <name_cs_CZ>Unnilpentium</name_cs_CZ>
     <symbol>Unp</symbol>
     <name_Latin>Unnilpentium</name_Latin>
-    <athmot>262,1138</athmot>
+    <atomicmass>262,1138</atomicmass>
     <oxid>5</oxid>
     <stbisot>0</stbisot>
     <unstisot>5</unstisot>
@@ -895,7 +895,7 @@
     <name_cs_CZ>Unnilseptium</name_cs_CZ>
     <symbol>Uns</symbol>
     <name_Latin>Unnilseptium</name_Latin>
-    <athmot>262,1229</athmot>
+    <atomicmass>262,1229</atomicmass>
     <oxid>7</oxid>
     <stbisot>0</stbisot>
     <unstisot>3</unstisot>
@@ -912,7 +912,7 @@
     <name_cs_CZ>Vanad</name_cs_CZ>
     <symbol>V</symbol>
     <name_Latin>Vanadium</name_Latin>
-    <athmot>50,9415</athmot>
+    <atomicmass>50,9415</atomicmass>
     <oxid>2,3,4,5</oxid>
     <electronegativity>1,6</electronegativity>
     <density>6,11</density>
@@ -947,7 +947,7 @@
     <name_cs_CZ>Wolfram</name_cs_CZ>
     <symbol>W</symbol>
     <name_Latin>Wolframium</name_Latin>
-    <athmot>183,85</athmot>
+    <atomicmass>183,85</atomicmass>
     <oxid>2,3,4,5,6</oxid>
     <electronegativity>1,9</electronegativity>
     <density>19,3</density>
@@ -981,7 +981,7 @@
     <name_cs_CZ>Yttrium</name_cs_CZ>
     <symbol>Y</symbol>
     <name_Latin>Yttrium</name_Latin>
-    <athmot>88,90585</athmot>
+    <atomicmass>88,90585</atomicmass>
     <oxid>3</oxid>
     <electronegativity>1,2</electronegativity>
     <density>4,472</density>
@@ -1014,7 +1014,7 @@
     <name_cs_CZ>Zinek</name_cs_CZ>
     <symbol>Zn</symbol>
     <name_Latin>Zincum</name_Latin>
-    <athmot>65,39</athmot>
+    <atomicmass>65,39</atomicmass>
     <oxid>2</oxid>
     <electronegativity>1,6</electronegativity>
     <density>7,14</density>
@@ -1049,7 +1049,7 @@
     <name_cs_CZ>Zirkonium</name_cs_CZ>
     <symbol>Zr</symbol>
     <name_Latin>Zirkonium</name_Latin>
-    <athmot>91,244</athmot>
+    <atomicmass>91,244</atomicmass>
     <oxid>4</oxid>
     <electronegativity>1,4</electronegativity>
     <density>6,506</density>
@@ -1084,7 +1084,7 @@
     <name_cs_CZ>Zlato</name_cs_CZ>
     <symbol>Au</symbol>
     <name_Latin>Aurum</name_Latin>
-    <athmot>196,96654</athmot>
+    <atomicmass>196,96654</atomicmass>
     <oxid>1,3</oxid>
     <electronegativity>2,4</electronegativity>
     <density>19,32</density>
@@ -1119,7 +1119,7 @@
     <name_cs_CZ>Železo</name_cs_CZ>
     <symbol>Fe</symbol>
     <name_Latin>Ferrum</name_Latin>
-    <athmot>55,847</athmot>
+    <atomicmass>55,847</atomicmass>
     <oxid>2,3,6</oxid>
     <electronegativity>1,8</electronegativity>
     <density>7,874</density>

@@ -5,7 +5,7 @@
     <name_cs_CZ>Baryum</name_cs_CZ>
     <symbol>Ba</symbol>
     <name_Latin>Baryum</name_Latin>
-    <athmot>137,327</athmot>
+    <atomicmass>137,327</atomicmass>
     <oxid>2</oxid>
     <electronegativity>0,9</electronegativity>
     <density>3,5</density>
@@ -35,7 +35,7 @@
     <name_cs_CZ>Radium</name_cs_CZ>
     <symbol>Ra</symbol>
     <name_Latin>Radium</name_Latin>
-    <athmot>226,0254</athmot>
+    <atomicmass>226,0254</atomicmass>
     <oxid>2</oxid>
     <electronegativity>0,9</electronegativity>
     <density>5,5</density>
@@ -62,7 +62,7 @@
     <name_cs_CZ>Stroncium</name_cs_CZ>
     <symbol>Sr</symbol>
     <name_Latin>Strontium</name_Latin>
-    <athmot>87,62</athmot>
+    <atomicmass>87,62</atomicmass>
     <oxid>2</oxid>
     <electronegativity>1,0</electronegativity>
     <density>2,6</density>
@@ -93,7 +93,7 @@
     <name_cs_CZ>Vápník</name_cs_CZ>
     <symbol>Ca</symbol>
     <name_Latin>Calcium</name_Latin>
-    <athmot>40,078</athmot>
+    <atomicmass>40,078</atomicmass>
     <oxid>2</oxid>
     <electronegativity>1,0</electronegativity>
     <density>1,55</density>

@@ -5,7 +5,7 @@
     <name_cs_CZ>Brom</name_cs_CZ>
     <symbol>Br</symbol>
     <name_Latin>Bromum</name_Latin>
-    <athmot>79,904</athmot>
+    <atomicmass>79,904</atomicmass>
     <oxid>-1,1,3,5,7</oxid>
     <electronegativity>2,8</electronegativity>
     <density>3,123</density>
@@ -37,7 +37,7 @@
     <name_cs_CZ>Chlor</name_cs_CZ>
     <symbol>Cl</symbol>
     <name_Latin>Chlorum</name_Latin>
-    <athmot>35,4527</athmot>
+    <atomicmass>35,4527</atomicmass>
     <oxid>-1,1,3,4,5,6,7</oxid>
     <electronegativity>3,0</electronegativity>
     <density>0,003214</density>
@@ -68,7 +68,7 @@
     <name_cs_CZ>Fluor</name_cs_CZ>
     <symbol>F</symbol>
     <name_Latin>Fluorum</name_Latin>
-    <athmot>18,9984032</athmot>
+    <atomicmass>18,9984032</atomicmass>
     <oxid>-1</oxid>
     <electronegativity>4,0</electronegativity>
     <density>0,001696</density>
@@ -99,7 +99,7 @@
     <name_cs_CZ>Jod</name_cs_CZ>
     <symbol>I</symbol>
     <name_Latin>Iodium</name_Latin>
-    <athmot>126,90447</athmot>
+    <atomicmass>126,90447</atomicmass>
     <oxid>-1,1,3,5,7</oxid>
     <electronegativity>2,5</electronegativity>
     <density>4,93</density>

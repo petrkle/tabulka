@@ -91,10 +91,9 @@ foreach my $lang (@langs){
 	}
 
 	my @sortedbyname = sort {$a->{"name_$lang"} cmp $b->{"name_$lang"}} @elements;
-	my @sortedbyprotcislo = sort {$a->{anumber} <=> $b->{anumber}} @elements;
+	my @sortedbyanumber = sort {$a->{anumber} <=> $b->{anumber}} @elements;
 	my @sortedbyln = sort {$a->{name_Latin} cmp $b->{name_Latin}} @elements;
-	my @sortedbyzn = sort {$a->{symbol} cmp $b->{symbol}} @elements;
-	my @sortedbyah = sort {$a->{athmot} =~ s/,/./r <=> $b->{athmot} =~ s/,/./r} @elements;
+	my @sortedbyam = sort {$a->{atomicmass} =~ s/,/./r <=> $b->{atomicmass} =~ s/,/./r} @elements;
 
 	for my $group (@{$groups->{group}}){
 
@@ -120,7 +119,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-an.html',
-		{ 'elements' => [@sortedbyprotcislo],
+		{ 'elements' => [@sortedbyanumber],
 			'title' => 'Atomic number',
 		  'elementname' => "name_$lang",
 		},
@@ -136,7 +135,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-am.html',
-		{ 'elements' => [@sortedbyah],
+		{ 'elements' => [@sortedbyam],
 			'title' => 'Atomic mass',
 		  'elementname' => "name_$lang",
 		},
@@ -225,4 +224,3 @@ sub get_langs{
 	}
 	return @langs;
 }
-

@@ -5,7 +5,7 @@
     <name_cs_CZ>Cesium</name_cs_CZ>
     <symbol>Cs</symbol>
     <name_Latin>Caesium</name_Latin>
-    <athmot>132,90543</athmot>
+    <atomicmass>132,90543</atomicmass>
     <oxid>1</oxid>
     <electronegativity>0,7</electronegativity>
     <density>1,873</density>
@@ -38,7 +38,7 @@
     <name_cs_CZ>Draslík</name_cs_CZ>
     <symbol>K</symbol>
     <name_Latin>Kalium</name_Latin>
-    <athmot>39,0983</athmot>
+    <atomicmass>39,0983</atomicmass>
     <oxid>1</oxid>
     <electronegativity>0,9</electronegativity>
     <density>0,862</density>
@@ -72,7 +72,7 @@
     <name_cs_CZ>Francium</name_cs_CZ>
     <symbol>Fr</symbol>
     <name_Latin>Francium</name_Latin>
-    <athmot>223,019</athmot>
+    <atomicmass>223,019</atomicmass>
     <oxid>1</oxid>
     <electronegativity>0,7</electronegativity>
     <stbisot>0</stbisot>
@@ -94,7 +94,7 @@
     <name_cs_CZ>Lithium</name_cs_CZ>
     <symbol>Li</symbol>
     <name_Latin>Lithium</name_Latin>
-    <athmot>6,941</athmot>
+    <atomicmass>6,941</atomicmass>
     <oxid>1</oxid>
     <electronegativity>1,0</electronegativity>
     <density>0,534</density>
@@ -126,7 +126,7 @@
     <name_cs_CZ>Rubidium</name_cs_CZ>
     <symbol>Rb</symbol>
     <name_Latin>Rubidium</name_Latin>
-    <athmot>85,4678</athmot>
+    <atomicmass>85,4678</atomicmass>
     <oxid>1</oxid>
     <electronegativity>0,8</electronegativity>
     <density>1,532</density>
@@ -161,7 +161,7 @@
     <name_cs_CZ>Sodík</name_cs_CZ>
     <symbol>Na</symbol>
     <name_Latin>Natrium</name_Latin>
-    <athmot>22,98768</athmot>
+    <atomicmass>22,98768</atomicmass>
     <oxid>1</oxid>
     <electronegativity>0,9</electronegativity>
     <density>0,9725</density>
