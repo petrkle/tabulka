@@ -29,6 +29,7 @@
     <period>6</period>
     <group>II.A</group>
     <state>s</state>
+    <name_sk_SK>Bárium</name_sk_SK>
   </element>
   <element>
     <anumber>88</anumber>
@@ -56,6 +57,7 @@
     <period>7</period>
     <group>II.A</group>
     <state>s</state>
+    <name_sk_SK>Rádium</name_sk_SK>
   </element>
   <element>
     <anumber>38</anumber>
@@ -87,6 +89,7 @@
     <period>5</period>
     <group>II.A</group>
     <state>s</state>
+    <name_sk_SK>Stroncium</name_sk_SK>
   </element>
   <element>
     <anumber>20</anumber>
@@ -119,5 +122,6 @@
     <period>4</period>
     <group>II.A</group>
     <state>s</state>
+    <name_sk_SK>Vápnik</name_sk_SK>
   </element>
 </elements>

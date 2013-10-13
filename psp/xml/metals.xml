@@ -34,6 +34,7 @@
     <period>2</period>
     <group>II.A</group>
     <state>s</state>
+    <name_sk_SK>Berýlium</name_sk_SK>
   </element>
   <element>
     <anumber>83</anumber>
@@ -68,6 +69,7 @@
     <period>6</period>
     <group>V.A</group>
     <state>s</state>
+    <name_sk_SK>Bizmut</name_sk_SK>
   </element>
   <element>
     <anumber>50</anumber>
@@ -102,6 +104,7 @@
     <period>5</period>
     <group>IV.A</group>
     <state>s</state>
+    <name_sk_SK>Cín</name_sk_SK>
   </element>
   <element>
     <anumber>31</anumber>
@@ -132,6 +135,7 @@
     <period>4</period>
     <group>III.A</group>
     <state>s</state>
+    <name_sk_SK>Gálium</name_sk_SK>
   </element>
   <element>
     <anumber>13</anumber>
@@ -168,6 +172,7 @@
     <period>3</period>
     <group>III.A</group>
     <state>s</state>
+    <name_sk_SK>Hliník</name_sk_SK>
   </element>
   <element>
     <anumber>12</anumber>
@@ -202,6 +207,7 @@
     <period>3</period>
     <group>II.A</group>
     <state>s</state>
+    <name_sk_SK>Horčík</name_sk_SK>
   </element>
   <element>
     <anumber>49</anumber>
@@ -234,6 +240,7 @@
     <period>5</period>
     <group>III.A</group>
     <state>s</state>
+    <name_sk_SK>Indium</name_sk_SK>
   </element>
   <element>
     <anumber>82</anumber>
@@ -269,6 +276,7 @@
     <period>6</period>
     <group>IV.A</group>
     <state>s</state>
+    <name_sk_SK>Olovo</name_sk_SK>
   </element>
   <element>
     <anumber>84</anumber>
@@ -294,6 +302,7 @@
     <period>6</period>
     <group>VI.A</group>
     <state>s</state>
+    <name_sk_SK>Polónium</name_sk_SK>
   </element>
   <element>
     <anumber>81</anumber>
@@ -325,5 +334,6 @@
     <period>6</period>
     <group>III.A</group>
     <state>s</state>
+    <name_sk_SK>Tálium</name_sk_SK>
   </element>
 </elements>

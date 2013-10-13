@@ -28,6 +28,7 @@
     <period>3</period>
     <group>VIII.A</group>
     <state>g</state>
+    <name_sk_SK>Argón</name_sk_SK>
   </element>
   <element>
     <anumber>2</anumber>
@@ -54,6 +55,7 @@
     <period>1</period>
     <group>VIII.A</group>
     <state>g</state>
+    <name_sk_SK>Hélium</name_sk_SK>
   </element>
   <element>
     <anumber>36</anumber>
@@ -84,6 +86,7 @@
     <period>4</period>
     <group>VIII.A</group>
     <state>g</state>
+    <name_sk_SK>Kryptón</name_sk_SK>
   </element>
   <element>
     <anumber>10</anumber>
@@ -113,6 +116,7 @@
     <period>2</period>
     <group>VIII.A</group>
     <state>g</state>
+    <name_sk_SK>Neón</name_sk_SK>
   </element>
   <element>
     <anumber>86</anumber>
@@ -141,6 +145,7 @@
     <period>6</period>
     <group>VIII.A</group>
     <state>g</state>
+    <name_sk_SK>Radón</name_sk_SK>
   </element>
   <element>
     <anumber>54</anumber>
@@ -171,5 +176,6 @@
     <period>5</period>
     <group>VIII.A</group>
     <state>g</state>
+    <name_sk_SK>Xenón</name_sk_SK>
   </element>
 </elements>

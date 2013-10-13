@@ -30,6 +30,7 @@
     <period>2</period>
     <group>V.A</group>
     <state>g</state>
+    <name_sk_SK>Dusík</name_sk_SK>
   </element>
   <element>
     <anumber>15</anumber>
@@ -60,6 +61,7 @@
     <period>3</period>
     <group>V.A</group>
     <state>s</state>
+    <name_sk_SK>Fosfor</name_sk_SK>
   </element>
   <element>
     <anumber>8</anumber>
@@ -91,6 +93,7 @@
     <period>2</period>
     <group>VI.A</group>
     <state>g</state>
+    <name_sk_SK>Kyslík</name_sk_SK>
   </element>
   <element>
     <anumber>34</anumber>
@@ -125,6 +128,7 @@
     <period>4</period>
     <group>VI.A</group>
     <state>s</state>
+    <name_sk_SK>Selén</name_sk_SK>
   </element>
   <element>
     <anumber>16</anumber>
@@ -157,6 +161,7 @@
     <period>3</period>
     <group>VI.A</group>
     <state>s</state>
+    <name_sk_SK>Síra</name_sk_SK>
   </element>
   <element>
     <anumber>6</anumber>
@@ -187,6 +192,7 @@
     <period>2</period>
     <group>IV.A</group>
     <state>s</state>
+    <name_sk_SK>Uhlík</name_sk_SK>
   </element>
   <element>
     <anumber>1</anumber>
@@ -215,5 +221,6 @@
     <period>1</period>
     <group>I.A</group>
     <state>g</state>
+    <name_sk_SK>Vodík</name_sk_SK>
   </element>
 </elements>
