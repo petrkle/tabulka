@@ -67,6 +67,7 @@
 	<target name="generate-locales">
 	<echo>Generating locales</echo>
 		<exec executable="make" dir="po" failonerror="true">
+			<arg value="--stop"/>
 	 </exec>
 	</target>
 

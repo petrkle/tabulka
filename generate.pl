@@ -4,10 +4,12 @@ use strict;
 use warnings;
 use utf8;
 use locale;
+use autodie qw(:all);
 use Template;
 use Template::Stash;
 use XML::Simple;
 use File::Copy;
+use File::Path qw(make_path);
 use File::Basename;
 use Locale::TextDomain ( 'ptable' ,  './locale/' );
 use POSIX qw (setlocale LC_ALL LC_COLLATE);
@@ -53,7 +55,9 @@ foreach my $lang (@langs){
 	nl_putenv("LC_COLLATE=$lang");
 	setlocale(LC_ALL, $lang.".UTF-8");
 	setlocale(LC_COLLATE, $lang.".UTF-8");
-	mkdir("$OUT/$lang");
+	if( ! -d "$OUT/$lang" ){
+		make_path("$OUT/$lang");
+	}
 
 	my $locappname = __($appname);
 	my @elements;
