@@ -215,7 +215,9 @@ $t->process('index.html',
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-copy("psp/t.css","$OUT/t.css");
+copy("psp/phone.css","$OUT/phone.css");
+copy("psp/tablet7.css","$OUT/tablet7.css");
+copy("psp/tablet10.css","$OUT/tablet10.css");
 copy("psp/img/right.png","$OUT/right.png");
 copy("psp/img/z.png","$OUT/z.png");
 copy("psp/roboto-regular.ttf","$OUT/roboto-regular.ttf");
