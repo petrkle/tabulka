@@ -27,6 +27,8 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Aktínium</name_sk_SK>
+    <x>2</x>
+    <y>6</y>
   </element>
   <element>
     <anumber>24</anumber>
@@ -63,6 +65,8 @@
     <group>VI.B</group>
     <state>s</state>
     <name_sk_SK>Chróm</name_sk_SK>
+    <x>5</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>72</anumber>
@@ -99,6 +103,8 @@
     <group>IV.B</group>
     <state>s</state>
     <name_sk_SK>Hafnium</name_sk_SK>
+    <x>3</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>77</anumber>
@@ -133,6 +139,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Irídium</name_sk_SK>
+    <x>8</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>48</anumber>
@@ -168,6 +176,8 @@
     <group>II.B</group>
     <state>s</state>
     <name_sk_SK>Kadmium</name_sk_SK>
+    <x>11</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>27</anumber>
@@ -204,6 +214,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Kobalt</name_sk_SK>
+    <x>8</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>104</anumber>
@@ -223,6 +235,8 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Rutherfordium</name_sk_SK>
+    <x>3</x>
+    <y>6</y>
   </element>
   <element>
     <anumber>57</anumber>
@@ -258,6 +272,8 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Lantán</name_sk_SK>
+    <x>2</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>25</anumber>
@@ -292,6 +308,8 @@
     <group>VII.B</group>
     <state>s</state>
     <name_sk_SK>Mangán</name_sk_SK>
+    <x>6</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>42</anumber>
@@ -328,6 +346,8 @@
     <group>VI.B</group>
     <state>s</state>
     <name_sk_SK>Molybdén</name_sk_SK>
+    <x>5</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>29</anumber>
@@ -365,6 +385,8 @@
     <group>I.B</group>
     <state>s</state>
     <name_sk_SK>Meď</name_sk_SK>
+    <x>10</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>28</anumber>
@@ -399,6 +421,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Nikel</name_sk_SK>
+    <x>9</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>41</anumber>
@@ -435,6 +459,8 @@
     <group>V.B</group>
     <state>s</state>
     <name_sk_SK>Niób</name_sk_SK>
+    <x>4</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>76</anumber>
@@ -467,6 +493,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Osmium</name_sk_SK>
+    <x>7</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>46</anumber>
@@ -503,6 +531,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Paládium</name_sk_SK>
+    <x>9</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>78</anumber>
@@ -539,6 +569,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Platina</name_sk_SK>
+    <x>9</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>75</anumber>
@@ -573,6 +605,8 @@
     <group>VII.B</group>
     <state>s</state>
     <name_sk_SK>Rénium</name_sk_SK>
+    <x>6</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>45</anumber>
@@ -609,6 +643,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Ródium</name_sk_SK>
+    <x>8</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>80</anumber>
@@ -644,6 +680,8 @@
     <group>II.B</group>
     <state>l</state>
     <name_sk_SK>Ortuť</name_sk_SK>
+    <x>11</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>44</anumber>
@@ -679,6 +717,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Ruténium</name_sk_SK>
+    <x>7</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>21</anumber>
@@ -711,6 +751,8 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Skandium</name_sk_SK>
+    <x>2</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>47</anumber>
@@ -748,6 +790,8 @@
     <group>I.B</group>
     <state>s</state>
     <name_sk_SK>Striebro</name_sk_SK>
+    <x>10</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>73</anumber>
@@ -782,6 +826,8 @@
     <group>V.B</group>
     <state>s</state>
     <name_sk_SK>Tantal</name_sk_SK>
+    <x>4</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>43</anumber>
@@ -813,6 +859,8 @@
     <group>VII.B</group>
     <state>s</state>
     <name_sk_SK>Technécium</name_sk_SK>
+    <x>6</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>22</anumber>
@@ -848,6 +896,8 @@
     <group>IV.B</group>
     <state>s</state>
     <name_sk_SK>Titán</name_sk_SK>
+    <x>3</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>109</anumber>
@@ -865,6 +915,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Meitnerium</name_sk_SK>
+    <x>8</x>
+    <y>6</y>
   </element>
   <element>
     <anumber>106</anumber>
@@ -883,6 +935,8 @@
     <group>VI.B</group>
     <state>s</state>
     <name_sk_SK>Seaborgium</name_sk_SK>
+    <x>5</x>
+    <y>6</y>
   </element>
   <element>
     <anumber>108</anumber>
@@ -900,6 +954,8 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Hassium</name_sk_SK>
+    <x>7</x>
+    <y>6</y>
   </element>
   <element>
     <anumber>105</anumber>
@@ -918,6 +974,8 @@
     <group>V.B</group>
     <state>s</state>
     <name_sk_SK>Dubnium</name_sk_SK>
+    <x>4</x>
+    <y>6</y>
   </element>
   <element>
     <anumber>107</anumber>
@@ -936,6 +994,8 @@
     <group>VII.B</group>
     <state>s</state>
     <name_sk_SK>Bohrium</name_sk_SK>
+    <x>6</x>
+    <y>6</y>
   </element>
   <element>
     <anumber>23</anumber>
@@ -972,6 +1032,8 @@
     <group>V.B</group>
     <state>s</state>
     <name_sk_SK>Vanád</name_sk_SK>
+    <x>4</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>74</anumber>
@@ -1007,6 +1069,8 @@
     <group>VI.B</group>
     <state>s</state>
     <name_sk_SK>Volfrám</name_sk_SK>
+    <x>5</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>39</anumber>
@@ -1041,6 +1105,8 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Ytrium</name_sk_SK>
+    <x>2</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>30</anumber>
@@ -1077,6 +1143,8 @@
     <group>II.B</group>
     <state>s</state>
     <name_sk_SK>Zinok</name_sk_SK>
+    <x>11</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>40</anumber>
@@ -1113,6 +1181,8 @@
     <group>IV.B</group>
     <state>s</state>
     <name_sk_SK>Zirkónium</name_sk_SK>
+    <x>3</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>79</anumber>
@@ -1149,6 +1219,8 @@
     <group>I.B</group>
     <state>s</state>
     <name_sk_SK>Zlato</name_sk_SK>
+    <x>10</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>26</anumber>
@@ -1185,5 +1257,7 @@
     <group>VIII.B</group>
     <state>s</state>
     <name_sk_SK>Železo</name_sk_SK>
+    <x>7</x>
+    <y>3</y>
   </element>
 </elements>

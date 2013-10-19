@@ -41,6 +41,8 @@ my $strings = $xml->XMLin("res/values/strings.xml");
 
 my $appname = $strings->{'string'}{'content'};
 
+my @tableview = ();
+
 my $OUT = "assets/www";
 
 my $t = Template->new({
@@ -78,6 +80,7 @@ foreach my $lang (@langs){
 			{ binmode => ':utf8' }) or die $t->error;
 
 		for my $element (@{$data->{element}}){
+		 $tableview["$element->{x}"]["$element->{y}"] = $element;
 		 $t->process('element.html',
 			 { 'element' => $element,
 				 'elementname' => "name_$lang",
@@ -206,6 +209,13 @@ foreach my $lang (@langs){
 		{	'title' => 'Language',
 		},
 		"$OUT/$lang/language.html",
+		{ binmode => ':utf8' }) or die $t->error;
+
+	$t->process('tableview.html',
+		{	'title' => 'Table view',
+		  'elements' => [@tableview],
+		},
+		"$OUT/$lang/tableview.html",
 		{ binmode => ':utf8' }) or die $t->error;
 }
 

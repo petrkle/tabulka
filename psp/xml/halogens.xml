@@ -32,6 +32,8 @@
     <group>VII.A</group>
     <state>l</state>
     <name_sk_SK>Bróm</name_sk_SK>
+    <x>16</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>17</anumber>
@@ -64,6 +66,8 @@
     <group>VII.A</group>
     <state>g</state>
     <name_sk_SK>Chlór</name_sk_SK>
+    <x>16</x>
+    <y>2</y>
   </element>
   <element>
     <anumber>9</anumber>
@@ -96,6 +100,8 @@
     <group>VII.A</group>
     <state>g</state>
     <name_sk_SK>Fluór</name_sk_SK>
+    <x>16</x>
+    <y>1</y>
   </element>
   <element>
     <anumber>53</anumber>
@@ -129,5 +135,7 @@
     <group>VII.A</group>
     <state>s</state>
     <name_sk_SK>Jód</name_sk_SK>
+    <x>16</x>
+    <y>4</y>
   </element>
 </elements>

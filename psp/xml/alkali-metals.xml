@@ -33,6 +33,8 @@
     <group>I.A</group>
     <state>s</state>
     <name_sk_SK>Cézium</name_sk_SK>
+    <x>0</x>
+    <y>5</y>
   </element>
   <element>
     <anumber>19</anumber>
@@ -68,6 +70,8 @@
     <group>I.A</group>
     <state>s</state>
     <name_sk_SK>Draslík</name_sk_SK>
+    <x>0</x>
+    <y>3</y>
   </element>
   <element>
     <anumber>87</anumber>
@@ -91,6 +95,8 @@
     <group>I.A</group>
     <state>s</state>
     <name_sk_SK>Francium</name_sk_SK>
+    <x>0</x>
+    <y>6</y>
   </element>
   <element>
     <anumber>3</anumber>
@@ -124,6 +130,8 @@
     <group>I.A</group>
     <state>s</state>
     <name_sk_SK>Lítium</name_sk_SK>
+    <x>0</x>
+    <y>1</y>
   </element>
   <element>
     <anumber>37</anumber>
@@ -160,6 +168,8 @@
     <group>I.A</group>
     <state>s</state>
     <name_sk_SK>Rubídium</name_sk_SK>
+    <x>0</x>
+    <y>4</y>
   </element>
   <element>
     <anumber>11</anumber>
@@ -197,5 +207,7 @@
     <group>I.A</group>
     <state>s</state>
     <name_sk_SK>Sodík</name_sk_SK>
+    <x>0</x>
+    <y>2</y>
   </element>
 </elements>

@@ -1,0 +1,21 @@
+[% INCLUDE header.html %]
+
+<div id="maxw">
+<table id="tableview" cellspacing="0" cellpadding="0">
+[% FOR y = [0..9] %]
+<tr>
+[% FOR x = [0..17] %]
+<td>
+	[% IF elements.${x}.${y}.symbol %]
+		<a href="[% elements.${x}.${y}.name_Latin FILTER lower %].html">[% elements.${x}.${y}.symbol %]</a>
+	[% ELSE %]
+		&nbsp;
+	[% END %]
+</td>
+[% END %]
+</tr>
+[% END %]
+</table>
+</div>
+
+[% INCLUDE footer.html -%]

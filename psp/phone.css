@@ -1,6 +1,6 @@
 @font-face{font-family:"robotoregular";src:url("roboto-regular.ttf") format("opentype");}
 body{font-family:"robotoregular",sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
-#header{width:100%;background:#fb3;font-size:1.5em;border-bottom:1px #999 solid;}
+#header{width:100%;min-width:100%;background:#fb3;font-size:1.5em;border-bottom:1px #999 solid;}
 #title #likea,#title a{padding:0.5em 0.2em 0.5em 0.5em;display:inline-block;height:100%;width:100%;font-weight:normal;}
 #menu a{color:#000;text-decoration:none;background:transparent;padding:0.5em 1em;display:inline-block;height:100%;font-weight:normal;}
 #menu{text-align:right;}
@@ -34,3 +34,6 @@ a:visited{color:#000;text-decoration:none;}
 .lscell{border-bottom:1px solid #aaa;border-right:1px solid #aaa;}
 .rscell{border-bottom:1px solid #aaa;border-right:0;}
 p{padding:1em;margin:0;text-align:center;}
+#maxw{width:100%;overflow:auto;}
+#tableview{text-align:center;width:100%;}
+#tableview td a{display:block;padding:1em;background:#ddd;margin:1px;}
