@@ -238,3 +238,6 @@ msgstr "Starovek"
 
 msgid "Heat capacity"
 msgstr "Tepelná kapacita"
+
+msgid "Table view"
+msgstr "Tabuľka"

@@ -238,3 +238,6 @@ msgstr "Starověk"
 
 msgid "Heat capacity"
 msgstr "Tepelná kapacita"
+
+msgid "Table view"
+msgstr "Tabulka"

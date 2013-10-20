@@ -29,7 +29,11 @@ switch (language) {
 }
 
 function redir(lang){
-	window.location = lang + "/index.html";
+	if(window.outerWidth > window.outerHeight){
+		window.location = lang + "/tableview.html";
+	}else{
+		window.location = lang + "/index.html";
+	}
 }
 
 </script>

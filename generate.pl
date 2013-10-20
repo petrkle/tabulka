@@ -80,6 +80,7 @@ foreach my $lang (@langs){
 			{ binmode => ':utf8' }) or die $t->error;
 
 		for my $element (@{$data->{element}}){
+		 $element->{category} = $category;
 		 $tableview["$element->{x}"]["$element->{y}"] = $element;
 		 $t->process('element.html',
 			 { 'element' => $element,
@@ -212,7 +213,7 @@ foreach my $lang (@langs){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('tableview.html',
-		{	'title' => 'Table view',
+		{	'title' => $locappname,
 		  'elements' => [@tableview],
 		},
 		"$OUT/$lang/tableview.html",

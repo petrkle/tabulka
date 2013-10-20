@@ -1,13 +1,17 @@
 [% INCLUDE header.html %]
-
 <div id="maxw">
 <table id="tableview" cellspacing="0" cellpadding="0">
+	<tr>
+		<td colspan="18">
+			[% INCLUDE title.html %]
+		</td>
+	</tr>
 [% FOR y = [0..9] %]
 <tr>
 [% FOR x = [0..17] %]
 <td>
 	[% IF elements.${x}.${y}.symbol %]
-		<a href="[% elements.${x}.${y}.name_Latin FILTER lower %].html">[% elements.${x}.${y}.symbol %]</a>
+	<a href="[% elements.${x}.${y}.name_Latin FILTER lower %].html" class="[% elements.${x}.${y}.category.filename %]">[% elements.${x}.${y}.symbol %]<span>[% elements.${x}.${y}.anumber %]</span></a>
 	[% ELSE %]
 		&nbsp;
 	[% END %]
@@ -17,5 +21,4 @@
 [% END %]
 </table>
 </div>
-
 [% INCLUDE footer.html -%]
