@@ -1,5 +1,5 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Periodic table.
+# Copyright (C) 2013 Petr Kletečka
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -12,46 +12,46 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: en_US\n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Periodic Table"
+msgstr "Periodensystem"
 
 msgid "Settings"
-msgstr "Settings"
+msgstr "Einstellungen"
 
 msgid "Language"
-msgstr "Language"
+msgstr "Sprache"
 
 msgid "About"
-msgstr "About"
+msgstr "Über"
 
 msgid "English"
-msgstr "English"
-
-msgid "Czech"
-msgstr "Czech"
-
-msgid "Slovak"
-msgstr "Slovak"
+msgstr "Englisch"
 
 msgid "German"
-msgstr "German"
+msgstr "Deutsch"
+
+msgid "Czech"
+msgstr "Tschechisch"
+
+msgid "Slovak"
+msgstr "Slowakisch"
 
 msgid "Default language"
-msgstr "Default language"
+msgstr "Standardsprache"
 
 msgid "State"
-msgstr "State"
+msgstr "Aggregatzustand"
 
 msgid "Solid"
-msgstr "Solid"
+msgstr "Solide"
 
 msgid "Liquid"
-msgstr "Liquid"
+msgstr "Flüssige"
 
 msgid "Gas"
 msgstr "Gas"
@@ -60,188 +60,187 @@ msgid "Symbol"
 msgstr "Symbol"
 
 msgid "Atomic number"
-msgstr "Atomic number"
+msgstr "Ordnungszahl"
 
 msgid "Period"
-msgstr "Period"
+msgstr "Periode"
 
 msgid "period"
-msgstr "period"
+msgstr "periode"
 
 msgid "Element category"
-msgstr "Element category"
+msgstr "Spezies"
 
 msgid "Relative atomic mass"
-msgstr "Relative atomic mass"
+msgstr "Relative Atommasse"
 
 msgid "Atomic mass"
-msgstr "Atomic mass"
+msgstr "Atommasse"
 
 msgid "Group"
-msgstr "Group"
+msgstr "Gruppe"
 
 msgid "group"
-msgstr "group"
+msgstr "uruppe"
 
 msgid "Electronegativity"
-msgstr "Electronegativity"
+msgstr "Elektronegativität"
 
 msgid "Oxidation numbers"
-msgstr "Oxidation numbers"
+msgstr "Oxidationszustände"
 
 msgid "Electron configuration"
-msgstr "Electron configuration"
+msgstr "Elektronenkonfiguration"
 
 msgid "Density"
-msgstr "Density"
+msgstr "Dichte"
 
 msgid "Melting point"
-msgstr "Melting point"
+msgstr "Schmelzpunkt"
 
 msgid "Boiling point"
-msgstr "Boiling point"
+msgstr "Siedepunkt"
 
 msgid "Critical point"
-msgstr "Critical point"
+msgstr "Kritická teplota"
 
 msgid "Critical pressure"
-msgstr "Critical pressure"
+msgstr "Kritický tlak"
 
 msgid "Atomic radius"
-msgstr "Atomic radius"
+msgstr "Atomradius"
 
 msgid "Covalent radius"
-msgstr "Covalent radius"
+msgstr "Kovalenter Radius"
 
 msgid "Thermal conductivity"
-msgstr "Thermal conductivity"
+msgstr "Wärmeleitfähigkeit"
 
 msgid "Discovery"
-msgstr "Discovery"
+msgstr "Entdeckung"
 
 msgid "Hardness"
-msgstr "Hardness"
+msgstr "Mohshärte"
 
 msgid "Vickers hardness"
-msgstr "Vickers hardness"
+msgstr "Vickers-Härte"
 
 msgid "Brinell hardness"
-msgstr "Brinell hardness"
+msgstr "Brinellhärte"
 
 msgid "Mohs scale"
-msgstr "Mohs scale"
+msgstr "Mohshärte"
 
 msgid "Shear modulus"
-msgstr "Shear modulus"
+msgstr "Schubmodul"
 
 msgid "Young's modulus"
-msgstr "Young's modulus"
+msgstr "Elastizitätsmodul"
 
 msgid "Electrical resistivity"
-msgstr "Electrical resistivity"
+msgstr "Elektrischer Widerstand"
 
 msgid "Electrical conductivity"
-msgstr "Electrical conductivity"
+msgstr "Elektrische Leitfähigkeit"
 
 msgid "Name"
 msgstr "Name"
 
 msgid "Latin name"
-msgstr "Latin name"
+msgstr "Lateinischen Name"
 
 msgid "Version"
 msgstr "Version"
 
 msgid "Created"
-msgstr "Created"
+msgstr "Erstellt"
 
 msgid "Author"
-msgstr "Author"
+msgstr "Verfasser"
 
 msgid "Write review"
-msgstr "Write review"
+msgstr "Bewertung schreiben"
 
 msgid "Noble gases"
-msgstr "Noble gases"
+msgstr "Edelgase"
 
 msgid "Inner transition elements"
-msgstr "Inner transition elements"
+msgstr "Inner Übergangselementen"
 
 msgid "Transition elements"
-msgstr "Transition elements"
+msgstr "Transition Elemente"
 
 msgid "Metalloids"
-msgstr "Metalloids"
+msgstr "Metalloidspeziation"
 
 msgid "Nonmetals"
-msgstr "Nonmetals"
+msgstr "Nichtmetalle"
 
 msgid "Alkaline earth metals"
-msgstr "Alkaline earth metals"
+msgstr "Erdalkalimetalle"
 
 msgid "Metals"
-msgstr "Metals"
+msgstr "Metalle"
 
 msgid "Halogens"
-msgstr "Halogens"
+msgstr "Halogene"
 
 msgid "Alkali metals"
-msgstr "Alkali metals"
+msgstr "Alkalimetalle"
 
 msgid "1.st ionization energy"
-msgstr "1.st ionization energy"
+msgstr "1. Ionisierungsenergie"
 
 msgid "2.nd ionization energy"
-msgstr "2.nd ionization energy"
+msgstr "2. Ionisierungsenergie"
 
 msgid "3.rd ionization energy"
-msgstr "3.rd ionization energy"
+msgstr "3. Ionisierungsenergie"
 
 msgid "Stable isotopes"
-msgstr "Stable isotopes"
+msgstr "Stabilen Isotopen"
 
 msgid "Unstable isotopes"
-msgstr "Unstable isotopes"
+msgstr "Instabile Isotope"
 
 msgid "Substance"
-msgstr "Substance"
+msgstr "Substanz"
 
 msgid "Talc"
-msgstr "Talc"
+msgstr "Speckstein"
 
 msgid "Rock salt"
-msgstr "Rock salt"
+msgstr "Halit"
 
 msgid "Limestone"
-msgstr "Limestone"
+msgstr "Kalkstein"
 
 msgid "Fluorspar"
-msgstr "Fluorspar"
+msgstr "Flussspat"
 
 msgid "Apatite"
 msgstr "Apatite"
 
 msgid "Feldspar"
-msgstr "Feldspar"
+msgstr "Feldspat"
 
 msgid "Quartz"
-msgstr "Quartz"
+msgstr "Quarz"
 
 msgid "Topaz"
-msgstr "Topaz"
+msgstr "Topas"
 
 msgid "Corundum"
-msgstr "Corundum"
+msgstr "Korund"
 
 msgid "Diamond"
-msgstr "Diamond"
+msgstr "Diamant"
 
 msgid "Antiquity"
-msgstr "Antiquity"
+msgstr "Antike"
 
 msgid "Heat capacity"
-msgstr "Heat capacity"
+msgstr "Wärmekapazität"
 
 msgid "Table view"
-msgstr "Table view"
-
+msgstr "Tabelle"

@@ -38,6 +38,9 @@ msgstr "Čeština"
 msgid "Slovak"
 msgstr "Slovenčina"
 
+msgid "German"
+msgstr "Nemčina"
+
 msgid "Default language"
 msgstr "Predvolený jazyk"
 
