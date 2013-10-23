@@ -4,7 +4,7 @@
 [% INCLUDE title.html %]
 
 <table id="atom" cellspacing="0" cellpadding="0">
-	<tr><th>[% l('Symbol') %]</th><td><div>[% element.symbol %]</div></td></tr> 
+	<tr><th>[% l('Symbol') %]</th><td><a href="tableview.html#[% element.symbol %]">[% element.symbol %]</a></td></tr> 
 	<tr><th>[% l('Latin name') %]</th><td><a href="index-ln.html#[% element.name_Latin %]">[% element.name_Latin %]</a></td></tr> 
 	<tr><th>[% l('Atomic number') %]</th><td><a href="index-an.html#[% element.anumber %]">[% element.anumber %]</a></td></tr> 
 	<tr><th>[% l('Period') %]</th><td><a href="p[% element.period %].html">[% element.period %]</a></td></tr> 

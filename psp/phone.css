@@ -41,8 +41,9 @@ p{padding:1em;margin:0;text-align:center;}
 .halogens{background:#f96;}
 .alkaline-earth-metals{background:#9c0;}
 .metals{background:#999;}
-.nonmetals{background:#f00;}
+.nonmetals{background:#f44;}
 .metalloids{background:#c63;}
 .transition-elements{background:#fb3;}
 .inner-transition-elements{background:#33b5e5;}
-.noble-gases{background:#f69;}
+.noble-gases{background:#a6c;}
+.selected{outline:solid 2px #c00;}

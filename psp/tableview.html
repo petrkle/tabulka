@@ -11,7 +11,7 @@
 [% FOR x = [0..17] %]
 <td>
 	[% IF elements.${x}.${y}.symbol %]
-	<a href="[% elements.${x}.${y}.name_Latin FILTER lower %].html" class="[% elements.${x}.${y}.category.filename %]">[% elements.${x}.${y}.symbol %]<span>[% elements.${x}.${y}.anumber %]</span></a>
+	<a href="[% elements.${x}.${y}.name_Latin FILTER lower %].html" class="[% elements.${x}.${y}.category.filename %]" name="[% elements.${x}.${y}.symbol %]" id="[% elements.${x}.${y}.symbol %]">[% elements.${x}.${y}.symbol %]<span>[% elements.${x}.${y}.anumber %]</span></a>
 	[% ELSE %]
 		&nbsp;
 	[% END %]
@@ -21,4 +21,11 @@
 [% END %]
 </table>
 </div>
+<script type="text/javascript">
+var selected = window.location.hash.split('#')[1];
+if(selected){
+	var element = document.getElementById(selected);
+	element.className += " selected";
+}
+</script>
 [% INCLUDE footer.html -%]
