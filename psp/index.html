@@ -2,37 +2,32 @@
 <head>
 <title>Language redirect</title>
 </head>
-<body>
+<body style="margin:0;padding:0;">
+
+<img style="position:absolute;top:50%;left:50%;width:255px;height:278px;margin-top:-127px;margin-left:-139px;" src="test-tube.png" onload="setTimeout(splash,500);" />
+
 <script type="text/javascript">
-var language = window.navigator.userLanguage || window.navigator.language;
+function splash() {
+	var language = window.navigator.userLanguage || window.navigator.language;
 
-if (localStorage.getItem('lang') != null) {
-	language = localStorage.getItem('lang');
-}
+	if (localStorage.getItem('lang') != null) {
+		language = localStorage.getItem('lang');
+	}
 
-switch (language) {
-  case 'cs':
-		redir('cs_CZ');
-    break;
-  case 'cs-CZ':
-		redir('cs_CZ');
-    break;
-  case 'sk':
-		redir('sk_SK');
-    break;
-  case 'sk-SK':
-		redir('sk_SK');
-    break;
-  case 'de':
-		redir('de_DE');
-    break;
-  case 'de-DE':
-		redir('de_DE');
-    break;
-  default:
-		redir('en_US');
-    break;
-}
+	switch (language) {
+[% FOREACH loc IN languages -%]
+		case '[% loc.android -%]':
+			redir('[% loc.locales -%]');
+			break;
+		case '[% loc.browser -%]':
+			redir('[% loc.locales -%]');
+			break;
+[% END -%]
+		default:
+			redir('en_US');
+			break;
+	}
+};
 
 function redir(lang){
 	if(window.outerWidth > window.outerHeight){
