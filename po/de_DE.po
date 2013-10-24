@@ -84,13 +84,13 @@ msgid "group"
 msgstr "uruppe"
 
 msgid "Electronegativity"
-msgstr "Elektronegativität"
+msgstr "Elektro<wbr>negativität"
 
 msgid "Oxidation numbers"
-msgstr "Oxidationszustände"
+msgstr "Oxidation<wbr>szustände"
 
 msgid "Electron configuration"
-msgstr "Elektronenkonfiguration"
+msgstr "Elektronen<wbr>konfiguration"
 
 msgid "Density"
 msgstr "Dichte"
@@ -102,10 +102,10 @@ msgid "Boiling point"
 msgstr "Siedepunkt"
 
 msgid "Critical point"
-msgstr "Kritická teplota"
+msgstr "Kritischer Punkt"
 
 msgid "Critical pressure"
-msgstr "Kritický tlak"
+msgstr "Kritischer Druck"
 
 msgid "Atomic radius"
 msgstr "Atomradius"
@@ -114,13 +114,13 @@ msgid "Covalent radius"
 msgstr "Kovalenter Radius"
 
 msgid "Thermal conductivity"
-msgstr "Wärmeleitfähigkeit"
+msgstr "Wärmeleit<wbr>fähigkeit"
 
 msgid "Discovery"
 msgstr "Entdeckung"
 
 msgid "Hardness"
-msgstr "Mohshärte"
+msgstr "Härte"
 
 msgid "Vickers hardness"
 msgstr "Vickers-Härte"
@@ -135,7 +135,7 @@ msgid "Shear modulus"
 msgstr "Schubmodul"
 
 msgid "Young's modulus"
-msgstr "Elastizitätsmodul"
+msgstr "Elasti<wbr>zitätsmodul"
 
 msgid "Electrical resistivity"
 msgstr "Elektrischer Widerstand"
@@ -165,19 +165,19 @@ msgid "Noble gases"
 msgstr "Edelgase"
 
 msgid "Inner transition elements"
-msgstr "Inner Übergangselementen"
+msgstr "Inner Transitions<wbr>elemente"
 
 msgid "Transition elements"
 msgstr "Transition Elemente"
 
 msgid "Metalloids"
-msgstr "Metalloidspeziation"
+msgstr "Metalloids<wbr>peziation"
 
 msgid "Nonmetals"
 msgstr "Nichtmetalle"
 
 msgid "Alkaline earth metals"
-msgstr "Erdalkalimetalle"
+msgstr "Erdalkali<wbr>metalle"
 
 msgid "Metals"
 msgstr "Metalle"
@@ -189,13 +189,13 @@ msgid "Alkali metals"
 msgstr "Alkalimetalle"
 
 msgid "1.st ionization energy"
-msgstr "1. Ionisierungsenergie"
+msgstr "1. Ionisierungs<wbr>energie"
 
 msgid "2.nd ionization energy"
-msgstr "2. Ionisierungsenergie"
+msgstr "2. Ionisierungs<wbr>energie"
 
 msgid "3.rd ionization energy"
-msgstr "3. Ionisierungsenergie"
+msgstr "3. Ionisierungs<wbr>energie"
 
 msgid "Stable isotopes"
 msgstr "Stabilen Isotopen"
