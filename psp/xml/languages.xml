@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lagnuages>
+
+	<lang>
+		<fullname>English</fullname>
+		<locales>en_US</locales>
+		<android>en</android>
+		<browser>en-US</browser>
+	</lang>
+
+	<lang>
+		<fullname>German</fullname>
+		<locales>de_DE</locales>
+		<android>de</android>
+		<browser>de-DE</browser>
+	</lang>
+
+	<lang>
+		<fullname>Czech</fullname>
+		<locales>cs_CZ</locales>
+		<android>cs</android>
+		<browser>cs-CZ</browser>
+	</lang>
+
+	<lang>
+		<fullname>Slovak</fullname>
+		<locales>sk_SK</locales>
+		<android>sk</android>
+		<browser>sk-SK</browser>
+	</lang>
+
+</lagnuages>

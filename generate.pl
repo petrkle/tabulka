@@ -23,6 +23,8 @@ $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
 
 system("cd po && make");
 
+my $OUT = "assets/www";
+
 my @langs = get_langs();
 
 my $xml = new XML::Simple;
@@ -41,9 +43,9 @@ my $strings = $xml->XMLin("res/values/strings.xml");
 
 my $appname = $strings->{'string'}{'content'};
 
-my @tableview = ();
+my $languages = $xml->XMLin("psp/xml/languages.xml");
 
-my $OUT = "assets/www";
+my @tableview = ();
 
 my $t = Template->new({
 		INCLUDE_PATH => 'psp',
@@ -208,6 +210,7 @@ foreach my $lang (@langs){
 
 	$t->process('language.html',
 		{	'title' => 'Language',
+			'languages' => $languages->{lang},
 		},
 		"$OUT/$lang/language.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -221,17 +224,18 @@ foreach my $lang (@langs){
 }
 
 $t->process('index.html',
-	{ 'langs' => [@langs]
+	{ 
+			'languages' => $languages->{lang}
 	},
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-copy("psp/phone.css","$OUT/phone.css");
-copy("psp/tablet7.css","$OUT/tablet7.css");
-copy("psp/tablet10.css","$OUT/tablet10.css");
-copy("psp/img/right.png","$OUT/right.png");
-copy("psp/img/z.png","$OUT/z.png");
-copy("psp/roboto-regular.ttf","$OUT/roboto-regular.ttf");
+foreach my $dir (('css', 'img', 'font')){
+	foreach my $file (glob("psp/$dir/*")){
+		my ($name,$path) = fileparse($file);
+		copy("$path$name", "$OUT/$name");
+	}
+}
 
 sub get_langs{
 	my @langs = ();
