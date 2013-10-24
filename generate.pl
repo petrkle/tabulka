@@ -108,7 +108,7 @@ foreach my $lang (@langs){
 	for my $group (@{$groups->{group}}){
 
 		$t->process('group.html',
-			{ 'elements' => [@sortedbyname],
+			{ 'elements' => [@sortedbyanumber],
 				'cur' => $group->{'filename'},
 				'cur_l' => $group->{'fullname'},
 				'title' => $locappname,
@@ -162,7 +162,7 @@ foreach my $lang (@langs){
 
 	for my $period (@{$periods->{period}}){
 		$t->process('period.html',
-			{ 'elements' => [@sortedbyname],
+			{ 'elements' => [@sortedbyanumber],
 				'periods' => $periods->{period},
 				'period' => $period->{'number'},
 		  	'elementname' => "name_$lang",
