@@ -16,6 +16,13 @@
 	</lang>
 
 	<lang>
+		<fullname>French</fullname>
+		<locales>fr_FR</locales>
+		<android>fr</android>
+		<browser>fr-FR</browser>
+	</lang>
+
+	<lang>
 		<fullname>Czech</fullname>
 		<locales>cs_CZ</locales>
 		<android>cs</android>

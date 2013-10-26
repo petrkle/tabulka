@@ -41,6 +41,9 @@ msgstr "Slovak"
 msgid "German"
 msgstr "German"
 
+msgid "French"
+msgstr "French"
+
 msgid "Default language"
 msgstr "Default language"
 

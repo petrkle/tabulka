@@ -43,6 +43,9 @@ msgstr "Slovenština"
 msgid "German"
 msgstr "Němčina"
 
+msgid "French"
+msgstr "Francouzština"
+
 msgid "Default language"
 msgstr "Výchozí jazyk"
 
