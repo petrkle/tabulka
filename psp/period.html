@@ -9,9 +9,9 @@
 [% IF period %]
 [% FOREACH per IN periods %]
 	[% IF period == per.number %]
-		[% FOREACH foo IN elements %]
-		[% IF foo.period == period %]
-		<li><a href="[% foo.name_Latin FILTER lower %].html" class="element"><span class="elementname">[% foo.${elementname} %]</span><span class="symbol">[% foo.symbol %]<span class="anumber">[% foo.anumber %]</span></span></a></li>
+		[% FOREACH element IN elements %]
+		[% IF element.period == period %]
+		<li><a href="[% element.name_Latin FILTER lower %].html" class="element"><span class="elementname">[% element.${elementname} %]</span><span class="symbol">[% element.symbol %]<span class="anumber">[% element.anumber %]</span></span></a></li>
 		[% END %]
 		[% END %]
 	[% END %]

@@ -69,9 +69,10 @@ foreach my $lang (@langs){
 	for my $category (@{$categories->{category}}){
 
 		my $data = $xml->XMLin("psp/xml/$category->{'filename'}.xml");
+	  my @sorted = sort {$a->{anumber} <=> $b->{anumber}} @{$data->{element}};
 
 		$t->process('category.html',
-			{ 'elements' => $data,
+			{ 'elements' => [@sorted],
 				'cur' => $category->{'filename'},
 				'cur_l' => $category->{'fullname'},
 				'title' => $locappname,
