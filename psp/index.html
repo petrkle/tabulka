@@ -31,9 +31,9 @@ function splash() {
 
 function redir(lang){
 	if(window.outerWidth > window.outerHeight){
-		window.location = lang + "/tableview.html";
+		window.location.replace(lang + "/tableview.html");
 	}else{
-		window.location = lang + "/index.html";
+		window.location.replace(lang + "/index.html");
 	}
 }
 
