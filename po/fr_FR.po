@@ -23,10 +23,10 @@ msgid "Settings"
 msgstr "Réglages"
 
 msgid "Language"
-msgstr "Langage"
+msgstr "Langue"
 
 msgid "About"
-msgstr "Sur"
+msgstr "À propos"
 
 msgid "English"
 msgstr "Anglais"

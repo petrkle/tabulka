@@ -57,6 +57,7 @@
 	<target name="-pre-build">
     <ant target="generate-locales" />
     <ant target="generate-html" />
+    <ant target="compress-html" />
 	</target>
 
 	<target name="-pre-clean">
@@ -75,6 +76,13 @@
 	<echo>Generating html</echo>
 		<exec executable="perl" dir="." failonerror="true">
 			<arg value="generate.pl"/>
+	 </exec>
+	</target>
+
+	<target name="compress-html">
+	<echo>Compressing html</echo>
+		<exec executable="java" dir="." failonerror="true">
+			<arg line="-jar ${user.home}/lib/htmlcompressor-1.5.3.jar --compress-js -r -m '*.html' -o assets/www/ assets/www/" />
 	 </exec>
 	</target>
 
