@@ -24,7 +24,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Amerícium</name_sk_SK>
-    <x>5</x>
+    <x>7</x>
     <y>9</y>
   </element>
   <element>
@@ -49,7 +49,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Berkélium</name_sk_SK>
-    <x>7</x>
+    <x>9</x>
     <y>9</y>
   </element>
   <element>
@@ -86,7 +86,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Cér</name_sk_SK>
-    <x>0</x>
+    <x>2</x>
     <y>8</y>
   </element>
   <element>
@@ -111,7 +111,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Curium</name_sk_SK>
-    <x>6</x>
+    <x>8</x>
     <y>9</y>
   </element>
   <element>
@@ -147,7 +147,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Dysprózium</name_sk_SK>
-    <x>8</x>
+    <x>10</x>
     <y>8</y>
   </element>
   <element>
@@ -171,7 +171,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Einsteinium</name_sk_SK>
-    <x>9</x>
+    <x>11</x>
     <y>9</y>
   </element>
   <element>
@@ -207,7 +207,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Erbium</name_sk_SK>
-    <x>10</x>
+    <x>12</x>
     <y>8</y>
   </element>
   <element>
@@ -242,7 +242,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Európium</name_sk_SK>
-    <x>5</x>
+    <x>7</x>
     <y>8</y>
   </element>
   <element>
@@ -265,7 +265,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Fermium</name_sk_SK>
-    <x>10</x>
+    <x>12</x>
     <y>9</y>
   </element>
   <element>
@@ -302,7 +302,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Gadolínium</name_sk_SK>
-    <x>6</x>
+    <x>8</x>
     <y>8</y>
   </element>
   <element>
@@ -339,7 +339,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Holmium</name_sk_SK>
-    <x>9</x>
+    <x>11</x>
     <y>8</y>
   </element>
   <element>
@@ -364,7 +364,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Kalifornium</name_sk_SK>
-    <x>8</x>
+    <x>10</x>
     <y>9</y>
   </element>
   <element>
@@ -386,7 +386,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Lawrencium</name_sk_SK>
-    <x>13</x>
+    <x>15</x>
     <y>9</y>
   </element>
   <element>
@@ -423,7 +423,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Lutécium</name_sk_SK>
-    <x>13</x>
+    <x>15</x>
     <y>8</y>
   </element>
   <element>
@@ -446,7 +446,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Mendelevium</name_sk_SK>
-    <x>11</x>
+    <x>13</x>
     <y>9</y>
   </element>
   <element>
@@ -482,7 +482,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Neodým</name_sk_SK>
-    <x>2</x>
+    <x>4</x>
     <y>8</y>
   </element>
   <element>
@@ -510,7 +510,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Neptúnium</name_sk_SK>
-    <x>3</x>
+    <x>5</x>
     <y>9</y>
   </element>
   <element>
@@ -533,7 +533,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Nobelium</name_sk_SK>
-    <x>12</x>
+    <x>14</x>
     <y>9</y>
   </element>
   <element>
@@ -564,7 +564,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Plutónium</name_sk_SK>
-    <x>4</x>
+    <x>6</x>
     <y>9</y>
   </element>
   <element>
@@ -601,7 +601,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Prazeodým</name_sk_SK>
-    <x>1</x>
+    <x>3</x>
     <y>8</y>
   </element>
   <element>
@@ -634,7 +634,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Prométium</name_sk_SK>
-    <x>3</x>
+    <x>5</x>
     <y>8</y>
   </element>
   <element>
@@ -661,7 +661,7 @@
     <group>V.B</group>
     <state>s</state>
     <name_sk_SK>Protaktínium</name_sk_SK>
-    <x>1</x>
+    <x>3</x>
     <y>9</y>
   </element>
   <element>
@@ -698,7 +698,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Samárium</name_sk_SK>
-    <x>4</x>
+    <x>6</x>
     <y>8</y>
   </element>
   <element>
@@ -734,7 +734,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Terbium</name_sk_SK>
-    <x>7</x>
+    <x>9</x>
     <y>8</y>
   </element>
   <element>
@@ -770,7 +770,7 @@
     <group>IV.B</group>
     <state>s</state>
     <name_sk_SK>Tórium</name_sk_SK>
-    <x>0</x>
+    <x>2</x>
     <y>9</y>
   </element>
   <element>
@@ -806,7 +806,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Túlium</name_sk_SK>
-    <x>11</x>
+    <x>13</x>
     <y>8</y>
   </element>
   <element>
@@ -840,7 +840,7 @@
     <group>VI.B</group>
     <state>s</state>
     <name_sk_SK>Urán</name_sk_SK>
-    <x>2</x>
+    <x>4</x>
     <y>9</y>
   </element>
   <element>
@@ -876,7 +876,7 @@
     <group>III.B</group>
     <state>s</state>
     <name_sk_SK>Yterbium</name_sk_SK>
-    <x>12</x>
+    <x>14</x>
     <y>8</y>
   </element>
 </elements>
