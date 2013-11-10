@@ -42,7 +42,7 @@ msgid "Slovak"
 msgstr "Slowakisch"
 
 msgid "French"
-msgstr "Frans"
+msgstr "Französisch"
 
 msgid "Default language"
 msgstr "Standardsprache"
@@ -90,7 +90,7 @@ msgid "Electronegativity"
 msgstr "Elektro<wbr>negativität"
 
 msgid "Oxidation numbers"
-msgstr "Oxidation<wbr>szustände"
+msgstr "Oxidations<wbr>zustände"
 
 msgid "Electron configuration"
 msgstr "Elektronen<wbr>konfiguration"
@@ -150,7 +150,7 @@ msgid "Name"
 msgstr "Name"
 
 msgid "Latin name"
-msgstr "Lateinischen Name"
+msgstr "Lateinischer Name"
 
 msgid "Version"
 msgstr "Version"
@@ -171,7 +171,7 @@ msgid "Inner transition elements"
 msgstr "Inner Transitions<wbr>elemente"
 
 msgid "Transition elements"
-msgstr "Transition Elemente"
+msgstr "Transition<wbr>elemente"
 
 msgid "Metalloids"
 msgstr "Metalloids<wbr>peziation"
@@ -201,7 +201,7 @@ msgid "3.rd ionization energy"
 msgstr "3. Ionisierungs<wbr>energie"
 
 msgid "Stable isotopes"
-msgstr "Stabilen Isotopen"
+msgstr "Stabile Isotope"
 
 msgid "Unstable isotopes"
 msgstr "Instabile Isotope"

@@ -53,13 +53,13 @@ msgid "State"
 msgstr "Skupenství"
 
 msgid "Solid"
-msgstr "Pevná látka"
+msgstr "Tuhé"
 
 msgid "Liquid"
-msgstr "Kapalina"
+msgstr "Kapalné"
 
 msgid "Gas"
-msgstr "Plyn"
+msgstr "Plynné"
 
 msgid "Symbol"
 msgstr "Značka"
