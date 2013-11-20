@@ -82,7 +82,7 @@
 	<target name="compress-html">
 	<echo>Compressing html</echo>
 		<exec executable="java" dir="." failonerror="true">
-			<arg line="-jar ${user.home}/lib/htmlcompressor-1.5.3.jar --compress-js -r -m '*.html' -o assets/www/ assets/www/" />
+			<arg line="-jar ${user.home}/lib/htmlcompressor-1.5.3.jar --compress-js --remove-surrounding-spaces all -r -m '*.html' -o assets/www/ assets/www/" />
 	 </exec>
 	</target>
 

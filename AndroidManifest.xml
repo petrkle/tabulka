@@ -5,7 +5,7 @@ android:versionName="2.1"
 android:versionCode="15"
 android:windowSoftInputMode="adjustPan"
 package="cz.kle.tabulka"
-android:installLocation="preferExternal">
+android:installLocation="auto">
 
 <supports-screens
 android:anyDensity="true"
