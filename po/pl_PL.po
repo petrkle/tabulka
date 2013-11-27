@@ -92,7 +92,7 @@ msgid "group"
 msgstr "grupa"
 
 msgid "Electronegativity"
-msgstr "Elektroujemność"
+msgstr "Elektro<wbr>ujemność"
 
 msgid "Oxidation numbers"
 msgstr "Liczba utlenienia"
