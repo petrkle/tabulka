@@ -43,6 +43,12 @@ msgstr "Allemand"
 msgid "French"
 msgstr "Français"
 
+msgid "Polish"
+msgstr "Polonais"
+
+msgid "Spanish"
+msgstr "Espagnol"
+
 msgid "Default language"
 msgstr "Langue par défaut"
 

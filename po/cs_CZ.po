@@ -46,6 +46,12 @@ msgstr "Němčina"
 msgid "French"
 msgstr "Francouzština"
 
+msgid "Polish"
+msgstr "Polština"
+
+msgid "Spanish"
+msgstr "Španělština"
+
 msgid "Default language"
 msgstr "Výchozí jazyk"
 

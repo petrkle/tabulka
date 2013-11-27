@@ -36,4 +36,18 @@
 		<browser>sk-SK</browser>
 	</lang>
 
+	<lang>
+		<fullname>Polish</fullname>
+		<locales>pl_PL</locales>
+		<android>pl</android>
+		<browser>pl-PL</browser>
+	</lang>
+
+	<lang>
+		<fullname>Spanish</fullname>
+		<locales>es_ES</locales>
+		<android>es</android>
+		<browser>es-ES</browser>
+	</lang>
+
 </lagnuages>

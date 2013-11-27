@@ -31,6 +31,8 @@
     <name_sk_SK>Argón</name_sk_SK>
     <x>17</x>
     <y>2</y>
+    <name_pl_PL>Argon</name_pl_PL>
+    <name_es_ES>Argón</name_es_ES>
   </element>
   <element>
     <anumber>2</anumber>
@@ -60,6 +62,8 @@
     <name_sk_SK>Hélium</name_sk_SK>
     <x>17</x>
     <y>0</y>
+    <name_pl_PL>Hel</name_pl_PL>
+    <name_es_ES>Helio</name_es_ES>
   </element>
   <element>
     <anumber>36</anumber>
@@ -93,6 +97,8 @@
     <name_sk_SK>Kryptón</name_sk_SK>
     <x>17</x>
     <y>3</y>
+    <name_pl_PL>Krypton</name_pl_PL>
+    <name_es_ES>Kriptón</name_es_ES>
   </element>
   <element>
     <anumber>10</anumber>
@@ -125,6 +131,8 @@
     <name_sk_SK>Neón</name_sk_SK>
     <x>17</x>
     <y>1</y>
+    <name_pl_PL>Neon</name_pl_PL>
+    <name_es_ES>Neón</name_es_ES>
   </element>
   <element>
     <anumber>86</anumber>
@@ -156,6 +164,8 @@
     <name_sk_SK>Radón</name_sk_SK>
     <x>17</x>
     <y>5</y>
+    <name_pl_PL>Radon</name_pl_PL>
+    <name_es_ES>Radón</name_es_ES>
   </element>
   <element>
     <anumber>54</anumber>
@@ -189,5 +199,7 @@
     <name_sk_SK>Xenón</name_sk_SK>
     <x>17</x>
     <y>4</y>
+    <name_pl_PL>Ksenon</name_pl_PL>
+    <name_es_ES>Xenón</name_es_ES>
   </element>
 </elements>

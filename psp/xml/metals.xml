@@ -37,6 +37,8 @@
     <name_sk_SK>Berýlium</name_sk_SK>
     <x>1</x>
     <y>1</y>
+    <name_pl_PL>Beryl</name_pl_PL>
+    <name_es_ES>Berilio</name_es_ES>
   </element>
   <element>
     <anumber>83</anumber>
@@ -74,6 +76,8 @@
     <name_sk_SK>Bizmut</name_sk_SK>
     <x>14</x>
     <y>5</y>
+    <name_pl_PL>Bizmut</name_pl_PL>
+    <name_es_ES>Bismuto</name_es_ES>
   </element>
   <element>
     <anumber>50</anumber>
@@ -111,6 +115,8 @@
     <name_sk_SK>Cín</name_sk_SK>
     <x>13</x>
     <y>4</y>
+    <name_pl_PL>Cyna</name_pl_PL>
+    <name_es_ES>Estaño</name_es_ES>
   </element>
   <element>
     <anumber>31</anumber>
@@ -144,6 +150,8 @@
     <name_sk_SK>Gálium</name_sk_SK>
     <x>12</x>
     <y>3</y>
+    <name_pl_PL>Gal</name_pl_PL>
+    <name_es_ES>Galio</name_es_ES>
   </element>
   <element>
     <anumber>13</anumber>
@@ -183,6 +191,8 @@
     <name_sk_SK>Hliník</name_sk_SK>
     <x>12</x>
     <y>2</y>
+    <name_pl_PL>Glin</name_pl_PL>
+    <name_es_ES>Aluminio</name_es_ES>
   </element>
   <element>
     <anumber>12</anumber>
@@ -220,6 +230,8 @@
     <name_sk_SK>Horčík</name_sk_SK>
     <x>1</x>
     <y>2</y>
+    <name_pl_PL>Magnez</name_pl_PL>
+    <name_es_ES>Magnesio</name_es_ES>
   </element>
   <element>
     <anumber>49</anumber>
@@ -255,6 +267,8 @@
     <name_sk_SK>Indium</name_sk_SK>
     <x>12</x>
     <y>4</y>
+    <name_pl_PL>Ind</name_pl_PL>
+    <name_es_ES>Indio</name_es_ES>
   </element>
   <element>
     <anumber>82</anumber>
@@ -293,6 +307,8 @@
     <name_sk_SK>Olovo</name_sk_SK>
     <x>13</x>
     <y>5</y>
+    <name_pl_PL>Ołów</name_pl_PL>
+    <name_es_ES>Chumbo</name_es_ES>
   </element>
   <element>
     <anumber>84</anumber>
@@ -321,6 +337,8 @@
     <name_sk_SK>Polónium</name_sk_SK>
     <x>15</x>
     <y>5</y>
+    <name_pl_PL>Polon</name_pl_PL>
+    <name_es_ES>Polonio</name_es_ES>
   </element>
   <element>
     <anumber>81</anumber>
@@ -355,5 +373,7 @@
     <name_sk_SK>Tálium</name_sk_SK>
     <x>12</x>
     <y>5</y>
+    <name_pl_PL>Tal</name_pl_PL>
+    <name_es_ES>Talio</name_es_ES>
   </element>
 </elements>

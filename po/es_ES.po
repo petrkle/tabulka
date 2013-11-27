@@ -3,253 +3,252 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Sistema periódico\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-04 13:39+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: de_DE\n"
+"PO-Revision-Date: 2013-10-22 12:51+0100\n"
+"Last-Translator: Petr Kletečka <petr@kle.cz>\n"
+"Language-Team: Spanish <petr@kle.cz>\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Periodensystem"
+msgstr "Sistema periódico"
 
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr "Ajuste"
 
 msgid "Language"
-msgstr "Sprache"
+msgstr "Idioma"
 
 msgid "About"
-msgstr "Über"
+msgstr "Acerca de"
 
 msgid "English"
-msgstr "Englisch"
-
-msgid "German"
-msgstr "Deutsch"
+msgstr "Inglés"
 
 msgid "Czech"
-msgstr "Tschechisch"
+msgstr "Checo"
 
 msgid "Slovak"
-msgstr "Slowakisch"
+msgstr "Eslovaco"
+
+msgid "German"
+msgstr "Alemán"
 
 msgid "French"
-msgstr "Französisch"
+msgstr "Francés"
 
 msgid "Polish"
-msgstr "Polnisch"
+msgstr "Polaco"
 
 msgid "Spanish"
-msgstr "Spanisch"
+msgstr "Español"
 
 msgid "Default language"
-msgstr "Standardsprache"
+msgstr "Idioma predeterminado"
 
 msgid "State"
-msgstr "Aggregatzustand"
+msgstr "Estado"
 
 msgid "Solid"
-msgstr "Solide"
+msgstr "Sólido"
 
 msgid "Liquid"
-msgstr "Flüssige"
+msgstr "Líquido"
 
 msgid "Gas"
-msgstr "Gas"
+msgstr "Gaseoso"
 
 msgid "Symbol"
-msgstr "Symbol"
+msgstr "Símbolo"
 
 msgid "Atomic number"
-msgstr "Ordnungszahl"
+msgstr "Número"
 
 msgid "Period"
-msgstr "Periode"
+msgstr "Período"
 
 msgid "period"
-msgstr "periode"
+msgstr "período"
 
 msgid "Element category"
-msgstr "Spezies"
+msgstr "Especies"
 
 msgid "Relative atomic mass"
-msgstr "Relative Atommasse"
+msgstr "Masa atómica relativa"
 
 msgid "Atomic mass"
-msgstr "Atommasse"
+msgstr "Masa atómica"
 
 msgid "Group"
-msgstr "Gruppe"
+msgstr "Grupo"
 
 msgid "group"
-msgstr "uruppe"
+msgstr "grupo"
 
 msgid "Electronegativity"
-msgstr "Elektro<wbr>negativität"
+msgstr "Electro<wbr>negatividad"
 
 msgid "Oxidation numbers"
-msgstr "Oxidations<wbr>zustände"
+msgstr "Estado(s) de oxidación"
 
 msgid "Electron configuration"
-msgstr "Elektronen<wbr>konfiguration"
+msgstr "Configuración electrónica"
 
 msgid "Density"
-msgstr "Dichte"
+msgstr "Densidad"
 
 msgid "Melting point"
-msgstr "Schmelzpunkt"
+msgstr "Punto de fusión"
 
 msgid "Boiling point"
-msgstr "Siedepunkt"
+msgstr "Punto de ebullición"
 
 msgid "Critical point"
-msgstr "Kritischer Punkt"
+msgstr "Punto crítico"
 
 msgid "Critical pressure"
-msgstr "Kritischer Druck"
+msgstr "Presión crítico"
 
 msgid "Atomic radius"
-msgstr "Atomradius"
+msgstr "Radio atómico"
 
 msgid "Covalent radius"
-msgstr "Kovalenter Radius"
+msgstr "Radio covalente"
 
 msgid "Thermal conductivity"
-msgstr "Wärmeleit<wbr>fähigkeit"
+msgstr "Conductividad térmica"
 
 msgid "Discovery"
-msgstr "Entdeckung"
+msgstr "Descubrimi<wbr>ento"
 
 msgid "Hardness"
-msgstr "Härte"
+msgstr "Dureza"
 
 msgid "Vickers hardness"
-msgstr "Vickers-Härte"
+msgstr "Dureza Vickers"
 
 msgid "Brinell hardness"
-msgstr "Brinellhärte"
+msgstr "Dureza Brinell"
 
 msgid "Mohs scale"
-msgstr "Mohshärte"
+msgstr "Escala de Mohs"
 
 msgid "Shear modulus"
-msgstr "Schubmodul"
+msgstr "Módulo de cizalladura"
 
 msgid "Young's modulus"
-msgstr "Elasti<wbr>zitätsmodul"
+msgstr "Módulo de Young"
 
 msgid "Electrical resistivity"
-msgstr "Elektrischer Widerstand"
+msgstr "Resistividad"
 
 msgid "Electrical conductivity"
-msgstr "Elektrische Leitfähigkeit"
+msgstr "Conductividad eléctrica"
 
 msgid "Name"
-msgstr "Name"
+msgstr "Nombre"
 
 msgid "Latin name"
-msgstr "Lateinischer Name"
+msgstr "Nombre latino"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Versión"
 
 msgid "Created"
-msgstr "Erstellt"
+msgstr "Creado"
 
 msgid "Author"
-msgstr "Verfasser"
+msgstr "Artífice"
 
 msgid "Write review"
-msgstr "Bewertung schreiben"
+msgstr "Escribir un comentario"
 
 msgid "Noble gases"
-msgstr "Edelgase"
+msgstr "Gases nobles"
 
 msgid "Inner transition elements"
-msgstr "Inner Transitions<wbr>elemente"
+msgstr "Elementos de transición interna"
 
 msgid "Transition elements"
-msgstr "Transition<wbr>elemente"
+msgstr "Metales de transición"
 
 msgid "Metalloids"
-msgstr "Metalloids<wbr>peziation"
+msgstr "Metaloides"
 
 msgid "Nonmetals"
-msgstr "Nichtmetalle"
+msgstr "No metales"
 
 msgid "Alkaline earth metals"
-msgstr "Erdalkali<wbr>metalle"
+msgstr "Metales alcalino<wbr>térreos"
 
 msgid "Metals"
-msgstr "Metalle"
+msgstr "Metales"
 
 msgid "Halogens"
-msgstr "Halogene"
+msgstr "Halógenos"
 
 msgid "Alkali metals"
-msgstr "Alkalimetalle"
+msgstr "Alcalinos"
 
 msgid "1.st ionization energy"
-msgstr "1. Ionisierungs<wbr>energie"
+msgstr "1.ª Energía de ionización"
 
 msgid "2.nd ionization energy"
-msgstr "2. Ionisierungs<wbr>energie"
+msgstr "2.ª Energía de ionización"
 
 msgid "3.rd ionization energy"
-msgstr "3. Ionisierungs<wbr>energie"
+msgstr "3.ª Energía de ionización"
 
 msgid "Stable isotopes"
-msgstr "Stabile Isotope"
+msgstr "Isótopos estables"
 
 msgid "Unstable isotopes"
-msgstr "Instabile Isotope"
+msgstr "Isótopos inestables"
 
 msgid "Substance"
-msgstr "Substanz"
+msgstr "Sustancia"
 
 msgid "Talc"
-msgstr "Speckstein"
+msgstr "Talco"
 
 msgid "Rock salt"
-msgstr "Halit"
+msgstr "Yeso"
 
 msgid "Limestone"
-msgstr "Kalkstein"
+msgstr "Calcita"
 
 msgid "Fluorspar"
-msgstr "Flussspat"
+msgstr "Fluorita"
 
 msgid "Apatite"
-msgstr "Apatite"
+msgstr "Apatita"
 
 msgid "Feldspar"
-msgstr "Feldspat"
+msgstr "Ortoclasa"
 
 msgid "Quartz"
-msgstr "Quarz"
+msgstr "Cuarzo"
 
 msgid "Topaz"
-msgstr "Topas"
+msgstr "Topacio"
 
 msgid "Corundum"
-msgstr "Korund"
+msgstr "Corindón"
 
 msgid "Diamond"
-msgstr "Diamant"
+msgstr "Diamante"
 
 msgid "Antiquity"
-msgstr "Antike"
+msgstr "Antigüedad"
 
 msgid "Heat capacity"
-msgstr "Wärmekapazität"
+msgstr "Capacidad calorífica"
 
 msgid "Table view"
-msgstr "Tabelle"
+msgstr "Tabla"

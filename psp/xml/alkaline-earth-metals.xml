@@ -32,6 +32,8 @@
     <name_sk_SK>Bárium</name_sk_SK>
     <x>1</x>
     <y>5</y>
+    <name_pl_PL>Bar</name_pl_PL>
+    <name_es_ES>Bario</name_es_ES>
   </element>
   <element>
     <anumber>88</anumber>
@@ -62,6 +64,8 @@
     <name_sk_SK>Rádium</name_sk_SK>
     <x>1</x>
     <y>6</y>
+    <name_pl_PL>Rad</name_pl_PL>
+    <name_es_ES>Radio</name_es_ES>
   </element>
   <element>
     <anumber>38</anumber>
@@ -96,6 +100,8 @@
     <name_sk_SK>Stroncium</name_sk_SK>
     <x>1</x>
     <y>4</y>
+    <name_pl_PL>Stront</name_pl_PL>
+    <name_es_ES>Estroncio</name_es_ES>
   </element>
   <element>
     <anumber>20</anumber>
@@ -131,5 +137,7 @@
     <name_sk_SK>Vápnik</name_sk_SK>
     <x>1</x>
     <y>3</y>
+    <name_pl_PL>Wapń</name_pl_PL>
+    <name_es_ES>Calcio</name_es_ES>
   </element>
 </elements>

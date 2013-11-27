@@ -36,6 +36,8 @@
     <name_sk_SK>Antimón</name_sk_SK>
     <x>14</x>
     <y>4</y>
+    <name_pl_PL>Antymon</name_pl_PL>
+    <name_es_ES>Antimonio</name_es_ES>
   </element>
   <element>
     <anumber>33</anumber>
@@ -72,6 +74,8 @@
     <name_sk_SK>Arzén</name_sk_SK>
     <x>14</x>
     <y>3</y>
+    <name_pl_PL>Arsen</name_pl_PL>
+    <name_es_ES>Arsénico</name_es_ES>
   </element>
   <element>
     <anumber>85</anumber>
@@ -99,6 +103,8 @@
     <name_sk_SK>Astát</name_sk_SK>
     <x>16</x>
     <y>5</y>
+    <name_pl_PL>Astat</name_pl_PL>
+    <name_es_ES>Ástato</name_es_ES>
   </element>
   <element>
     <anumber>5</anumber>
@@ -134,6 +140,8 @@
     <name_sk_SK>Bór</name_sk_SK>
     <x>12</x>
     <y>1</y>
+    <name_pl_PL>Bor</name_pl_PL>
+    <name_es_ES>Boro</name_es_ES>
   </element>
   <element>
     <anumber>32</anumber>
@@ -166,6 +174,8 @@
     <name_sk_SK>Germánium</name_sk_SK>
     <x>13</x>
     <y>3</y>
+    <name_pl_PL>German</name_pl_PL>
+    <name_es_ES>Germanio</name_es_ES>
   </element>
   <element>
     <anumber>14</anumber>
@@ -201,6 +211,8 @@
     <name_sk_SK>Kremík</name_sk_SK>
     <x>13</x>
     <y>2</y>
+    <name_pl_PL>Krzem</name_pl_PL>
+    <name_es_ES>Silicio</name_es_ES>
   </element>
   <element>
     <anumber>52</anumber>
@@ -238,5 +250,7 @@
     <name_sk_SK>Telúr</name_sk_SK>
     <x>15</x>
     <y>4</y>
+    <name_pl_PL>Tellur</name_pl_PL>
+    <name_es_ES>Telurio</name_es_ES>
   </element>
 </elements>

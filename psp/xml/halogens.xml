@@ -34,6 +34,8 @@
     <name_sk_SK>Bróm</name_sk_SK>
     <x>16</x>
     <y>3</y>
+    <name_pl_PL>Brom</name_pl_PL>
+    <name_es_ES>Bromo</name_es_ES>
   </element>
   <element>
     <anumber>17</anumber>
@@ -68,6 +70,8 @@
     <name_sk_SK>Chlór</name_sk_SK>
     <x>16</x>
     <y>2</y>
+    <name_pl_PL>Chlor</name_pl_PL>
+    <name_es_ES>Cloro</name_es_ES>
   </element>
   <element>
     <anumber>9</anumber>
@@ -102,6 +106,8 @@
     <name_sk_SK>Fluór</name_sk_SK>
     <x>16</x>
     <y>1</y>
+    <name_pl_PL>Fluor</name_pl_PL>
+    <name_es_ES>Flúor</name_es_ES>
   </element>
   <element>
     <anumber>53</anumber>
@@ -137,5 +143,7 @@
     <name_sk_SK>Jód</name_sk_SK>
     <x>16</x>
     <y>4</y>
+    <name_pl_PL>Jod</name_pl_PL>
+    <name_es_ES>Iodo</name_es_ES>
   </element>
 </elements>

@@ -44,6 +44,12 @@ msgstr "German"
 msgid "French"
 msgstr "French"
 
+msgid "Polish"
+msgstr "Polish"
+
+msgid "Spanish"
+msgstr "Spanish"
+
 msgid "Default language"
 msgstr "Default language"
 
