@@ -90,7 +90,7 @@ msgid "Group"
 msgstr "Gruppe"
 
 msgid "group"
-msgstr "uruppe"
+msgstr "Gruppe"
 
 msgid "Electronegativity"
 msgstr "Elektro<wbr>negativität"
