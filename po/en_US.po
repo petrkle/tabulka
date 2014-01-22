@@ -254,5 +254,14 @@ msgstr "Heat capacity"
 msgid "Table view"
 msgstr "Table view"
 
+msgid "Download"
+msgstr "Download"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Source code"
+msgstr "Source code"
+
 msgid "Unknown"
 msgstr "Unknown"
