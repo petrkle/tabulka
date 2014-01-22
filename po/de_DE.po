@@ -253,3 +253,15 @@ msgstr "Wärmekapazität"
 
 msgid "Table view"
 msgstr "Tabelle"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Source code"
+msgstr "Source code"
+
+msgid "Unknown"
+msgstr "Unbekannt"

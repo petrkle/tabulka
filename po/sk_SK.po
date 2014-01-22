@@ -253,3 +253,15 @@ msgstr "Tepelná kapacita"
 
 msgid "Table view"
 msgstr "Tabuľka"
+
+msgid "Download"
+msgstr "Na stiahnutie"
+
+msgid "Links"
+msgstr "Odkazy"
+
+msgid "Source code"
+msgstr "Zdrojový kód"
+
+msgid "Unknown"
+msgstr "Neznáme"

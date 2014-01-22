@@ -253,3 +253,14 @@ msgstr "Capacité calorifique"
 msgid "Table view"
 msgstr "Tableau"
 
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Source code"
+msgstr "Le code source"
+
+msgid "Unknown"
+msgstr "Inconnu"
