@@ -231,7 +231,7 @@ $t->process('index.html',
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-foreach my $dir (('css', 'img', 'font')){
+foreach my $dir (('css', 'img', 'font', 'js')){
 	foreach my $file (glob("psp/$dir/*")){
 		my ($name,$path) = fileparse($file);
 		copy("$path$name", "$OUT/$name");
