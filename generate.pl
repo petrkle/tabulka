@@ -14,6 +14,8 @@ use File::Basename;
 use Locale::TextDomain ( 'ptable' ,  './locale/' );
 use POSIX qw (setlocale LC_ALL LC_COLLATE);
 use Locale::Messages qw (nl_putenv);
+use Number::Format;
+use Scalar::Util qw(looks_like_number);
 use Encode;
 Locale::Messages->select_package ('gettext_pp');
 
@@ -66,6 +68,8 @@ foreach my $lang (@langs){
 	my $locappname = __($appname);
 	my @elements;
 
+	my $nf = new Number::Format;
+
 	for my $category (@{$categories->{category}}){
 
 		my $data = $xml->XMLin("psp/xml/$category->{'filename'}.xml");
@@ -85,6 +89,13 @@ foreach my $lang (@langs){
 		for my $element (@{$data->{element}}){
 		 $element->{category} = $category;
 		 $tableview["$element->{x}"]["$element->{y}"] = $element;
+
+		 for my $foo (keys $element){
+			 if(looks_like_number($element->{$foo}) || $foo =~ /elcond/){
+				( $element->{$foo} = $element->{$foo} ) =~ s/\./$nf->{decimal_point}/g;
+			 }
+		 }
+
 		 $t->process('element.html',
 			 { 'element' => $element,
 				 'elementname' => "name_$lang",

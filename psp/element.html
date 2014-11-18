@@ -14,7 +14,9 @@
 [% IF element.electronegativity -%]
 	<tr><th>[% l('Electronegativity') %]</th><td><div>[% element.electronegativity %]</div></td></tr>
 [% END -%]
+[% IF element.oxid -%]
 	<tr><th>[% l('Oxidation numbers') %]</th><td><div>[% element.oxid %]</div></td></tr> 
+[% END -%]
 [% IF element.density -%]
 <tr><th>[% l('Electron configuration') %]</th><td><div><!-- {{{ -->[% element.elconf %]<!-- }}} --></div></td></tr>
 	<tr><th>[% l('Density') %] [g/cm<sup>3</sup>]</th><td><div>[% element.density %]</div></td></tr> 
