@@ -9,3 +9,7 @@ Amazon: http://www.amazon.com/Petr-Kletecka-Periodic-Table/dp/B00HYLYX5Q
 <a href="http://kle.cz/tabulka/android">
 	<img src="http://kle.cz/tabulka/android.png">
 </a>
+
+## Add your language
+
+https://poeditor.com/join/project?hash=c6d1217a0574b8448b4efa4a90cf9a00
