@@ -15,6 +15,7 @@ use Locale::TextDomain ( 'ptable' ,  './locale/' );
 use POSIX qw (setlocale LC_ALL LC_COLLATE);
 use Locale::Messages qw (nl_putenv);
 use Number::Format;
+use Unicode::Collate::Locale;
 use Scalar::Util qw(looks_like_number);
 use Encode;
 Locale::Messages->select_package ('gettext_pp');
@@ -220,9 +221,13 @@ foreach my $lang (@langs){
 		"$OUT/$lang/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
+	my $Collator = Unicode::Collate::Locale->new(locale => $lang);
+
+	my @sortedbylang = sort {$Collator->cmp(decode('UTF-8',__($a->{fullname})), decode('UTF-8',__($b->{fullname})))} @{$languages->{lang}};
+
 	$t->process('language.html',
 		{	'title' => 'Language',
-			'languages' => $languages->{lang},
+			'languages' => [@sortedbylang],
 		},
 		"$OUT/$lang/language.html",
 		{ binmode => ':utf8' }) or die $t->error;
