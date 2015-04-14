@@ -13,3 +13,8 @@ Amazon: http://www.amazon.com/Petr-Kletecka-Periodic-Table/dp/B00HYLYX5Q
 ## Add your language
 
 https://poeditor.com/join/project?hash=c6d1217a0574b8448b4efa4a90cf9a00
+
+## Privacy policy
+
+No data transfers at all. No permissions required. App only display
+periodic table and nothing else.
