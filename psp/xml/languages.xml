@@ -91,4 +91,12 @@
 		<title>Perioodilisustabel</title>
 	</lang>
 
+	<lang>
+        <fullname>Swedish</fullname>
+        <fullnameloc>Svenska</fullnameloc>
+        <locales>sv_SE</locales>
+        <android>sv</android>
+        <browser>sv-SE</browser>
+        <title>Periodiska systemet</title>
+	</lang>
 </lagnuages>
