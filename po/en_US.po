@@ -268,3 +268,12 @@ msgstr "Source code"
 
 msgid "Unknown"
 msgstr "Unknown"
+ 
+msgid "Swedish"
+msgstr "Swedish"
+
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgid "Brazilian Portuguese"
+msgstr "Brazilian Portuguese"

@@ -99,4 +99,14 @@
         <browser>sv-SE</browser>
         <title>Periodiska systemet</title>
 	</lang>
+
+	<lang>
+        <fullname>Brazilian Portuguese</fullname>
+        <fullnameloc>Português brasileiro</fullnameloc>
+        <locales>pt_BR</locales>
+        <android>pt-rBR</android>
+        <browser>pt-BR</browser>
+        <title>Tabela periódica</title>
+	</lang>
+
 </lagnuages>
