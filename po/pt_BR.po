@@ -1,11 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Sistema periódico\n"
-"Last-Translator: Dario Silva <dariolancer@gmail.com>\n"
-"Language: pt-BR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: pt-br\n"
+"Last-Translator: Dario Silva <dariolancer@gmail.com>\n"
 
 msgid "Periodic Table"
 msgstr "Tabela Periódica"
@@ -224,7 +223,7 @@ msgid "Diamond"
 msgstr "Diamante"
 
 msgid "Antiquity"
-msgstr "Anti<wbr>guidade"
+msgstr "Antigui<wbr>dade"
 
 msgid "Heat capacity"
 msgstr "Capacidade térmica"
