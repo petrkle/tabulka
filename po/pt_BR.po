@@ -175,13 +175,13 @@ msgid "Alkali metals"
 msgstr "Metais alcalinos"
 
 msgid "1.st ionization energy"
-msgstr "Energia de 1ª ionização"
+msgstr "1ª energia de ionização"
 
 msgid "2.nd ionization energy"
-msgstr "Energia de 2ª ionização"
+msgstr "2ª energia de ionização"
 
 msgid "3.rd ionization energy"
-msgstr "Energia de 3ª ionização"
+msgstr "3ª energia de ionização"
 
 msgid "Stable isotopes"
 msgstr "Isótopos estáveis"
