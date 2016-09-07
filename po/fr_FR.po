@@ -205,7 +205,7 @@ msgid "Unstable isotopes"
 msgstr "Isotopes instables"
 
 msgid "Substance"
-msgstr "Essentiel"
+msgstr "Minéral"
 
 msgid "Talc"
 msgstr "Talc"
