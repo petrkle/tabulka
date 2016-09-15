@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 android:hardwareAccelerated="true"
 android:versionName="4.1"
-android:versionCode="33"
+android:versionCode="34"
 android:windowSoftInputMode="adjustPan"
 package="cz.kle.tabulka"
 android:installLocation="auto">
