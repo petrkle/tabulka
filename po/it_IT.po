@@ -12,271 +12,271 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: en_US\n"
+"Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Periodic Table"
+msgstr "Tavola Periodica"
 
 msgid "Settings"
-msgstr "Settings"
+msgstr "Impostazioni"
 
 msgid "Language"
-msgstr "Language"
+msgstr "Lingua"
 
 msgid "About"
-msgstr "About"
+msgstr "Informazioni"
 
 msgid "English"
-msgstr "English"
+msgstr "Inglese"
 
 msgid "Czech"
-msgstr "Czech"
+msgstr "Ceco"
 
 msgid "Slovak"
-msgstr "Slovak"
+msgstr "Slovacco"
 
 msgid "German"
-msgstr "German"
+msgstr "Tedesco"
 
 msgid "French"
-msgstr "French"
+msgstr "Francese"
 
 msgid "Polish"
-msgstr "Polish"
+msgstr "Polacco"
 
 msgid "Spanish"
-msgstr "Spanish"
+msgstr "Spagnolo"
 
 msgid "Dutch"
-msgstr "Dutch"
+msgstr "Olandese"
 
 msgid "Default language"
-msgstr "Default language"
+msgstr "Lingua di Default"
 
 msgid "State"
-msgstr "State"
+msgstr "Stato"
 
 msgid "Solid"
-msgstr "Solid"
+msgstr "Solido"
 
 msgid "Liquid"
-msgstr "Liquid"
+msgstr "Liquido"
 
 msgid "Gas"
-msgstr "Gas"
+msgstr "Gassoso"
 
 msgid "Symbol"
-msgstr "Symbol"
+msgstr "Simbolo"
 
 msgid "Atomic number"
-msgstr "Atomic number"
+msgstr "Numero Atomico"
 
 msgid "Period"
-msgstr "Period"
+msgstr "Periodo"
 
 msgid "period"
-msgstr "period"
+msgstr "periodo"
 
 msgid "Element category"
-msgstr "Element category"
+msgstr "Categoria dell' Elemento"
 
 msgid "Relative atomic mass"
-msgstr "Relative atomic mass"
+msgstr "Massa atomica relativa"
 
 msgid "Atomic mass"
-msgstr "Atomic mass"
+msgstr "Massa atomica"
 
 msgid "Group"
-msgstr "Group"
+msgstr "Gruppo"
 
 msgid "group"
-msgstr "group"
+msgstr "gruppo"
 
 msgid "Electronegativity"
-msgstr "Electronegativity"
+msgstr "Elettronegatività"
 
 msgid "Oxidation numbers"
-msgstr "Oxidation numbers"
+msgstr "Numeri di ossidazione"
 
 msgid "Electron configuration"
-msgstr "Electron configuration"
+msgstr "Configurazione elettronica"
 
 msgid "Density"
-msgstr "Density"
+msgstr "Densità"
 
 msgid "Melting point"
-msgstr "Melting point"
+msgstr "Punto di fusione"
 
 msgid "Boiling point"
-msgstr "Boiling point"
+msgstr "Punto di ebollizione"
 
 msgid "Critical point"
-msgstr "Critical point"
+msgstr "Punto critico"
 
 msgid "Critical pressure"
-msgstr "Critical pressure"
+msgstr "Pressione critica"
 
 msgid "Atomic radius"
-msgstr "Atomic radius"
+msgstr "Raggio atomico"
 
 msgid "Covalent radius"
-msgstr "Covalent radius"
+msgstr "Raggio covalente"
 
 msgid "Thermal conductivity"
-msgstr "Thermal conductivity"
+msgstr "Conduttività termica"
 
 msgid "Discovery"
-msgstr "Discovery"
+msgstr "Scoperto da"
 
 msgid "Hardness"
-msgstr "Hardness"
+msgstr "Durezza"
 
 msgid "Vickers hardness"
-msgstr "Vickers hardness"
+msgstr "Scala Vickers"
 
 msgid "Brinell hardness"
-msgstr "Brinell hardness"
+msgstr "Scala Brinell"
 
 msgid "Mohs scale"
-msgstr "Mohs scale"
+msgstr "Scala Mohs"
 
 msgid "Shear modulus"
-msgstr "Shear modulus"
+msgstr "Modulo di taglio"
 
 msgid "Young's modulus"
-msgstr "Young's modulus"
+msgstr "Modulo di Young"
 
 msgid "Electrical resistivity"
-msgstr "Electrical resistivity"
+msgstr "Resistenza elettrica"
 
 msgid "Electrical conductivity"
-msgstr "Electrical conductivity"
+msgstr "Conduttività elettrica"
 
 msgid "Name"
-msgstr "Name"
+msgstr "Nome"
 
 msgid "Latin name"
-msgstr "Latin name"
+msgstr "Nome latino"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Versione"
 
 msgid "Created"
-msgstr "Created"
+msgstr "Creata"
 
 msgid "Author"
-msgstr "Author"
+msgstr "Autore"
 
 msgid "Write review"
-msgstr "Write review"
+msgstr "Scrivi recensione"
 
 msgid "Noble gases"
-msgstr "Noble gases"
+msgstr "Gas Nobili"
 
 msgid "Inner transition elements"
-msgstr "Inner transition elements"
+msgstr "Elementi di transizione interne"
 
 msgid "Transition elements"
-msgstr "Transition elements"
+msgstr "Elementi di transizione"
 
 msgid "Metalloids"
-msgstr "Metalloids"
+msgstr "Metalloidi"
 
 msgid "Nonmetals"
-msgstr "Nonmetals"
+msgstr "Nonmetalli"
 
 msgid "Alkaline earth metals"
-msgstr "Alkaline earth metals"
+msgstr "Metalli alcalino-terrosi"
 
 msgid "Metals"
-msgstr "Metals"
+msgstr "Metalli"
 
 msgid "Halogens"
-msgstr "Halogens"
+msgstr "Alogeni"
 
 msgid "Alkali metals"
-msgstr "Alkali metals"
+msgstr "Metalli alcalini"
 
 msgid "1.st ionization energy"
-msgstr "1.st ionization energy"
+msgstr "prima energia di ionizzazione"
 
 msgid "2.nd ionization energy"
-msgstr "2.nd ionization energy"
+msgstr "Seconda energia di ionizzazione"
 
 msgid "3.rd ionization energy"
-msgstr "3.rd ionization energy"
+msgstr "Terza energia di ionizzazione"
 
 msgid "Stable isotopes"
-msgstr "Stable isotopes"
+msgstr "Isotopi stabili"
 
 msgid "Unstable isotopes"
-msgstr "Unstable isotopes"
+msgstr "Isotopi Instabili"
 
 msgid "Substance"
-msgstr "Substance"
+msgstr "Sostanza"
 
 msgid "Talc"
-msgstr "Talc"
+msgstr "Talco"
 
 msgid "Rock salt"
-msgstr "Rock salt"
+msgstr "Salgemma"
 
 msgid "Limestone"
-msgstr "Limestone"
+msgstr "Calcare"
 
 msgid "Fluorspar"
-msgstr "Fluorspar"
+msgstr "Fluorite"
 
 msgid "Apatite"
 msgstr "Apatite"
 
 msgid "Feldspar"
-msgstr "Feldspar"
+msgstr "Feldspato"
 
 msgid "Quartz"
-msgstr "Quartz"
+msgstr "Quarzo"
 
 msgid "Topaz"
-msgstr "Topaz"
+msgstr "Topazio"
 
 msgid "Corundum"
-msgstr "Corundum"
+msgstr "Corindone"
 
 msgid "Diamond"
-msgstr "Diamond"
+msgstr "Diamante"
 
 msgid "Antiquity"
-msgstr "Antiquity"
+msgstr "Antichità"
 
 msgid "Heat capacity"
-msgstr "Heat capacity"
+msgstr "Capacità termica"
 
 msgid "Table view"
-msgstr "Table view"
+msgstr "Vista a tabella"
 
 msgid "Download"
-msgstr "Download"
+msgstr "Scarica"
 
 msgid "Links"
-msgstr "Links"
+msgstr "Collegamenti"
 
 msgid "Source code"
-msgstr "Source code"
+msgstr "Codice sorgente"
 
 msgid "Unknown"
-msgstr "Unknown"
- 
+msgstr "Sconosciuto"
+
 msgid "Swedish"
-msgstr "Swedish"
+msgstr "Svedese"
 
 msgid "Portuguese"
-msgstr "Portuguese"
+msgstr "Portoghese"
 
 msgid "Brazilian Portuguese"
-msgstr "Brazilian Portuguese"
+msgstr "Portoghese (Brasiliano)"
 
 msgid "Italian"
-msgstr "Italian"
+msgstr "Italiano"

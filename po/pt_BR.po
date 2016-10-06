@@ -275,3 +275,6 @@ msgstr "Sueco"
 
 msgid "Brazilian Portuguese"
 msgstr "Português brasileiro"
+
+msgid "Italian"
+msgstr "Italiana"
