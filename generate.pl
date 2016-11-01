@@ -21,7 +21,7 @@ use Encode;
 Locale::Messages->select_package ('gettext_pp');
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
-	return decode('UTF-8', __(shift));
+	return decode('UTF-8', sprintf __ shift, shift);
 };
 
 system("cd po && make");
@@ -117,6 +117,9 @@ foreach my $lang (@langs){
 	my @sortedbyanumber = sort {$a->{anumber} <=> $b->{anumber}} @elements;
 	my @sortedbyln = sort {$a->{name_Latin} cmp $b->{name_Latin}} @elements;
 	my @sortedbyam = sort {$a->{atomicmass} =~ s/,/./r <=> $b->{atomicmass} =~ s/,/./r} @elements;
+	my $Collator = Unicode::Collate::Locale->new(locale => $lang);
+	my @langsorted = sort {$Collator->cmp(decode('UTF-8',__($a->{fullname})), decode('UTF-8',__($b->{fullname})))} @{$languages->{lang}};
+	my @categorysorted = sort {$Collator->cmp(decode('UTF-8',__($a->{fullname})), decode('UTF-8',__($b->{fullname})))} @{$categories->{category}};
 
 	for my $group (@{$groups->{group}}){
 
@@ -193,10 +196,11 @@ foreach my $lang (@langs){
 		"$OUT/$lang/p.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
+
 	$t->process('category.html',
 		{	'title' => $locappname,
 		  'elementname' => "name_$lang",
-			'categories' => $categories->{category}
+			'categories' => [@categorysorted]
 		},
 		"$OUT/$lang/category.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -221,13 +225,9 @@ foreach my $lang (@langs){
 		"$OUT/$lang/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	my $Collator = Unicode::Collate::Locale->new(locale => $lang);
-
-	my @sortedbylang = sort {$Collator->cmp(decode('UTF-8',__($a->{fullname})), decode('UTF-8',__($b->{fullname})))} @{$languages->{lang}};
-
 	$t->process('language.html',
 		{	'title' => 'Language',
-			'languages' => [@sortedbylang],
+			'languages' => [@langsorted],
 		},
 		"$OUT/$lang/language.html",
 		{ binmode => ':utf8' }) or die $t->error;
