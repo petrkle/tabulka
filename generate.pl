@@ -22,8 +22,13 @@ Locale::Messages->select_package ('gettext_pp');
 use Data::Printer;
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
-	my $foo = __ shift;
-	return decode('UTF-8', $foo);
+	my $foo = shift;
+	my $bar = shift // undef;
+	if($bar){
+		return decode('UTF-8', sprintf __ $foo, $bar);
+	}else{
+		return decode('UTF-8', __ $foo);
+	}
 };
 
 system("cd po && make");
