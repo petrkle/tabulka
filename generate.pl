@@ -19,9 +19,11 @@ use Unicode::Collate::Locale;
 use Scalar::Util qw(looks_like_number);
 use Encode;
 Locale::Messages->select_package ('gettext_pp');
+use Data::Printer;
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
-	return decode('UTF-8', sprintf __ shift, shift);
+	my $foo = __ shift;
+	return decode('UTF-8', $foo);
 };
 
 system("cd po && make");
@@ -91,7 +93,7 @@ foreach my $lang (@langs){
 		 $element->{category} = $category;
 		 $tableview["$element->{x}"]["$element->{y}"] = $element;
 
-		 for my $foo (keys $element){
+		 for my $foo (keys %{$element}){
 			 if(looks_like_number($element->{$foo}) || $foo =~ /elcond/){
 				( $element->{$foo} = $element->{$foo} ) =~ s/\./$nf->{decimal_point}/g;
 			 }
