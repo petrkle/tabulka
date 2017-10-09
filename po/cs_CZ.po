@@ -291,3 +291,6 @@ msgstr "Italština"
 
 msgid "Danish"
 msgstr "Dánština"
+
+msgid "Hungarian"
+msgstr "Maďarština"
