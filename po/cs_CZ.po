@@ -288,3 +288,6 @@ msgstr "Brazilská portugalština"
 
 msgid "Italian"
 msgstr "Italština"
+
+msgid "Danish"
+msgstr "Dánština"
