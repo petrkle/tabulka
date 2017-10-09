@@ -3,3 +3,4 @@ gen
 assets
 local.properties
 locale
+.gradle
