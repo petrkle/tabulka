@@ -19,7 +19,6 @@ use Unicode::Collate::Locale;
 use Scalar::Util qw(looks_like_number);
 use Encode;
 Locale::Messages->select_package ('gettext_pp');
-use Data::Printer;
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
 	my $foo = shift;
