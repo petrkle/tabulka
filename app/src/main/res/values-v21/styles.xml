@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Tabulka" parent="@style/Theme.AppCompat.Light">
+    <item name="android:windowBackground">@color/tabulka_bg</item>
+    <item name="android:colorBackground">@color/tabulka_bg</item>
+		<item name="android:colorPrimary">@color/tabulka_header</item>
+		<item name="android:colorPrimaryDark">@color/tabulka_header</item>
+		<item name="android:navigationBarColor">@color/tabulka_header</item>
+</style>
+</resources>

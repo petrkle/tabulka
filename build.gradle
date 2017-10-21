@@ -1,1 +1,22 @@
-ant.importBuild 'build.xml'
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+				google()
+    }
+}
+
+task clean(type: Delete) {
+    delete 'build'
+    delete 'gradle'
+    delete 'locale'
+		delete 'app/src/main/assets'
+}

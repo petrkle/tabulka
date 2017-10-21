@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Tabulka" parent="android:Theme.Light">
+    <item name="android:windowBackground">@color/tabulka_bg</item>
+    <item name="android:colorBackground">@color/tabulka_header</item>
+</style>
+</resources>

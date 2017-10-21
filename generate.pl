@@ -32,7 +32,9 @@ $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
 
 system("cd po && make");
 
-my $OUT = "assets/www";
+my $appversion = `grep versionCode app/build.gradle | sed "s/[^0-9]*//"`;
+
+my $OUT = "app/src/main/assets/www";
 
 my @langs = get_langs();
 
@@ -46,9 +48,7 @@ my $periods = $xml->XMLin("psp/xml/periods.xml");
 
 my $state = $xml->XMLin("psp/xml/state.xml");
 
-my $manifest = $xml->XMLin("AndroidManifest.xml");
-
-my $strings = $xml->XMLin("res/values/strings.xml");
+my $strings = $xml->XMLin("app/src/main/res/values/strings.xml");
 
 my $appname = $strings->{'string'}{'content'};
 
@@ -220,7 +220,7 @@ foreach my $lang (@langs){
 
 	$t->process('about.html',
 		{	'title' => $locappname,
-			'version' => $manifest->{'android:versionName'},
+			'version' => $appversion,
 		},
 		"$OUT/$lang/about.html",
 		{ binmode => ':utf8' }) or die $t->error;

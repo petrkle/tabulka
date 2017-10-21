@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+    defaultConfig {
+        applicationId "cz.kle.tabulka"
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 49
+        versionName "4.9"
+				setProperty("archivesBaseName", "Tabulka-$versionName")
+    }
+		signingConfigs {
+        release
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+						signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+		compile 'com.android.support:appcompat-v7:26.0.1'
+}
+
+
+task generate(type: Exec) {
+    commandLine 'perl', './generate.pl'
+		workingDir '..'
+}
+
+preBuild.dependsOn(generate)
+
+def props = new Properties()
+
+props.load(new FileInputStream("${System.env.HOME}/android-sec/tabulka.properties"))
+
+android.signingConfigs.release.storeFile rootProject.file(props.keyStore)
+
+android.signingConfigs.release.storePassword props.keyStorePassword
+
+android.signingConfigs.release.keyAlias props.keyAlias
+
+android.signingConfigs.release.keyPassword props.keyAliasPassword
