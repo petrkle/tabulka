@@ -32,7 +32,7 @@ $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
 
 system("cd po && make");
 
-my $appversion = `grep versionCode app/build.gradle | sed "s/[^0-9]*//"`;
+my $appversion = `grep versionName app/build.gradle | head -1 | sed "s/[^0-9\.]*//g"`;
 
 my $OUT = "app/src/main/assets/www";
 
