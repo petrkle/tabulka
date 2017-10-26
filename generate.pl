@@ -40,24 +40,24 @@ my @langs = get_langs();
 
 my $xml = new XML::Simple;
 
-my $categories = $xml->XMLin("psp/xml/categories.xml");
+my $categories = $xml->XMLin("src/xml/categories.xml");
 
-my $groups = $xml->XMLin("psp/xml/groups.xml");
+my $groups = $xml->XMLin("src/xml/groups.xml");
 
-my $periods = $xml->XMLin("psp/xml/periods.xml");
+my $periods = $xml->XMLin("src/xml/periods.xml");
 
-my $state = $xml->XMLin("psp/xml/state.xml");
+my $state = $xml->XMLin("src/xml/state.xml");
 
 my $strings = $xml->XMLin("app/src/main/res/values/strings.xml");
 
 my $appname = $strings->{'string'}{'content'};
 
-my $languages = $xml->XMLin("psp/xml/languages.xml");
+my $languages = $xml->XMLin("src/xml/languages.xml");
 
 my @tableview = ();
 
 my $t = Template->new({
-		INCLUDE_PATH => 'psp',
+		INCLUDE_PATH => 'src',
 		ENCODING => 'utf8',
 });
 
@@ -79,7 +79,7 @@ foreach my $lang (@langs){
 
 	for my $category (@{$categories->{category}}){
 
-		my $data = $xml->XMLin("psp/xml/$category->{'filename'}.xml");
+		my $data = $xml->XMLin("src/xml/$category->{'filename'}.xml");
 	  my @sorted = sort {$a->{anumber} <=> $b->{anumber}} @{$data->{element}};
 
 		$t->process('category.html',
@@ -254,7 +254,7 @@ $t->process('index.html',
 	{ binmode => ':utf8' }) or die $t->error;
 
 foreach my $dir (('css', 'img', 'font', 'js')){
-	foreach my $file (glob("psp/$dir/*")){
+	foreach my $file (glob("src/$dir/*")){
 		my ($name,$path) = fileparse($file);
 		copy("$path$name", "$OUT/$name");
 	}
