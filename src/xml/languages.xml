@@ -104,9 +104,9 @@
 		<fullname>Brazilian Portuguese</fullname>
 		<fullnameloc>Português brasileiro</fullnameloc>
 		<locales>pt_BR</locales>
-		<android>pt-rBR</android>
+		<android>pt</android>
 		<browser>pt-BR</browser>
-		<title>Tabela Periódica</title>
+		<title>Tabela periódica</title>
 	</lang>
 
 	<lang>
@@ -143,6 +143,15 @@
 		<android>be</android>
 		<browser>be-BY</browser>
 		<title>Табліца Мендзялеева</title>
+	</lang>
+
+	<lang>
+		<fullname>Croatian</fullname>
+		<fullnameloc>Hrvatski</fullnameloc>
+		<locales>hr_HR</locales>
+		<android>hr</android>
+		<browser>hr-HR</browser>
+		<title>Periodni sustav</title>
 	</lang>
 
 </lagnuages>
