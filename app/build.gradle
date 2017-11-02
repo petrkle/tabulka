@@ -7,8 +7,8 @@ android {
         applicationId "cz.kle.tabulka"
         minSdkVersion 15
         targetSdkVersion 26
-        versionCode 52
-        versionName "5.2"
+        versionCode 53
+        versionName "5.3"
 				setProperty("archivesBaseName", "Tabulka-$versionName")
     }
 		signingConfigs {
@@ -29,9 +29,14 @@ dependencies {
 }
 
 
-task generate(type: Exec) {
+task generate(type: Exec, dependsOn: 'generateLocale') {
     commandLine 'perl', './generate.pl'
 		workingDir '..'
+}
+
+task generateLocale(type: Exec) {
+    commandLine 'make'
+		workingDir '../po'
 }
 
 preBuild.dependsOn(generate)
