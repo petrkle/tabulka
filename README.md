@@ -22,6 +22,6 @@ cpanm --installdeps .
 Build apk file
 
 
-``
+```
 gradle assembleRelease
 ```
