@@ -21,7 +21,7 @@ msgid "Periodic Table"
 msgstr "Periodisk System"
 
 msgid "Settings"
-msgstr "Indstillinger"
+msgstr "Indsti<wbr>llinger"
 
 msgid "Language"
 msgstr "Sprog"
@@ -72,7 +72,7 @@ msgid "Symbol"
 msgstr "Symbol"
 
 msgid "Atomic number"
-msgstr "Atomnummer"
+msgstr "Atom<wbr>nummer"
 
 msgid "Period"
 msgstr "Periode"
@@ -96,13 +96,13 @@ msgid "group"
 msgstr "gruppe"
 
 msgid "Electronegativity"
-msgstr "Elektronegativitet"
+msgstr "Elektro<wbr>negativitet"
 
 msgid "Oxidation numbers"
-msgstr "Oxideringsnummer"
+msgstr "Oxiderings<wbr>nummer"
 
 msgid "Electron configuration"
-msgstr "Elektronkonfiguration"
+msgstr "Elektron<wbr>konfiguration"
 
 msgid "Density"
 msgstr "Densitet"
@@ -120,13 +120,13 @@ msgid "Critical pressure"
 msgstr "Kritisk tryk"
 
 msgid "Atomic radius"
-msgstr "Atomradius"
+msgstr "Atom<wbr>radius"
 
 msgid "Covalent radius"
 msgstr "Kovalent radius"
 
 msgid "Thermal conductivity"
-msgstr "Specifik varmeledningsevne"
+msgstr "Specifik varmeledning<wbr>sevne"
 
 msgid "Discovery"
 msgstr "Opdagelse"
@@ -144,7 +144,7 @@ msgid "Mohs scale"
 msgstr "Mohs' skala"
 
 msgid "Shear modulus"
-msgstr "Forskydningsmodul"
+msgstr "Forskydnings<wbr>modul"
 
 msgid "Young's modulus"
 msgstr "Youngs modul"
@@ -177,10 +177,10 @@ msgid "Noble gases"
 msgstr "Ædle gasser"
 
 msgid "Inner transition elements"
-msgstr "Indre overgangs-grundstoffer"
+msgstr "Indre overgangs-<wbr>grundstoffer"
 
 msgid "Transition elements"
-msgstr "Overgangs-grundstoffer"
+msgstr "Overgangs-<wbr>grundstoffer"
 
 msgid "Metalloids"
 msgstr "Halvmetaller"
@@ -189,7 +189,7 @@ msgid "Nonmetals"
 msgstr "Ikke-metaller"
 
 msgid "Alkaline earth metals"
-msgstr "Jordalkalimetaller"
+msgstr "Jordalkali<wbr>metaller"
 
 msgid "Metals"
 msgstr "Metaller"
@@ -198,16 +198,16 @@ msgid "Halogens"
 msgstr "Halogener"
 
 msgid "Alkali metals"
-msgstr "Alkalimetaller"
+msgstr "Alkali<wbr>metaller"
 
 msgid "1.st ionization energy"
-msgstr "Første ioniseringsenergi"
+msgstr "Første ioniserings<wbr>energi"
 
 msgid "2.nd ionization energy"
-msgstr "Anden ioniseringsenergi"
+msgstr "Anden ioniserings<wbr>energi"
 
 msgid "3.rd ionization energy"
-msgstr "Tredje ioniseringsenergi"
+msgstr "Tredje ioniserings<wbr>energi"
 
 msgid "Stable isotopes"
 msgstr "Stabile isotoper"
@@ -252,10 +252,10 @@ msgid "Antiquity"
 msgstr "Antikvitet"
 
 msgid "Heat capacity"
-msgstr "Varmekapacitet"
+msgstr "Varme<wbr>kapacitet"
 
 msgid "Table view"
-msgstr "Tabelvisning"
+msgstr "Tabel<wbr>visning"
 
 msgid "Download"
 msgstr "Hent"
