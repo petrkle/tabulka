@@ -16,7 +16,7 @@ a:visited{color:#000;text-decoration:none;}
 .elementam{display:block;float:right;text-align:center;width:6em;background:#ddd;line-height:3.6em;}
 .elementname{padding:0.8em;line-height:3.6em;}
 .line{display:block;padding:1em;border-bottom:1px #999 solid;}
-.closed{background:#fff url("right.png") no-repeat 100% 50%;}
+.closed{background:#fff url("right.svg") no-repeat 100% 50%;background-size:1.5em;}
 .about{background:#fb3;text-align:center;}
 .element{display:block;background:#fff;padding:0;margin:0;border-bottom:1px #999 solid;clear:both;}
 .tablelink{display:block;width:100%;height:100%;border:solid 1px #f00;}
@@ -24,7 +24,7 @@ a:visited{color:#000;text-decoration:none;}
 #atom th{padding:1.5em 1em;border-right:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;}
 #atom td{padding:0;border-bottom:1px solid #aaa;}
 #atom td div{padding:1.5em 1em;}
-#atom td a {display:block;padding:1.5em 3em 1.5em 1em;font-weight:normal;background:#fff url("right.png") no-repeat 100% 50%;}
+#atom td a {display:block;padding:1.5em 2em 1.5em 1em;font-weight:normal;background:#fff url("right.svg") no-repeat 100% 50%;background-size:1.9em;}
 #atom th a,#mohs td a{text-decoration:underline;color:#00f;}
 #mohs{width:100%;}
 #mohs th{padding:1em;text-align:center;}
