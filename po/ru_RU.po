@@ -6,12 +6,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: Natali Bergman <bergnatali@gmail.com>\n"
 "Project-Id-Version: Periodic table\n"
+"Last-Translators: Maksim Labovich <lumihis+github@gmail.com>, Julia Yatsenko <yatsenko.julia@gmail.com>\n"
 "Language: ru\n"
 
 msgid "Periodic Table"
-msgstr "Таблица Менделеева"
+msgstr "Периодическая таблица"
 
 msgid "Settings"
 msgstr "Настройки"
@@ -35,16 +35,16 @@ msgid "Default language"
 msgstr "Язык по умолчанию"
 
 msgid "State"
-msgstr "Страна"
+msgstr "Агрегатное состояние"
 
 msgid "Solid"
-msgstr "Плотный"
+msgstr "Твёрдое"
 
 msgid "Liquid"
-msgstr "Жидкость "
+msgstr "Жидкое"
 
 msgid "Gas"
-msgstr "Газ"
+msgstr "Газообразное"
 
 msgid "Symbol"
 msgstr "Символ"
@@ -74,7 +74,7 @@ msgid "group"
 msgstr "группа"
 
 msgid "Electronegativity"
-msgstr "Электро<wbr>отрицательно<wbr>сть"
+msgstr "Электро<wbr>отрица<wbr>тельность"
 
 msgid "Oxidation numbers"
 msgstr "Степень окисления"
@@ -86,10 +86,10 @@ msgid "Density"
 msgstr "Плотность"
 
 msgid "Melting point"
-msgstr "Температура плавления"
+msgstr "Точка плавления"
 
 msgid "Boiling point"
-msgstr "Температура кипения"
+msgstr "Точка кипения"
 
 msgid "Critical point"
 msgstr "Критическая точка"
@@ -137,7 +137,7 @@ msgid "Name"
 msgstr "Название"
 
 msgid "Latin name"
-msgstr "Название на латыни"
+msgstr "Латинское название"
 
 msgid "Version"
 msgstr "Версия"
@@ -161,13 +161,13 @@ msgid "Transition elements"
 msgstr "Переходные элементы"
 
 msgid "Metalloids"
-msgstr "Металлоиды"
+msgstr "Полуметаллы"
 
 msgid "Nonmetals"
 msgstr "Неметаллы"
 
 msgid "Alkaline earth metals"
-msgstr "Щёлочн<wbr>оземельные металлы"
+msgstr "Щёлочно<wbr>земельные металлы"
 
 msgid "Metals"
 msgstr "Металлы"
@@ -179,13 +179,13 @@ msgid "Alkali metals"
 msgstr "Щелочные металлы"
 
 msgid "1.st ionization energy"
-msgstr "1. Энергия ионизации"
+msgstr "1-ая энергия ионизации"
 
 msgid "2.nd ionization energy"
-msgstr "2. Энергия ионизации"
+msgstr "2-ая энергия ионизации"
 
 msgid "3.rd ionization energy"
-msgstr "3. Энергия ионизации"
+msgstr "3-ья энергия ионизации"
 
 msgid "Stable isotopes"
 msgstr "Стабильные изотопы"
@@ -277,8 +277,38 @@ msgstr "Шведский"
 msgid "Portuguese"
 msgstr "Португальский"
 
-msgid "Brazilian Portuguese"
-msgstr "Бразильский португальский"
+msgid "Brazilian"
+msgstr "Бразильский"
 
 msgid "Italian"
 msgstr "Итальянский"
+
+msgid "Danish"
+msgstr "Датский"
+
+msgid "Hungarian"
+msgstr "Венгерский"
+
+msgid "Belarusian"
+msgstr "Белорусский"
+
+msgid "Croatian"
+msgstr "Хорватский"
+
+msgid "Turkish"
+msgstr "Турецкий"
+
+msgid "Finnish"
+msgstr "Финский"
+
+msgid "Afrikaans"
+msgstr "Африканский"
+
+msgid "Ukrainian"
+msgstr "Украинский"
+
+msgid "Malay"
+msgstr "Малайский"
+
+msgid "Indonesian"
+msgstr "Индонезийский"

@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Ozan Karaali <ozan@ozankaraali.com>, 2018.
 #
 #, fuzzy
 msgid ""
@@ -10,290 +10,284 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-04 13:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Ozan KARAALI <ozan@ozankaraali.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: en_US\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Periodisk System"
+msgstr "Periyodik Tablo"
 
 msgid "Settings"
-msgstr "Indstillinger"
+msgstr "Ayarlar"
 
 msgid "Language"
-msgstr "Sprog"
+msgstr "Dil"
 
 msgid "About"
-msgstr "Om"
+msgstr "Hakkında"
 
 msgid "English"
-msgstr "Engelsk"
+msgstr "İngilizce"
 
 msgid "Czech"
-msgstr "Tjekkisk"
+msgstr "Çekçe"
 
 msgid "Slovak"
-msgstr "Slovakisk"
+msgstr "Slovakça"
 
 msgid "German"
-msgstr "Tysk"
+msgstr "Almanca"
 
 msgid "French"
-msgstr "Fransk"
+msgstr "Fransızca"
 
 msgid "Polish"
-msgstr "Polsk"
+msgstr "Lehçe"
 
 msgid "Spanish"
-msgstr "Spansk"
+msgstr "İspanyolca"
 
 msgid "Dutch"
-msgstr "Hallandsk"
+msgstr "Felemenkçe"
 
 msgid "Default language"
-msgstr "Standard sprog"
+msgstr "Varsayılan dil"
 
 msgid "State"
-msgstr "Tilstand"
+msgstr "Hal"
 
 msgid "Solid"
-msgstr "Solid"
+msgstr "Katı"
 
 msgid "Liquid"
-msgstr "Flydende"
+msgstr "Sıvı"
 
 msgid "Gas"
-msgstr "Gas"
+msgstr "Gaz"
 
 msgid "Symbol"
-msgstr "Symbol"
+msgstr "Sembol"
 
 msgid "Atomic number"
-msgstr "Atomnummer"
+msgstr "Atomik numara"
 
 msgid "Period"
-msgstr "Periode"
+msgstr "Periyot"
 
 msgid "%d. period"
-msgstr "%d. periode"
+msgstr "%d. periyot"
 
 msgid "Element category"
-msgstr "Grundstof kategori"
+msgstr "Element kategorisi"
 
 msgid "Relative atomic mass"
-msgstr "Relativ atommasse"
+msgstr "Bağıl atomik kütle"
 
 msgid "Atomic mass"
-msgstr "Atommasse"
+msgstr "Atomik kütle"
 
 msgid "Group"
-msgstr "Gruppe"
+msgstr "Grup"
 
 msgid "group"
-msgstr "gruppe"
+msgstr "grup"
 
 msgid "Electronegativity"
-msgstr "Elektronegativitet"
+msgstr "Elektronegativite"
 
 msgid "Oxidation numbers"
-msgstr "Oxideringsnummer"
+msgstr "Oksidasyon numaraları"
 
 msgid "Electron configuration"
-msgstr "Elektronkonfiguration"
+msgstr "Elektron konfigürasyonu"
 
 msgid "Density"
-msgstr "Densitet"
+msgstr "Yoğunluk"
 
 msgid "Melting point"
-msgstr "Smeltepunkt"
+msgstr "Erime noktası"
 
 msgid "Boiling point"
-msgstr "Kogepunkt"
+msgstr "Kaynama noktası"
 
 msgid "Critical point"
-msgstr "Kritisk punkt"
+msgstr "Kritik nokta"
 
 msgid "Critical pressure"
-msgstr "Kritisk tryk"
+msgstr "Kritik basınç"
 
 msgid "Atomic radius"
-msgstr "Atomradius"
+msgstr "Atomik yarıçap"
 
 msgid "Covalent radius"
-msgstr "Kovalent radius"
+msgstr "Kovalent yarıçap"
 
 msgid "Thermal conductivity"
-msgstr "Specifik varmeledningsevne"
+msgstr "Termal iletkenlik"
 
 msgid "Discovery"
-msgstr "Opdagelse"
+msgstr "Keşif tarihi"
 
 msgid "Hardness"
-msgstr "Hårdhed"
+msgstr "Sertlik"
 
 msgid "Vickers hardness"
-msgstr "Vickers hårdhed"
+msgstr "Vickers sertliği"
 
 msgid "Brinell hardness"
-msgstr "Brinell hårdhed"
+msgstr "Brinell sertliği"
 
 msgid "Mohs scale"
-msgstr "Mohs' skala"
+msgstr "Mohs ölçüsü"
 
 msgid "Shear modulus"
-msgstr "Forskydningsmodul"
+msgstr "Kesme katsayısı"
 
 msgid "Young's modulus"
-msgstr "Youngs modul"
+msgstr "Young katsayısı"
 
 msgid "Electrical resistivity"
-msgstr "Elektrisk modstand"
+msgstr "Electrik direnimi"
 
 msgid "Electrical conductivity"
-msgstr "Elektrisk ledningsevne"
+msgstr "Electrik iletkenliği"
 
 msgid "Name"
-msgstr "Navn"
+msgstr "Ad"
 
 msgid "Latin name"
-msgstr "Latinsk navn"
+msgstr "Latince ad"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Sürüm"
 
 msgid "Created"
-msgstr "Oprettet"
+msgstr "Yaratıldı"
 
 msgid "Author"
-msgstr "Forfatter"
+msgstr "Yazar"
 
 msgid "Write review"
-msgstr "Skriv anmeldelse"
+msgstr "İnceleme yaz"
 
 msgid "Noble gases"
-msgstr "Ædle gasser"
+msgstr "Soy gazlar"
 
 msgid "Inner transition elements"
-msgstr "Indre overgangs-grundstoffer"
+msgstr "İç geçiş elementleri"
 
 msgid "Transition elements"
-msgstr "Overgangs-grundstoffer"
+msgstr "Geçiş elementleri"
 
 msgid "Metalloids"
-msgstr "Halvmetaller"
+msgstr "Yarı metaller"
 
 msgid "Nonmetals"
-msgstr "Ikke-metaller"
+msgstr "Ametaller"
 
 msgid "Alkaline earth metals"
-msgstr "Jordalkalimetaller"
+msgstr "Alkali toprak metalleri"
 
 msgid "Metals"
 msgstr "Metaller"
 
 msgid "Halogens"
-msgstr "Halogener"
+msgstr "Halojenler"
 
 msgid "Alkali metals"
-msgstr "Alkalimetaller"
+msgstr "Alkali metaller"
 
 msgid "1.st ionization energy"
-msgstr "Første ioniseringsenergi"
+msgstr "1. iyonizasyon enerjisi"
 
 msgid "2.nd ionization energy"
-msgstr "Anden ioniseringsenergi"
+msgstr "2. iyonizasyon enerjisi"
 
 msgid "3.rd ionization energy"
-msgstr "Tredje ioniseringsenergi"
+msgstr "3. iyonizasyon enerjisi"
 
 msgid "Stable isotopes"
-msgstr "Stabile isotoper"
+msgstr "Kararlı izotoplar"
 
 msgid "Unstable isotopes"
-msgstr "Ustabile isotoper"
+msgstr "Kararsız izotoplar"
 
 msgid "Substance"
-msgstr "Substans"
+msgstr "Madde"
 
 msgid "Talc"
-msgstr "Talkum"
+msgstr "Talk"
 
 msgid "Rock salt"
-msgstr "Stensalt"
+msgstr "Kaya tuzu"
 
 msgid "Limestone"
-msgstr "Kalksten"
+msgstr "Kireçtaşı"
 
 msgid "Fluorspar"
-msgstr "Fluorit"
+msgstr "Fluşpat"
 
 msgid "Apatite"
 msgstr "Apatit"
 
 msgid "Feldspar"
-msgstr "Feldspat"
+msgstr "Feldispat"
 
 msgid "Quartz"
-msgstr "Kvarts"
+msgstr "Kuvars"
 
 msgid "Topaz"
-msgstr "Topas"
+msgstr "Topaz"
 
 msgid "Corundum"
-msgstr "Korund"
+msgstr "Korindon"
 
 msgid "Diamond"
-msgstr "Diamant"
+msgstr "Elmas"
 
 msgid "Antiquity"
-msgstr "Antikvitet"
+msgstr "Eskilik"
 
 msgid "Heat capacity"
-msgstr "Varmekapacitet"
+msgstr "Isı kapasitesi"
 
 msgid "Table view"
-msgstr "Tabelvisning"
+msgstr "Tablo görünümü"
 
 msgid "Download"
-msgstr "Hent"
+msgstr "İndir"
 
 msgid "Links"
-msgstr "Links"
+msgstr "Linkler"
 
 msgid "Source code"
-msgstr "Kildekode"
+msgstr "Kaynak kodu"
 
 msgid "Unknown"
-msgstr "Ukendt"
+msgstr "Bilinmeyen"
 
 msgid "Swedish"
-msgstr "Svensk"
+msgstr "İsveççe"
 
 msgid "Portuguese"
-msgstr "Portugisisk"
+msgstr "Portekizce"
 
 msgid "Brazilian Portuguese"
-msgstr "Brasiliansk Portugisisk"
+msgstr "Brezilya Portekizcesi"
 
 msgid "Italian"
-msgstr "Italiensk"
+msgstr "İtalyanca"
+
+msgid "Turkish"
+msgstr "Türkçe"
 
 msgid "Danish"
-msgstr "Dansk"
-
-msgid "Hungarian"
-msgstr ""
-
-msgid "Belarusian"
 msgstr ""
 
 msgid "Croatian"
-msgstr ""
-
-msgid "Turkish"
 msgstr ""
 
 msgid "Finnish"

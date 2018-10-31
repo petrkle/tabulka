@@ -154,4 +154,58 @@
 		<title>Periodni sustav</title>
 	</lang>
 
+	<lang>
+		<fullname>Turkish</fullname>
+		<fullnameloc>Türkçe</fullnameloc>
+		<locales>tr_TR</locales>
+		<android>tr</android>
+		<browser>tr-TR</browser>
+		<title>Periyodik Tablo</title>
+	</lang>
+
+	<lang>
+		<fullname>Finnish</fullname>
+		<fullnameloc>Suomalainen</fullnameloc>
+		<locales>fi_FI</locales>
+		<android>fi</android>
+		<browser>fi-FI</browser>
+		<title>Jaksollinen järjestelmä</title>
+	</lang>
+
+	<lang>
+		<fullname>Malay</fullname>
+		<fullnameloc>Melayu</fullnameloc>
+		<locales>ms_MY</locales>
+		<android>ms</android>
+		<browser>ms-MY</browser>
+		<title>Jadual Berkala</title>
+	</lang>
+
+	<lang>
+		<fullname>Indonesian</fullname>
+		<fullnameloc>Indonesia</fullnameloc>
+		<locales>id_ID</locales>
+		<android>id</android>
+		<browser>id-ID</browser>
+		<title>Tabel Periodik</title>
+	</lang>
+
+	<lang>
+		<fullname>Afrikaans</fullname>
+		<fullnameloc>Afrikaans</fullnameloc>
+		<locales>af_ZA</locales>
+		<android>af</android>
+		<browser>af-ZA</browser>
+		<title>Periodieke Tabel</title>
+	</lang>
+
+	<lang>
+		<fullname>Ukrainian</fullname>
+		<fullnameloc>український</fullnameloc>
+		<locales>uk_UA</locales>
+		<android>uk</android>
+		<browser>uk-UA</browser>
+		<title>Таблиця Мєндєлєєва</title>
+	</lang>
+
 </lagnuages>

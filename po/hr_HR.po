@@ -285,3 +285,21 @@ msgstr ""
 
 msgid "Croatian"
 msgstr "Hrvatski"
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr ""
+
+msgid "Malay"
+msgstr ""
+
+msgid "Indonesian"
+msgstr ""

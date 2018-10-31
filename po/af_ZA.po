@@ -1,5 +1,5 @@
-# Periodic table.
-# Copyright (C) 2013 Petr Kletečka
+# Periodic table - Afrikaans translation.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -12,67 +12,67 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: de_DE\n"
+"Language: af_ZA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Periodensystem"
+msgstr "Periodieke Tabel"
 
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr "Konfigurasie"
 
 msgid "Language"
-msgstr "Sprache"
+msgstr "Taal"
 
 msgid "About"
-msgstr "Über"
+msgstr "Van"
 
 msgid "English"
-msgstr "Englisch"
-
-msgid "German"
-msgstr "Deutsch"
+msgstr "Engels"
 
 msgid "Czech"
-msgstr "Tschechisch"
+msgstr "Tsjeg"
 
 msgid "Slovak"
-msgstr "Slowakisch"
+msgstr "Slowaak"
+
+msgid "German"
+msgstr "Duits"
 
 msgid "French"
-msgstr "Französisch"
+msgstr "Frans"
 
 msgid "Polish"
-msgstr "Polnisch"
+msgstr "Pools"
 
 msgid "Spanish"
-msgstr "Spanisch"
+msgstr "Spaans"
 
 msgid "Dutch"
-msgstr "Holländisch"
+msgstr "Nederlands"
 
 msgid "Default language"
-msgstr "Standardsprache"
+msgstr "Standaard taal"
 
 msgid "State"
-msgstr "Aggregatzustand"
+msgstr "Staat"
 
 msgid "Solid"
-msgstr "Solide"
+msgstr "Vaste stof"
 
 msgid "Liquid"
-msgstr "Flüssige"
+msgstr "Vloeistof"
 
 msgid "Gas"
 msgstr "Gas"
 
 msgid "Symbol"
-msgstr "Symbol"
+msgstr "Simbool"
 
 msgid "Atomic number"
-msgstr "Ordnungszahl"
+msgstr "Atomiese nommer"
 
 msgid "Period"
 msgstr "Periode"
@@ -81,181 +81,181 @@ msgid "%d. period"
 msgstr "%d. periode"
 
 msgid "Element category"
-msgstr "Spezies"
+msgstr "Element kategorie"
 
 msgid "Relative atomic mass"
-msgstr "Relative Atommasse"
+msgstr "Relatieve atomiese massa"
 
 msgid "Atomic mass"
-msgstr "Atommasse"
+msgstr "Atomiese massa"
 
 msgid "Group"
-msgstr "Gruppe"
+msgstr "Groep"
 
 msgid "group"
-msgstr "Gruppe"
+msgstr "groep"
 
 msgid "Electronegativity"
-msgstr "Elektro<wbr>negativität"
+msgstr "Electronegativiteit"
 
 msgid "Oxidation numbers"
-msgstr "Oxidations<wbr>zustände"
+msgstr "Oksidering nommers"
 
 msgid "Electron configuration"
-msgstr "Elektronen<wbr>konfiguration"
+msgstr "Elektronkonfigurasie"
 
 msgid "Density"
-msgstr "Dichte"
+msgstr "Digtheid"
 
 msgid "Melting point"
-msgstr "Schmelzpunkt"
+msgstr "Smeltpunt"
 
 msgid "Boiling point"
-msgstr "Siedepunkt"
+msgstr "Kookpunt"
 
 msgid "Critical point"
-msgstr "Kritischer Punkt"
+msgstr "Kritiese Punt"
 
 msgid "Critical pressure"
-msgstr "Kritischer Druck"
+msgstr "Kritiese druk"
 
 msgid "Atomic radius"
-msgstr "Atomradius"
+msgstr "Atomiese radius"
 
 msgid "Covalent radius"
-msgstr "Kovalenter Radius"
+msgstr "Covalent radius"
 
 msgid "Thermal conductivity"
-msgstr "Wärmeleit<wbr>fähigkeit"
+msgstr "Warmte geleiding"
 
 msgid "Discovery"
-msgstr "Entdeckung"
+msgstr "Ontdekking"
 
 msgid "Hardness"
-msgstr "Härte"
+msgstr "Hardheid"
 
 msgid "Vickers hardness"
-msgstr "Vickers-Härte"
+msgstr "Vickershardheid"
 
 msgid "Brinell hardness"
-msgstr "Brinellhärte"
+msgstr "Brinellhardheid"
 
 msgid "Mohs scale"
-msgstr "Mohshärte"
+msgstr "Mohs skaal"
 
 msgid "Shear modulus"
-msgstr "Schubmodul"
+msgstr "Shear modulus"
 
 msgid "Young's modulus"
-msgstr "Elasti<wbr>zitätsmodul"
+msgstr "Young's modulus"
 
 msgid "Electrical resistivity"
-msgstr "Elektrischer Widerstand"
+msgstr "Elektriese weerstandbieding"
 
 msgid "Electrical conductivity"
-msgstr "Elektrische Leitfähigkeit"
+msgstr "Elektriese geleiding"
 
 msgid "Name"
-msgstr "Name"
+msgstr "Naam"
 
 msgid "Latin name"
-msgstr "Lateinischer Name"
+msgstr "Latyn naam"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Weergawe"
 
 msgid "Created"
-msgstr "Erstellt"
+msgstr "Kreëer"
 
 msgid "Author"
-msgstr "Verfasser"
+msgstr "Outeur"
 
 msgid "Write review"
-msgstr "Bewertung schreiben"
+msgstr "Skryf resensie"
 
 msgid "Noble gases"
-msgstr "Edelgase"
+msgstr "Edelgasse"
 
 msgid "Inner transition elements"
-msgstr "Inner Transitions<wbr>elemente"
+msgstr "Interne oorgangselemente"
 
 msgid "Transition elements"
-msgstr "Transition<wbr>elemente"
+msgstr "Oorgangselemente"
 
 msgid "Metalloids"
-msgstr "Metalloids<wbr>peziation"
+msgstr "Metalloïedes"
 
 msgid "Nonmetals"
-msgstr "Nichtmetalle"
+msgstr "Nie-metale"
 
 msgid "Alkaline earth metals"
-msgstr "Erdalkali<wbr>metalle"
+msgstr "Aardalkalimetaal"
 
 msgid "Metals"
-msgstr "Metalle"
+msgstr "Metale"
 
 msgid "Halogens"
 msgstr "Halogene"
 
 msgid "Alkali metals"
-msgstr "Alkalimetalle"
+msgstr "Alkalie metale"
 
 msgid "1.st ionization energy"
-msgstr "1. Ionisierungs<wbr>energie"
+msgstr "1.ste ionisasie-energie"
 
 msgid "2.nd ionization energy"
-msgstr "2. Ionisierungs<wbr>energie"
+msgstr "2.de ionisasie-energie"
 
 msgid "3.rd ionization energy"
-msgstr "3. Ionisierungs<wbr>energie"
+msgstr "3.de ionisasie-energie"
 
 msgid "Stable isotopes"
-msgstr "Stabile Isotope"
+msgstr "Stabiele isotope"
 
 msgid "Unstable isotopes"
-msgstr "Instabile Isotope"
+msgstr "Onstabiele isotope"
 
 msgid "Substance"
-msgstr "Substanz"
+msgstr "Stof"
 
 msgid "Talc"
-msgstr "Speckstein"
+msgstr "Speksteen"
 
 msgid "Rock salt"
-msgstr "Halit"
+msgstr "Haliet"
 
 msgid "Limestone"
-msgstr "Kalkstein"
+msgstr "Kalksteen"
 
 msgid "Fluorspar"
-msgstr "Flussspat"
+msgstr "Fluoriet"
 
 msgid "Apatite"
-msgstr "Apatite"
+msgstr "Apatiet"
 
 msgid "Feldspar"
-msgstr "Feldspat"
+msgstr "Veldspaat"
 
 msgid "Quartz"
-msgstr "Quarz"
+msgstr "Kwarts"
 
 msgid "Topaz"
-msgstr "Topas"
+msgstr "Topaas"
 
 msgid "Corundum"
 msgstr "Korund"
 
 msgid "Diamond"
-msgstr "Diamant"
+msgstr "Diamand"
 
 msgid "Antiquity"
-msgstr "Antike"
+msgstr "Antieke"
 
 msgid "Heat capacity"
-msgstr "Wärmekapazität"
+msgstr "Warmtekapasiteit"
 
 msgid "Table view"
-msgstr "Tabelle"
+msgstr "Tabel"
 
 msgid "Download"
 msgstr "Download"
@@ -264,55 +264,40 @@ msgid "Links"
 msgstr "Links"
 
 msgid "Source code"
-msgstr "Source code"
+msgstr "Bronkode"
 
 msgid "Unknown"
-msgstr "Unbekannt"
-
-msgid "Menu"
-msgstr "Menü"
-
-msgid "Russian"
-msgstr "Russisch"
-
-msgid "Estonian"
-msgstr "Estnisch"
+msgstr "Onbekend"
 
 msgid "Swedish"
-msgstr "Schwedisch"
+msgstr "Sweeds"
 
 msgid "Portuguese"
-msgstr "Portugiesisch"
+msgstr "Portugees"
 
 msgid "Brazilian Portuguese"
-msgstr "Brasilianisches Portugiesisch"
+msgstr "Brasiliaanse portugees"
 
 msgid "Italian"
-msgstr "Italienisch"
-
-msgid "Danish"
-msgstr "Dänisch"
-
-msgid "Hungarian"
-msgstr "Ungarisch"
-
-msgid "Belarusian"
-msgstr "Weißrussisch"
-
-msgid "Croatian"
-msgstr "Kroatisch"
+msgstr "Italiaans"
 
 msgid "Turkish"
-msgstr "Türkisch"
+msgstr "Turks"
 
 msgid "Finnish"
-msgstr "Finnisch"
+msgstr "Fins"
+
+msgid "Danish"
+msgstr "Deens"
+
+msgid "Croatian"
+msgstr "Kroatische"
 
 msgid "Afrikaans"
-msgstr "Afrikaans"
+msgstr ""
 
 msgid "Ukrainian"
-msgstr "Ukrainisch"
+msgstr ""
 
 msgid "Malay"
 msgstr ""

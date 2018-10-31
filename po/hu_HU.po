@@ -278,3 +278,33 @@ msgstr "Brazíliai portugál"
 
 msgid "Italian"
 msgstr "Olasz"
+
+msgid "Danish"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr ""
+
+msgid "Malay"
+msgstr ""
+
+msgid "Indonesian"
+msgstr ""

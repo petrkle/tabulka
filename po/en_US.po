@@ -268,7 +268,7 @@ msgstr "Source code"
 
 msgid "Unknown"
 msgstr "Unknown"
- 
+
 msgid "Swedish"
 msgstr "Swedish"
 
@@ -280,3 +280,27 @@ msgstr "Brazilian Portuguese"
 
 msgid "Italian"
 msgstr "Italian"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "Finnish"
+msgstr "Finnish"
+
+msgid "Danish"
+msgstr "Danish"
+
+msgid "Croatian"
+msgstr "Croatian"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+msgid "Malay"
+msgstr "Malay"
+
+msgid "Indonesian"
+msgstr "Indonesian"

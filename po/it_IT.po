@@ -280,3 +280,33 @@ msgstr "Portoghese (Brasiliano)"
 
 msgid "Italian"
 msgstr "Italiano"
+
+msgid "Danish"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr ""
+
+msgid "Malay"
+msgstr ""
+
+msgid "Indonesian"
+msgstr ""
