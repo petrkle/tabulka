@@ -12,307 +12,301 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: it_IT\n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Tavola Periodica"
+msgstr "周期表"
 
 msgid "Settings"
-msgstr "Impostazioni"
+msgstr "設定"
 
 msgid "Language"
-msgstr "Lingua"
+msgstr "言語"
 
 msgid "About"
-msgstr "Informazioni"
+msgstr "概要"
 
 msgid "English"
-msgstr "Inglese"
+msgstr "英語"
 
 msgid "Czech"
-msgstr "Ceco"
+msgstr "チェコ語"
 
 msgid "Slovak"
-msgstr "Slovacco"
+msgstr "スロバキア語"
 
 msgid "German"
-msgstr "Tedesco"
+msgstr "ドイツ語"
 
 msgid "French"
-msgstr "Francese"
+msgstr "フランス語"
 
 msgid "Polish"
-msgstr "Polacco"
+msgstr "ポーランド語"
 
 msgid "Spanish"
-msgstr "Spagnolo"
+msgstr "スペイン語"
 
 msgid "Dutch"
-msgstr "Olandese"
+msgstr "オランダ語"
 
 msgid "Default language"
-msgstr "Lingua di Default"
+msgstr "デフォルト"
 
 msgid "State"
-msgstr "Stato"
+msgstr "相"
 
 msgid "Solid"
-msgstr "Solido"
+msgstr "固体"
 
 msgid "Liquid"
-msgstr "Liquido"
+msgstr "液体"
 
 msgid "Gas"
-msgstr "Gassoso"
+msgstr "気体"
 
 msgid "Symbol"
-msgstr "Simbolo"
+msgstr "元素記号"
 
 msgid "Atomic number"
-msgstr "Numero Atomico"
+msgstr "原子番号"
 
 msgid "Period"
-msgstr "Periodo"
+msgstr "周期"
 
 msgid "%d. period"
-msgstr "%d. periodo"
+msgstr "第%d周期"
 
 msgid "Element category"
-msgstr "Categoria dell' Elemento"
+msgstr "分類"
 
 msgid "Relative atomic mass"
-msgstr "Massa atomica relativa"
+msgstr "相対原子質量"
 
 msgid "Atomic mass"
-msgstr "Massa atomica"
+msgstr "原子量"
 
 msgid "Group"
-msgstr "Gruppo"
+msgstr "族"
 
 msgid "group"
-msgstr "gruppo"
+msgstr "族"
 
 msgid "Electronegativity"
-msgstr "Elettronegatività"
+msgstr "電気陰性度"
 
 msgid "Oxidation numbers"
-msgstr "Numeri di ossidazione"
+msgstr "酸化数"
 
 msgid "Electron configuration"
-msgstr "Configurazione elettronica"
+msgstr "電子配置"
 
 msgid "Density"
-msgstr "Densità"
+msgstr "密度"
 
 msgid "Melting point"
-msgstr "Punto di fusione"
+msgstr "融点"
 
 msgid "Boiling point"
-msgstr "Punto di ebollizione"
+msgstr "沸点"
 
 msgid "Critical point"
-msgstr "Punto critico"
+msgstr "臨界点"
 
 msgid "Critical pressure"
-msgstr "Pressione critica"
+msgstr "臨界圧"
 
 msgid "Atomic radius"
-msgstr "Raggio atomico"
+msgstr "原子半径"
 
 msgid "Covalent radius"
-msgstr "Raggio covalente"
+msgstr "共有結合半径"
 
 msgid "Thermal conductivity"
-msgstr "Conduttività termica"
+msgstr "熱伝導率"
 
 msgid "Discovery"
-msgstr "Scoperto da"
+msgstr "発見年"
 
 msgid "Hardness"
-msgstr "Durezza"
+msgstr "硬度"
 
 msgid "Vickers hardness"
-msgstr "Scala Vickers"
+msgstr "ビッカース硬度"
 
 msgid "Brinell hardness"
-msgstr "Scala Brinell"
+msgstr "ブリネル硬度"
 
 msgid "Mohs scale"
-msgstr "Scala Mohs"
+msgstr "モース硬度"
 
 msgid "Shear modulus"
-msgstr "Modulo di taglio"
+msgstr "剛性率"
 
 msgid "Young's modulus"
-msgstr "Modulo di Young"
+msgstr "ヤング率"
 
 msgid "Electrical resistivity"
-msgstr "Resistenza elettrica"
+msgstr "電気抵抗率"
 
 msgid "Electrical conductivity"
-msgstr "Conduttività elettrica"
+msgstr "電気伝導率"
 
 msgid "Name"
-msgstr "Nome"
+msgstr "名称"
 
 msgid "Latin name"
-msgstr "Nome latino"
+msgstr "ラテン語名"
 
 msgid "Version"
-msgstr "Versione"
+msgstr "バージョン"
 
 msgid "Created"
-msgstr "Creata"
+msgstr "作成"
 
 msgid "Author"
-msgstr "Autore"
+msgstr "作成者"
 
 msgid "Write review"
-msgstr "Scrivi recensione"
+msgstr "レビューを書く"
 
 msgid "Noble gases"
-msgstr "Gas Nobili"
+msgstr "希ガス"
 
 msgid "Inner transition elements"
-msgstr "Elementi di transizione interne"
+msgstr "内部遷移元素"
 
 msgid "Transition elements"
-msgstr "Elementi di transizione"
+msgstr "遷移元素"
 
 msgid "Metalloids"
-msgstr "Metalloidi"
+msgstr "半金属元素"
 
 msgid "Nonmetals"
-msgstr "Nonmetalli"
+msgstr "非金属元素"
 
 msgid "Alkaline earth metals"
-msgstr "Metalli alcalino-terrosi"
+msgstr "アルカリ土類金属"
 
 msgid "Metals"
-msgstr "Metalli"
+msgstr "金属元素"
 
 msgid "Halogens"
-msgstr "Alogeni"
+msgstr "ハロゲン"
 
 msgid "Alkali metals"
-msgstr "Metalli alcalini"
+msgstr "アルカリ金属"
 
 msgid "1.st ionization energy"
-msgstr "prima energia di ionizzazione"
+msgstr "第1イオン化エネルギー"
 
 msgid "2.nd ionization energy"
-msgstr "Seconda energia di ionizzazione"
+msgstr "第2イオン化エネルギー"
 
 msgid "3.rd ionization energy"
-msgstr "Terza energia di ionizzazione"
+msgstr "第3イオン化エネルギー"
 
 msgid "Stable isotopes"
-msgstr "Isotopi stabili"
+msgstr "安定同位体"
 
 msgid "Unstable isotopes"
-msgstr "Isotopi Instabili"
+msgstr "不安定同位体"
 
 msgid "Substance"
-msgstr "Sostanza"
+msgstr "標準物質"
 
 msgid "Talc"
-msgstr "Talco"
+msgstr "滑石"
 
 msgid "Rock salt"
-msgstr "Salgemma"
+msgstr "岩塩"
 
 msgid "Limestone"
-msgstr "Calcare"
+msgstr "石灰石"
 
 msgid "Fluorspar"
-msgstr "Fluorite"
+msgstr "蛍石"
 
 msgid "Apatite"
-msgstr "Apatite"
+msgstr "燐灰石"
 
 msgid "Feldspar"
-msgstr "Feldspato"
+msgstr "長石"
 
 msgid "Quartz"
-msgstr "Quarzo"
+msgstr "石英"
 
 msgid "Topaz"
-msgstr "Topazio"
+msgstr "トパーズ"
 
 msgid "Corundum"
-msgstr "Corindone"
+msgstr "コランダム"
 
 msgid "Diamond"
-msgstr "Diamante"
+msgstr "ダイヤモンド"
 
 msgid "Antiquity"
-msgstr "Antichità"
+msgstr "古代"
 
 msgid "Heat capacity"
-msgstr "Capacità termica"
+msgstr "熱容量"
 
 msgid "Table view"
-msgstr "Vista a tabella"
+msgstr "表の閲覧"
 
 msgid "Download"
-msgstr "Scarica"
+msgstr "ダウンロード"
 
 msgid "Links"
-msgstr "Collegamenti"
+msgstr "リンク"
 
 msgid "Source code"
-msgstr "Codice sorgente"
+msgstr "ソースコード"
 
 msgid "Unknown"
-msgstr "Sconosciuto"
+msgstr "不明"
 
 msgid "Swedish"
-msgstr "Svedese"
+msgstr "スウェーデン語"
 
 msgid "Portuguese"
-msgstr "Portoghese"
+msgstr "ポルトガル語"
 
 msgid "Brazilian Portuguese"
-msgstr "Portoghese (Brasiliano)"
+msgstr "ブラジルポルトガル語"
 
 msgid "Italian"
-msgstr "Italiano"
-
-msgid "Danish"
-msgstr ""
-
-msgid "Hungarian"
-msgstr ""
-
-msgid "Belarusian"
-msgstr ""
-
-msgid "Croatian"
-msgstr ""
+msgstr "イタリア語"
 
 msgid "Turkish"
-msgstr ""
+msgstr "トルコ語"
 
 msgid "Finnish"
-msgstr ""
+msgstr "フィンランド語"
+
+msgid "Danish"
+msgstr "デンマーク語"
+
+msgid "Croatian"
+msgstr "クロアチア語"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "アフリカーンス語"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "ウクライナ語"
 
 msgid "Malay"
-msgstr ""
+msgstr "マレー語"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "インドネシア語"
 
 msgid "Japanese"
-msgstr "giapponese"
+msgstr "日本語"
 
 msgid "Chinese - Simplified"
 msgstr ""

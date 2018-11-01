@@ -53,6 +53,9 @@
     <name_id_ID>Bromin</name_id_ID>
     <name_af_ZA>Broom</name_af_ZA>
     <name_uk_UA>Бром</name_uk_UA>
+    <name_ja_JP>臭素</name_ja_JP>
+    <name_zh_CN>溴</name_zh_CN>
+    <name_ro_RO>Brom</name_ro_RO>
   </element>
   <element>
     <anumber>17</anumber>
@@ -106,6 +109,9 @@
     <name_id_ID>Klor</name_id_ID>
     <name_af_ZA>Chloor</name_af_ZA>
     <name_uk_UA>Хлор</name_uk_UA>
+    <name_ja_JP>塩素</name_ja_JP>
+    <name_zh_CN>氯</name_zh_CN>
+    <name_ro_RO>Clor</name_ro_RO>
   </element>
   <element>
     <anumber>9</anumber>
@@ -159,6 +165,9 @@
     <name_id_ID>Fluor</name_id_ID>
     <name_af_ZA>Fluoor</name_af_ZA>
     <name_uk_UA>Флуор</name_uk_UA>
+    <name_ja_JP>フッ素</name_ja_JP>
+    <name_zh_CN>氟</name_zh_CN>
+    <name_ro_RO>Fluor</name_ro_RO>
   </element>
   <element>
     <anumber>53</anumber>
@@ -213,6 +222,9 @@
     <name_id_ID>Iodin</name_id_ID>
     <name_af_ZA>Jodium</name_af_ZA>
     <name_uk_UA>Йод</name_uk_UA>
+    <name_ja_JP>ヨウ素</name_ja_JP>
+    <name_zh_CN>碘</name_zh_CN>
+    <name_ro_RO>Iod</name_ro_RO>
   </element>
   <element>
     <anumber>117</anumber>
@@ -253,6 +265,9 @@
     <name_id_ID>Tenesin</name_id_ID>
     <name_af_ZA>Tennessien</name_af_ZA>
     <name_uk_UA>Теннессин</name_uk_UA>
+    <name_ja_JP>テネシン</name_ja_JP>
+    <name_zh_CN>鿬</name_zh_CN>
+    <name_ro_RO>Tennessine</name_ro_RO>
   </element>
   <element>
     <anumber>85</anumber>
@@ -299,5 +314,8 @@
     <name_id_ID>Astatin</name_id_ID>
     <name_af_ZA>Astaat</name_af_ZA>
     <name_uk_UA>Астат</name_uk_UA>
+    <name_ja_JP>アスタチン</name_ja_JP>
+    <name_zh_CN>砹</name_zh_CN>
+    <name_ro_RO>Astatiniu</name_ro_RO>
   </element>
 </elements>

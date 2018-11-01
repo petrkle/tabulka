@@ -13,3 +13,4 @@ gradlew*
 app/src/main/assets/www
 locale
 app/*.log
+*~

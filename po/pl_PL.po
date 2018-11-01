@@ -312,3 +312,12 @@ msgstr "Malajski"
 
 msgid "Indonesian"
 msgstr "Indonezyjski"
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Chinese - Simplified"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""

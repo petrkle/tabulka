@@ -208,4 +208,31 @@
 		<title>Таблиця Мєндєлєєва</title>
 	</lang>
 
+	<lang>
+		<fullname>Japanese</fullname>
+		<fullnameloc>日本語</fullnameloc>
+		<locales>ja_JP</locales>
+		<android>ja</android>
+		<browser>ja-JP</browser>
+		<title>周期表</title>
+	</lang>
+
+	<lang>
+		<fullname>Chinese - Simplified</fullname>
+		<fullnameloc>中文（简）</fullnameloc>
+		<locales>zh_CN</locales>
+		<android>zh</android>
+		<browser>zh-CN</browser>
+		<title>元素周期表</title>
+	</lang>
+
+	<lang>
+		<fullname>Romanian</fullname>
+		<fullnameloc>Română</fullnameloc>
+		<locales>ro_RO</locales>
+		<android>ro</android>
+		<browser>ro-RO</browser>
+		<title>Tabelul periodic</title>
+	</lang>
+
 </lagnuages>

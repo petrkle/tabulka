@@ -12,310 +12,304 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: it_IT\n"
+"Language: ro_RO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Tavola Periodica"
+msgstr "Tabelul periodic"
 
 msgid "Settings"
-msgstr "Impostazioni"
+msgstr "Setări"
 
 msgid "Language"
-msgstr "Lingua"
+msgstr "Limbă"
 
 msgid "About"
-msgstr "Informazioni"
+msgstr "Despre"
 
 msgid "English"
-msgstr "Inglese"
+msgstr "Engleză"
 
 msgid "Czech"
-msgstr "Ceco"
+msgstr "Cehă"
 
 msgid "Slovak"
-msgstr "Slovacco"
+msgstr "Slovacă"
 
 msgid "German"
-msgstr "Tedesco"
+msgstr "Germană"
 
 msgid "French"
-msgstr "Francese"
+msgstr "Franceză"
 
 msgid "Polish"
-msgstr "Polacco"
+msgstr "Poloneză"
 
 msgid "Spanish"
-msgstr "Spagnolo"
+msgstr "Spaniolă"
 
 msgid "Dutch"
-msgstr "Olandese"
+msgstr "Olandeză"
 
 msgid "Default language"
-msgstr "Lingua di Default"
+msgstr "Limba implicită"
 
 msgid "State"
-msgstr "Stato"
+msgstr "Stare"
 
 msgid "Solid"
-msgstr "Solido"
+msgstr "Solid"
 
 msgid "Liquid"
-msgstr "Liquido"
+msgstr "Lichid"
 
 msgid "Gas"
-msgstr "Gassoso"
+msgstr "Gaz"
 
 msgid "Symbol"
-msgstr "Simbolo"
+msgstr "Simbol"
 
 msgid "Atomic number"
-msgstr "Numero Atomico"
+msgstr "Număr atomic"
 
 msgid "Period"
-msgstr "Periodo"
+msgstr "Perioadă"
 
 msgid "%d. period"
-msgstr "%d. periodo"
+msgstr "%d. perioadă"
 
 msgid "Element category"
-msgstr "Categoria dell' Elemento"
+msgstr "Categoria elementului"
 
 msgid "Relative atomic mass"
-msgstr "Massa atomica relativa"
+msgstr "Masa atomică relativă"
 
 msgid "Atomic mass"
-msgstr "Massa atomica"
+msgstr "Masa atomică"
 
 msgid "Group"
-msgstr "Gruppo"
+msgstr "Grup"
 
 msgid "group"
-msgstr "gruppo"
+msgstr "grup"
 
 msgid "Electronegativity"
-msgstr "Elettronegatività"
+msgstr "Electronegativitate"
 
 msgid "Oxidation numbers"
-msgstr "Numeri di ossidazione"
+msgstr "Numerele de oxidare"
 
 msgid "Electron configuration"
-msgstr "Configurazione elettronica"
+msgstr "Configurație electronică"
 
 msgid "Density"
-msgstr "Densità"
+msgstr "Densitate"
 
 msgid "Melting point"
-msgstr "Punto di fusione"
+msgstr "Punct de topire"
 
 msgid "Boiling point"
-msgstr "Punto di ebollizione"
+msgstr "Punct de fierbere"
 
 msgid "Critical point"
-msgstr "Punto critico"
+msgstr "Punct critic"
 
 msgid "Critical pressure"
-msgstr "Pressione critica"
+msgstr "Presiune critică"
 
 msgid "Atomic radius"
-msgstr "Raggio atomico"
+msgstr "Rază atomică"
 
 msgid "Covalent radius"
-msgstr "Raggio covalente"
+msgstr "Rază covalentă"
 
 msgid "Thermal conductivity"
-msgstr "Conduttività termica"
+msgstr "Conductivitate termică"
 
 msgid "Discovery"
-msgstr "Scoperto da"
+msgstr "Descoperire"
 
 msgid "Hardness"
-msgstr "Durezza"
+msgstr "Duritate"
 
 msgid "Vickers hardness"
-msgstr "Scala Vickers"
+msgstr "Duritate Vicker"
 
 msgid "Brinell hardness"
-msgstr "Scala Brinell"
+msgstr "Duritate Brinell"
 
 msgid "Mohs scale"
-msgstr "Scala Mohs"
+msgstr "Scală Mohs"
 
 msgid "Shear modulus"
-msgstr "Modulo di taglio"
+msgstr "Mod de forfecare"
 
 msgid "Young's modulus"
-msgstr "Modulo di Young"
+msgstr "Modulul lui Young"
 
 msgid "Electrical resistivity"
-msgstr "Resistenza elettrica"
+msgstr "Rezistență electrică"
 
 msgid "Electrical conductivity"
-msgstr "Conduttività elettrica"
+msgstr "Conductivitate electrică"
 
 msgid "Name"
-msgstr "Nome"
+msgstr "Nume"
 
 msgid "Latin name"
-msgstr "Nome latino"
+msgstr "Nume latin"
 
 msgid "Version"
-msgstr "Versione"
+msgstr "Versiune"
 
 msgid "Created"
-msgstr "Creata"
+msgstr "Creat"
 
 msgid "Author"
-msgstr "Autore"
+msgstr "Autor"
 
 msgid "Write review"
-msgstr "Scrivi recensione"
+msgstr "Scrie recenzie"
 
 msgid "Noble gases"
-msgstr "Gas Nobili"
+msgstr "Gaze nobile"
 
 msgid "Inner transition elements"
-msgstr "Elementi di transizione interne"
+msgstr "Elemente de tranziție internă"
 
 msgid "Transition elements"
-msgstr "Elementi di transizione"
+msgstr "Elemente de tranziție"
 
 msgid "Metalloids"
-msgstr "Metalloidi"
+msgstr "Metaloizi"
 
 msgid "Nonmetals"
-msgstr "Nonmetalli"
+msgstr "Nemetale"
 
 msgid "Alkaline earth metals"
-msgstr "Metalli alcalino-terrosi"
+msgstr "Metale alcalino-pământoase"
 
 msgid "Metals"
-msgstr "Metalli"
+msgstr "Metale"
 
 msgid "Halogens"
-msgstr "Alogeni"
+msgstr "Halogeni"
 
 msgid "Alkali metals"
-msgstr "Metalli alcalini"
+msgstr "Metale alcaline"
 
 msgid "1.st ionization energy"
-msgstr "prima energia di ionizzazione"
+msgstr "prima energie de ionizare"
 
 msgid "2.nd ionization energy"
-msgstr "Seconda energia di ionizzazione"
+msgstr "a doua energie de ionizare"
 
 msgid "3.rd ionization energy"
-msgstr "Terza energia di ionizzazione"
+msgstr "a treia energie de ionizare"
 
 msgid "Stable isotopes"
-msgstr "Isotopi stabili"
+msgstr "Izotopi stabili"
 
 msgid "Unstable isotopes"
-msgstr "Isotopi Instabili"
+msgstr "Izotopi instabili"
 
 msgid "Substance"
-msgstr "Sostanza"
+msgstr "Substanță"
 
 msgid "Talc"
-msgstr "Talco"
+msgstr "Pulbere"
 
 msgid "Rock salt"
-msgstr "Salgemma"
+msgstr "Sare gemă"
 
 msgid "Limestone"
-msgstr "Calcare"
+msgstr "Calcar"
 
 msgid "Fluorspar"
-msgstr "Fluorite"
+msgstr "Fluorină"
 
 msgid "Apatite"
-msgstr "Apatite"
+msgstr "Apatit"
 
 msgid "Feldspar"
-msgstr "Feldspato"
+msgstr "Ortoză"
 
 msgid "Quartz"
-msgstr "Quarzo"
+msgstr "Cuarț"
 
 msgid "Topaz"
-msgstr "Topazio"
+msgstr "Topaz"
 
 msgid "Corundum"
-msgstr "Corindone"
+msgstr "Corindon"
 
 msgid "Diamond"
-msgstr "Diamante"
+msgstr "Diamant"
 
 msgid "Antiquity"
-msgstr "Antichità"
+msgstr "Antichitate"
 
 msgid "Heat capacity"
-msgstr "Capacità termica"
+msgstr "Capacitate de căldură"
 
 msgid "Table view"
-msgstr "Vista a tabella"
+msgstr "Vizualizare tabel"
 
 msgid "Download"
-msgstr "Scarica"
+msgstr "Descarcă"
 
 msgid "Links"
-msgstr "Collegamenti"
+msgstr "Legături"
 
 msgid "Source code"
-msgstr "Codice sorgente"
+msgstr "Cod sursă"
 
 msgid "Unknown"
-msgstr "Sconosciuto"
+msgstr "Necunoscut"
 
 msgid "Swedish"
-msgstr "Svedese"
+msgstr "Suedeză"
 
 msgid "Portuguese"
-msgstr "Portoghese"
+msgstr "Portugheză"
 
 msgid "Brazilian Portuguese"
-msgstr "Portoghese (Brasiliano)"
+msgstr "Portugheză braziliană"
 
 msgid "Italian"
-msgstr "Italiano"
-
-msgid "Danish"
-msgstr ""
-
-msgid "Hungarian"
-msgstr ""
-
-msgid "Belarusian"
-msgstr ""
-
-msgid "Croatian"
-msgstr ""
+msgstr "Italiană"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turcă"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandeză"
+
+msgid "Danish"
+msgstr "Daneză"
+
+msgid "Croatian"
+msgstr "Croată"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Africană"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ucraineană"
 
 msgid "Malay"
-msgstr ""
+msgstr "Malaieză"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Indoneziană"
 
 msgid "Japanese"
-msgstr "giapponese"
+msgstr "Japoneză"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Chineză simplificată"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Română"

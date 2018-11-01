@@ -304,3 +304,12 @@ msgstr "Malaysia"
 
 msgid "Indonesian"
 msgstr "Indonesia"
+
+msgid "Japanese"
+msgstr "Bahasa Jepang"
+
+msgid "Chinese - Simplified"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
