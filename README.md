@@ -23,5 +23,5 @@ Build apk file
 
 
 ```
-gradle assembleRelease
+make apk
 ```

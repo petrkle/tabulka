@@ -1,4 +1,23 @@
 apply plugin: 'com.android.application'
+apply plugin: 'org.ajoberstar.grgit'
+
+ext {
+	gitVersionName = grgit.describe()
+	dirty = !grgit.status().clean
+	if(dirty) gitVersionName = gitVersionName + '-dirty'
+	gitVersionCode = grgit.log().size()
+}
+
+
+task printVersionName() {
+    println("$gitVersionName")
+}
+
+android {
+    defaultConfig {
+        versionName "${gitVersionName}"
+    }
+}
 
 android {
     compileSdkVersion 28
@@ -7,8 +26,8 @@ android {
         applicationId "cz.kle.tabulka"
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 57
-        versionName "5.7"
+        versionCode gitVersionCode
+        versionName "${gitVersionName}"
 				setProperty("archivesBaseName", "Tabulka-$versionName")
     }
 		signingConfigs {

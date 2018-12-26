@@ -30,7 +30,7 @@ $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
 	}
 };
 
-my $appversion = `grep versionName app/build.gradle | head -1 | sed "s/[^0-9\.]*//g"`;
+my $appversion = `TERM=xterm-color gradle -q printVersionName 2>/dev/null`;
 
 my $OUT = "app/src/main/assets/www";
 
