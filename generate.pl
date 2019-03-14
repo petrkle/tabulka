@@ -218,6 +218,7 @@ foreach my $lang (@langs){
 
 	$t->process('about.html',
 		{	'title' => $locappname,
+			'lang' => $lang,
 			'version' => $appversion,
 		},
 		"$OUT/$lang/about.html",
