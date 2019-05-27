@@ -7,10 +7,10 @@ help:
 	@echo "clean         - remove temporary files"
 
 apk:
-	TERM=xterm-color gradle assembleRelease
+	gradle assembleRelease
 
 tag:
 	git tag -a -s -m "Version $(NTAG)" $(NTAG)
 
 clean:
-	TERM=xterm-color gradle clean
+	gradle clean
