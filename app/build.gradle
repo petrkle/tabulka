@@ -20,11 +20,11 @@ android {
 }
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 29
     defaultConfig {
         applicationId "cz.kle.tabulka"
-        minSdkVersion 15
-        targetSdkVersion 28
+        minSdkVersion 21
+        targetSdkVersion 29
         versionCode gitVersionCode
         versionName "${gitVersionName}"
 				setProperty("archivesBaseName", "Tabulka-$versionName")
@@ -43,7 +43,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-		implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
 }
 
 
