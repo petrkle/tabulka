@@ -259,6 +259,8 @@ foreach my $dir (('css', 'img', 'font', 'js')){
 	}
 }
 
+copy("test-tube-circle.png", "$OUT/test-tube.png");
+
 sub get_langs{
 	my @langs = ();
 	my @files = glob("po/*.po");
