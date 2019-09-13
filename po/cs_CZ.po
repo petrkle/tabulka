@@ -327,3 +327,12 @@ msgstr "Zjednodušená čínština"
 
 msgid "Romanian"
 msgstr "Rumunština"
+
+msgid "Display"
+msgstr "Zobrazení"
+
+msgid "Bright mode"
+msgstr "Světlý režim"
+
+msgid "Dark mode"
+msgstr "Tmavý režim"

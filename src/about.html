@@ -38,4 +38,24 @@ Příspěvek na další vývoj, opravy chyb a přidávání nových funkcí mů�
 
 [% END %]
 
+<h3>[% l('Settings') %]</h3>
+<p><input type="button" value="[% l('Display') %]" id="theme" class="knoflik"></p>
+<script>
+knoflik = document.getElementById('theme');
+
+if (localStorage.getItem('dark') != null) {
+	knoflik.value = '[% l('Bright mode') %]';
+	knoflik.onclick = function(event){
+		localStorage.removeItem('dark');
+		location.reload(true);
+	}
+}else{
+	knoflik.value = '[% l('Dark mode') %]';
+	knoflik.onclick = function(event){
+		localStorage.setItem('dark', 1);
+		location.reload(true);
+	}
+}
+</script>
+
 [% INCLUDE footer.html -%]

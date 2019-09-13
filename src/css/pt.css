@@ -1,5 +1,10 @@
+@media all{
 @font-face{font-family:"robotoregular";src:url("roboto-regular.ttf") format("opentype");}
 body{font-family:"robotoregular",sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
+.knoflik{padding:1em 2em;}
+}
+
+@media screen{
 #header{width:100%;min-width:100%;background:#fb3;font-size:1.5em;border-bottom:1px #999 solid;}
 #title #likea,#title a{padding:0.5em 0.2em 0.5em 0.5em;display:inline-block;height:100%;width:100%;font-weight:normal;}
 #menu a{color:#000;text-decoration:none;background:transparent;padding:0.5em;display:inline-block;height:100%;font-weight:normal;}
@@ -34,7 +39,7 @@ a:visited{color:#000;text-decoration:none;}
 #menubot .lscell a,#menubot .rscell a{display:block;padding:1em;}
 .lscell{border-bottom:1px solid #aaa;border-right:1px solid #aaa;}
 .rscell{border-bottom:1px solid #aaa;border-right:0;}
-p{padding:1em;margin:0;text-align:center;}
+p,h3{padding:1em;margin:0;text-align:center;}
 p.text{padding:0.5em;margin:0;text-align:left;}
 #tableview{text-align:center;width:100%;}
 #tableview td a{display:block;padding:0.5em;margin:1px;position:relative;}
@@ -49,3 +54,18 @@ p.text{padding:0.5em;margin:0;text-align:left;}
 .inner-transition-elements{background:#33b5e5;}
 .noble-gases{background:#a6c;}
 .selected{outline:solid 2px #c00;}
+}
+
+@media screen and (min-width: 35em){
+body{font-size:1.3em;}
+#atom,#menubot,#mohs,#tableview td a{font-size:1em;}
+#tableview td a{font-size:1.3em;padding:0.5em 0.3em;}
+#tableview td a span{font-size:0.4em;padding:1px;}
+}
+
+@media screen and (min-width: 70em){
+body{font-size:1.5em;}
+#atom,#menubot,#mohs{font-size:1em;}
+#tableview td a{font-size:2em;padding:0.4em 0.2em;}
+#tableview td a span{font-size:0.3em;padding:1px;}
+}

@@ -313,3 +313,12 @@ msgstr ""
 
 msgid "Romanian"
 msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Bright mode"
+msgstr ""
+
+msgid "Dark mode"
+msgstr ""
