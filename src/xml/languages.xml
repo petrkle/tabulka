@@ -235,4 +235,22 @@
 		<title>Tabelul periodic</title>
 	</lang>
 
+	<lang>
+		<fullname>Hindi</fullname>
+		<fullnameloc>हिन्दी भाषा</fullnameloc>
+		<locales>hi_HI</locales>
+		<android>hi</android>
+		<browser>hi-HI</browser>
+		<title>आवर्त सारणी</title>
+	</lang>
+
+	<lang>
+		<fullname>Sinhala</fullname>
+		<fullnameloc>සිංහල</fullnameloc>
+		<locales>si_SI</locales>
+		<android>si</android>
+		<browser>si-SI</browser>
+		<title>ආවර්තිතා වගුව</title>
+	</lang>
+
 </lagnuages>
