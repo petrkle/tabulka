@@ -2,6 +2,7 @@ requires 'Encode';
 requires 'File::Basename';
 requires 'File::Copy';
 requires 'File::Path';
+requires 'IPC::System::Simple';
 requires 'Locale::Messages';
 requires 'Locale::TextDomain';
 requires 'Number::Format';
