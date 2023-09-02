@@ -7,6 +7,6 @@
     <name>tabulka</name>
     <content src="index.html" />
     <preference name="loglevel" value="DEBUG" />
-		<allow-intent href="https://*/*" />
-		<allow-intent href="mailto:*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="mailto:*" />
 </widget>

@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'org.ajoberstar.grgit'
 
 ext {
-	gitVersionName = grgit.describe()
-	dirty = !grgit.status().clean
-	if(dirty) gitVersionName = gitVersionName + '-dirty'
-	gitVersionCode = grgit.log().size()
+  gitVersionName = grgit.describe()
+  dirty = !grgit.status().clean
+  if(dirty) gitVersionName = gitVersionName + '-dirty'
+  gitVersionCode = grgit.log().size()
 }
 
 
@@ -20,7 +20,7 @@ android {
 }
 
 android {
-		namespace 'cz.kle.tabulka'
+    namespace 'cz.kle.tabulka'
     compileSdkVersion 33
     defaultConfig {
         applicationId "cz.kle.tabulka"
@@ -28,15 +28,15 @@ android {
         targetSdkVersion 33
         versionCode gitVersionCode
         versionName "${gitVersionName}"
-				setProperty("archivesBaseName", "Tabulka-$versionName")
+        setProperty("archivesBaseName", "Tabulka-$versionName")
     }
-		signingConfigs {
+    signingConfigs {
         release
     }
     buildTypes {
         release {
             minifyEnabled false
-						signingConfig signingConfigs.release
+            signingConfig signingConfigs.release
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
@@ -50,12 +50,12 @@ dependencies {
 
 task generate(type: Exec, dependsOn: 'generateLocale') {
     commandLine 'perl', './generate.pl'
-		workingDir '..'
+    workingDir '..'
 }
 
 task generateLocale(type: Exec) {
     commandLine 'make'
-		workingDir '../po'
+    workingDir '../po'
 }
 
 preBuild.dependsOn(generate)
