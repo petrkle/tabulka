@@ -28,7 +28,7 @@ android {
         targetSdkVersion 33
         versionCode gitVersionCode
         versionName "${gitVersionName}"
-        setProperty("archivesBaseName", "Tabulka-$versionName")
+        setProperty("archivesBaseName", "Tabulka")
     }
     signingConfigs {
         release

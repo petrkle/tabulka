@@ -14,3 +14,5 @@ app/src/main/assets/www
 locale
 app/*.log
 *~
+fastlane/README.md
+fastlane/report.xml
