@@ -5,6 +5,8 @@ help:
 	@echo "apk           - create apk file"
 	@echo "bundle        - create bundle"
 	@echo "tag           - add new tag"
+	@echo "fastlane      - nainstaluje fastlane"
+	@echo "release       - release do google play"
 	@echo "clean         - remove temporary files"
 
 apk:
@@ -18,3 +20,9 @@ tag:
 
 clean:
 	gradle clean
+
+fastlane:
+	bundle update
+
+release:
+	bundle exec fastlane deploy
