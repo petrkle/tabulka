@@ -21,11 +21,11 @@ android {
 
 android {
     namespace 'cz.kle.tabulka'
-    compileSdkVersion 33
+    compileSdkVersion 34
     defaultConfig {
         applicationId "cz.kle.tabulka"
         minSdkVersion 21
-        targetSdkVersion 33
+        targetSdkVersion 34
         versionCode gitVersionCode
         versionName "${gitVersionName}"
         setProperty("archivesBaseName", "Tabulka")
