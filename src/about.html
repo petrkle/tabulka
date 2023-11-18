@@ -2,20 +2,19 @@
 [% INCLUDE title.html %]
 
 <table id="mohs" cellspacing="0" cellpadding="0">
-	
 <tr>
-		<td class="lscell">[% l('Version') %]</td>
-		<td class="rscell">[% version %]</td>
+    <td class="lscell">[% l('Version') %]</td>
+    <td class="rscell">[% version %]</td>
 </tr>
 
 <tr>
-		<td class="lscell">[% l('Source code') %]</td>
-		<td class="rscell"><a href="https://github.com/petrkle/tabulka" target="_blank">github.com</a></td>
+    <td class="lscell">[% l('Source code') %]</td>
+    <td class="rscell"><a href="https://github.com/petrkle/tabulka" target="_blank">github.com</a></td>
 </tr>
 
 <tr>
-		<td class="lscell">[% l('Author') %]</td>
-		<td class="rscell"><a href="mailto:petr@kle.cz" target="_blank">petr@kle.cz</a></td>
+    <td class="lscell">[% l('Author') %]</td>
+    <td class="rscell"><a href="mailto:petr@kle.cz" target="_blank">petr@kle.cz</a></td>
 </tr>
 
 </table>
@@ -36,6 +35,12 @@ Jste-li spokojeným uživatelem, zvažte prosím finanční podporu.
 Příspěvek na další vývoj, opravy chyb a přidávání nových funkcí můžete poslat na účet: <b>1663602015/3030</b> se zprávou pro příjemce: "Chemická tabulka".
 </p>
 
+<h3><a href="https://kle.cz/chemicka-tabulka/zasady-ochrany-soukromi.html" style="text-decoration:underline;color:#00f;">Zásady ochrany soukromí</a></h3>
+
+<p class="text">Nejsou vyžadována žádná oprávnění.</p>
+<p class="text">Žádné datové přenosy.</p>
+<p class="text">Aplikace neshromažďuje ani nesdílí data o uživatelích.</p>
+
 [% END %]
 
 <h3>[% l('Settings') %]</h3>
@@ -44,17 +49,17 @@ Příspěvek na další vývoj, opravy chyb a přidávání nových funkcí mů�
 knoflik = document.getElementById('theme');
 
 if (localStorage.getItem('dark') != null) {
-	knoflik.value = '[% l('Bright mode') %]';
-	knoflik.onclick = function(event){
-		localStorage.removeItem('dark');
-		location.reload(true);
-	}
+  knoflik.value = '[% l('Bright mode') %]';
+  knoflik.onclick = function(event){
+    localStorage.removeItem('dark');
+    location.reload(true);
+  }
 }else{
-	knoflik.value = '[% l('Dark mode') %]';
-	knoflik.onclick = function(event){
-		localStorage.setItem('dark', 1);
-		location.reload(true);
-	}
+  knoflik.value = '[% l('Dark mode') %]';
+  knoflik.onclick = function(event){
+    localStorage.setItem('dark', 1);
+    location.reload(true);
+  }
 }
 </script>
 
