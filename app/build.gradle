@@ -21,11 +21,11 @@ android {
 
 android {
     namespace 'cz.kle.tabulka'
-    compileSdkVersion 34
+    compileSdkVersion 35
     defaultConfig {
         applicationId "cz.kle.tabulka"
-        minSdkVersion 21
-        targetSdkVersion 34
+        minSdkVersion 24
+        targetSdkVersion 35
         versionCode gitVersionCode
         versionName "${gitVersionName}"
         setProperty("archivesBaseName", "Tabulka")
@@ -43,7 +43,7 @@ android {
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'org.apache.cordova:framework:13.0.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
 }
 
