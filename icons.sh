@@ -12,6 +12,6 @@ icon[192]='xxxhdpi'
 
 for foo in "${!icon[@]}"
 do
-  convert -resize ${foo}x${foo} test-tube-circle.png ${RES}-${icon[$foo]}/ic_launcher.png
-  convert -resize ${foo}x${foo} test-tube-circle.png ${RES}-${icon[$foo]}/ic_launcher_round.png
+  magick test-tube-circle.png -resize ${foo}x${foo} ${RES}-${icon[$foo]}/ic_launcher.png
+  magick test-tube-circle.png -resize ${foo}x${foo} ${RES}-${icon[$foo]}/ic_launcher_round.png
 done
