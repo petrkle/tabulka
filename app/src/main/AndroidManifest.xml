@@ -29,7 +29,7 @@
   android:launchMode="singleTop"
   android:name="Tabulka"
   android:windowSoftInputMode="adjustResize"
-  android:theme="@style/Tabulka"
+  android:theme="@style/Theme.App.SplashScreen"
   android:exported="true"
 >
 
