@@ -20,7 +20,7 @@ android {
 }
 
 android {
-    namespace 'cz.kle.tabulka'
+    namespace = "cz.kle.tabulka"
     compileSdkVersion 35
     defaultConfig {
         applicationId "cz.kle.tabulka"
