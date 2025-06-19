@@ -21,11 +21,11 @@ android {
 
 android {
     namespace = "cz.kle.tabulka"
-    compileSdkVersion 35
+    compileSdkVersion 36
     defaultConfig {
         applicationId "cz.kle.tabulka"
         minSdkVersion 24
-        targetSdkVersion 35
+        targetSdkVersion 36
         versionCode gitVersionCode
         versionName "${gitVersionName}"
     }
